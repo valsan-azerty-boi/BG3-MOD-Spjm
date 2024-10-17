@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Backgrounds">
+        <node id="root">
+            <children>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="h8b2f4026g46d4ge64eg683cged54a26030c7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1b6195b5gc566g234fg308cg912df50b25f2" version="1"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="Passives" type="LSString" value="Background_Spjm_AstralDrifter;Background_Spjm_DivineContact"/>
+                    <attribute id="UUID" type="guid" value="2ca636f1-fde2-47c0-8934-59650047a9b5"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="70516ff9-b9e2-46f0-b91e-86511fe2af32"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="he9a2d11bga7f7gf42bg98d5ga03f231fe2b3" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h646f6661g2582gb6e1gcb86g5d5943e3dfd7" version="1"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="Passives" type="LSString" value="Background_Spjm_Wildspacer;Background_Spjm_WildspaceAdaptation"/>
+                    <attribute id="UUID" type="guid" value="05c0ef8b-93c5-4454-9165-c6dbaf3a6ced"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="dc32f05d-d427-48bb-888a-d5c92ab19c58"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

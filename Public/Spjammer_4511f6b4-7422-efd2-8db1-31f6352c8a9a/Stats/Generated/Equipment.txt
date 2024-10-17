@@ -1,0 +1,4 @@
+new equipment "Spjm_SpelljammerHelm_AsNpc"
+add equipmentgroup
+add equipment entry "OBJ_Spjm_SpelljammerHelm_CharForInteraction"
+

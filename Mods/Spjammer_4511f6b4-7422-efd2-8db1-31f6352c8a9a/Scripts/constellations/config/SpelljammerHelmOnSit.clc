@@ -1,0 +1,40 @@
+game.configs.SpelljammerHelmOnSit = Config{
+    params={
+        DC = {
+            type = EParamType.String,
+            help = [[The skill check DC.]],
+            required = false,
+            default = [[DC_Legacy_15_bddbb9b8-a242-4c3e-a2eb-3fd274c0c539]]
+        },
+        MinDistance = {
+            type = EParamType.Number,
+            help = [[]],
+            required = false,
+            default = 10
+        },
+        Skill = {
+            type = EParamType.String,
+            help = [[]],
+            required = false,
+            default = [[Arcana]]
+        },
+        Type = {
+            type = EParamType.String,
+            help = [[]],
+            required = false,
+            default = [[Interactable]]
+        },
+    },
+    root=StateRef{game.roots.DefaultTrap,
+        logic = StateRef{game.states.PressurePlate,
+            DestroyOnDisarm = false,
+            IsTrap = false,
+            MinDistance = 10,
+            Skill = [[Arcana]],
+            SoundOff = [[]],
+            SoundOn = [[]],
+            Type = params.Type,
+            WeightLimit = 10000,
+        },
+    }
+}

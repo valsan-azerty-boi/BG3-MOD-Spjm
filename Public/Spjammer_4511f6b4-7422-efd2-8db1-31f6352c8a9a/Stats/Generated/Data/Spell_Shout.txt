@@ -1,0 +1,6 @@
+new entry "Shout_Spjm_UseSpelljammerHelm_Dialog"
+type "SpellData"
+data "SpellType" "Shout"
+data "Level" "1"
+data "Cooldown" "None"
+

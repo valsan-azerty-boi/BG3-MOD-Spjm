@@ -1,0 +1,16 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+//REGION Astral Drifter
+//DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_Hyenas", 09dbb9c3-7c1c-4237-a129-583685280b94);
+
+//END_REGION Astral Drifter
+
+//REGION Wildspacer
+//DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_Hyenas", 107479a9-fb18-4c40-836e-3a9606e08db7);
+//END_REGION Wildspacer
+KBSECTION
+
+EXITSECTION
+
+ENDEXITSECTION

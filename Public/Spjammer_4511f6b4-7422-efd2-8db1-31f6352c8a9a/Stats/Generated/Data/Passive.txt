@@ -1,0 +1,26 @@
+new entry "Background_Spjm_AstralDrifter"
+type "PassiveData"
+data "DisplayName" "ha3004fcdged23g9562ge385gc8e437cbe741;1"
+data "Description" "he8b29522g64d7ge617g6a3bgb48e3cc8ce06;2"
+data "Boosts" "ProficiencyBonus(Skill,Insight);ProficiencyBonus(Skill,Religion)"
+
+new entry "Background_Spjm_Wildspacer"
+type "PassiveData"
+data "DisplayName" "h63ce5bd0g339fg02c9g73eegf034b061e892;1"
+data "Description" "h8c3ad9beg67f3gd301g2edbg4aa980a73bbc;2"
+data "Boosts" "ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Survival)"
+
+new entry "Background_Spjm_DivineContact"
+type "PassiveData"
+data "DisplayName" "h95400c63gfbc2g33d4gb7edg1474d5c7dcde;1"
+data "Description" "hb0afa464g5234ge051g9f73g148aebbb3cde;1"
+data "Icon" "statIcons_GaleGod"
+data "Properties" "Highlighted"
+
+new entry "Background_Spjm_WildspaceAdaptation"
+type "PassiveData"
+data "DisplayName" "h8b023e16g66ddg06bdg619ega47c53b1b8d9;1"
+data "Description" "h31555400g4792gb507gbb03g25e3fc3e8897;1"
+data "Icon" "PassiveFeature_WildMagicSurge"
+data "Properties" "Highlighted"
+

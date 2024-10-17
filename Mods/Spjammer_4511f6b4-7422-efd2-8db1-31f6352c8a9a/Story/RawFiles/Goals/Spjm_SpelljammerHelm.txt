@@ -1,0 +1,16 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, _)
+AND
+NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, (GUIDSTRING)_Player)
+THEN
+PROC_TryStartAD((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, (GUIDSTRING)_Player);
+
+// TODO
+EXITSECTION
+
+ENDEXITSECTION

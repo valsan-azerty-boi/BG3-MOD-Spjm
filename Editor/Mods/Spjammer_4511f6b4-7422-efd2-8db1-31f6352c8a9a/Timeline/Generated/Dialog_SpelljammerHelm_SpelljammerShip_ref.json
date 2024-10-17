@@ -1,0 +1,14 @@
+{
+  "Flags": {
+    "b20f4207-80f4-d2a0-d246-70e16bcb5892": [ ],
+    "4e9f4aef-da76-1557-a0a9-cceeead35ed1": [ ],
+    "953e5a5e-f4d3-2d4d-38a9-dd89bc5baea3": [ ],
+    "a18cb7cd-af87-803f-0b3b-2cc0d4beb001": [ ]
+  },
+  "Lines": {
+    "b20f4207-80f4-d2a0-d246-70e16bcb5892": "*Great Power surge from the Helm*",
+    "4e9f4aef-da76-1557-a0a9-cceeead35ed1": "*You are successfully syncing with the Helm*",
+    "953e5a5e-f4d3-2d4d-38a9-dd89bc5baea3": "*Your mind does not seem to reach the arcana of the Helm*",
+    "a18cb7cd-af87-803f-0b3b-2cc0d4beb001": "*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*"
+  }
+}
