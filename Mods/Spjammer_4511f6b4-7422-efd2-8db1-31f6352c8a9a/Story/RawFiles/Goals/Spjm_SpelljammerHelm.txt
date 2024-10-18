@@ -3,6 +3,8 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
+//REGION Spelljammer Helm on your ship
+
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, _)
 AND
@@ -10,7 +12,84 @@ NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip
 THEN
 PROC_TryStartAD((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, (GUIDSTRING)_Player);
 
-// TODO
+//END_REGION
+
+//REGION Move to City with Spelljammer Helm
+
+//IF
+//DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_City_b3c87251-3f09-490c-9a5a-28f787e60ed9)
+//AND
+//DB_Players(_Player)
+//AND
+//NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
+//THEN
+//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_CityTODOTODO, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+//ClearFlag((FLAG)SPJM_Spelljammer_Teleport_City_b3c87251-3f09-490c-9a5a-28f787e60ed9, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+//PROC
+//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)ReturnBoatCity, _)
+//THEN
+//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+
+
+//END_REGION
+
+//REGION Move to Dungeon 1 with Spelljammer Helm
+
+IF
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon1_c781cb1d-1a4e-4bba-945c-8946553d0e81)
+AND
+DB_Players(_Player)
+AND
+NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
+THEN
+AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_ReturnBoatPos_Dungeon1_3834feee-0dda-4a66-ae2b-aed39ae8c79b, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon1_c781cb1d-1a4e-4bba-945c-8946553d0e81, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)BLD_Ship_Xebec_Rowboat_A_Astral_Interaction_001_ebc541cb-3e44-4d7f-b08c-85b25b859ae0, _)
+THEN
+AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+
+//END_REGION
+
+//REGION Move to Dungeon 2 with Spelljammer Helm
+
+//IF
+//DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon2_308bef14-9b1e-4696-b0ec-91900830385c)
+//AND
+//DB_Players(_Player)
+//AND
+//NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
+//THEN
+//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Dungeon2TODOTODO, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+//ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon2_308bef14-9b1e-4696-b0ec-91900830385c, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+//PROC
+//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)ReturnBoatDungeon2TODOTODO, _)
+//THEN
+//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+
+//END_REGION
+
+//REGION Move to Dungeon 3 with Spelljammer Helm
+
+//IF
+//DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon3_8af022ba-c945-4422-8470-c5cda9b18ad6)
+//AND
+//DB_Players(_Player)
+//AND
+//NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
+//THEN
+//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Dungeon3TODOTODO, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+//ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon3_8af022ba-c945-4422-8470-c5cda9b18ad6, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+//PROC
+//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)ReturnBoatDungeon3TODOTODO, _)
+//THEN
+//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+
+//END_REGION
 EXITSECTION
 
 ENDEXITSECTION
