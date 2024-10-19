@@ -15,11 +15,15 @@
                      {
                         "MapKey" : {"type" : "int32", "value" : 1},
                         "MapValue" : {"type" : "int32", "value" : -1}
+                     },
+                     {
+                        "MapKey" : {"type" : "int32", "value" : 2},
+                        "MapValue" : {"type" : "int32", "value" : -1}
                      }
                   ]
                }
             ],
-            "DefaultSpeakerIndex" : {"type" : "int32", "value" : 1},
+            "DefaultSpeakerIndex" : {"type" : "int32", "value" : 0},
             "TimelineId" : {"type" : "FixedString", "value" : "2503b6d7-6492-ca06-5a16-4edb1c98bca7"},
             "UUID" : {"type" : "FixedString", "value" : "908ecdbb-e634-a1f4-d8ab-696f522ca3e5"},
             "category" : {"type" : "LSString", "value" : "Generic NPC Dialog"},
@@ -58,7 +62,7 @@
                                                 "TagText" : {
                                                    "handle" : "h144db08eg7c60g400bg8a54g1080e1f0064c",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 20
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -71,6 +75,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "1174591b-626a-7070-7c05-474a0ad61bf1"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagAnswer"},
@@ -192,7 +197,62 @@
                               ]
                            }
                         ],
-                        "speaker" : {"type" : "int32", "value" : 0}
+                        "speaker" : {"type" : "int32", "value" : 1}
+                     },
+                     {
+                        "NestedDialogNodeUUID" : {"type" : "guid", "value" : "827ba29c-b3b1-70ac-3e57-2231bc778d81"},
+                        "SpeakerLinking" : [
+                           {
+                              "SpeakerLinkingEntry" : [
+                                 {
+                                    "Key" : {"type" : "int32", "value" : 0},
+                                    "Value" : {"type" : "int32", "value" : 0}
+                                 }
+                              ]
+                           }
+                        ],
+                        "Tags" : [ {} ],
+                        "UUID" : {"type" : "FixedString", "value" : "13e0c1d8-9e0e-0aff-348b-c44b98d8d519"},
+                        "checkflags" : [ {} ],
+                        "children" : [ {} ],
+                        "constructor" : {"type" : "FixedString", "value" : "Nested Dialog"},
+                        "editorData" : [
+                           {
+                              "data" : [
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "ID"},
+                                    "val" : {"type" : "LSString", "value" : "N39"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "TemplateNodeUUID"},
+                                    "val" : {"type" : "LSString", "value" : "00000000-0000-0000-0000-000000000000"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "TemplateVersion"},
+                                    "val" : {"type" : "LSString", "value" : "0"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "collapsed"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "logicalname"},
+                                    "val" : {"type" : "LSString", "value" : "Nested Dialog"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "position"},
+                                    "val" : {"type" : "LSString", "value" : "1295;-423"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "sourcetemplate"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 }
+                              ]
+                           }
+                        ],
+                        "endnode" : {"type" : "bool", "value" : true},
+                        "setflags" : [ {} ],
+                        "suppresssubtitle" : {"type" : "bool", "value" : true}
                      },
                      {
                         "GameData" : [
@@ -222,7 +282,7 @@
                                                 "TagText" : {
                                                    "handle" : "h519db1f2gcf5eg654agff84g8315633dc6e2",
                                                    "type" : "TranslatedString",
-                                                   "version" : 13
+                                                   "version" : 29
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -240,6 +300,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [
                            {
                               "flaggroup" : [
@@ -247,7 +308,7 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "ce00b3b6-238e-4524-851b-3d1f2d2b1189"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : true}
                                        }
                                     ],"type" : {"type" : "FixedString", "value" : "Tag"}}
@@ -371,7 +432,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -401,7 +462,7 @@
                                                 "TagText" : {
                                                    "handle" : "h28a4adedg82fbg942dg15e0gf64e13f1bbb8",
                                                    "type" : "TranslatedString",
-                                                   "version" : 12
+                                                   "version" : 28
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -419,6 +480,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [
                            {
                               "flaggroup" : [
@@ -426,7 +488,7 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "dc32f05d-d427-48bb-888a-d5c92ab19c58"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : true}
                                        }
                                     ],"type" : {"type" : "FixedString", "value" : "Tag"}}
@@ -550,7 +612,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -579,7 +641,7 @@
                                                 "TagText" : {
                                                    "handle" : "h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 20
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -592,6 +654,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "370c534f-71a4-f1d9-58a7-56dde23b3649"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagAnswer"},
@@ -713,7 +776,7 @@
                               ]
                            }
                         ],
-                        "speaker" : {"type" : "int32", "value" : 0}
+                        "speaker" : {"type" : "int32", "value" : 1}
                      },
                      {
                         "GameData" : [
@@ -742,7 +805,7 @@
                                                 "TagText" : {
                                                    "handle" : "hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6",
                                                    "type" : "TranslatedString",
-                                                   "version" : 18
+                                                   "version" : 34
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -755,6 +818,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "4e9f4aef-da76-1557-a0a9-cceeead35ed1"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -885,7 +949,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 0}
+                        "speaker" : {"type" : "int32", "value" : 1}
                      },
                      {
                         "GameData" : [
@@ -915,7 +979,7 @@
                                                 "TagText" : {
                                                    "handle" : "h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6",
                                                    "type" : "TranslatedString",
-                                                   "version" : 26
+                                                   "version" : 42
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -933,6 +997,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [
                            {
                               "flaggroup" : [
@@ -940,7 +1005,7 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "6fe3ae27-dc6c-4fc9-9245-710c790c396c"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : true}
                                        }
                                     ],"type" : {"type" : "FixedString", "value" : "Tag"}}
@@ -1064,7 +1129,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -1094,7 +1159,7 @@
                                                 "TagText" : {
                                                    "handle" : "h81e4463fg3e3ag09eag1eebgd482ec4e6d4c",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 20
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1112,6 +1177,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -1230,7 +1296,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "Ability" : {"type" : "string", "value" : "Intelligence"},
@@ -1245,7 +1311,7 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
-                        "RollTargetSpeaker" : {"type" : "int32", "value" : 0},
+                        "RollTargetSpeaker" : {"type" : "int32", "value" : 1},
                         "RollType" : {"type" : "string", "value" : "SkillCheck"},
                         "ShowOnce" : {"type" : "bool", "value" : true},
                         "Skill" : {"type" : "string", "value" : "Arcana"},
@@ -1268,7 +1334,7 @@
                                                 "TagText" : {
                                                    "handle" : "ha36d4c14g305ag51e5gd769ge7bd6c94f8f5",
                                                    "type" : "TranslatedString",
-                                                   "version" : 23
+                                                   "version" : 39
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1286,6 +1352,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [
                            {
                               "flaggroup" : [
@@ -1293,32 +1360,32 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "18266c0b-efbc-4c80-8784-ada4a37218d7"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : false}
                                        },
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "5804f55a-93f7-4281-9512-8d548a9e2a22"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : false}
                                        },
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "6fe3ae27-dc6c-4fc9-9245-710c790c396c"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : false}
                                        },
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "70516ff9-b9e2-46f0-b91e-86511fe2af32"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : false}
                                        },
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "ce00b3b6-238e-4524-851b-3d1f2d2b1189"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : false}
                                        },
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "dc32f05d-d427-48bb-888a-d5c92ab19c58"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : false}
                                        }
                                     ],"type" : {"type" : "FixedString", "value" : "Tag"}}
@@ -1445,7 +1512,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1},
+                        "speaker" : {"type" : "int32", "value" : 0},
                         "transitionmode" : {"type" : "uint8", "value" : 2}
                      },
                      {
@@ -1476,7 +1543,7 @@
                                                 "TagText" : {
                                                    "handle" : "hc9b9579dg17b2gfe3fgeaf7g06d127739fd4",
                                                    "type" : "TranslatedString",
-                                                   "version" : 8
+                                                   "version" : 24
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1494,6 +1561,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -1612,7 +1680,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -1642,7 +1710,7 @@
                                                 "TagText" : {
                                                    "handle" : "h72b66549gb8d3g228bge7fag5424c1d99256",
                                                    "type" : "TranslatedString",
-                                                   "version" : 12
+                                                   "version" : 28
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1660,6 +1728,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [
                            {
                               "flaggroup" : [
@@ -1667,7 +1736,7 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "70516ff9-b9e2-46f0-b91e-86511fe2af32"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : true}
                                        }
                                     ],"type" : {"type" : "FixedString", "value" : "Tag"}}
@@ -1791,7 +1860,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -1821,7 +1890,7 @@
                                                 "TagText" : {
                                                    "handle" : "h67245286g2d4dg59a9gb243g6f17e279bcaf",
                                                    "type" : "TranslatedString",
-                                                   "version" : 26
+                                                   "version" : 42
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1839,6 +1908,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [
                            {
                               "flaggroup" : [
@@ -1846,7 +1916,7 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "5804f55a-93f7-4281-9512-8d548a9e2a22"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : true}
                                        }
                                     ],"type" : {"type" : "FixedString", "value" : "Tag"}}
@@ -1970,7 +2040,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -1999,7 +2069,7 @@
                                                 "TagText" : {
                                                    "handle" : "hb2f93f8bg03f9g4034ge65dg01e464bec409",
                                                    "type" : "TranslatedString",
-                                                   "version" : 21
+                                                   "version" : 37
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -2012,6 +2082,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "953e5a5e-f4d3-2d4d-38a9-dd89bc5baea3"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagAnswer"},
@@ -2123,7 +2194,7 @@
                         ],
                         "endnode" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 0}
+                        "speaker" : {"type" : "int32", "value" : 1}
                      },
                      {
                         "GameData" : [
@@ -2152,7 +2223,7 @@
                                                 "TagText" : {
                                                    "handle" : "h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 22
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -2165,6 +2236,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "a18cb7cd-af87-803f-0b3b-2cc0d4beb001"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagAnswer"},
@@ -2286,7 +2358,7 @@
                               ]
                            }
                         ],
-                        "speaker" : {"type" : "int32", "value" : 0}
+                        "speaker" : {"type" : "int32", "value" : 1}
                      },
                      {
                         "GameData" : [
@@ -2323,7 +2395,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6c2e53c1g5a25g4213g23a3ga3c673e387f7",
                                                    "type" : "TranslatedString",
-                                                   "version" : 29
+                                                   "version" : 45
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -2341,6 +2413,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagQuestion"},
@@ -2452,7 +2525,7 @@
                         ],
                         "endnode" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -2482,7 +2555,7 @@
                                                 "TagText" : {
                                                    "handle" : "h2324b195g9261g82cbg2042ge6c501c05ec8",
                                                    "type" : "TranslatedString",
-                                                   "version" : 56
+                                                   "version" : 72
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -2495,7 +2568,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "b20f4207-80f4-d2a0-d246-70e16bcb5892"},
-                        "addressedspeaker" : {"type" : "int32", "value" : 1},
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -2635,7 +2708,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 0}
+                        "speaker" : {"type" : "int32", "value" : 1}
                      },
                      {
                         "Success" : {"type" : "bool", "value" : false},
@@ -2716,7 +2789,7 @@
                                                 "TagText" : {
                                                    "handle" : "h13189f5fg3e2ag766ag7a63gab6bf8884575",
                                                    "type" : "TranslatedString",
-                                                   "version" : 30
+                                                   "version" : 46
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -2734,6 +2807,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [
                            {
                               "flaggroup" : [
@@ -2741,7 +2815,7 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "18266c0b-efbc-4c80-8784-ada4a37218d7"},
-                                          "paramval" : {"type" : "int32", "value" : 1},
+                                          "paramval" : {"type" : "int32", "value" : 0},
                                           "value" : {"type" : "bool", "value" : true}
                                        }
                                     ],"type" : {"type" : "FixedString", "value" : "Tag"}}
@@ -2865,7 +2939,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "Success" : {"type" : "bool", "value" : true},
@@ -2946,7 +3020,7 @@
                                                 "TagText" : {
                                                    "handle" : "h85f37d59gafddgd5e1gd3bdg3dd94405020d",
                                                    "type" : "TranslatedString",
-                                                   "version" : 70
+                                                   "version" : 86
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -2964,7 +3038,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
-                        "addressedspeaker" : {"type" : "int32", "value" : 0},
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagQuestion"},
@@ -3076,7 +3150,7 @@
                         ],
                         "endnode" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -3106,7 +3180,7 @@
                                                 "TagText" : {
                                                    "handle" : "ha2b032cdgee9ag53c9gca85gcf7f1e06d072",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 20
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -3124,6 +3198,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -3242,7 +3317,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -3272,7 +3347,7 @@
                                                 "TagText" : {
                                                    "handle" : "he2c61fd2g301agc03bgc9ffgb0236f34204b",
                                                    "type" : "TranslatedString",
-                                                   "version" : 9
+                                                   "version" : 25
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -3290,6 +3365,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -3408,7 +3484,7 @@
                            }
                         ],
                         "setflags" : [ {} ],
-                        "speaker" : {"type" : "int32", "value" : 1}
+                        "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
                         "GameData" : [
@@ -3437,7 +3513,7 @@
                                                 "TagText" : {
                                                    "handle" : "h744580e6g29b9ga8c0gc005gee1cf7f17461",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 20
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -3450,8 +3526,17 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "fa28e064-7d9b-6ad0-2ba5-3be347ea1cd8"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
-                        "children" : [ {} ],
+                        "children" : [
+                           {
+                              "child" : [
+                                 {
+                                    "UUID" : {"type" : "FixedString", "value" : "13e0c1d8-9e0e-0aff-348b-c44b98d8d519"}
+                                 }
+                              ]
+                           }
+                        ],
                         "constructor" : {"type" : "FixedString", "value" : "TagAnswer"},
                         "editorData" : [
                            {
@@ -3559,7 +3644,6 @@
                               ]
                            }
                         ],
-                        "endnode" : {"type" : "bool", "value" : true},
                         "setflags" : [
                            {
                               "flaggroup" : [
@@ -3571,7 +3655,7 @@
                               ]
                            }
                         ],
-                        "speaker" : {"type" : "int32", "value" : 0}
+                        "speaker" : {"type" : "int32", "value" : 1}
                      }
                   ]
                }
@@ -3580,14 +3664,14 @@
                {
                   "speaker" : [
                      {
-                        "SpeakerMappingId" : {"type" : "guid", "value" : "d1559940-a478-4554-951d-e16ba07cb06c"},
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "daf2c5be-91ad-44b9-9230-3e00e7a80e8d"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "3b6635b6-6261-4364-893d-ae5ea9af4b09"}
+                        "list" : {"type" : "LSString", "value" : "e0d1ff71-04a8-4340-ae64-9684d846eb83"}
                      },
                      {
-                        "SpeakerMappingId" : {"type" : "guid", "value" : "daf2c5be-91ad-44b9-9230-3e00e7a80e8d"},
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "d1559940-a478-4554-951d-e16ba07cb06c"},
                         "index" : {"type" : "FixedString", "value" : "1"},
-                        "list" : {"type" : "LSString", "value" : "e0d1ff71-04a8-4340-ae64-9684d846eb83"}
+                        "list" : {"type" : "LSString", "value" : "3b6635b6-6261-4364-893d-ae5ea9af4b09"}
                      }
                   ]
                }
@@ -3605,6 +3689,10 @@
                      {
                         "key" : {"type" : "FixedString", "value" : "1"},
                         "val" : {"type" : "LSString", "value" : "Neutral"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "2"},
+                        "val" : {"type" : "LSString", "value" : "Neutral"}
                      }
                   ]
                }
@@ -3618,6 +3706,10 @@
                      },
                      {
                         "key" : {"type" : "FixedString", "value" : "1"},
+                        "val" : {"type" : "LSString", "value" : "Neutral"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "2"},
                         "val" : {"type" : "LSString", "value" : "Neutral"}
                      }
                   ]
@@ -3633,6 +3725,10 @@
                      {
                         "key" : {"type" : "FixedString", "value" : "1"},
                         "val" : {"type" : "LSString", "value" : "True"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "2"},
+                        "val" : {"type" : "LSString", "value" : "True"}
                      }
                   ]
                }
@@ -3647,12 +3743,16 @@
                      {
                         "key" : {"type" : "FixedString", "value" : "1"},
                         "val" : {"type" : "LSString", "value" : "False"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "2"},
+                        "val" : {"type" : "LSString", "value" : "False"}
                      }
                   ]
                }
             ],
             "needLayout" : {"type" : "bool", "value" : false},
-            "nextNodeId" : {"type" : "uint32", "value" : 37},
+            "nextNodeId" : {"type" : "uint32", "value" : 39},
             "speakerSlotDescription" : [
                {
                   "data" : [
@@ -3662,6 +3762,10 @@
                      },
                      {
                         "key" : {"type" : "FixedString", "value" : "1"},
+                        "val" : {"type" : "LSString", "value" : ""}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "2"},
                         "val" : {"type" : "LSString", "value" : ""}
                      }
                   ]

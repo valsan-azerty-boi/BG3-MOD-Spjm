@@ -3,7 +3,7 @@
     <version major="4" minor="7" revision="1" build="3"/>
     <region id="TLScene">
         <node id="root">
-            <attribute id="Identifier" type="guid" value="b1e23049-280b-da55-0d6d-a6984d9a4e73"/>
+            <attribute id="Identifier" type="guid" value="03338c57-47b4-edfd-70d9-da7c047d3ea0"/>
             <attribute id="SceneBounds" type="fvec3">
                 <float3 x="1" y="0" z="2"/>
             </attribute>

@@ -13,7 +13,7 @@ IF
 DB_Players(_Player)
 THEN
 PROC_UnlockWaypointForAll("WAYP_SPJM_Spelljammer");
-//PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
+PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
 //PROC_UnlockWaypointForAll("WAYP_UND_Fort");
 //PROC_UnlockWaypointForAll("WAYP_HAG_Swamp");
 //PROC_UnlockWaypointForAll("WAYP_DEN_Camp");
