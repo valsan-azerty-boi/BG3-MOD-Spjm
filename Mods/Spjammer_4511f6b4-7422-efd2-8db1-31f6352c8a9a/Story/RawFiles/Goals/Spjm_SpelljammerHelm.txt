@@ -1,7 +1,7 @@
 Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
-
+//PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Spelljammer_MusicVolumeTrigger_8c62c437-e14d-4f59-beeb-481a113bb9f4);
 KBSECTION
 //REGION Spelljammer Helm on your ship
 
@@ -11,6 +11,7 @@ AND
 NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
 THEN
 PROC_TryStartAD((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09);
+//MusicPlayForPeer(_Player,"Music_Fight_PlayerDowned");
 
 //END_REGION
 
@@ -40,8 +41,6 @@ IF
 DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon1_c781cb1d-1a4e-4bba-945c-8946553d0e81)
 AND
 DB_Players(_Player)
-//AND
-//NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
 THEN
 TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_ReturnBoatPos_Dungeon1_3834feee-0dda-4a66-ae2b-aed39ae8c79b, "", 1, 1, 1, 1, 1);
 ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon1_c781cb1d-1a4e-4bba-945c-8946553d0e81, NULL_00000000-0000-0000-0000-000000000000, 1, 1);

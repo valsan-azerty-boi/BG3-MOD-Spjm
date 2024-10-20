@@ -5,7 +5,7 @@
         <node id="root">
             <attribute id="GameProject" type="LSString" value=""/>
             <attribute id="Module" type="LSString" value="4511f6b4-7422-efd2-8db1-31f6352c8a9a"/>
-            <attribute id="Name" type="LSString" value="Spjammer"/>
+            <attribute id="Name" type="LSString" value="FeaturesFromDnd5eSpelljammer"/>
             <attribute id="UUID" type="LSString" value="17d5c003-6964-1d33-d54d-edacc4c90d2c"/>
             <children>
                 <node id="Categories"/>

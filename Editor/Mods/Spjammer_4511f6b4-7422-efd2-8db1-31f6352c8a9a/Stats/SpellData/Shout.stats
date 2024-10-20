@@ -9,5 +9,28 @@
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c92355af-3dca-452e-bdbd-1d4b25aa1c28" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SpeljammerContract" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_MageHand" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_MageHand_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_MageHand_L1to3" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;605d49b4-03b9-47f6-96e9-7f80e6be7514,,;fbf20742-9dbf-475b-9ff5-42e4b08064ad,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IgnoreSilence;ImmediateCast;NoCooldownOnMiss" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="Requirements" type="StringTableFieldDefinition" value="!Combat" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="TutorialSummonBlockCheck()" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="518bc78f-c169-43ba-b951-977d75429199" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

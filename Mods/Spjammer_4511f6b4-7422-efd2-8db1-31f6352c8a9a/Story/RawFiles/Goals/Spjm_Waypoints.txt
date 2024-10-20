@@ -6,14 +6,53 @@ DB_WaypointInfo("Act1","WAYP_SPJM_Spelljammer",162fd1c1-2cf8-4914-b1eb-da52486c1
 DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon1",5f46ef47-2b8e-414d-b86f-1eb9bc861541,d45ac4fe-1da2-4686-bc6b-61594da25c67);
 //DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon2",id,id);
 //DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon3",id,id);
+
+PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226);
 KBSECTION
-//REGION Spelljammer Waypoints DEBUG
+//REGION Unlocking a Spelljammer
 
 IF
+CastSpell(_Spell, "Shout_Spjm_SpeljammerContract", _, _, _)
+AND
 DB_Players(_Player)
 THEN
 PROC_UnlockWaypointForAll("WAYP_SPJM_Spelljammer");
-PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
+SetFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9281d09, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226)
+AND
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9281d09)
+AND
+DB_Players(_Player)
+AND
+QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerShip_Discovery_1c4ca709-6fb4-149d-8eeb-8a4d2bdaa8a3, (GUIDSTRING)_Player)
+THEN
+ClearFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9281d09, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+//END_REGION
+
+//REGION Music on your ship
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226)
+AND
+DB_Players(_Player)
+THEN
+MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+//MusicPlayForPeer((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+//MusicPlayGeneral("CharacterCreation_Theme_Start");
+
+//END_REGION
+
+//REGION Spelljammer Waypoints DEBUG
+
+//IF
+//DB_Players(_Player)
+//THEN
+//PROC_UnlockWaypointForAll("WAYP_SPJM_Spelljammer");
+//PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
+//PROC_UnlockWaypointForAll("WAYP_PLA_ZhentDungeon");
 //PROC_UnlockWaypointForAll("WAYP_UND_Fort");
 //PROC_UnlockWaypointForAll("WAYP_HAG_Swamp");
 //PROC_UnlockWaypointForAll("WAYP_DEN_Camp");
@@ -22,7 +61,6 @@ PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
 //PROC_UnlockWaypointForAll("WAYP_PLA_Toll");
 //PROC_UnlockWaypointForAll("WAYP_GOB_Temple");
 //PROC_UnlockWaypointForAll("WAYP_PLA_Tavern");
-//PROC_UnlockWaypointForAll("WAYP_PLA_ZhentDungeon");
 //PROC_UnlockWaypointForAll("WAYP_FOR_Ruins");
 //PROC_UnlockWaypointForAll("WAYP_FOR_Bottomless");
 //PROC_UnlockWaypointForAll("WAYP_UND_Beach");
