@@ -2,14 +2,12 @@ Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
 DB_WaypointInfo("Act1","WAYP_SPJM_Spelljammer",162fd1c1-2cf8-4914-b1eb-da52486c1e5b,52d67b40-7152-4a7b-aeca-7f3af7fbea0c);
-//DB_WaypointInfo("Act1","WAYP_SPJM_AstralCity",id,id);
+DB_WaypointInfo("Act1","WAYP_SPJM_AstralCity",80548723-7cba-4484-aa2a-a3b0cc2384b2,fadd3446-ac26-40a8-a066-fe3fa863b9c3);
 DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon1",5f46ef47-2b8e-414d-b86f-1eb9bc861541,d45ac4fe-1da2-4686-bc6b-61594da25c67);
 //DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon2",id,id);
 //DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon3",id,id);
-
-PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226);
 KBSECTION
-//REGION Unlocking a Spelljammer
+//REGION SPJM Unlocking a Spelljammer
 
 IF
 CastSpell(_Spell, "Shout_Spjm_SpeljammerContract", _, _, _)
@@ -32,43 +30,22 @@ ClearFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9
 
 //END_REGION
 
-//REGION Music on your ship
-
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
-//MusicPlayForPeer((CHARACTER)_Player, "CharacterCreation_Theme_Start");
-//MusicPlayGeneral("CharacterCreation_Theme_Start");
-
-//END_REGION
-
-//REGION Spelljammer Waypoints DEBUG
+//REGION SPJM Spelljammer Waypoints DEBUG
 
 //IF
 //DB_Players(_Player)
 //THEN
 //PROC_UnlockWaypointForAll("WAYP_SPJM_Spelljammer");
+//PROC_UnlockWaypointForAll("WAYP_SPJM_AstralCity");
 //PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
+//PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon2");
+//PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon3");
 //PROC_UnlockWaypointForAll("WAYP_PLA_ZhentDungeon");
 //PROC_UnlockWaypointForAll("WAYP_UND_Fort");
 //PROC_UnlockWaypointForAll("WAYP_HAG_Swamp");
 //PROC_UnlockWaypointForAll("WAYP_DEN_Camp");
 //PROC_UnlockWaypointForAll("WAYP_CHA_Top");
 //PROC_UnlockWaypointForAll("WAYP_CHA_Chapel");
-//PROC_UnlockWaypointForAll("WAYP_PLA_Toll");
-//PROC_UnlockWaypointForAll("WAYP_GOB_Temple");
-//PROC_UnlockWaypointForAll("WAYP_PLA_Tavern");
-//PROC_UnlockWaypointForAll("WAYP_FOR_Ruins");
-//PROC_UnlockWaypointForAll("WAYP_FOR_Bottomless");
-//PROC_UnlockWaypointForAll("WAYP_UND_Beach");
-//PROC_UnlockWaypointForAll("WAYP_UND_Duergar");
-//PROC_UnlockWaypointForAll("WAYP_UND_Sussur");
-//PROC_UnlockWaypointForAll("WAYP_UND_Myconid");
-//PROC_UnlockWaypointForAll("WAYP_UND_Fort");
-//PROC_UnlockWaypointForAll("WAYP_UND_AdamantineForge");
 
 //END_REGION
 EXITSECTION

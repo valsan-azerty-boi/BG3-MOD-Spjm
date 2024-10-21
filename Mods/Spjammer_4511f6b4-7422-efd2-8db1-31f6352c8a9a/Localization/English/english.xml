@@ -18,12 +18,13 @@
   <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
   <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
   <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
-  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="1">Spelljammer</content>
+  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="3">Spelljammer</content>
   <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="18">Spelljammer Helm</content>
   <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="17">Spelljammer Helm</content>
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="5">Spelljammer Helm</content>
-  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="5">Spelljammer circle</content>
-  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="17">Astral circle</content>
+  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="8">Astral circle</content>
+  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="18">Astral circle</content>
+  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="5">Astral circle</content>
   <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Astral Dungeon 1</content>
   <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
   <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
@@ -37,7 +38,7 @@
   <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="74">*Great Power surge from the Helm*</content>
   <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="48">*Use your innate powers to tame the Helm*</content>
   <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="47">*Cut the connection*</content>
-  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="1">Lost way</content>
+  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="3">Spacecrafter Inn</content>
   <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="44">*Channels the arcane flow of the Helm*</content>
   <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="44">*Bend the Helm to your will*</content>
   <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="41">*Try to understand the magic emanating from the Helm*</content>
@@ -55,17 +56,18 @@
   <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="22">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="22">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="3">Astral boat</content>
-  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="8">Astral boat</content>
+  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="9">Astral boat</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
-  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="2">Eye Monger</content>
+  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="4">Eye Monger</content>
   <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="5">*You gain your own Spelljammer*</content>
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
-  <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">An title deed from the Astral Plane</content>
-  <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
-  <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
+  <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
   <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="3">A title deed from space</content>
-  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="3">Activate</content>
-  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="3">This contract is unread.</content>
+  <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
   <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="3">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="3">This contract is unread.</content>
+  <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="3">Activate</content>
+  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="1">The Lower Rock</content>
 </contentList>

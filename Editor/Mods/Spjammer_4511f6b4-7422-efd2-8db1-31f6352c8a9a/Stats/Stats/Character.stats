@@ -53,7 +53,7 @@
         <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:2;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="484393d9-eb7b-4b3b-b69b-5fdbfa940403" />
         <field name="Weight" type="FloatTableFieldDefinition" value="200" />
-        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="Skill(Perception,6);ProficiencyBonus(Skill,Athletics);BlockRegainHP(Undead;Construct);UnlockSpell(Target_Fly);UnlockSpell(Shout_Hide)" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="Skill(Perception,6);ProficiencyBonus(Skill,Athletics);BlockRegainHP(Undead;Construct);UnlockSpell(Target_Fly);UnlockSpell(Shout_Hide);UnlockSpell(Target_Jump)" />
         <field name="DarkvisionRange" type="StringTableFieldDefinition" value="20" />
         <field name="ExtraProperties" type="StringTableFieldDefinition" value="ApplyStatus(HIDE_IN_PLAIN_SIGHT,100,-1) " />
       </fields>
@@ -63,7 +63,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="eaa2a993-35cf-4f7c-9a1f-5196ae4d5afd" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_EyeMonger_Little_TemplateStats" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="049fc6ab-9065-4e76-b608-a6183bf2176e" />
-        <field name="Strength" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="16" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="16" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="52" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
@@ -72,6 +72,10 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="80" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:1;Movement:9;ReactionActionPoint:1" />
         <field name="DarkvisionRange" type="StringTableFieldDefinition" value="16" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="7" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="11" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="5" />
       </fields>
     </stat_object>
   </stat_objects>

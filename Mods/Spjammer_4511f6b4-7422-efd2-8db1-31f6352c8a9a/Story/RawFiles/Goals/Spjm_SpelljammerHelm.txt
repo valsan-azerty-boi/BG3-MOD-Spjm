@@ -1,9 +1,9 @@
 Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
-//PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Spelljammer_MusicVolumeTrigger_8c62c437-e14d-4f59-beeb-481a113bb9f4);
+
 KBSECTION
-//REGION Spelljammer Helm on your ship
+//REGION SPJM Spelljammer Helm on your ship
 
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, _)
@@ -11,31 +11,39 @@ AND
 NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
 THEN
 PROC_TryStartAD((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)_Player, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09);
-//MusicPlayForPeer(_Player,"Music_Fight_PlayerDowned");
 
 //END_REGION
 
-//REGION Move to City with Spelljammer Helm
+//REGION Move to SPJM City with Spelljammer Helm
 
-//IF
-//DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_City_b3c87251-3f09-490c-9a5a-28f787e60ed9)
-//AND
-//DB_Players(_Player)
-//AND
-//NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
-//THEN
-//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_CityTODOTODO, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
-//ClearFlag((FLAG)SPJM_Spelljammer_Teleport_City_b3c87251-3f09-490c-9a5a-28f787e60ed9, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
-
-//PROC
-//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)ReturnBoatCity, _)
-//THEN
-//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
-
+IF
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_City_b3c87251-3f09-490c-9a5a-28f787e60ed9)
+AND
+DB_Players(_Player)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_ReturnBoatPos_AstralCity_40b97358-287d-4c9a-b4d4-cfec5c075c64, "", 1, 1, 1, 1, 1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_City_b3c87251-3f09-490c-9a5a-28f787e60ed9, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+SetVisible((GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, 1);
+SetVisible((GUIDSTRING)BLD_Ship_Xebec_Rowboat_A_Astral_Interaction_AstralCity_b162988c-68c4-4e68-aae5-dfa5495620ce, 1);
+SetVisible((GUIDSTRING)_Player, 1);
 
 //END_REGION
 
-//REGION Move to Dungeon 1 with Spelljammer Helm
+//REGION Leave SPJM City with boat/rope
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)BLD_Ship_Xebec_Rowboat_A_Astral_Interaction_AstralCity_b162988c-68c4-4e68-aae5-dfa5495620ce, _)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)TOOL_Ladder_Fishnet_10H_A_001_7144b3d8-9e7d-4165-ab94-5419a45b2e5b, _)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+//END_REGION
+
+//REGION Move to SPJM Dungeon 1 with Spelljammer Helm
 
 IF
 DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon1_c781cb1d-1a4e-4bba-945c-8946553d0e81)
@@ -58,7 +66,7 @@ SetVisible((GUIDSTRING)_Player, 1);
 
 //END_REGION
 
-//REGION Leave Dungeon 1 with boat
+//REGION Leave SPJM Dungeon 1 with boat
 
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)BLD_Ship_Xebec_Rowboat_A_Astral_Interaction_001_ebc541cb-3e44-4d7f-b08c-85b25b859ae0, _)
@@ -67,41 +75,27 @@ TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b
 
 //END_REGION
 
-//REGION Move to Dungeon 2 with Spelljammer Helm
+//REGION Move to SPJM Dungeon 2 with Spelljammer Helm
 
-//IF
-//DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon2_308bef14-9b1e-4696-b0ec-91900830385c)
-//AND
-//DB_Players(_Player)
-//AND
-//NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
-//THEN
-//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Dungeon2TODOTODO, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
-//ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon2_308bef14-9b1e-4696-b0ec-91900830385c, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
-
-//PROC
-//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)ReturnBoatDungeon2TODOTODO, _)
-//THEN
-//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+//SPJM_Spelljammer_Teleport_Dungeon2_308bef14-9b1e-4696-b0ec-91900830385c
 
 //END_REGION
 
-//REGION Move to Dungeon 3 with Spelljammer Helm
+//REGION Leave SPJM Dungeon 2 with boat
 
-//IF
-//DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon3_8af022ba-c945-4422-8470-c5cda9b18ad6)
-//AND
-//DB_Players(_Player)
-//AND
-//NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerHelm_SpelljammerShip_b48bedf4-41c7-c81e-e540-8b1699d50f0a, (GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09)
-//THEN
-//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Dungeon3TODOTODO, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
-//ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon3_8af022ba-c945-4422-8470-c5cda9b18ad6, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+//
 
-//PROC
-//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)ReturnBoatDungeon3TODOTODO, _)
-//THEN
-//AppearAt((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, 0, (ANIMATION)UTIL_Spawn_01_510ff37e-0618-40e4-8ce0-236e3dc9c291, "", 1);
+//END_REGION
+
+//REGION Move to SPJM Dungeon 3 with Spelljammer Helm
+
+//SPJM_Spelljammer_Teleport_Dungeon3_8af022ba-c945-4422-8470-c5cda9b18ad6
+
+//END_REGION
+
+//REGION Leave SPJM Dungeon 3 with boat
+
+//
 
 //END_REGION
 EXITSECTION
