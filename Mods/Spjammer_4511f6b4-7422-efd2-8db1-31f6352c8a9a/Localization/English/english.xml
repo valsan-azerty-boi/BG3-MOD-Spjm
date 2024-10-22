@@ -24,7 +24,7 @@
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="5">Spelljammer Helm</content>
   <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="8">Astral circle</content>
   <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="18">Astral circle</content>
-  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="5">Astral circle</content>
+  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="6">Astral circle</content>
   <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Astral Dungeon 1</content>
   <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
   <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
@@ -70,4 +70,178 @@
   <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
   <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="3">Activate</content>
   <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="1">The Lower Rock</content>
+  <content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">Secrets of the Sundering</content>
+  <content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">Unlock and read the Book of Dead Gods.</content>
+  <content contentuid="hf8439975g2c8eg466fg82c6g43b05ea6356f" version="3">Roots of the Grove</content>
+  <content contentuid="hc2e79a7agf628g435dg80c3g50f58009bc12" version="3">Learn local history from the druidic frescos.</content>
+  <content contentuid="hd43315a3gf3e2g4776g8b94gbe232e5c223a" version="3">Secrets of the Necromancer</content>
+  <content contentuid="h06e4a94egbfc8g4a21gb0dfg30a55742290b" version="3">Discover the strange nature of the Thayan tome.</content>
+  <content contentuid="h7a83550egacd1g4b6bgac02g49b17454f5ab" version="3">All Knowledge Is Worth Having</content>
+  <content contentuid="h8f2c8c08g6c74g47a8ga09fgd692d0dfe73b" version="3">Finish reading the Thayan tome of necromancy.</content>
+  <content contentuid="hbf66724bg124fg4b45g80b0g34325a3c7261" version="3">Secrets of the Shadow Druids</content>
+  <content contentuid="h9c5cddc0gec3fg4f86g992fg2f823c107ed1" version="3">Discover and read Faldorn's Canticle.</content>
+  <content contentuid="h2cedaa7agdce8g43a8ga186g43b3d8306c7c" version="3">A Solitary Spider</content>
+  <content contentuid="he9d4c4c7g157dg437dg94f7ga4cfa9d22eab" version="3">Read the arachnomancer's journals at the bottom of the well.</content>
+  <content contentuid="h6d2b2de7g55fdg4587ga612ga4535aa9538d" version="3">Secrets of the Sussur Tree</content>
+  <content contentuid="hb02fbbb4ge947g47b5gb22eg0aafc2c0b90c" version="5">Disable an arcane turret using a sussur flower.</content>
+  <content contentuid="ha4ad29fegcee7g4f42g8fe1g7b92b2d6d601" version="3">Secrets of the High Chieftain</content>
+  <content contentuid="h5e25ce80g994cg4a9eg8c77g5738c6fa4e22" version="3">Read Volo's Guide to Goblins.</content>
+  <content contentuid="h94fe3ed9g3e9bg48dcga2e9gb01b107ea9bf" version="5">The Forbidden Arcane</content>
+  <content contentuid="h9d805b18g45c0g4573gb2d1g62b86b5b4f3f" version="5">Read Omeluum's notes on illithid magic.</content>
+  <content contentuid="h8c9ad3c6g8f74g4f2aga002g8797ccd02365" version="4">Secrets of the Matron</content>
+  <content contentuid="h334e7c85g7a77g469dgab03g75eca4d3e331" version="4">Read the obscure text by a drow matron.</content>
+  <content contentuid="h5b157610g153eg4f2fgaa56g47f541bca411" version="4">The Phases Unfold</content>
+  <content contentuid="h70b24a78g864ag40efga97dg2ed04343915b" version="4">Solve the moon puzzle sealing the door to the Underdark.</content>
+  <content contentuid="h7a2534b6gb9fdg4c64g9a42g8f0253afe88e" version="4">A Natural Alliance</content>
+  <content contentuid="h704d0902gc7adg40ddg9998g197e471c7934" version="4">Recognise the druid and Harper armour.</content>
+  <content contentuid="h5354aec2g8321g46aag864fg4966ed9e8c11" version="4">If I Can't Have It...</content>
+  <content contentuid="hc43327e6gcdc7g448fga893g8a2e2b4c26c4" version="4">Discover the secrets of the Adamantine Forge from all three drow wizards.</content>
+  <content contentuid="hfdb26f61g4b14g47a9gb647g677f44b57420" version="3">A Grand Prize!</content>
+  <content contentuid="hc1be21f7g401eg4a04gb4d1g6950963eeb80" version="4">Figure out Akabi's scheme and obtain the 'grand' prize.</content>
+  <content contentuid="h2ee361dag8ca4g4b88gbe93g7fa423652a3a" version="3">A Foul and Awesome Display</content>
+  <content contentuid="hc90bc9c8g1592g46edg9b98gc414f4e72da8" version="4">Use Wulbren's runepowder bomb.</content>
+  <content contentuid="hed09c0a2gdba2g41fbga892g85975ae49cb8" version="3">New Normal</content>
+  <content contentuid="h625f1926g193bg423bg8075gdf8779962688" version="4">Let yourself be scanned by a Steel Watcher.</content>
+  <content contentuid="hfd704366g9e56g4ce4ga675ge501d674372b" version="3">Assistant to the Extra-Planar Agent</content>
+  <content contentuid="h4432e8a8g8793g4cabg9220gf7e36d577a8a" version="4">Take up Valeria's serial killer investigation.</content>
+  <content contentuid="h54e51855g0dfcg457dg8667gb99a8a506e54" version="3">Knowledge of the Heart</content>
+  <content contentuid="h4a43f927g63cdg4783g9194g6344fb379b9f" version="5">Get a fresh perspective on your relationship with a companion. </content>
+  <content contentuid="hb56ce361g81f2g414bgbd90g8be498bcd372" version="3">Coronation of the Dreadmaster</content>
+  <content contentuid="hae22c0c1ge474g4a09gb000ga0f6c7b093b8" version="4">Meet Gortash in Wyrm's Rock and witness his coronation.</content>
+  <content contentuid="he344e573g0bceg47d5ga25agab6320707e71" version="3">Heavy is the Head</content>
+  <content contentuid="hba512b87g983dg44dag9e5egafec4700dadb" version="4">Find the Helm of Balduran.</content>
+  <content contentuid="he17743c0g5b4fg4c05g866ag7e49f076413c" version="3">Rennaissant Ingenuity</content>
+  <content contentuid="h53ea46dag03e4g49c3g9b4agd2d9c458420e" version="4">Uncover the machinery powering the printing press.</content>
+  <content contentuid="hb697b04fg4301g4886g8e8cg3c4f8faf02b4" version="3">Blood of the Covenant</content>
+  <content contentuid="h3ca423c0g1634g46fag9b45gf8c192562cd2" version="4">Found out how Araj's blood experiments are going.</content>
+  <content contentuid="h01d72ccdg237eg4c57gb8edg485ccfccb252" version="3">Membership Admittance</content>
+  <content contentuid="hf4476f23g1e0eg4caagbe98g9e936a353049" version="4">Ask to join the Society of Brilliance.</content>
+  <content contentuid="hb041d8c3g61fbg445cgbd03gac67b307e449" version="4">Crossing's Namesake</content>
+  <content contentuid="h578da016gad63g4a13g9678gafa4e5f5a22c" version="6">Discover the undying sentinel underneath Wyrm's Crossing.</content>
+  <content contentuid="h3e1c476dge57fg4663gab99gf386fb40f3f9" version="3">An Exotic Charter</content>
+  <content contentuid="h381da951gca75g4beagabf5g60fc3861474a" version="4">Obtain access to the House of Hope portal.</content>
+  <content contentuid="h8cfb4bcfg92b8g4104ga0cfg09c56256c857" version="3">The Returned Cap'n</content>
+  <content contentuid="h4bcb3b26g01a7g43d4g9502g15d3c4b917df" version="5">Behold the true Captain Grisly in all her piratical glory. </content>
+  <content contentuid="ha3bd7452g5adfg481fg9354g7246e20d98e5" version="3">Using the Proper Means</content>
+  <content contentuid="h53f29371g6e2ag4c1bg803bg19bfbfbda6ed" version="4">Find and use the Torch of Revocation.</content>
+  <content contentuid="h7631bcfdge554g4496gaa63gfd484db29ab5" version="3">The Karsus of Our Times</content>
+  <content contentuid="h86ad0c26g0687g4d6aga6b0g02d19d03c2c7" version="4">Give Nightsong to Lorroakan.</content>
+  <content contentuid="hb0522659gf0a3g4ff0gbdedgd13418cd9ffb" version="3">Stopping the Repetition of History</content>
+  <content contentuid="hea472a44g2602g4955g881dgc183051932ee" version="4">Defeat Lorroakan.</content>
+  <content contentuid="h032498c5g29acg4a00g858fg8f3fbf3ce26c" version="3">The Apprentice Turns Master</content>
+  <content contentuid="ha9b5615dgd72dg47b0ga330g8210b815a7fb" version="3">Craft Nettie's antidote in the cauldron.</content>
+  <content contentuid="he6d8f9d3gc270g486cgbd26g43d1d5825255" version="3">Regeneration</content>
+  <content contentuid="hff32b65bga95dg4c3bgbbccg3f2e1e8b8fb9" version="3">Restore power to the elevator in the Arcane Tower.</content>
+  <content contentuid="h2c83256fgad6fg4eb4gb2dcgdbc94e263800" version="4">The Finest Ingredients</content>
+  <content contentuid="h74a4fe4dgab32g4bddg9ff1gb3b259c07506" version="4">Create a masterwork item from sussur bark.</content>
+  <content contentuid="h3eee7267gb9deg47f7g9924gd94d4efb30ac" version="3">Mind Over Mushrooms</content>
+  <content contentuid="h4f69abd4g861bg452dg8c4agc2a8213ab847" version="3">Gather ingredients for Omeluum's potion.</content>
+  <content contentuid="hf95f9333g271eg4d1cga061g494096c308f4" version="3">An Artist in Need</content>
+  <content contentuid="h553eb4dfg2d6fg4ac3g9e49gcfa5bd7f2016" version="3">Rescue Oskar the painter from the Zhentarim.</content>
+  <content contentuid="hea64bb2cg5693g4b97g96e2g6d2b5b2f2768" version="3">A New Vision</content>
+  <content contentuid="h4ddf06fbgc132g4530gb3c7g0fcc85949cb4" version="3">Reforge the broken spear.</content>
+  <content contentuid="ha4655c08g7db3g4256gb82cg28d83c916bcf" version="3">In Working Order</content>
+  <content contentuid="hc5f03b70g3605g454dg87d5gff8e8e358ae3" version="3">Repair the elevator in the Zhentarim hideout.</content>
+  <content contentuid="h7af0560bg8059g4138g95d6g00f473023303" version="4">An Acquired Taste</content>
+  <content contentuid="h47412cc4g1884g4d31ga6b8gb51345962895" version="4">Drink one of Auntie Ethel's unique potions.</content>
+  <content contentuid="hdadf31aegc85bg481fgbff3g3d82eba69588" version="4">The Spider's Gift</content>
+  <content contentuid="hf19c4948ga8c4g4cb5g94a4gd6d0f2b72b3b" version="4">Identify the drow armour near Waukeen's Rest.</content>
+  <content contentuid="h953a343dgac88g4cafgb986g7c8804ab924d" version="3">Expert Opinion</content>
+  <content contentuid="h7ad537c9g3bdbg4ba5g9e98g0a0b23cdca91" version="3">Evaluate the ruins in Grymforge and share your findings with the duergar mason.</content>
+  <content contentuid="h545b1456g5decg4b5cgac6eg9fd25c2d1ab8" version="4">Trash &amp; Treasure</content>
+  <content contentuid="h9388c073g568fg4bfbgb0a6g1017d5739fa2" version="4">Observe the effects of the Chest of the Mundane.</content>
+  <content contentuid="h0f2f21cdg45f2g43e7gb1f3gbc830555064d" version="5">Art Endures</content>
+  <content contentuid="h7e6d1eb4g341dg4c7dgb2d4g6454d9fa5951" version="4">Craft something in the Adamantine Forge.</content>
+  <content contentuid="h5297f53bgfeceg4f6egae75g9a40cc74a1f5" version="3">Trust and a Little Pixie Dust</content>
+  <content contentuid="hb2923733gbf5ag4aacg8269g3ef2febdecb6" version="5">Investigate the Moonlantern and find its power source.</content>
+  <content contentuid="h71eefe34gf120g417bg9e15g2ec60aa3bea5" version="3">Dark Machinations</content>
+  <content contentuid="h9498ab9agcceeg4eb8g974eg23ffd93ff067" version="6">Fill all sockets with Sharran gems in the Gauntlet of Shar.</content>
+  <content contentuid="hd435f057g5447g4cf2ga8c3gec264b836802" version="3">Tragedy in Masonry</content>
+  <content contentuid="h4be3353ag7f3fg4953g842agca49c8828d73" version="4">Discover the fate of the mason.</content>
+  <content contentuid="h734ca831g3932g49aag813agcf93bbede281" version="3">Inhumane Trials</content>
+  <content contentuid="h0b67f66agcdb8g4adegac29gd9e744fe6036" version="7">Witness a horrid operation in the cursed house of healing.</content>
+  <content contentuid="h7e80c1eeg0aa0g4611g96beg3d39691bf932" version="3">Special Iced Arsenic... Brew?</content>
+  <content contentuid="hb491b417g6c9fg46c8g9371gfda87e2373de" version="6">Craft some Brewed-Up Bellyglummer.</content>
+  <content contentuid="hd70c1e67g182dg4c1dg94b3g61596c87f422" version="5">Safety-Averse Quaffing </content>
+  <content contentuid="h14813b8cg9aedg46d3g9f0cgf4e116c03d03" version="4">Drink at least 1 of the brewer's steins.</content>
+  <content contentuid="hfad3bca2g2e17g4e85gafe6g76e87c0ebdc6" version="3">Confiscated Works</content>
+  <content contentuid="h7d6fc4c9g2a27g4257g9232gfa398d287c3c" version="6">Acquire a magical item from the toll collector's confiscation chest.</content>
+  <content contentuid="h665dcc91gd30eg4c16g9ba9ga5db1e0ef44f" version="3">Simple Tools, Great Works</content>
+  <content contentuid="h9a26f1f0geebcg4010g9ca9gfe07d44278c3" version="4">Return Wulbren's tools to him.</content>
+  <content contentuid="h1cca3cf0ga28ag41fcgbf58gaf0e9f867174" version="3">Ruthless Craftsmanship</content>
+  <content contentuid="h9c2ed06dg90f4g46bfg99c7g75a64ec44d40" version="4">Take Shar's ceremonial dagger.</content>
+  <content contentuid="h43691a8agc132g4cebg9349g12b2d49c15de" version="3">Made of Shadows</content>
+  <content contentuid="h1a9fd819g52c8g4e6ag9a58geb6425f4636e" version="5">Unlock and take the Spear of Rampant Night.</content>
+  <content contentuid="h976dfba9gf55eg4a8bgb68bg9b748c3479e3" version="4">In the Palm of My Hand</content>
+  <content contentuid="h7c132c23g0c1ag44d8gb1c9gcb1909a23b96" version="4">Acquire the Brilliant Retort from Barcus.</content>
+  <content contentuid="hc576c904g6354g4368g8e2eg77b33f2f0ca6" version="3">Hellish Armaments</content>
+  <content contentuid="hacd39bb6g57b6g4771ga7bfg65aed6bbbb5a" version="4">Obtain a piece of infernal equipment from Dammon.</content>
+  <content contentuid="h41f70f78g20d0g416dga874g26d6d18acf57" version="3">Mating Season</content>
+  <content contentuid="hd7c5bc84g8990g4a5bg843agac0c90c84216" version="4">Discover the source of the displacer beast's infatuation.</content>
+  <content contentuid="h6e404ac4gac43g4fc5gb9f1gfc00a288dd14" version="4">Blood, Sweat, and the Other Thing</content>
+  <content contentuid="h8f92f232gc652g4c6agadecg4c852e389019" version="4">Give your blood to Araj Oblodra.</content>
+  <content contentuid="h04ceef3dg4ebdg4912g92aagcd59b3f2a8a5" version="3">Macabre Enigma</content>
+  <content contentuid="h55bc09a1g128ag4f70g8606g6265ab591e97" version="4">Piece the corpse of Dribbles back together.</content>
+  <content contentuid="he2a1558bg2ac5g415egb035g71935142cd57" version="3">Encouraging Local Artists</content>
+  <content contentuid="h04f44b8dg3df9g4787g9455g2f7d5c2d3d35" version="4">Commission a statue of yourself.</content>
+  <content contentuid="hd8b38dc5g1b34g4428ga8acga1b967093dd9" version="3">Immoral Ingenuity</content>
+  <content contentuid="h71fefddbgb0d7g48b6gac0cg16f4b521a716" version="4">Discover the booby-trapped toys.</content>
+  <content contentuid="h74683fdcg196dg4038gb5a2g208c58bb1530" version="3">Dream Big</content>
+  <content contentuid="h66b1471dgb7b2g4187g9aa1g7d32ecaa62b4" version="4">Describe your perfect weapon to Gyldro Angleiron.</content>
+  <content contentuid="h95c51454gdf0cg4402gb959g0525f0d7b392" version="3">Alternative Vocations</content>
+  <content contentuid="ha881482ag163ag4f1cga03cg86c0e18c1044" version="4">Partake in the lurid services of Sharess' Caress.</content>
+  <content contentuid="h97da8875g679eg4ae4g8c93gb1ae5ff6fce6" version="3">Free Advertisement</content>
+  <content contentuid="hbb4edcddg0e00g4550gbd63g3bd017f51bfe" version="4">Complete the interview with Lens.</content>
+  <content contentuid="hd5fe7969g9ffdg48deg873fg6bf0c9d3c6aa" version="3">Following the Instructions</content>
+  <content contentuid="h0841a2a1g8b21g4dc9g842eg80d681911946" version="4">Return the Sentient Amulet to Shirra.</content>
+  <content contentuid="hf6162126g0b31g4df0g8b91g283e73e8ee24" version="3">The Art of Destruction</content>
+  <content contentuid="h9a666424g3b69g47a6gb29bg01aa2c6aaf13" version="4">Use the runepowder bomb to destroy the Steel Watch Foundry.</content>
+  <content contentuid="h1324606eg56b2g46b5gbd9bgde21faaa2738" version="3">Putting the Pen to Paper</content>
+  <content contentuid="h8eba6885g2511g4367gad18g17324b00f0eb" version="5">Discover the inner workings of the Baldur's Mouth printing press.</content>
+  <content contentuid="hdcb0efb0g2c8fg4c64g826bg32bd2aacd129" version="3">Sanguine Progress</content>
+  <content contentuid="h5dd53711g19deg431bg9ab3g42cfae1e4dfc" version="4">Find out what happened to Araj and her blood experiment.</content>
+  <content contentuid="h8fa57ab8gf4f9g4cdega720g040038ab7030" version="3">These Belong in a Museum!</content>
+  <content contentuid="h3abece90g324fg4166g93cdgae1e2d4ce0fa" version="5">Open any of the special vaults in the Counting House.</content>
+  <content contentuid="hf7c46061g873fg4d4cgad5dgdf6eefa42b27" version="3">Soured Taste</content>
+  <content contentuid="h4913c0b3g5198g4622g922fg54078d8300ca" version="5">Find the poisoned wine bottle.</content>
+  <content contentuid="h773612acgcbb1g4d53g8ad0gdb54c62b8a30" version="3">Extravagance Required</content>
+  <content contentuid="h09a956d1ge40fg4db0g8b42g611991addaaf" version="4">Acquire an exquisite new outfit from Figaro's.</content>
+  <content contentuid="he21fbc88g2b4dg4462gab7fg63a414e9f316" version="3">Touring the Sights</content>
+  <content contentuid="hc5be5300g851ag48cfg8a72ge1658bcd9560" version="4">Correctly identify all of the Devil's Fee's relics.</content>
+  <content contentuid="hb88c684fgb953g4a47ga648g5ad55dacb749" version="3">Flames of Passion</content>
+  <content contentuid="hfd86f50fg84b3g4411g8942g3cfd938741b2" version="4">Burn Oskar's painting with a Torch of Revocation.</content>
+  <content contentuid="h95f7c0fagcdf2g4180g9933g11933377f9c0" version="3">Lantanna Marvel</content>
+  <content contentuid="h43ff9bbaga561g4caega591g7e83897f7a66" version="4">Take control of the submersible.</content>
+  <content contentuid="h0601a436g7839g4fd5gb309g9cc077c2468b" version="3">Corrupted Beyond Recognition</content>
+  <content contentuid="hc7a62e7fgab05g4d2eg8f65gf960e9c1d01c" version="4">Find and read the dead druid's journal about how the shadow curse came to be.</content>
+  <content contentuid="h6c8a05b0g6286g4e3ag91d0ga6112929bcbe" version="3">Snuffed Spark</content>
+  <content contentuid="h65ebf80eg59dbg404cgb663gb1453d823210" version="4">Find the dead aasimar's journal.</content>
+  <content contentuid="h87a8a45ag9067g435bg8037g31d4f49f7ca2" version="3">Thorm Family Secrets</content>
+  <content contentuid="h68dc97d6g077dg48b1gb74cg5bfe22601d81" version="4">Discover the fate of Ketheric's family members.</content>
+  <content contentuid="h0999ecc6gf7b0g4cfag832ag7cd9d8ff06f5" version="3">To Have Loved and Lost</content>
+  <content contentuid="h70938151g0d8bg4108g89adg00ece86f0067" version="4">Discover the source of Ketheric's shame.</content>
+  <content contentuid="he6515fe4ge0d1g4c0agb54egb1d91314693f" version="3">Emblem of the Moonmaiden</content>
+  <content contentuid="h720869b7g1f72g4e32g8e7cgf3e753ba8a0b" version="4">Discover the truth about Nightsong.</content>
+  <content contentuid="ha078292dgd8a6g4abcga6e2g817bf0f7b045" version="3">Tenets of Loss</content>
+  <content contentuid="h7a4e8b03gbcebg436agb1efge12b7cc42b0e" version="4">Open the way into the Sharran Sanctuary.</content>
+  <content contentuid="h7a7116a8ga3e5g4bb3g9329g88aa9b36b3de" version="3">Partaking in Local Customs</content>
+  <content contentuid="hfaaf3bb7g84e0g471agaa7eg2bce5bd0f995" version="4">Perform the ritual in the Sharran Sanctuary.</content>
+  <content contentuid="hffef2067gf322g4db8g8499gd6b838dbf004" version="3">Rat King</content>
+  <content contentuid="h1e6c2e8eg8ed7g44cfg9683gd2029ed705f0" version="6">Discover the truth behind the numerous rats in the Gauntlet of Shar.</content>
+  <content contentuid="h12471329gf7e7g4613g841age196cea869fc" version="3">History Never Forgets</content>
+  <content contentuid="h9524b179gf97bg44c9gb8fag433597ddcdf6" version="5">Open the way into the Gauntlet of Shar.</content>
+  <content contentuid="h2b7d2a43g025dg4392g94bbg5c3497df7fa9" version="3">Theskan Tactician</content>
+  <content contentuid="habf0e00fg8b9eg485aga0c5g6f437fb0bee3" version="5">Help Mol win the game of lanceboard.</content>
+  <content contentuid="h64ae4cc3g2a39g4253g96c7ge18565245030" version="3">Waking the Sleeper</content>
+  <content contentuid="h42d7945ag5a0eg409ag8622g17150997af35" version="4">Wake Art from his catatonic slumber.</content>
+  <content contentuid="h2f879e7egdb5bg49abg9f26g87fbc2f57f19" version="3">Secrets of the Necromancer</content>
+  <content contentuid="h563b7b0ag330fg4eefg8470g32d811774cfd" version="4">Solve Balthazar's secret study puzzle.</content>
+  <content contentuid="he180759bg12c3g4a0fgae7cgd1117c89de45" version="4">A Little Too Familiar with the Grotesque...</content>
+  <content contentuid="h6be2ee5agde6fg4bbdg87c9g23d9f2d4bfc9" version="4">Solve Balthazar's secret study puzzle without making a mistake.</content>
+  <content contentuid="h10a37d2dg8842g47dfga3bfg405ceb2b012b" version="3">Hippocratic No More</content>
+  <content contentuid="h470fac57g2422g4c3cga282g2df8c4688494" version="5">Find the surgeon's research notes.</content>
+  <content contentuid="hab84c206gd0deg4b26gadf9gc8ba3f15a3b8" version="3">They're in the Walls!</content>
+  <content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">Discover what the 'meat sound' is.</content>
+  <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Brain Blast!</content>
+  <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
 </contentList>

@@ -1,14 +1,47 @@
 Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
-//REGION Astral Drifter
-//DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_Hyenas", 09dbb9c3-7c1c-4237-a129-583685280b94);
+//REGION SPJM background goals Astral Drifter Act3
 
-//END_REGION Astral Drifter
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_AkabiSchemeDiscovered", c633df4e-3ebe-4237-8a93-cf043a0e13e6);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_WulbrenRunepowderBombUsed", 449966ce-1fcd-4ffe-8615-a7b63c7b3835);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_ScannedByWatcher", 394119e8-776f-44bd-b7f1-8bbd5ab0bac6);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_TookUpValeriaInvestigation", b7727b8e-43e5-4369-90ad-b5da1766a5d0);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_ZenthinoLoveEvaluationComplete", 5f9e7703-ed7c-4a41-aa89-4530699db246);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_GortashCoronationCompleted", 26c67212-105f-4ead-bda2-942a5f47b71e);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_BalduranHelmFound", 299303fd-8119-4506-afe3-321bb63e6c2a);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_PrintingPressMachinationsDiscovered", 9abfe5ea-4f2c-496d-a533-f60402b57b78);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_BloodExperimentFollowup", a4cd6da8-c45c-46b7-8696-dd8263c7cd75);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_SocietyOfBrillianceInquiry", e9c6a88c-35e3-4aba-a7df-3b87ee4ca64d);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_AnsurDiscovered", 23b36a90-6422-437a-a311-daf34ea12637);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_AccessedInfernalPortal", 4f4fe379-3869-4569-a8df-06e882d24748);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_CapnGrislySaved", 52e75236-d4b0-48f4-8bda-73e190f89b22);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_UsedTrueCandle", aa041986-3c0b-47b2-a9d9-6a29b079f88f);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_NightsongGiven", 7fba3cff-d4de-4a6c-8e6f-d7d3edcb5b04);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act3_Sage_LorroakanDefeated", 95a228d1-15b0-460e-94d9-6ea9f3f754e3);
 
-//REGION Wildspacer
-//DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_Hyenas", 107479a9-fb18-4c40-836e-3a9606e08db7);
-//END_REGION Wildspacer
+//END_REGION
+
+//REGION SPJM background goals Wildspacer Act3
+
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_DribblePiecesObtained", 624339b3-c1f7-45db-815d-10124d20200c);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_CommissionedStatue", f83fcc41-91bd-49e2-9701-fad59f87dec5);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_DiscoveredTrappedToys", 8db12daa-d199-4df6-8a88-177ba5033d45);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_DescribedWeaponDanthelon", 393fd3f1-468d-4222-90bb-61f6d099d6c2);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_AcceptedSharessCaressServices", 70604b62-33f5-473e-9f70-1ceaa1398c17);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_CompletedLensInterview", c3f87e2c-deea-493c-b3df-10f3d1b8c945);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_DeliveredSentientAmulet", f0aee670-5d4b-4fe4-97ed-662df32285ce);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_UsedRunePowderBomb", 1458f2b9-a2da-447e-806c-0f26b64c5471);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_PrintingPressInnerWorkings", eca64656-9884-48d1-988e-c98828e937a9);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_BloodMerchantFollowup", 1fb2deb4-d536-47aa-bd4e-aabd58259d72);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_OpenedLowerVault", 459f8047-0ca9-4734-afdb-ecb9fc844e55);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_DolorPoisonedWine", afbed8f1-9e92-48f9-aa41-ffbe69a003b2);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_FigaroNewOutfit", 6576abe9-b069-43c8-b97d-55c13a5227a4);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_DevilRelicsIdentified", ffb68edd-e7bb-4490-aed5-73eb783379e4);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_PaintingBurned", 6bcc29e1-3e96-4b24-984d-dea0e96be6a9);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act3_GuildArtisan_AccessedIronThrone", e98fd11c-03a1-4486-b8f0-4374227ae572);
+
+//END_REGION
 KBSECTION
 
 EXITSECTION

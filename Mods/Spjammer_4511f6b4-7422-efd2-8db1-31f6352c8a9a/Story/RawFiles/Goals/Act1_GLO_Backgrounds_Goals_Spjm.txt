@@ -1,14 +1,40 @@
 Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
-//REGION Astral Drifter
-//DB_GLO_Backgrounds_Goal((TAG)PAITM_GATE_WARDEN_3100ddc6-70b9-4988-a6de-3df7c528f486, "Act1_Outlander_Hyenas", 09dbb9c3-7c1c-4237-a129-583685280b94);
+//REGION SPJM background goals Astral Drifter Act1
 
-//END_REGION Astral Drifter
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_VoloGoblins", e9fac1e5-8b74-4388-b06e-88965ba4776c);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_BookOfTheDead", 4067f6cb-7e14-4c50-abef-e1fb2a62fe5d);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_ShadowDruids", bc1b6b5e-b012-481c-aa50-be923e7d81d7);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_NecromancerTome", 24fb807f-988e-4394-a755-aa00d24b56bc);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_SussurResearch", dff735a6-7b99-41d7-9a92-2760878315d4);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_DruidFresco", 5b6be6eb-03c8-41c5-9cc8-6fdb8c3d53e0);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_NecromancerTomeFinished", 16e67e3c-8688-4fd3-8e1c-2e3e9215c00e);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_SpiderHermit", 2b91f716-03b0-42c5-8718-6f22e20f3ab2);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_MoonPuzzle", b8158f85-0326-4b94-8530-3d9fa9e2a6f9);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_IllithidBook", 141d3cb1-31f5-49d6-a098-caa0b4dc32e0);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_DrowBook", c7a8121b-a693-452b-bb52-bf16754e1ac3);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_HarperSkeleton", cd25ca1b-9419-426a-9ab3-358598cd2285);
+DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act1_Sage_AdamantineForgeSecrets", b6fb64b1-f52c-427a-9522-b6f596460fa0);
 
-//REGION Wildspacer
-//DB_GLO_Backgrounds_Goal((TAG)PAITM_PLANAR_PHILOSOPHER_9dbe29e4-17eb-4310-bafd-23abfa35c369, "Act1_Outlander_Hyenas", 107479a9-fb18-4c40-836e-3a9606e08db7);
-//END_REGION Wildspacer
+//END_REGION
+
+//REGION SPJM background goals Wildspacer Act1
+
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_Spear", dbd16efe-04e2-4413-acdf-686e737004e0);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_Masterwork", aaf1e978-6fce-4b54-bddf-28168b6edb73);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_Antidote", 784c088b-5820-44a9-a266-8055ffebd297);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_Generator", 5a6c4f38-dccb-492b-b2d7-f4d8a6346f0b);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_ZhentElevator", f606ed62-be16-4614-a2bf-40a105303669);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_OmeluumPotion", 9fb5d5cb-60ee-4e02-bde8-3d83f58ddbbe);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_Painter", 631b0f5a-4a26-4da7-ae6f-683502819c2f);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_HagPotions", 04835ac4-cf1b-4fc3-9dbd-79d091f6f439);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_ChestOfMundane", a2c2db6c-ddbb-471f-a55b-91c3ce14b02f);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_Drowcraft", 630a54e3-2d1b-418f-ada6-74ed5259e819);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_AdamantineForge", aa3d4687-6774-452b-8bae-26295e3fc2fa);
+DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act1_GuildArtisan_DuergarMason", 88b23cf1-5ecd-4d35-b01f-b9ef69c2cb1d);
+
+//END_REGION
 KBSECTION
 
 EXITSECTION
