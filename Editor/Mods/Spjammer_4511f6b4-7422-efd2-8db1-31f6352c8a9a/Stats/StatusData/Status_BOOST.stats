@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e2a8d59b-0e34-4a7c-bf5f-db7a2bb34cde">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b4f869a5-a095-41b6-a4de-012f3b1adf4b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h89975669ga317g279cga6a9g028012652811" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ArcaneWard" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_AIRBUBBLE_BUFF" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4f9bf7a8-4a28-4739-a185-0930ac8401fb" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_SUMHELM_BUFF" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -40,7 +40,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpeljammerContract_Template" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Value" type="IntegerTableFieldDefinition" value="2500" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="3000" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
         <field name="Requirements" type="StringTableFieldDefinition" value="!Combat" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="30" />
@@ -72,6 +72,79 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerContract" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d6f1aa2e-d7a2-4850-8128-0e74bd61b0e2" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b9c5cf42-658e-40c5-abda-bbff183b52b7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d7b8c2b1-ba29-4726-9874-92cf41db2b68" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_WildspaceOrrery_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="903e4dee-a3d5-4f72-8b72-c81541fd29aa" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="650" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.02" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="18" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="RadiantResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummon()" />
+        <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
+        <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d70e84b1-d4c9-400d-b372-f463b44f26bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_WildspaceOrrery" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d7b8c2b1-ba29-4726-9874-92cf41db2b68" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90ad88dc-1e2e-4a9b-8f05-accb55497856" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_CreateSpelljammerHelm_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="400" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e8d9e372-3535-4cf5-88b5-23ec58d65ad8" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_CreateSpelljammerHelm" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="90ad88dc-1e2e-4a9b-8f05-accb55497856" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ff23c831-22ca-47e2-ab80-5aa2bb3b856f" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_AirBubble_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="75" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="252ee68e-6b48-4c0c-b8e0-f4889aa5ef90" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_AirBubble" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ff23c831-22ca-47e2-ab80-5aa2bb3b856f" />
       </fields>
     </stat_object>
   </stat_objects>

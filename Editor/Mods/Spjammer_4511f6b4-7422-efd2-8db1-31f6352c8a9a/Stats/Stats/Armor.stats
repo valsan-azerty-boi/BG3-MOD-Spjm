@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1f8e9db2-b4f8-42b5-a2fe-c9a3d6d02930" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_FishSuit_Helmet_Template" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Helmet" enumeration_type_name="Itemslot" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="adfdafe5-f4da-4c64-a1e6-a33d626437d2" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.5" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Acid,Resistant)" />
+        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_AirBubble" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f5566f14-5000-4b87-9f91-7958575bf042" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_FishSuit_Helmet" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1f8e9db2-b4f8-42b5-a2fe-c9a3d6d02930" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="121311e6-354f-496d-afb5-66de6f382637" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

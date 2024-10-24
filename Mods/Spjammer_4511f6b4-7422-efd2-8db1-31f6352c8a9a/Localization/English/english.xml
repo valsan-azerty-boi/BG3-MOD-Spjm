@@ -14,23 +14,23 @@
   <content contentuid="h8c3ad9beg67f3gd301g2edbg4aa980a73bbc" version="2">You have &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;Proficiency&amp;lt;/LSTag&amp;gt; in &amp;lt;LSTag Tooltip="Athletics"&amp;gt;Athletics&amp;lt;/LSTag&amp;gt; and &amp;lt;LSTag Tooltip="Survival"&amp;gt;Survival&amp;lt;/LSTag&amp;gt;.</content>
   <content contentuid="h8b023e16g66ddg06bdg619ega47c53b1b8d9" version="1">Wildspace Adaptation</content>
   <content contentuid="h31555400g4792gb507gbb03g25e3fc3e8897" version="1">You learned how to adapt to any gravity. You gain the Tough feat.</content>
-  <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="1">Portal</content>
+  <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Portal</content>
   <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
   <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
   <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
   <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="3">Spelljammer</content>
   <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="18">Spelljammer Helm</content>
   <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="17">Spelljammer Helm</content>
-  <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="5">Spelljammer Helm</content>
+  <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljammer Helm</content>
   <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="8">Astral circle</content>
   <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="18">Astral circle</content>
-  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="6">Astral circle</content>
+  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="8">Astral circle</content>
   <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Astral Dungeon 1</content>
   <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
   <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
   <content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">Astral Strike</content>
   <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="1">TO DO</content>
-  <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="1">Astral Strike</content>
+  <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="2">Astral Strike: Canon</content>
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
   <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="88">*Leave*</content>
   <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
@@ -55,7 +55,7 @@
   <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="22">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="22">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="22">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="3">Astral boat</content>
+  <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral boat</content>
   <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="9">Astral boat</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
   <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="4">Eye Monger</content>
@@ -63,12 +63,12 @@
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
-  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="3">A title deed from space</content>
+  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="4">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
-  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="3">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
-  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="3">This contract is unread.</content>
+  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="4">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="4">This contract is unread.</content>
   <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
-  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="3">Activate</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="4">Activate</content>
   <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="1">The Lower Rock</content>
   <content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">Secrets of the Sundering</content>
   <content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">Unlock and read the Book of Dead Gods.</content>
@@ -244,4 +244,32 @@
   <content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">Discover what the 'meat sound' is.</content>
   <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Brain Blast!</content>
   <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
+  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="2">Oz</content>
+  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="2">Tavern keeper</content>
+  <content contentuid="hf4bfd2d1g8e1dg4094g9915g48fa4ba30a3e" version="4">*The trader has no problem with you inspecting his goods, so long as you're willing to pay for them.*</content>
+  <content contentuid="hebad0705g425ag4b1cg9781gbb6a101ca39c" version="5">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="hf1f48224g45beg4de3g914bg4a039f724180" version="5">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h49ec7ba9g3dedgfe47ga37bg2b638e863a2c" version="1">*The trader has no problem with you inspecting his goods, so long as you're willing to pay for them.*</content>
+  <content contentuid="h96489ccdg6dfcgace4g10cbgac2b79e83b9e" version="5">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="hec021950ge761ged97g8621ga86173b8eccd" version="3">*This illithid looks at you*</content>
+  <content contentuid="h9629ac67g3254gd131ga217gd67cc1552a84" version="2">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="4">*This illithid looks at you*</content>
+  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="4">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="4">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="h89975669ga317g279cga6a9g028012652811" version="1">Air Bubble</content>
+  <content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">Air Bubble</content>
+  <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
+  <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Create Spelljamming Helm</content>
+  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You summon a temporary Spelljamming Helm and sync with its magic, allowing you to use your ship's weapons from the ground. However, you need to own a Spelljammer and have it equipped with a weapon. Otherwise the spell will be of no use.</content>
+  <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="1">Fish Suit Helmet</content>
+  <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="1">A bulky helmet, which fully encases your head.</content>
+  <content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="1">Head covered with an air bubble.</content>
+  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="2">Spelljamming Helm Sync.</content>
+  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="2">You are synchronized with a Spelljamming Helm.</content>
+  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="1">Create Spelljamming Helm</content>
+  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="1">You summon a temporary Spelljamming Helm and sync with its magic, allowing you to use your ship's weapons from the ground. However, you need to own a Spelljammer and have it equipped with a weapon. Otherwise the spell will be of no use.</content>
+  <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljammer Helm</content>
+  <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
+  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="1">TODO Description AstralStrikeCanon </content>
+  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="1">TODO Description AstralStrikeBallistae</content>
 </contentList>

@@ -3,41 +3,41 @@ SubGoalCombiner SGC_AND
 INITSECTION
 //REGION SPJM background goals Astral Drifter Act2
 
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_DeadDruidBookSCL", fc0e08d6-681c-426b-9f18-495e1b00417e);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_AasimarJournal", bae570a6-76b2-4903-829e-c186d89747e0);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_ThormFamilyFates", 67646415-e084-4f64-84b7-630445fa186a);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_KethericShameRedemptionTrigger", eeb2f0dc-ac04-4d44-853c-d8c484f8f16d);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_TruthOfNightsongDiscovered", a9499b9e-c9e2-4c20-aff5-e2d8b2a7c667);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_CursedTownSharranPuzzleSolved", 97946fc9-5178-4f43-9d1f-0a0452bb3e71);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_SharranRitualPerformed", 5f34fa71-d949-4230-b35a-f52956c68c75);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_RatSoleSurvivorJusticiar", fe386b0c-fc80-499b-bed2-2cc8d6c9794f);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_SharTempleEntrancePuzzle", e3225f72-101d-44ea-ac1c-0276056cabfc);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_MolWonLanceboard", 5aae00ef-df5e-4d10-a303-f6d8705abb0e);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_AwokenArt", ef8ce781-0755-4180-9ec8-70436d1e72f5);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_GainedAccessToNecromancerLab", 2c593a56-073c-4ebb-840e-5a4b450c2009);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_GainedAccessToNecromancerLabFlawlessly", 65df86ce-ed0f-4812-85f3-3391c97815c8);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_FoundSurgeonResearchNotes", 6efbc10e-47af-4153-b47e-e3d370b5913a);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_SourceOfMeatSoundDiscovered", eef5f020-7660-4d4d-bf1c-aa791d08a626);
-DB_GLO_Backgrounds_Goal((TAG)SAGE_dad18490-c61d-4958-805c-f017eb68f8a0, "Act2_Sage_ColonyMindPuzzleCompleted", 30d89a89-c641-4a11-9828-30aefd77f83c);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_DeadDruidBookSCL", fc0e08d6-681c-426b-9f18-495e1b00417e);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_AasimarJournal", bae570a6-76b2-4903-829e-c186d89747e0);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_ThormFamilyFates", 67646415-e084-4f64-84b7-630445fa186a);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_KethericShameRedemptionTrigger", eeb2f0dc-ac04-4d44-853c-d8c484f8f16d);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_TruthOfNightsongDiscovered", a9499b9e-c9e2-4c20-aff5-e2d8b2a7c667);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_CursedTownSharranPuzzleSolved", 97946fc9-5178-4f43-9d1f-0a0452bb3e71);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_SharranRitualPerformed", 5f34fa71-d949-4230-b35a-f52956c68c75);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_RatSoleSurvivorJusticiar", fe386b0c-fc80-499b-bed2-2cc8d6c9794f);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_SharTempleEntrancePuzzle", e3225f72-101d-44ea-ac1c-0276056cabfc);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_MolWonLanceboard", 5aae00ef-df5e-4d10-a303-f6d8705abb0e);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_AwokenArt", ef8ce781-0755-4180-9ec8-70436d1e72f5);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_GainedAccessToNecromancerLab", 2c593a56-073c-4ebb-840e-5a4b450c2009);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_GainedAccessToNecromancerLabFlawlessly", 65df86ce-ed0f-4812-85f3-3391c97815c8);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_FoundSurgeonResearchNotes", 6efbc10e-47af-4153-b47e-e3d370b5913a);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_SourceOfMeatSoundDiscovered", eef5f020-7660-4d4d-bf1c-aa791d08a626);
+DB_GLO_Backgrounds_Goal((TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, "Act2_Sage_ColonyMindPuzzleCompleted", 30d89a89-c641-4a11-9828-30aefd77f83c);
 
 //END_REGION
 
 //REGION SPJM background goals Wildspacer Act2
 
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_MoonlanternPixieDiscovery", 2dd60426-2590-438e-ba49-9eeeaea62b48);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_SharTempleGemPuzzle", 3783657f-ebad-41dc-8327-70476428bf18);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_FateOfMason", 4f27f862-8b2a-4bb1-8453-f8b91050946b);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_SurgeonOperationWitness", a4cf8708-c73c-406c-9db7-5ad1453a31bc);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_BrewerPoisonRecipe", ef5e8fa3-ac0b-4781-b19c-ca6c2b4f6b52);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_DrinkBrewerBrew", 7b9c28a1-ca39-4e50-a593-005012646b4c);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_TollTakerLootRareItem", 21946121-52f1-4661-907b-a5f324255146);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_WulbrenToolsReturned", 6dd06442-92b6-47ab-8b34-def2547b98c5);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_SharCeremonialDaggerTaken", 3fb30343-9c40-4154-84de-83f54731875b);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_SharSpearTaken", a610df79-9cbe-4c27-9617-db193d2b0b61);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_BrilliantRetortTaken", 5c9d8a76-fc5c-488e-98a4-89d88a765d79);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_InfernalArmamentAquired", 70d5b93e-6f3a-40e8-8679-28d65369e02b);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_DisplacerBeastCharmed", d14e3fb0-3007-470a-8d2a-23b2d788b93e);
-DB_GLO_Backgrounds_Goal((TAG)GUILD_ARTISAN_baf9fb0e-f535-40a0-bb78-3ec289d84e66, "Act2_GuildArtisan_BloodToBloodMerchant", 85f4c30c-dac9-47c8-8b3d-9a23b9b1273b);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_MoonlanternPixieDiscovery", 2dd60426-2590-438e-ba49-9eeeaea62b48);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_SharTempleGemPuzzle", 3783657f-ebad-41dc-8327-70476428bf18);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_FateOfMason", 4f27f862-8b2a-4bb1-8453-f8b91050946b);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_SurgeonOperationWitness", a4cf8708-c73c-406c-9db7-5ad1453a31bc);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_BrewerPoisonRecipe", ef5e8fa3-ac0b-4781-b19c-ca6c2b4f6b52);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_DrinkBrewerBrew", 7b9c28a1-ca39-4e50-a593-005012646b4c);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_TollTakerLootRareItem", 21946121-52f1-4661-907b-a5f324255146);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_WulbrenToolsReturned", 6dd06442-92b6-47ab-8b34-def2547b98c5);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_SharCeremonialDaggerTaken", 3fb30343-9c40-4154-84de-83f54731875b);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_SharSpearTaken", a610df79-9cbe-4c27-9617-db193d2b0b61);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_BrilliantRetortTaken", 5c9d8a76-fc5c-488e-98a4-89d88a765d79);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_InfernalArmamentAquired", 70d5b93e-6f3a-40e8-8679-28d65369e02b);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_DisplacerBeastCharmed", d14e3fb0-3007-470a-8d2a-23b2d788b93e);
+DB_GLO_Backgrounds_Goal((TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, "Act2_GuildArtisan_BloodToBloodMerchant", 85f4c30c-dac9-47c8-8b3d-9a23b9b1273b);
 
 //END_REGION
 KBSECTION

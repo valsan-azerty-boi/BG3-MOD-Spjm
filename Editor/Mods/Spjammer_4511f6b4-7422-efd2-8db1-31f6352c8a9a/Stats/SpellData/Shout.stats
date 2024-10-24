@@ -17,19 +17,94 @@
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_MageHand" />
+        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_Steady" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_MageHand_L1to3" />
         <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_MageHand_L1to3" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
-        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;605d49b4-03b9-47f6-96e9-7f80e6be7514,,;fbf20742-9dbf-475b-9ff5-42e4b08064ad,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;236087a5-5597-4ee7-ab06-75b01147f596,,;ee0b6a78-c6b6-4852-aecb-d7c474a37d68,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
         <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IgnoreSilence;ImmediateCast;NoCooldownOnMiss" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IgnoreSilence;NoCooldownOnMiss" enumeration_type_name="SpellFlagList" version="1" />
         <field name="Requirements" type="StringTableFieldDefinition" value="!Combat" />
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="TutorialSummonBlockCheck()" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
-        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="518bc78f-c169-43ba-b951-977d75429199" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="47e01d27-f775-46f5-ad26-767857e65a6e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_CreateSpelljammerHelm" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="5" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(88f360de-210f-4c4d-a47e-6b65841b7674, 10, , , ,);ApplyStatus(Spjm_SummonedSpelljammerHelm,100,10)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="1" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_SummonedSpelljammerHelm,100,10)" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Item_SummonHusband" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_DetectThoughts_L1to3" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:5" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;236087a5-5597-4ee7-ab06-75b01147f596,,;ee0b6a78-c6b6-4852-aecb-d7c474a37d68,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Summon" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;NoCooldownOnMiss" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Action" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="TutorialSummonBlockCheck()" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="5" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="33302a46-4a12-41dd-8845-6b7314d50022" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="54616e0c-d7c8-491b-a91a-ef21b3f94100" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_CreateSpelljammerHelm_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="47e01d27-f775-46f5-ad26-767857e65a6e" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="6" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:6" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eee6bdbf-0148-43e6-a7ce-3b7bbe12c93d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_CreateSpelljammerHelm_7" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="47e01d27-f775-46f5-ad26-767857e65a6e" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="7" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:7" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c83e7802-36c2-4dd5-95b6-4c142de6901e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_CreateSpelljammerHelm_8" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="47e01d27-f775-46f5-ad26-767857e65a6e" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="8" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:8" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2c8dce64-0ebb-4139-bc36-35363add7d13" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_CreateSpelljammerHelm_9" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="47e01d27-f775-46f5-ad26-767857e65a6e" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:9" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="9" />
       </fields>
     </stat_object>
   </stat_objects>

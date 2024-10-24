@@ -1,0 +1,16 @@
+new entry "Spjm_AirBubble"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h89975669ga317g279cga6a9g028012652811;1"
+data "Description" "hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12;1"
+data "Icon" "PassiveFeature_ArcaneWard"
+data "StackId" "SPJM_AIRBUBBLE_BUFF"
+
+new entry "Spjm_SummonedSpelljammerHelm"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hfef23863ga3dfg6d27g410bgaea29efc4ce1;2"
+data "Description" "h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8;2"
+data "Icon" "Spjm_Spell_CreateSpelljammerHelm"
+data "StackId" "SPJM_SUMHELM_BUFF"
+

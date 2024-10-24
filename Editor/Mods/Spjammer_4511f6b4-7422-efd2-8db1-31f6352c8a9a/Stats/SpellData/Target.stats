@@ -16,7 +16,7 @@
         <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(1d4,Force,Magical);DealDamage(1d4,Fire,Magical)" />
         <field name="SpellFail" type="StringTableFieldDefinition" value="DealDamage((1d4)/2,Force,Magical);DealDamage((1d4)/2,Fire,Magical)" />
         <field name="AmountOfTargets" type="StringTableFieldDefinition" value="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_Fireball" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Canon" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="1" />
         <field name="TooltipOnSave" type="StringTableFieldDefinition" value="Dexterity" />
@@ -39,6 +39,117 @@
         <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="e235ca47-1bf5-4587-9475-cf191b6005f9" />
         <field name="ImpactEffect" type="GuidObjectTableFieldDefinition" value="41de42e1-56d0-4336-8b44-99fc38281525" />
         <field name="DamageType" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="Damage Type" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="RechargeValues" type="StringTableFieldDefinition" value="4-6" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4a251685-0dba-4951-a112-41bb57015857" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="2" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_AirBubble,100,-1)" />
+        <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and not Dead() and not Tagged('UNDEAD') and not Tagged('CONSTRUCT')" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ArcaneWard" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h949eefe2gf690g758fg1103ge9679683fa44" version="1" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Healing_CureWounds_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Healing_CureWounds_L1to3" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="CycleConditions" type="StringTableFieldDefinition" value="Ally() and not Dead() and not Tagged('UNDEAD')" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:2" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="414bbf02-2918-4f01-83fb-1ddc7a588d88,,;,,;454e3439-19f2-4c42-8773-e18cf4ee233a,,;ccdf11dc-08f7-4d7f-bca9-55cfcc8f94bd,,;0c5dcc83-fa78-41da-b6a5-440b5ea30936,,;,,;bea988a0-2ec5-40d8-a67e-ffbd7454bc53,,;4156d364-d2c0-4a01-908c-3552f78f434d,,;6f0a29b6-0ae8-4ebf-a1e4-8069c4a6ad16,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Buff" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;IsSpell;CannotTargetItems;CannotTargetTerrain;HasHighGroundRangeExtension" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellCategory" type="EnumerationListTableFieldDefinition" value="SC_TargetSingle" enumeration_type_name="SpellCategoryFlags" version="1" />
+        <field name="RechargeValues" type="StringTableFieldDefinition" value="4-6" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Peaceful" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="96a51ac8-2e7e-4718-bb62-dcfd18964a02" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="ce5a1256-d5c8-45b5-98fc-ee9a16e3673c" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="d16a93f4-ddb5-4175-9b3f-22eced19ff02" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="598386e9-0f81-4fcb-80c2-f8ff8a0fd19b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4a251685-0dba-4951-a112-41bb57015857" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="3" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="3" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:3" />
+        <field name="SpellCategory" type="EnumerationListTableFieldDefinition" value="SC_TargetMultiselect" enumeration_type_name="SpellCategoryFlags" version="1" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9cb24a86-7228-4695-bf50-a0d5a8773744" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="598386e9-0f81-4fcb-80c2-f8ff8a0fd19b" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="4" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:4" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eb8660ab-73f3-4a58-8460-67e9e03f0a74" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="598386e9-0f81-4fcb-80c2-f8ff8a0fd19b" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="5" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:5" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3dc5e271-e5c1-4e53-8b96-a341f9a047f8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="598386e9-0f81-4fcb-80c2-f8ff8a0fd19b" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="6" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:6" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ecf870c3-a500-460b-966d-7c973d008198" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble_7" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="598386e9-0f81-4fcb-80c2-f8ff8a0fd19b" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="7" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:7" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6e4d088c-a519-47b3-be73-4b5c908c5687" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble_8" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="598386e9-0f81-4fcb-80c2-f8ff8a0fd19b" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="8" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:8" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="08391558-2dfb-40b8-b711-657bd59fcafa" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble_9" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="598386e9-0f81-4fcb-80c2-f8ff8a0fd19b" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="9" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:9" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="9" />
       </fields>
     </stat_object>
   </stat_objects>

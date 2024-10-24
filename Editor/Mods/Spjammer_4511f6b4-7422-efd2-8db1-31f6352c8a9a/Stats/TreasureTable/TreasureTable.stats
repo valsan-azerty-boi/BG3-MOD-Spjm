@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
-  <stat_objects />
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ff9cbfb8-c359-4f4d-b9e9-5cdc2748d6f9" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Trader_Oz_Trade" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Wealthy" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ff9cbfb8-c359-4f4d-b9e9-5cdc2748d6f9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="13e0577c-d670-4555-850e-8e5ed6317292" />
+        <field name="Name" type="NameTableFieldDefinition" value="Char_Mindflayer_Tavern_Trader_Oz_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="3,1;4,1;5,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Potion_Healing" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
 </stats>
