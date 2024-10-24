@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="beb9389e-24f8-49b0-86a5-e8d08b6fdc2e"/>
+                    <attribute id="Name" type="FixedString" value="Wizard spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="9f3c4489-5807-4724-a481-fecb23a5cce0"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f781a25e-d288-43b4-bf5d-3d8d98846687"/>
+                    <attribute id="Name" type="FixedString" value="Wizard SLevel 5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Spjm_CreateSpelljammerHelm"/>
+                    <attribute id="UUID" type="guid" value="bbb9a93f-29e0-4982-946f-eebe796652b6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="80c6b070-c3a6-4864-84ca-e78626784eb4"/>
+                    <attribute id="Name" type="FixedString" value="Wizard SLevel 2 expanded"/>
+                    <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="143935d5-7a8a-41c5-9d4d-10f569b563a6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="92126d17-7f1a-41d2-ae6c-a8d254d2b135"/>
+                    <attribute id="Name" type="FixedString" value="Druid spells level 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="4caf929a-7b61-40ff-b37a-cddd58e0ca49"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="fd366d4e-4063-4b6f-9cd9-26889bcd6465"/>
+                    <attribute id="Name" type="FixedString" value="Druid spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="10e9135c-df2e-457b-bd6b-01c5de6ad9fc"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="e7cfb80a-f5c2-4304-8446-9b00ea6a9814"/>
+                    <attribute id="Name" type="FixedString" value="Ranger SLevel 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="0c46099d-2baa-41c0-b5d5-4fb57499e5cc"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="ffd3b636-d424-4120-87ae-4499a34828dc"/>
+                    <attribute id="Name" type="FixedString" value="Ranger spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="d250338d-24ae-4063-9b54-678acfc9c0e0"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="2ba5248a-f014-409d-ab26-b50116f7e477"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="a9bac327-0eda-4d4d-a3da-6e3a89dec71d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="MergedInto" type="guid" value="f80396e2-cb76-4694-b0db-5c34da61a478"/>
+                    <attribute id="Name" type="FixedString" value="Sorcerer SLevel 2 expanded"/>
+                    <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
+                    <attribute id="UUID" type="guid" value="7165ef92-f79b-40e3-a924-63099f992a54"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

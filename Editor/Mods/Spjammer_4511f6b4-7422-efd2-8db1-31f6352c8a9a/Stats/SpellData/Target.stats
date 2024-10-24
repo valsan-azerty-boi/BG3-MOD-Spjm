@@ -78,6 +78,7 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="ce5a1256-d5c8-45b5-98fc-ee9a16e3673c" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="d16a93f4-ddb5-4175-9b3f-22eced19ff02" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_AirBubbleBuff,100,-1)" />
+        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -91,6 +92,7 @@
         <field name="SpellCategory" type="EnumerationListTableFieldDefinition" value="SC_TargetMultiselect" enumeration_type_name="SpellCategoryFlags" version="1" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="3" />
+        <field name="MaximumTargets" type="IntegerTableFieldDefinition" value="3" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

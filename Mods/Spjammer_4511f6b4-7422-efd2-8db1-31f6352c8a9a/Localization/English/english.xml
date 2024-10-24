@@ -19,10 +19,10 @@
   <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
   <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
   <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="3">Spelljammer</content>
-  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="18">Spelljammer Helm</content>
+  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="22">Spelljammer Helm</content>
   <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljammer Helm</content>
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljammer Helm</content>
-  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="8">Astral circle</content>
+  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="11">Astral circle</content>
   <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="18">Astral circle</content>
   <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="8">Astral circle</content>
   <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Astral Dungeon 1</content>
@@ -256,8 +256,8 @@
   <content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">Air Bubble</content>
   <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
   <content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2">Head covered with an air bubble filled with fresh air.</content>
-  <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="6">Fish Suit Helmet</content>
-  <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="6">A bulky helmet, which fully encases your head.</content>
+  <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="8">Fish Suit Helmet</content>
+  <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="8">A bulky helmet, which fully encases your head.</content>
   <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Create Spelljamming Helm</content>
   <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="1">Create Spelljamming Helm</content>
   <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljammer Helm</content>

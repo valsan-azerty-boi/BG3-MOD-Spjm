@@ -20,5 +20,54 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ff9cbfb8-c359-4f4d-b9e9-5cdc2748d6f9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="31a5016d-f094-4ad6-9999-488f3b8066b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Trader_Oz_Trade_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1;2,1;3,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Potion_Healing_Greater" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ff9cbfb8-c359-4f4d-b9e9-5cdc2748d6f9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="33df1a1e-16f5-4a9c-bd80-6f07b7ec6cb0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ff9cbfb8-c359-4f4d-b9e9-5cdc2748d6f9_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Potion_Healing_Superior" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f2df1eba-c73b-4243-a597-cbd959d8517a" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Ship_Crate_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="4,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_AirBubble" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c83cdda7-95a2-41ea-845d-6cc628c769dc" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Ship_Crate_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_CreateSpelljammerHelm" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c83cdda7-95a2-41ea-845d-6cc628c769dc" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7403b9e7-522f-44cc-940e-b99b28821e29" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Ship_Crate_2_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_FishSuit_Helmet" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
