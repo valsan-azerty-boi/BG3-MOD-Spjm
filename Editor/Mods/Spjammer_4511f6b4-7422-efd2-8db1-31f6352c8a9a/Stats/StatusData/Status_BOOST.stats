@@ -4,10 +4,10 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b4f869a5-a095-41b6-a4de-012f3b1adf4b" />
-        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubble" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubbleBuff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h89975669ga317g279cga6a9g028012652811" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ArcaneWard" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirBubble" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_AIRBUBBLE_BUFF" />
       </fields>
     </stat_object>

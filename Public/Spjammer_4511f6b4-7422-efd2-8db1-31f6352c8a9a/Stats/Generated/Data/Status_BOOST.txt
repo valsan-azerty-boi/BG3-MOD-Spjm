@@ -1,9 +1,9 @@
-new entry "Spjm_AirBubble"
+new entry "Spjm_AirBubbleBuff"
 type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "h89975669ga317g279cga6a9g028012652811;1"
-data "Description" "hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12;1"
-data "Icon" "PassiveFeature_ArcaneWard"
+data "Description" "hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12;2"
+data "Icon" "Spjm_Spell_AirBubble"
 data "StackId" "SPJM_AIRBUBBLE_BUFF"
 
 new entry "Spjm_SummonedSpelljammerHelm"

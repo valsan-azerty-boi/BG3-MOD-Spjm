@@ -25,7 +25,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Background_Spjm_DivineContact" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h95400c63gfbc2g33d4gb7edg1474d5c7dcde" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb0afa464g5234ge051g9f73g148aebbb3cde" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_GaleGod" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_DivineIntervention_Supplies" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
       </fields>
     </stat_object>
@@ -37,6 +37,15 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h31555400g4792gb507gbb03g25e3fc3e8897" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_WildMagicSurge" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ee067bde-c269-42b0-ac1e-269b0c5633dd" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_AirBubble_ForTooltipDesc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirBubble" />
       </fields>
     </stat_object>
   </stat_objects>

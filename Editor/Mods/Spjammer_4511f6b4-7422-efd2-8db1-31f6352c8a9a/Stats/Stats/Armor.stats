@@ -8,18 +8,21 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Slot" type="EnumerationTableFieldDefinition" value="Helmet" enumeration_type_name="Itemslot" version="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
-        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="7" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="adfdafe5-f4da-4c64-a1e6-a33d626437d2" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0.5" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Acid,Resistant)" />
-        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_AirBubble" />
+        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_AirBubbleBuff" />
         <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
         <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
         <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1550" />
+        <field name="Flags" type="EnumerationListTableFieldDefinition" value="IgnoreClouds" enumeration_type_name="AttributeFlags" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="SPJM_Passive_AirBubble_ForTooltipDesc" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

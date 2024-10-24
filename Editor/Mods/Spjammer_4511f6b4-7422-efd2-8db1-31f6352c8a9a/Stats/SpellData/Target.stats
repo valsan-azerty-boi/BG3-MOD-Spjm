@@ -18,7 +18,7 @@
         <field name="AmountOfTargets" type="StringTableFieldDefinition" value="3" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Canon" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2" />
         <field name="TooltipOnSave" type="StringTableFieldDefinition" value="Dexterity" />
         <field name="FXScale" type="IntegerTableFieldDefinition" value="4" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Dash" />
@@ -51,12 +51,12 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="2" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_AirBubble,100,-1)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_AirBubbleBuff,100,-1)" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and not Dead() and not Tagged('UNDEAD') and not Tagged('CONSTRUCT')" />
         <field name="AmountOfTargets" type="StringTableFieldDefinition" value="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_ArcaneWard" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirBubble" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h949eefe2gf690g758fg1103ge9679683fa44" version="1" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Healing_CureWounds_L1to3" />
@@ -77,6 +77,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="96a51ac8-2e7e-4718-bb62-dcfd18964a02" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="ce5a1256-d5c8-45b5-98fc-ee9a16e3673c" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="d16a93f4-ddb5-4175-9b3f-22eced19ff02" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_AirBubbleBuff,100,-1)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

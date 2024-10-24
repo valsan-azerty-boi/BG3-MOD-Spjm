@@ -116,8 +116,8 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_CreateSpelljammerHelm_Template" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Value" type="IntegerTableFieldDefinition" value="400" />
-        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="600" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
         <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
@@ -127,6 +127,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e8d9e372-3535-4cf5-88b5-23ec58d65ad8" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_CreateSpelljammerHelm" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="90ad88dc-1e2e-4a9b-8f05-accb55497856" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ec80153e-3219-420d-bb90-ed5c3c3bcacc" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -135,7 +136,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_AirBubble_Template" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Value" type="IntegerTableFieldDefinition" value="75" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="300" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
         <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
       </fields>
@@ -145,6 +146,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="252ee68e-6b48-4c0c-b8e0-f4889aa5ef90" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_AirBubble" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="ff23c831-22ca-47e2-ab80-5aa2bb3b856f" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6523a661-73e8-484c-9f7a-89308742039a" />
       </fields>
     </stat_object>
   </stat_objects>
