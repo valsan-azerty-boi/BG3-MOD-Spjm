@@ -43,7 +43,7 @@ data "CastEffect" "23f0ede1-066a-4377-8395-20a1d8500c75"
 data "HitEffect" "41de42e1-56d0-4336-8b44-99fc38281525"
 data "DamageType" "Fire"
 
-new entry "ProjectileStrike_Spjm_ShipStrike_Balistae"
+new entry "ProjectileStrike_Spjm_ShipStrike_Ballistae"
 type "SpellData"
 data "SpellType" "ProjectileStrike"
 data "Level" "1"

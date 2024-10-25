@@ -51,7 +51,7 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="2b79ae32-8259-49b1-b273-b819193c8dae" />
-        <field name="Name" type="NameTableFieldDefinition" value="Spjm_ShipStrike_Balistae" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_ShipStrike_Ballistae" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
