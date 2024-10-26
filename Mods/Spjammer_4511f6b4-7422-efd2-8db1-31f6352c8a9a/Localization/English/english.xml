@@ -63,7 +63,7 @@
   <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="4">Activate</content>
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
-  <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="5">*You gain your own Spelljammer*</content>
+  <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljammer*</content>
   <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="24">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
   <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="22">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="22">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
@@ -272,11 +272,17 @@
   <content contentuid="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2">Head covered with an air bubble filled with fresh air.</content>
   <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="9">Ballistae</content>
   <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="8">Canon</content>
-  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="5">Astral enhancement device</content>
-  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="16">*Unlock the Canon*</content>
-  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="16">*Leave*</content>
-  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="16">*Unlock the Ballistae*</content>
+  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="8">Enhancement device</content>
+  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="18">*Unlock the Canon*</content>
+  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="18">*Leave*</content>
+  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="18">*Unlock the Ballistae*</content>
   <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Canon unlocked*</content>
   <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
-  <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="13">*A strange device, it seems to allow you to improve your ship*</content>
+  <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="15">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
+  <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
+  <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>
+  <content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="1">Wildspace Orrery</content>
+  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="1">Within a Wildspace system, this portable arcane device once automatically tracked the positions and movements of all suns, planets, moons, and comets within that system, projecting a display of these bodies into the space above its current location. In that display, a white, pulsating pinprick of light marked the orrery’s location.</content>
 </contentList>

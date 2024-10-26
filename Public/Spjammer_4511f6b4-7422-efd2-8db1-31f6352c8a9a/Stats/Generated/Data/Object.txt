@@ -88,6 +88,7 @@ data "FallingLandEffect" "VFX_Combat_Force_Land_01"
 new entry "OBJ_Spjm_WildspaceOrrery"
 type "Object"
 using "OBJ_Spjm_WildspaceOrrery_Template"
+data "RootTemplate" "fc929de0-593e-4a91-b96a-fc232fb868bc"
 
 new entry "OBJ_Spjm_Scroll_CreateSpelljammerHelm_Template"
 type "Object"

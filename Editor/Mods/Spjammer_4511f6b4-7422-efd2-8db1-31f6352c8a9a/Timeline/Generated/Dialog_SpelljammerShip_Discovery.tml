@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <Timeline Id="bff5c51d-2e78-4956-aad0-cd8ed6c02311" DialogResourceId="1c4ca709-6fb4-149d-8eeb-8a4d2bdaa8a3" AllowedPeanutTypes="Emotion, Attitude, LookAt">
-    <GenerationMetadata FullGenerationTimestamp="1729370537" PartialGenerationTimestamp="1729390298" />
+    <GenerationMetadata FullGenerationTimestamp="1729370537" PartialGenerationTimestamp="1729897657" />
     <TimelinePosition BoundSceneId="7bd6027a-9549-4621-a54c-24b380773226" />
     <Tracks>
       <Track Name="Camera Shots" TrackId="61f990cf-718d-4340-9c04-16cdec113597" Type="ComponentTrackCameraShot" />
       <Track Name="Speakers" TrackId="e58cfb35-6acd-4821-a2c7-92ad2fc37973" Type="FolderTrack">
-        <Track Name="GROUP_Players" TrackId="6618ba3c-9e12-4437-ba99-d945b4adc8d2" IsExpanded="true" ActorType="character" ActorId="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="d3064f4e-5887-4908-9377-99ecba2850e2" Type="ActorTrackSpeaker">
+        <Track Name="GROUP_Players" TrackId="6618ba3c-9e12-4437-ba99-d945b4adc8d2" IsExpanded="true" ActorType="character" ActorId="e0d1ff71-04a8-4340-ae64-9684d846eb83" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="d3064f4e-5887-4908-9377-99ecba2850e2" Type="ActorTrackSpeaker">
           <Track Name="Voice" TrackId="4b674aaa-fbf9-4148-9c41-6cf0191013d3" Type="ComponentTrackVoice" />
           <Track Name="Look At Event" TrackId="e59738ad-6af8-442a-b5c5-637f3a2dbdfd" Type="ComponentTrackLookAtEvent" />
           <Track Name="Emotion Event" TrackId="38e795a3-e024-4a6d-accc-b25d7a6e4fe1" Type="ComponentTrackEmotionEvent" />
@@ -150,7 +150,7 @@
       </Track>
     </Tracks>
     <Sequences>
-      <Sequence Id="21325c4a-bc77-4e44-80fe-e5ae1d29c371" Name="Sequence 1 - Greeting" DialogNodeColor="#FFCD5C5C" ΔTimeDuration="18.3">
+      <Sequence Id="21325c4a-bc77-4e44-80fe-e5ae1d29c371" Name="Sequence 1 - Cinematic" DialogNodeColor="#FFCD5C5C" ΔTimeDuration="18.3">
         <DialogNodeReference DialogNodeId="8bb46362-f017-8f85-0c25-3d7be053a371" ReferenceId="8bb46362-f017-8f85-0c25-3d7be053a371" />
         <Components TrackId="61f990cf-718d-4340-9c04-16cdec113597">
           <Component ComponentId="81e83736-145b-4aed-ba78-1b927f6c271d" TimeStart="0.03" ΔTimeDuration="5.93" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">

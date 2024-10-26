@@ -8,11 +8,85 @@ new subtable "1,1;2,1;3,1"
 object category "I_OBJ_Potion_Healing_Greater",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Potion_Healing_Superior",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ALCH_Solution_Potion_Rest_Lesser",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ALCH_Solution_Potion_Rest_Greater",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Ship_Crate_1"
 new subtable "4,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
-new treasuretable "SPJM_Ship_Crate_2"
 new subtable "2,1"
+object category "I_ALCH_Solution_Potion_Rest_Lesser",1,0,0,0,0,0,0,0
+new treasuretable "SPJM_Ship_Crate_2"
+new subtable "3,1"
 object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ALCH_Solution_Potion_Rest_Greater",1,0,0,0,0,0,0,0
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,0
+new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new treasuretable "LOW_VoicelessPenitent"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,0
+new treasuretable "MOO_ZhentQuartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "5,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new subtable "4,1"
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,1
+new treasuretable "LOW_MysticCarrion_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 1
+new subtable "2,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
+new treasuretable "SHA_MerregonTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,1
+new treasuretable "LOW_SteepsTrader_BooksAndScrolls"
+CanMerge 1
+new subtable "6,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new subtable "4,1"
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
+new treasuretable "WYR_Circus_KoboldMerchant_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,1
+new subtable "1,1"
+object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,1
+new subtable "2,1"
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0

@@ -8,6 +8,8 @@ KBSECTION
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Ship_AstralEnhancementDevice_923fcb9e-0b18-45d9-9358-575bdf62b809, _)
 AND
+NOT IsLocked((GUIDSTRING)S_SPJM_Ship_AstralEnhancementDevice_923fcb9e-0b18-45d9-9358-575bdf62b809, 1)
+AND
 NOT QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerShip_AstralEnhDevice_856b9f03-e250-143e-74f3-f5f4613712c3, (GUIDSTRING)_Player, (GUIDSTRING)S_SPJM_Ship_AstralEnhancementDevice_923fcb9e-0b18-45d9-9358-575bdf62b809)
 THEN
 PROC_TryStartAD((DIALOGRESOURCE)Dialog_SpelljammerShip_AstralEnhDevice_856b9f03-e250-143e-74f3-f5f4613712c3, (GUIDSTRING)_Player, (GUIDSTRING)S_SPJM_Ship_AstralEnhancementDevice_923fcb9e-0b18-45d9-9358-575bdf62b809);

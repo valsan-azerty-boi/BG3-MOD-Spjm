@@ -108,6 +108,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d70e84b1-d4c9-400d-b372-f463b44f26bf" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_WildspaceOrrery" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d7b8c2b1-ba29-4726-9874-92cf41db2b68" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fc929de0-593e-4a91-b96a-fc232fb868bc" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

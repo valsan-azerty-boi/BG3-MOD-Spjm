@@ -45,47 +45,25 @@
                      {
                         "GameData" : [
                            {
-                              "AiPersonalities" : [ {} ],
+                              "AiPersonalities" : [
+                                 {
+                                    "AiPersonality" : [
+                                       {
+                                          "AiPersonality" : {"type" : "FixedString", "value" : ""}
+                                       }
+                                    ]
+                                 }
+                              ],
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
                         ],
                         "Root" : {"type" : "bool", "value" : true},
-                        "TaggedTexts" : [
-                           {
-                              "TaggedText" : [
-                                 {
-                                    "HasTagRule" : {"type" : "bool", "value" : true},
-                                    "RuleGroup" : [
-                                       {
-                                          "Rules" : [ {} ],
-                                          "TagCombineOp" : {"type" : "uint8", "value" : 0}
-                                       }
-                                    ],
-                                    "TagTexts" : [
-                                       {
-                                          "TagText" : [
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "35496d99-4bc9-4f00-a3d0-e9f26d2183da"},
-                                                "TagText" : {
-                                                   "handle" : "hea11142fg8b59gd200geffbgd06d78c6cffb",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 11
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             }
-                                          ]
-                                       }
-                                    ]
-                                 }
-                              ]
-                           }
-                        ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "382352ce-64bf-710b-a9c8-ab5d25a71714"},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
-                        "constructor" : {"type" : "FixedString", "value" : "TagGreeting"},
+                        "constructor" : {"type" : "FixedString", "value" : "TagCinematic"},
                         "editorData" : [
                            {
                               "data" : [
@@ -139,7 +117,7 @@
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "IsCustomNode"},
-                                    "val" : {"type" : "LSString", "value" : "False"}
+                                    "val" : {"type" : "LSString", "value" : "True"}
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "MusicTags"},
@@ -179,7 +157,7 @@
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "logicalname"},
-                                    "val" : {"type" : "LSString", "value" : "Greeting"}
+                                    "val" : {"type" : "LSString", "value" : "Cinematic"}
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "position"},
@@ -318,7 +296,7 @@
                }
             ],
             "needLayout" : {"type" : "bool", "value" : false},
-            "nextNodeId" : {"type" : "uint32", "value" : 1},
+            "nextNodeId" : {"type" : "uint32", "value" : 2},
             "speakerSlotDescription" : [
                {
                   "data" : [

@@ -48,7 +48,7 @@
         <field name="Wisdom" type="IntegerTableFieldDefinition" value="13" />
         <field name="Charisma" type="IntegerTableFieldDefinition" value="7" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="19" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="149" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="109" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating;FloatingWhileMoving" enumeration_type_name="AttributeFlags" version="1" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:2;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="484393d9-eb7b-4b3b-b69b-5fdbfa940403" />
@@ -65,7 +65,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="049fc6ab-9065-4e76-b608-a6183bf2176e" />
         <field name="Strength" type="IntegerTableFieldDefinition" value="16" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="16" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="52" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="48" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
         <field name="Sight" type="IntegerTableFieldDefinition" value="1200" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="900" />

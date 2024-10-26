@@ -1,8 +1,10 @@
 {
   "Flags": {
-    "8bb46362-f017-8f85-0c25-3d7be053a371": [ ]
+    "8bb46362-f017-8f85-0c25-3d7be053a371": [
+      "SPJM_Spelljammer_Discovery_Global_AlreadyDone"
+    ]
   },
   "Lines": {
-    "8bb46362-f017-8f85-0c25-3d7be053a371": "*You gain your own Spelljammer*"
+    "8bb46362-f017-8f85-0c25-3d7be053a371": "Cinematic"
   }
 }

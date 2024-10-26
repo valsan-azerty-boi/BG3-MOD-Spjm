@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <Timeline Id="8940982c-a077-4cba-b1dd-facfa2e03af3" DialogResourceId="827ba29c-b3b1-70ac-3e57-2231bc778d81" AllowedPeanutTypes="Emotion, Attitude, LookAt">
-    <GenerationMetadata FullGenerationTimestamp="1729272425" PartialGenerationTimestamp="1729315595" />
+    <GenerationMetadata FullGenerationTimestamp="1729272425" PartialGenerationTimestamp="1729899011" />
     <TimelinePosition BoundSceneId="b20af678-aeb0-4701-b30a-a30e63a91539">
       <AdditionalBoundSceneId BoundSceneId="b20af678-aeb0-4701-b30a-a30e63a91539" />
     </TimelinePosition>
     <Tracks>
       <Track Name="Camera Shots" TrackId="27e1336e-0518-4daf-baf0-0b329903d646" Type="ComponentTrackCameraShot" />
       <Track Name="Speakers" TrackId="304b8a7d-9a79-479a-b2b2-8393e63c0ddc" Type="FolderTrack">
-        <Track Name="GROUP_Players" TrackId="c2bc4168-0e57-4d47-a9bb-166416f4e549" IsExpanded="true" ActorType="character" ActorId="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="7004f965-9ceb-4f80-beca-f1dd042367f3" Type="ActorTrackSpeaker">
+        <Track Name="GROUP_Players" TrackId="c2bc4168-0e57-4d47-a9bb-166416f4e549" IsExpanded="true" ActorType="character" ActorId="6bff5419-5a9e-4839-acd4-cac4f6e41bd7" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="7004f965-9ceb-4f80-beca-f1dd042367f3" Type="ActorTrackSpeaker">
           <Track Name="Voice" TrackId="bd2b95e4-4c91-4e1a-a784-4da40d0aee68" Type="ComponentTrackVoice" />
           <Track Name="Show Weapon" TrackId="2471cc70-5bc1-4438-a87c-01ce5069ef6a" Type="ComponentTrackShowWeapon" />
           <Track Name="Foot IK" TrackId="fb4ffd1c-a918-4a3c-9956-b5f56592b571" Type="ComponentTrackPhysics" />
@@ -139,7 +139,7 @@
       </Track>
     </Tracks>
     <Sequences>
-      <Sequence Id="5dc5804e-80f0-4dc2-bb66-f90a6fa36a98" Name="Sequence 1 - Greeting" DialogNodeColor="#FFCD5C5C" ΔTimeDuration="12.33">
+      <Sequence Id="5dc5804e-80f0-4dc2-bb66-f90a6fa36a98" Name="Sequence 1 - Cinematic" DialogNodeColor="#FFCD5C5C" ΔTimeDuration="12.33">
         <DialogNodeReference DialogNodeId="382352ce-64bf-710b-a9c8-ab5d25a71714" ReferenceId="382352ce-64bf-710b-a9c8-ab5d25a71714" />
         <Components TrackId="27e1336e-0518-4daf-baf0-0b329903d646">
           <Component ComponentId="1f60c990-7b55-492d-91f3-6fbb11d21494" ΔTimeDuration="3.22" AreCamersEdited="true" IsAutomatedLighting="true" IsAutomatedCamera="true" SwitchInterval="5" IsLooping="true">
@@ -296,6 +296,13 @@
             </Channel>
           </Component>
         </Components>
+        <Components TrackId="6692f9b3-9bbb-43b7-a803-7224f4fafb9f">
+          <Component ComponentId="e3b00451-0cca-426c-9b6b-a3fd23cffe19" IsInfinite="true" TimeDuration="1">
+            <Channel Name="Field of View">
+              <Key ΔTime="2.84" Id="2d8c7a2f-3f31-465a-9b01-8569726eb0f1" Value="20" />
+            </Channel>
+          </Component>
+        </Components>
         <Components TrackId="98332979-ce73-45f3-b296-7c0600a2658f">
           <Component ComponentId="a09f90dc-0528-4943-b9a1-0cab51a18cec" IsInfinite="true" TimeDuration="1">
             <Channel Name="Transform.Translate.X">
@@ -321,13 +328,6 @@
         </Components>
         <Components TrackId="748946d9-d86c-4471-b5af-b1dded95ed61">
           <Component ComponentId="b97ce644-1a53-4bc3-bdbe-0d6a1fa02704" IsInfinite="true" TimeDuration="1" />
-        </Components>
-        <Components TrackId="6692f9b3-9bbb-43b7-a803-7224f4fafb9f">
-          <Component ComponentId="e3b00451-0cca-426c-9b6b-a3fd23cffe19" IsInfinite="true" TimeDuration="1">
-            <Channel Name="Field of View">
-              <Key ΔTime="2.84" Id="2d8c7a2f-3f31-465a-9b01-8569726eb0f1" Value="20" />
-            </Channel>
-          </Component>
         </Components>
       </Sequence>
     </Sequences>

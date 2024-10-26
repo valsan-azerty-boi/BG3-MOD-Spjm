@@ -29,48 +29,35 @@
                      {
                         "GameData" : [
                            {
-                              "AiPersonalities" : [ {} ],
+                              "AiPersonalities" : [
+                                 {
+                                    "AiPersonality" : [
+                                       {
+                                          "AiPersonality" : {"type" : "FixedString", "value" : ""}
+                                       }
+                                    ]
+                                 }
+                              ],
                               "MusicInstrumentSounds" : [ {} ],
                               "OriginSound" : [ {} ]
                            }
                         ],
-                        "Greeting" : {"type" : "bool", "value" : true},
                         "Root" : {"type" : "bool", "value" : true},
-                        "TaggedTexts" : [
+                        "Tags" : [ {} ],
+                        "UUID" : {"type" : "FixedString", "value" : "8bb46362-f017-8f85-0c25-3d7be053a371"},
+                        "checkflags" : [
                            {
-                              "TaggedText" : [
+                              "flaggroup" : [
                                  {
-                                    "HasTagRule" : {"type" : "bool", "value" : true},
-                                    "RuleGroup" : [
+                                    "flag" : [
                                        {
-                                          "Rules" : [ {} ],
-                                          "TagCombineOp" : {"type" : "uint8", "value" : 0}
-                                       }
-                                    ],
-                                    "TagTexts" : [
-                                       {
-                                          "TagText" : [
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "2586fdc1-00e2-460f-99de-d2d93fcd0fcd"},
-                                                "TagText" : {
-                                                   "handle" : "hff93bb12ge6adge57bg6cbfg2d12c0f548bb",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 5
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             }
-                                          ]
-                                       }
-                                    ]
-                                 }
+                                          "UUID" : {"type" : "FixedString", "value" : "e7eab15f-a5ea-42c9-99a5-cd679984815a"},"value" : {"type" : "bool", "value" : false}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
                               ]
                            }
                         ],
-                        "Tags" : [ {} ],
-                        "UUID" : {"type" : "FixedString", "value" : "8bb46362-f017-8f85-0c25-3d7be053a371"},
-                        "checkflags" : [ {} ],
                         "children" : [ {} ],
-                        "constructor" : {"type" : "FixedString", "value" : "TagGreeting"},
+                        "constructor" : {"type" : "FixedString", "value" : "TagCinematic"},
                         "editorData" : [
                            {
                               "data" : [
@@ -124,7 +111,7 @@
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "IsCustomNode"},
-                                    "val" : {"type" : "LSString", "value" : "False"}
+                                    "val" : {"type" : "LSString", "value" : "True"}
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "MusicTags"},
@@ -164,7 +151,7 @@
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "logicalname"},
-                                    "val" : {"type" : "LSString", "value" : "Greeting"}
+                                    "val" : {"type" : "LSString", "value" : "Cinematic"}
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "position"},
@@ -178,7 +165,17 @@
                            }
                         ],
                         "endnode" : {"type" : "bool", "value" : true},
-                        "setflags" : [ {} ],
+                        "setflags" : [
+                           {
+                              "flaggroup" : [
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "e7eab15f-a5ea-42c9-99a5-cd679984815a"},"value" : {"type" : "bool", "value" : true}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                              ]
+                           }
+                        ],
                         "speaker" : {"type" : "int32", "value" : 0},
                         "suppresssubtitle" : {"type" : "bool", "value" : true}
                      }
@@ -240,7 +237,7 @@
                }
             ],
             "needLayout" : {"type" : "bool", "value" : false},
-            "nextNodeId" : {"type" : "uint32", "value" : 1},
+            "nextNodeId" : {"type" : "uint32", "value" : 2},
             "speakerSlotDescription" : [
                {
                   "data" : [
