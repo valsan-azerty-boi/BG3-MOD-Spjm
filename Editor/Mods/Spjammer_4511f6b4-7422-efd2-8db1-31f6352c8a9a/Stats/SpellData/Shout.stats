@@ -7,6 +7,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_UseSpelljammerHelm_Dialog" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_Steady" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

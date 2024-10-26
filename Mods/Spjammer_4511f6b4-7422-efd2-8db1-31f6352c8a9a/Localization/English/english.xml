@@ -55,12 +55,13 @@
   <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="22">*Travel to Dungeon 2 TODO*</content>
   <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="22">*Travel to Dungeon 3 TODO*</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
-  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="4">A title deed from space</content>
+  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="7">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
-  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="4">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
-  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="4">This contract is unread.</content>
+  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="7">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="7">This contract is unread.</content>
   <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
-  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="4">Activate</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="7">Activate</content>
+  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="2">Allows you to claim a Spelljammer.</content>
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
   <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljammer*</content>
@@ -273,12 +274,12 @@
   <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="9">Ballistae</content>
   <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="8">Canon</content>
   <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="8">Enhancement device</content>
-  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="18">*Unlock the Canon*</content>
-  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="18">*Leave*</content>
-  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="18">*Unlock the Ballistae*</content>
-  <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Canon unlocked*</content>
-  <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="15">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
+  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="18">*Unlock the Canon*</content>
+  <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Canon unlocked*</content>
+  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="18">*Unlock the Ballistae*</content>
+  <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
+  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="18">*Leave*</content>
   <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
   <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">You have a Proficienty bonus in Nature and Perception.</content>
   <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>

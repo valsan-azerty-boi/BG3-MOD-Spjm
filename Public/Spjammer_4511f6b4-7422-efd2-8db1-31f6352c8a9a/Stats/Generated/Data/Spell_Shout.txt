@@ -3,6 +3,7 @@ type "SpellData"
 data "SpellType" "Shout"
 data "Level" "1"
 data "Cooldown" "None"
+data "Icon" "statIcons_Steady"
 
 new entry "Shout_Spjm_SpeljammerContract"
 type "SpellData"
