@@ -164,6 +164,7 @@
                               ]
                            }
                         ],
+                        "endAllDialogs" : {"type" : "bool", "value" : true},
                         "endnode" : {"type" : "bool", "value" : true},
                         "setflags" : [
                            {

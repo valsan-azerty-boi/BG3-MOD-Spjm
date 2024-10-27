@@ -7,7 +7,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_UseSpelljammerHelm_Dialog" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_Steady" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_BLD_Ship_Darklake_Raft_New_Catamaran_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -18,7 +18,7 @@
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Self()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_Steady" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_BLD_Ship_Darklake_Raft_New_Catamaran_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_MageHand_L1to3" />

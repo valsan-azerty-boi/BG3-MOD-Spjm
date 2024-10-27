@@ -24,9 +24,6 @@ AND
 DB_Players(_Player)
 THEN
 AddSpell((CHARACTER)_Player, "ProjectileStrike_Spjm_ShipStrike_Ballistae", 1, 0);
-//SetOnStage((GUIDSTRING)SPJM_Spelljammer_Upgrade_Ballistae_191d2cab-cfef-4c82-8a0f-d7a6b3c1c586, 1);
-//SetVisible((GUIDSTRING)SPJM_Spelljammer_Upgrade_Ballistae_191d2cab-cfef-4c82-8a0f-d7a6b3c1c586, 1);
-//TeleportToPosition((GUIDSTRING)SPJM_Spelljammer_Upgrade_Ballistae_191d2cab-cfef-4c82-8a0f-d7a6b3c1c586, -53.785, 10.774, -21.255, "", 0, 0, 0, 0, 0);
 
 //END_REGION
 
@@ -38,9 +35,6 @@ AND
 DB_Players(_Player)
 THEN
 AddSpell((CHARACTER)_Player, "ProjectileStrike_Spjm_ShipStrike_Canon", 1, 0);
-//SetOnStage((GUIDSTRING)SPJM_Spelljammer_Upgrade_Canon_52120269-96c2-47c5-9250-ecd204bddc66, 1);
-//SetVisible((GUIDSTRING)SPJM_Spelljammer_Upgrade_Canon_52120269-96c2-47c5-9250-ecd204bddc66, 1);
-//TeleportToPosition((GUIDSTRING)SPJM_Spelljammer_Upgrade_Canon_52120269-96c2-47c5-9250-ecd204bddc66, 13.267, -2.035, -2.266, "", 0, 0, 0, 0, 0);
 
 //END_REGION
 EXITSECTION

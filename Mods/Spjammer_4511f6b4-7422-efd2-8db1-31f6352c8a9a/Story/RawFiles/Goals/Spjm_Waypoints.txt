@@ -1,11 +1,11 @@
 Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
-DB_WaypointInfo("Act1","WAYP_SPJM_Spelljammer",162fd1c1-2cf8-4914-b1eb-da52486c1e5b,52d67b40-7152-4a7b-aeca-7f3af7fbea0c);
-DB_WaypointInfo("Act1","WAYP_SPJM_AstralCity",80548723-7cba-4484-aa2a-a3b0cc2384b2,fadd3446-ac26-40a8-a066-fe3fa863b9c3);
-DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon1",5f46ef47-2b8e-414d-b86f-1eb9bc861541,d45ac4fe-1da2-4686-bc6b-61594da25c67);
-//DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon2",id,id);
-//DB_WaypointInfo("Act1","WAYP_SPJM_Dungeon3",id,id);
+DB_WaypointInfo("Act3","WAYP_SPJM_Spelljammer",162fd1c1-2cf8-4914-b1eb-da52486c1e5b,52d67b40-7152-4a7b-aeca-7f3af7fbea0c);
+DB_WaypointInfo("Act3","WAYP_SPJM_AstralCity",80548723-7cba-4484-aa2a-a3b0cc2384b2,fadd3446-ac26-40a8-a066-fe3fa863b9c3);
+DB_WaypointInfo("Act3","WAYP_SPJM_Dungeon1",5f46ef47-2b8e-414d-b86f-1eb9bc861541,d45ac4fe-1da2-4686-bc6b-61594da25c67);
+//DB_WaypointInfo("Act3","WAYP_SPJM_Dungeon2",id,id);
+//DB_WaypointInfo("Act3","WAYP_SPJM_Dungeon3",id,id);
 KBSECTION
 //REGION SPJM Unlocking a Spelljammer
 
@@ -16,7 +16,7 @@ DB_Players(_Player)
 THEN
 PROC_UnlockWaypointForAll("WAYP_SPJM_Spelljammer");
 SetFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9281d09, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
-// DEBUG:
+//ShowNotification(_Player,"Spelljammer acquired"); //DEBUG
 //SetFlag((FLAG)SPJM_Spelljammer_Ship_Canon_Unlockable_60d733b3-ad1a-422b-97f9-650491569ba9, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
 //SetFlag((FLAG)SPJM_Spelljammer_Ship_Ballistae_Unlockable_fba4506e-b8e4-420d-98cf-cd717405523f, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
 
@@ -35,20 +35,15 @@ ClearFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9
 
 //REGION SPJM Spelljammer Waypoints DEBUG
 
-IF
-DB_Players(_Player)
-THEN
-PROC_UnlockWaypointForAll("WAYP_SPJM_Spelljammer");
-PROC_UnlockWaypointForAll("WAYP_SPJM_AstralCity");
-PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
+//IF
+//DB_Players(_Player)
+//THEN
+//PROC_UnlockWaypointForAll("WAYP_SPJM_Spelljammer");
+//PROC_UnlockWaypointForAll("WAYP_SPJM_AstralCity");
+//PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon1");
 //PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon2");
 //PROC_UnlockWaypointForAll("WAYP_SPJM_Dungeon3");
-PROC_UnlockWaypointForAll("WAYP_PLA_ZhentDungeon");
-PROC_UnlockWaypointForAll("WAYP_UND_Fort");
-PROC_UnlockWaypointForAll("WAYP_HAG_Swamp");
-PROC_UnlockWaypointForAll("WAYP_DEN_Camp");
-PROC_UnlockWaypointForAll("WAYP_CHA_Top");
-PROC_UnlockWaypointForAll("WAYP_CHA_Chapel");
+//PROC_UnlockWaypointForAll("WAYP_DEN_Camp");
 
 //END_REGION
 EXITSECTION

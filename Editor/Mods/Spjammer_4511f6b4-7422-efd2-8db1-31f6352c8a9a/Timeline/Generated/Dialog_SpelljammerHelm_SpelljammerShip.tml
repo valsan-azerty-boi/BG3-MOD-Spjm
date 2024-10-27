@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <Timeline Id="f5fa5e44-ba47-471c-ac36-dd5b777bea7e" DialogResourceId="b48bedf4-41c7-c81e-e540-8b1699d50f0a" AllowedPeanutTypes="Emotion, Attitude, LookAt">
-    <GenerationMetadata FullGenerationTimestamp="1729115996" PartialGenerationTimestamp="1729315676" />
+    <GenerationMetadata FullGenerationTimestamp="1729115996" PartialGenerationTimestamp="1729990401" />
     <TimelinePosition BoundSceneId="2150ea4f-907f-4887-9c66-bad6e6e0c91b">
       <AdditionalBoundSceneId BoundSceneId="2150ea4f-907f-4887-9c66-bad6e6e0c91b" />
     </TimelinePosition>
@@ -28,12 +28,13 @@
           <Track Name="Animation" TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3" SlotId="e3ff500b-8db3-4fbd-a180-6aad8c3ba4f4" Type="ComponentTrackAnimation">
             <Track Name="Hide VFX" TrackId="33848729-e9cd-4165-bc8f-d1956269d13d" Type="KeyTrackBoolean" />
           </Track>
+          <Track Name="Show Weapon" TrackId="7dee360d-a7df-4604-8521-7f2b36b6eef8" Type="ComponentTrackShowWeapon" />
           <CustomActorData Type="CustomActorSoundData" />
           <ActorEndState />
           <ActorIdleOverrideData />
           <BehaviourActorStartCondition />
         </Track>
-        <Track Name="Spelljammer Helm(FUR_MF_SpelljammerHelm)" TrackId="98befe1a-51c0-4c4a-a380-f6b6c6cdba0d" IsExpanded="true" ActorType="character" ActorId="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="daf2c5be-91ad-44b9-9230-3e00e7a80e8d" Type="ActorTrackSpeaker">
+        <Track Name="Spelljammer Helm(FUR_MF_SpelljammerHelm)" TrackId="98befe1a-51c0-4c4a-a380-f6b6c6cdba0d" ActorType="character" ActorId="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="daf2c5be-91ad-44b9-9230-3e00e7a80e8d" Type="ActorTrackSpeaker">
           <Track Name="Voice" TrackId="f3bc35ed-5ca9-419c-b2cc-84175fece976" Type="ComponentTrackVoice" />
           <Track Name="Look At Event" TrackId="ff552ab6-ac30-48a4-bc3a-eed362fb5626" Type="ComponentTrackLookAtEvent" />
           <Track Name="Slot Material" TrackId="b9cb9e89-7572-41ee-b672-683830d36225" IsExpanded="true" MaterialGroupId="b9cb9e89-7572-41ee-b672-683830d36225" VisualResourceId="0d20ab93-8dcc-1ee0-f777-c702f7b807de" CharacterVisualResourceId="00000000-0000-0000-0000-000000000000" IsOverlay="false" Slot="0" OverlayPriority="0" Type="ComponentTrackMaterial">
@@ -55,26 +56,36 @@
           </Track>
           <Track Name="Sound Event" TrackId="0aebfb01-93b7-4f47-8f70-0776945d6a49" Type="ComponentTrackSoundEvent" />
           <Track Name="Sound Event" TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a" Type="ComponentTrackSoundEvent" />
+          <Track Name="Show Weapon" TrackId="6de26a62-0250-4b53-9b53-d27272ae4bd1" Type="ComponentTrackShowWeapon" />
           <CustomActorData Type="CustomActorSoundData" />
           <ActorEndState />
           <ActorIdleOverrideData />
           <BehaviourActorStartCondition />
         </Track>
       </Track>
-      <Track Name="Peanuts" TrackId="cb3d1ccc-da3c-47c9-9381-e2044cfd201c" Type="PeanutFolderTrack">
+      <Track Name="Peanuts" TrackId="cb3d1ccc-da3c-47c9-9381-e2044cfd201c" IsExpanded="true" Type="PeanutFolderTrack">
         <Track Name="Peanut 1" TrackId="1cb3c3d6-b5b5-4965-b046-503ace8243be" IsExpanded="true" ActorType="peanut" ActorId="1cb3c3d6-b5b5-4965-b046-503ace8243be" AssignedActorId="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" PeanutSlotIndex="0" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Animation" TrackId="cb2cb1ec-fc58-4071-9ec7-c6c7ed5e0640" IsExpanded="true" SlotId="e3ff500b-8db3-4fbd-a180-6aad8c3ba4f4" Type="ComponentTrackAnimation">
+            <Track Name="Hide VFX" TrackId="fef0b81b-9759-445e-bb1d-e1f540e719eb" Type="KeyTrackBoolean" />
+          </Track>
           <CustomActorData Type="CustomActorSoundData" />
           <ActorEndState />
           <ActorIdleOverrideData />
           <BehaviourActorStartCondition />
         </Track>
         <Track Name="Peanut 2" TrackId="25ce1c3a-5d09-43ce-aacf-dd4ac50ed7c5" IsExpanded="true" ActorType="peanut" ActorId="25ce1c3a-5d09-43ce-aacf-dd4ac50ed7c5" AssignedActorId="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" PeanutSlotIndex="1" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Animation" TrackId="1f0f6427-47fe-4b36-b314-dc0b282744f7" IsExpanded="true" SlotId="e3ff500b-8db3-4fbd-a180-6aad8c3ba4f4" Type="ComponentTrackAnimation">
+            <Track Name="Hide VFX" TrackId="74f17747-a702-4dac-912a-cbe41a96229d" Type="KeyTrackBoolean" />
+          </Track>
           <CustomActorData Type="CustomActorSoundData" />
           <ActorEndState />
           <ActorIdleOverrideData />
           <BehaviourActorStartCondition />
         </Track>
         <Track Name="Peanut 3" TrackId="257b5d10-1c1e-4206-8cc6-1b8568710bee" IsExpanded="true" ActorType="peanut" ActorId="257b5d10-1c1e-4206-8cc6-1b8568710bee" AssignedActorId="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" PeanutSlotIndex="2" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Animation" TrackId="eb63ca7a-b34d-4689-bc50-476bacda2148" IsExpanded="true" SlotId="e3ff500b-8db3-4fbd-a180-6aad8c3ba4f4" Type="ComponentTrackAnimation">
+            <Track Name="Hide VFX" TrackId="c221eb6c-3102-4351-bf7c-ddf527a1f017" Type="KeyTrackBoolean" />
+          </Track>
           <CustomActorData Type="CustomActorSoundData" />
           <ActorEndState />
           <ActorIdleOverrideData />
@@ -267,9 +278,6 @@
             </Channel>
           </Component>
         </Components>
-        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
-          <Component ComponentId="33a9850f-ba24-4a84-9b19-09d993f9dd25" IsInfinite="true" TimeDuration="1" />
-        </Components>
         <Components TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3">
           <Component ComponentId="3809158a-6253-451d-93bd-6813e8cead9e" ΔTimeDuration="3.36" AnimationSourceId="bd1d6896-19b3-4782-9d19-058fa26953c0" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" Transform="{{0,0,0,1}{0,0,1}{1}}" AnimationType="Base">
             <Channel Name="Animation.Hide VFX">
@@ -325,6 +333,9 @@
               </Key>
             </Channel>
           </Component>
+        </Components>
+        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
+          <Component ComponentId="33a9850f-ba24-4a84-9b19-09d993f9dd25" IsInfinite="true" TimeDuration="1" />
         </Components>
         <Components TrackId="531b92d8-a944-40b3-8d9b-35767863e286">
           <Component ComponentId="6a7b8e94-a78a-4de4-8d59-a13bbd90e7e6" IsInfinite="true" TimeDuration="1" />
@@ -432,9 +443,6 @@
             </Channel>
           </Component>
         </Components>
-        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
-          <Component ComponentId="7ef99e5a-28b0-4e93-81e1-5b9cf00a6809" IsInfinite="true" TimeDuration="1" />
-        </Components>
         <Components TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3">
           <Component ComponentId="7277bb67-f827-4db2-b5d8-0649db228995" ΔTimeDuration="5" AnimationSourceId="bd1d6896-19b3-4782-9d19-058fa26953c0" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" Transform="{{0,0,0,1}{0,0,1}{1}}" AnimationType="Base">
             <Channel Name="Animation.Hide VFX">
@@ -493,6 +501,9 @@
               </Key>
             </Channel>
           </Component>
+        </Components>
+        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
+          <Component ComponentId="7ef99e5a-28b0-4e93-81e1-5b9cf00a6809" IsInfinite="true" TimeDuration="1" />
         </Components>
         <Components TrackId="531b92d8-a944-40b3-8d9b-35767863e286">
           <Component ComponentId="8b0712e6-55fc-45fc-85ee-ed3131f1cd79" IsInfinite="true" TimeDuration="1" />
@@ -626,15 +637,6 @@
             </Channel>
           </Component>
         </Components>
-        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
-          <Component ComponentId="156c9155-9449-46f2-bf53-d9c9fa7c996b" IsInfinite="true" ΔTimeDuration="20">
-            <Channel Name="Sound Event">
-              <Key ΔTime="0" Id="d2c85e4d-4e6a-4f10-bbe9-ae7834264854">
-                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="cfb6ed82-bec2-47fe-9a5b-ad2b67d51a89" />
-              </Key>
-            </Channel>
-          </Component>
-        </Components>
         <Components TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3">
           <Component ComponentId="7e96259d-8702-4b18-b38c-1195147b2f13" ΔTimeDuration="11.85" AnimationSourceId="bd1d6896-19b3-4782-9d19-058fa26953c0" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" Transform="{{0,0,0,1}{0,0,1}{1}}" AnimationType="Base">
             <Channel Name="Animation.Hide VFX">
@@ -690,6 +692,15 @@
             <Channel Name="Sound Event">
               <Key ΔTime="0" Id="f2706afa-c63a-48e4-9abb-fba49502e996">
                 <Value ΔSoundType="SOUNDTYPE_Ambient" ΔEvent="22facf45-9c62-a0f4-cb5e-d539455725fb" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
+          <Component ComponentId="156c9155-9449-46f2-bf53-d9c9fa7c996b" IsInfinite="true" ΔTimeDuration="20">
+            <Channel Name="Sound Event">
+              <Key ΔTime="0" Id="d2c85e4d-4e6a-4f10-bbe9-ae7834264854">
+                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="cfb6ed82-bec2-47fe-9a5b-ad2b67d51a89" />
               </Key>
             </Channel>
           </Component>
@@ -862,15 +873,6 @@
             </Channel>
           </Component>
         </Components>
-        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
-          <Component ComponentId="21a5155e-f3e6-4d82-902b-0e89d9c9d793" IsInfinite="true" ΔTimeDuration="20">
-            <Channel Name="Sound Event">
-              <Key ΔTime="0" Id="43fb57b2-9f26-4aaf-b355-b51eeb5ac24a">
-                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="cfb6ed82-bec2-47fe-9a5b-ad2b67d51a89" />
-              </Key>
-            </Channel>
-          </Component>
-        </Components>
         <Components TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3">
           <Component ComponentId="e8d2fc01-6423-4dea-8e7d-45c8fc763d74" ΔTimeDuration="7.68" AnimationSourceId="bd1d6896-19b3-4782-9d19-058fa26953c0" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" Transform="{{0,0,0,1}{0,0,1}{1}}" AnimationType="Base">
             <Channel Name="Animation.Hide VFX">
@@ -926,6 +928,15 @@
             <Channel Name="Sound Event">
               <Key ΔTime="0" Id="2327f85d-6062-4f60-b109-fc0ac443c463">
                 <Value ΔSoundType="SOUNDTYPE_Ambient" ΔEvent="22facf45-9c62-a0f4-cb5e-d539455725fb" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
+          <Component ComponentId="21a5155e-f3e6-4d82-902b-0e89d9c9d793" IsInfinite="true" ΔTimeDuration="20">
+            <Channel Name="Sound Event">
+              <Key ΔTime="0" Id="43fb57b2-9f26-4aaf-b355-b51eeb5ac24a">
+                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="cfb6ed82-bec2-47fe-9a5b-ad2b67d51a89" />
               </Key>
             </Channel>
           </Component>
@@ -1169,15 +1180,6 @@
             </Channel>
           </Component>
         </Components>
-        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
-          <Component ComponentId="86e69e6c-b9be-4b37-9baf-cba143bd256d" IsInfinite="true" ΔTimeDuration="20">
-            <Channel Name="Sound Event">
-              <Key ΔTime="0" Id="e840cb37-dfb9-4ad9-998e-7aa80503e9d6">
-                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="cfb6ed82-bec2-47fe-9a5b-ad2b67d51a89" />
-              </Key>
-            </Channel>
-          </Component>
-        </Components>
         <Components TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3">
           <Component ComponentId="f80bbb8a-0ec7-4ef0-9d93-5c17a5fbf948" ΔTimeDuration="7.68" AnimationSourceId="bd1d6896-19b3-4782-9d19-058fa26953c0" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" Transform="{{0,0,0,1}{0,0,1}{1}}" AnimationType="Base">
             <Channel Name="Animation.Hide VFX">
@@ -1233,6 +1235,15 @@
             <Channel Name="Sound Event">
               <Key ΔTime="0" Id="2d8fc8ac-c924-41c3-a0f6-9031c4422369">
                 <Value ΔSoundType="SOUNDTYPE_Ambient" ΔEvent="22facf45-9c62-a0f4-cb5e-d539455725fb" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
+          <Component ComponentId="86e69e6c-b9be-4b37-9baf-cba143bd256d" IsInfinite="true" ΔTimeDuration="20">
+            <Channel Name="Sound Event">
+              <Key ΔTime="0" Id="e840cb37-dfb9-4ad9-998e-7aa80503e9d6">
+                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="cfb6ed82-bec2-47fe-9a5b-ad2b67d51a89" />
               </Key>
             </Channel>
           </Component>
@@ -1353,6 +1364,27 @@
         <Components TrackId="2c79e066-7eda-466f-b250-285879c6fcea">
           <Component ComponentId="05357baf-7559-46a0-bc47-8604b034d8da" IsInfinite="true" TimeDuration="1" />
         </Components>
+        <Components TrackId="cb2cb1ec-fc58-4071-9ec7-c6c7ed5e0640">
+          <Component ComponentId="76801c2a-b12d-4b00-ac7e-97fad1217a75" IsInfinite="true" ΔTimeDuration="12" AnimationSourceId="d201fbb7-0c46-40da-842b-3e2440cf8254" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" AnimationType="Base">
+            <Channel Name="Animation.Hide VFX">
+              <Key ΔTime="0" Id="53499ba0-3837-4544-a20b-eb1d7ed8df4d" Value="False" />
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="1f0f6427-47fe-4b36-b314-dc0b282744f7">
+          <Component ComponentId="be4f7ad0-ab1d-437e-a294-e4dd28e57610" IsInfinite="true" ΔTimeDuration="12" AnimationSourceId="aa69eba5-b5c1-464e-b0e0-613946de0b27" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" AnimationType="Base">
+            <Channel Name="Animation.Hide VFX">
+              <Key ΔTime="0" Id="0b4c775c-c9bc-40a6-a9d7-798f52f7b322" Value="False" />
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="eb63ca7a-b34d-4689-bc50-476bacda2148">
+          <Component ComponentId="e14e4b56-9973-4823-b9bc-107309355173" IsInfinite="true" ΔTimeDuration="12" AnimationSourceId="4b56cd92-e304-4562-93f8-37d3b159d3f6" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" AnimationType="Base">
+            <Channel Name="Animation.Hide VFX">
+              <Key ΔTime="0" Id="7e6b65f3-540a-4a28-a514-91e95cefb7b6" Value="False" />
+            </Channel>
+          </Component>
+        </Components>
       </Sequence>
       <Sequence Id="3d58626e-7c74-4282-b564-9876d89a0252" Name="Sequence 6 - Answer" DialogNodeColor="#FFCD5C5C" ΔTimeDuration="5.76">
         <DialogNodeReference DialogNodeId="953e5a5e-f4d3-2d4d-38a9-dd89bc5baea3" ReferenceId="953e5a5e-f4d3-2d4d-38a9-dd89bc5baea3" />
@@ -1400,9 +1432,6 @@
               </Key>
             </Channel>
           </Component>
-        </Components>
-        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
-          <Component ComponentId="bb9497c8-14da-41bc-8d7f-73550115753c" IsInfinite="true" TimeDuration="1" />
         </Components>
         <Components TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3">
           <Component ComponentId="1b9e6440-f7dd-4bb8-b886-b1d33e850358" ΔTimeDuration="5.76" AnimationSourceId="bd1d6896-19b3-4782-9d19-058fa26953c0" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" Transform="{{0,0,0,1}{0,0,1}{1}}" AnimationType="Base">
@@ -1462,6 +1491,9 @@
               </Key>
             </Channel>
           </Component>
+        </Components>
+        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
+          <Component ComponentId="bb9497c8-14da-41bc-8d7f-73550115753c" IsInfinite="true" TimeDuration="1" />
         </Components>
         <Components TrackId="531b92d8-a944-40b3-8d9b-35767863e286">
           <Component ComponentId="17644b91-defe-474c-ae13-9bd5dfb5ecba" IsInfinite="true" TimeDuration="1" />
@@ -1591,15 +1623,6 @@
             </Channel>
           </Component>
         </Components>
-        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
-          <Component ComponentId="b10f48a4-5be1-4c64-ba6d-7c92cfa9892b" IsInfinite="true" ΔTimeDuration="20">
-            <Channel Name="Sound Event">
-              <Key ΔTime="0" Id="9a4830b9-1e49-40a6-84e3-31db5f9dfe7b">
-                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="ec19d32b-1213-4166-ba20-405994e62381" />
-              </Key>
-            </Channel>
-          </Component>
-        </Components>
         <Components TrackId="a7517231-9b15-4374-b64f-ee2fb761c5b3">
           <Component ComponentId="878c1d46-040c-451d-a225-5a2658b0bbc5" ΔTimeDuration="13.13" AnimationSourceId="bd1d6896-19b3-4782-9d19-058fa26953c0" PlayRate="1" IsContinuous="true" FadeIn="0" FadeOut="0" Transform="{{0,0,0,1}{0,0,1}{1}}" AnimationType="Base">
             <Channel Name="Animation.Hide VFX">
@@ -1655,6 +1678,15 @@
             <Channel Name="Sound Event">
               <Key ΔTime="0" Id="ef17cd66-8322-4262-8c3b-6ccb8791c042">
                 <Value ΔSoundType="SOUNDTYPE_Ambient" ΔEvent="22facf45-9c62-a0f4-cb5e-d539455725fb" />
+              </Key>
+            </Channel>
+          </Component>
+        </Components>
+        <Components TrackId="a9053a26-bdbe-4dbb-9b59-ba9e2e01f47a">
+          <Component ComponentId="b10f48a4-5be1-4c64-ba6d-7c92cfa9892b" IsInfinite="true" ΔTimeDuration="20">
+            <Channel Name="Sound Event">
+              <Key ΔTime="0" Id="9a4830b9-1e49-40a6-84e3-31db5f9dfe7b">
+                <Value ΔSoundType="SOUNDTYPE_Music" ΔEvent="ec19d32b-1213-4166-ba20-405994e62381" />
               </Key>
             </Channel>
           </Component>
