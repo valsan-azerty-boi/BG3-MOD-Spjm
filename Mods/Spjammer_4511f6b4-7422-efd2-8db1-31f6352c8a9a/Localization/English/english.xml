@@ -24,7 +24,7 @@
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljammer Helm</content>
   <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="11">Astral circle</content>
   <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="18">Astral circle</content>
-  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="9">Astral circle</content>
+  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="10">Astral circle</content>
   <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Astral Dungeon 1</content>
   <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
   <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
@@ -296,4 +296,6 @@
   <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="7">*Symbiosing with the Helm*</content>
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="6">*Perform a ritual to synchronize with the Helm*</content>
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="5">*Use your faith towards the Helm*</content>
+  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="2">Ballistae</content>
+  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="2">Canon</content>
 </contentList>
