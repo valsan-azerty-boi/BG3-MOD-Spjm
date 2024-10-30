@@ -1,0 +1,610 @@
+{
+   "save" : {
+      "header" : {
+         "version" : "4.7.1.3"
+      },
+      "regions" : {
+         "dialog" : {
+            "DefaultAddressedSpeakers" : [
+               {
+                  "Object" : [
+                     {
+                        "MapKey" : {"type" : "int32", "value" : 0},
+                        "MapValue" : {"type" : "int32", "value" : -1}
+                     },
+                     {
+                        "MapKey" : {"type" : "int32", "value" : 1},
+                        "MapValue" : {"type" : "int32", "value" : -1}
+                     }
+                  ]
+               }
+            ],
+            "UUID" : {"type" : "FixedString", "value" : "ea09927c-63a0-7a4e-db5c-4462ffeef75c"},
+            "automated" : {"type" : "bool", "value" : true},
+            "category" : {"type" : "LSString", "value" : "Automated NPC Dialog"},
+            "nodes" : [
+               {
+                  "RootNodes" : [
+                     {
+                        "RootNodes" : {"type" : "FixedString", "value" : "5e15cb5a-7e3a-cb4b-b39e-39ab980b45b9"}
+                     }
+                  ],
+                  "node" : [
+                     {
+                        "GameData" : [
+                           {
+                              "AiPersonalities" : [ {} ],
+                              "MusicInstrumentSounds" : [ {} ],
+                              "OriginSound" : [ {} ]
+                           }
+                        ],
+                        "Greeting" : {"type" : "bool", "value" : true},
+                        "Root" : {"type" : "bool", "value" : true},
+                        "TaggedTexts" : [
+                           {
+                              "TaggedText" : [
+                                 {
+                                    "HasTagRule" : {"type" : "bool", "value" : true},
+                                    "RuleGroup" : [
+                                       {
+                                          "Rules" : [ {} ],
+                                          "TagCombineOp" : {"type" : "uint8", "value" : 0}
+                                       }
+                                    ],
+                                    "TagTexts" : [
+                                       {
+                                          "TagText" : [
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "4c0e6c39-4218-4963-9894-7b865f8011a5"},
+                                                "TagText" : {
+                                                   "handle" : "h23edfc03g758fg3180ge0a0g298e712c880e",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "094953e6-b726-4afa-a1e2-a6f0292644bb"},
+                                                "TagText" : {
+                                                   "handle" : "hb37628e5gfa24g28a4g33b3ga0d25817b8e2",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "1cf73ed4-7f54-4e54-8410-3b0ce7881043"},
+                                                "TagText" : {
+                                                   "handle" : "h328585a0g5b06gba29g39c9g28e8fb5aa344",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "08484536-c0b6-401d-948b-8a2ef90bd8b2"},
+                                                "TagText" : {
+                                                   "handle" : "haf37fe6dgce9eg6e5dg2aa9gdbf1186f128f",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "e9cde043-2e33-4f07-be50-02a7f9d0342c"},
+                                                "TagText" : {
+                                                   "handle" : "h5e7240aegf2efg5bbcg48degc281f532538e",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "87d28988-b7bd-44f1-81e2-33352aba6c62"},
+                                                "TagText" : {
+                                                   "handle" : "h7ae59af3g7127gcc2ag3e41ge2b24ed6f90d",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "aeac6a1b-f43b-4fbf-92f4-31dd898c054b"},
+                                                "TagText" : {
+                                                   "handle" : "h00788fadg1b3bgbd87g8220gc26a47ad2571",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "430b2b22-94a5-450d-9fcf-25217b684f2c"},
+                                                "TagText" : {
+                                                   "handle" : "hb81d8926ge58egdba1g5960g9f263f409e82",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "dbf1c85a-c351-4f32-8d5d-33eaf26f3347"},
+                                                "TagText" : {
+                                                   "handle" : "hcb7c21f7g8e5bgfc99gabf0g944050e186f4",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "ad6a5134-7440-415d-a6bd-e26c012eec21"},
+                                                "TagText" : {
+                                                   "handle" : "hf244f071g131dg4804g4a50ge2476e1cd62f",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "77d008fc-138e-46d6-b68d-17352e263bf4"},
+                                                "TagText" : {
+                                                   "handle" : "hab852e5cgc89ag2bbcg5929g688012db5a4c",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "74b35db0-f3f7-4fa2-840f-602d03e63804"},
+                                                "TagText" : {
+                                                   "handle" : "h51fe44e2g3c14g2349g601bg13298f9260fb",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "bfb19dcf-86c5-4d4c-89c3-6ab1b8962734"},
+                                                "TagText" : {
+                                                   "handle" : "hcf0a1b2dg24d4gd218g11a9gaef27a1bafb2",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "59559faf-7160-4734-a12a-c8e245eeb91b"},
+                                                "TagText" : {
+                                                   "handle" : "h529c210egb111g7250g0d54g8d53103ef0ce",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "4cb337c9-0978-490a-805e-29f8a22af07b"},
+                                                "TagText" : {
+                                                   "handle" : "h5a745238g7836g5930g7818g2a2dc699be72",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "ca1bfca0-8742-48f4-ab22-68c81e987542"},
+                                                "TagText" : {
+                                                   "handle" : "h3c6e5d24gee25gb853g73c1gaba3ea129d39",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "b5cbe590-ed9a-4ab4-87c4-fca0dac26d28"},
+                                                "TagText" : {
+                                                   "handle" : "hff18299fgf5b6g951dg6167gb4bc75314565",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "dc3b827f-540a-4649-b73a-f26fbb3cac40"},
+                                                "TagText" : {
+                                                   "handle" : "h2a41fb57gc2d7g7987g20d9geb30d16b01ad",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "72b6c6ac-49b9-4346-b1bd-e3a33c8e9bd3"},
+                                                "TagText" : {
+                                                   "handle" : "h3c7569f7ge0f2g5d55g305eg45685a6265c0",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "33c2cd80-60ef-48cf-817d-718be81dafe2"},
+                                                "TagText" : {
+                                                   "handle" : "hd580690dg30e9g02d7g69a0gdd2cea6426b6",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "2ff7e810-89f4-481e-b3d5-d2010a5d5815"},
+                                                "TagText" : {
+                                                   "handle" : "hbee341e6g4816ga260g0f71gefeea6470d66",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "16918f8d-40b3-41e6-9dbb-f9c3bd786fc0"},
+                                                "TagText" : {
+                                                   "handle" : "h151bb0c8g955dge57dg9fc4g2c12920d6d98",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "064ef7d3-2b94-4ac4-a5f3-c3b4981aabda"},
+                                                "TagText" : {
+                                                   "handle" : "hf4c7b82fg0d47gb627ga645ge4ab56e5b63e",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "cc8da6b0-424d-4f0f-be10-139a3d3474fa"},
+                                                "TagText" : {
+                                                   "handle" : "h4f2882dfgbbc0g2ad6g3281g7ac9a992369c",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "9f801c58-78a4-44b8-834b-29bf36e73e56"},
+                                                "TagText" : {
+                                                   "handle" : "hd5c73691g6669g2f32gd726g53a038065406",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "ade9fc82-2d7d-4f94-9c02-a8bae34f8332"},
+                                                "TagText" : {
+                                                   "handle" : "h90e0002dgef4eg0242g79cegb00ebb805a9f",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "e00b1f6d-4c21-4806-8f8c-9001662bec89"},
+                                                "TagText" : {
+                                                   "handle" : "h9c191f9cgb495g87fcg5fd4gd2d86fde3189",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "6b8078f1-3e2e-4291-9e1e-2ab265129b2d"},
+                                                "TagText" : {
+                                                   "handle" : "h446976ceg339eg1155g0811gd9acfdf31c28",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "14811e73-a9d8-4480-a204-66f8b1dd174f"},
+                                                "TagText" : {
+                                                   "handle" : "ha250f369gc7eag971bg517bg577eec10b2ab",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "e48dd0dc-4813-42fd-8bc4-372a372ed97a"},
+                                                "TagText" : {
+                                                   "handle" : "h1a1db8c9gba14g8f18g5221g1368eac474c5",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "2afc235e-508b-4a2d-a629-5853c9c88007"},
+                                                "TagText" : {
+                                                   "handle" : "h1b770f7bg9f6bga6f2g19e8g9380bc619a5a",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "1987262f-8c2e-4dbe-b87b-7e856cf73c79"},
+                                                "TagText" : {
+                                                   "handle" : "h1193e8a7g7f18g628fgef69g85eec47e5753",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "226723d7-925f-4332-a657-3fa594689f7d"},
+                                                "TagText" : {
+                                                   "handle" : "h12ddb5aeg21b9g7ffagb011gcad3c42ec2de",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "31475f45-9f55-4c3b-bbf6-cb84eeb2beea"},
+                                                "TagText" : {
+                                                   "handle" : "h4e9728b8g65f5g8a9dg9487g8bb7348b450e",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "96bcde17-d198-4d64-ba9e-88c0b9ef159d"},
+                                                "TagText" : {
+                                                   "handle" : "h405457b3g7315gc228gce3eg39c5d112f3b5",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "f025e993-5909-48bd-a977-33fe6c3142d7"},
+                                                "TagText" : {
+                                                   "handle" : "he5161886g8aebgfc6aga7a4gfd53bc70afd9",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             },
+                                             {
+                                                "LineId" : {"type" : "guid", "value" : "07358eb9-4398-44ea-84c6-5d05b72ab726"},
+                                                "TagText" : {
+                                                   "handle" : "h8499ad7eg73a9g1f08g6cf3g57f010dd3626",
+                                                   "type" : "TranslatedString",
+                                                   "version" : 2
+                                                },
+                                                "stub" : {"type" : "bool", "value" : true}
+                                             }
+                                          ]
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ],
+                        "Tags" : [ {} ],
+                        "UUID" : {"type" : "FixedString", "value" : "5e15cb5a-7e3a-cb4b-b39e-39ab980b45b9"},
+                        "checkflags" : [ {} ],
+                        "children" : [ {} ],
+                        "constructor" : {"type" : "FixedString", "value" : "TagGreeting"},
+                        "editorData" : [
+                           {
+                              "data" : [
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "AnimationTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "Attitude"},
+                                    "val" : {"type" : "LSString", "value" : "Default"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CinematicNodeContext"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CinematicObjects"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomCineArtKeysPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomLightingPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomSoundPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "CustomVFXPresent"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "Emotion"},
+                                    "val" : {"type" : "LSString", "value" : "Default"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "ForceDisableIsCustomNode"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "ID"},
+                                    "val" : {"type" : "LSString", "value" : "N1"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "InternalNodeContext"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "IsCustomNode"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "MusicTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "NodeContext"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "Quality"},
+                                    "val" : {"type" : "LSString", "value" : "Bronze"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "SFXTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "StateChangeTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "TemplateNodeUUID"},
+                                    "val" : {"type" : "LSString", "value" : "00000000-0000-0000-0000-000000000000"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "TemplateVersion"},
+                                    "val" : {"type" : "LSString", "value" : "0"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "VFXTags"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "collapsed"},
+                                    "val" : {"type" : "LSString", "value" : "False"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "logicalname"},
+                                    "val" : {"type" : "LSString", "value" : "Greeting"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "position"},
+                                    "val" : {"type" : "LSString", "value" : "15;-204"}
+                                 },
+                                 {
+                                    "key" : {"type" : "FixedString", "value" : "sourcetemplate"},
+                                    "val" : {"type" : "LSString", "value" : ""}
+                                 }
+                              ]
+                           }
+                        ],
+                        "endnode" : {"type" : "bool", "value" : true},
+                        "setflags" : [ {} ],
+                        "speaker" : {"type" : "int32", "value" : 0}
+                     }
+                  ]
+               }
+            ],
+            "speakerlist" : [
+               {
+                  "speaker" : [
+                     {
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "db92ce30-b9de-437f-af5d-d1b26b77c4cb"},
+                        "index" : {"type" : "FixedString", "value" : "0"},
+                        "list" : {"type" : "LSString", "value" : "fe80d0b0-8e03-427c-a954-0491f1af07a5"}
+                     },
+                     {
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "b4f2ae8e-fb24-495d-8416-e16378e26e31"},
+                        "index" : {"type" : "FixedString", "value" : "1"},
+                        "list" : {"type" : "LSString", "value" : "e0d1ff71-04a8-4340-ae64-9684d846eb83"}
+                     }
+                  ]
+               }
+            ]
+         },
+         "editorData" : {
+            "HowToTrigger" : {"type" : "LSString", "value" : ""},
+            "defaultAttitudes" : [
+               {
+                  "data" : [
+                     {
+                        "key" : {"type" : "FixedString", "value" : "0"},
+                        "val" : {"type" : "LSString", "value" : "Neutral"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "1"},
+                        "val" : {"type" : "LSString", "value" : "Neutral"}
+                     }
+                  ]
+               }
+            ],
+            "defaultEmotions" : [
+               {
+                  "data" : [
+                     {
+                        "key" : {"type" : "FixedString", "value" : "0"},
+                        "val" : {"type" : "LSString", "value" : "Neutral"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "1"},
+                        "val" : {"type" : "LSString", "value" : "Neutral"}
+                     }
+                  ]
+               }
+            ],
+            "isImportantForStagings" : [
+               {
+                  "data" : [
+                     {
+                        "key" : {"type" : "FixedString", "value" : "0"},
+                        "val" : {"type" : "LSString", "value" : "True"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "1"},
+                        "val" : {"type" : "LSString", "value" : "True"}
+                     }
+                  ]
+               }
+            ],
+            "isPeanuts" : [
+               {
+                  "data" : [
+                     {
+                        "key" : {"type" : "FixedString", "value" : "0"},
+                        "val" : {"type" : "LSString", "value" : "False"}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "1"},
+                        "val" : {"type" : "LSString", "value" : "False"}
+                     }
+                  ]
+               }
+            ],
+            "needLayout" : {"type" : "bool", "value" : false},
+            "nextNodeId" : {"type" : "uint32", "value" : 1},
+            "speakerSlotDescription" : [
+               {
+                  "data" : [
+                     {
+                        "key" : {"type" : "FixedString", "value" : "0"},
+                        "val" : {"type" : "LSString", "value" : ""}
+                     },
+                     {
+                        "key" : {"type" : "FixedString", "value" : "1"},
+                        "val" : {"type" : "LSString", "value" : ""}
+                     }
+                  ]
+               }
+            ],
+            "synopsis" : {"type" : "LSString", "value" : ""}
+         }
+      }
+   }
+}

@@ -85,14 +85,13 @@
         <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
         <field name="Value" type="IntegerTableFieldDefinition" value="650" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="0.02" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.1" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="18" />
         <field name="DefaultBoosts" type="StringTableFieldDefinition" value="CriticalHit(AttackTarget,Failure,Never);CriticalHit(AttackTarget,Success,Never)" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Magical" enumeration_type_name="InventoryTabs" version="1" />
-        <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
-        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="ItemUseTypes" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="FireResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
@@ -101,6 +100,8 @@
         <field name="UseConditions" type="StringTableFieldDefinition" value="not IsSummon()" />
         <field name="FallingHitEffect" type="StringTableFieldDefinition" value="VFX_Combat_Bludgeoning_Damage_Critical_01" />
         <field name="FallingLandEffect" type="StringTableFieldDefinition" value="VFX_Combat_Force_Land_01" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="SPJM_Passive_WildspaceOrrery_ForTooltipDesc" />
+        <field name="StatusInInventory" type="StringTableFieldDefinition" value="Spjm_WildspaceOrerry_Buff" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -109,6 +110,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_WildspaceOrrery" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d7b8c2b1-ba29-4726-9874-92cf41db2b68" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fc929de0-593e-4a91-b96a-fc232fb868bc" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

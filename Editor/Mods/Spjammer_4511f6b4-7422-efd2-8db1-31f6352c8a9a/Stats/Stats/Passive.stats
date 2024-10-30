@@ -24,9 +24,11 @@
         <field name="UUID" type="IdTableFieldDefinition" value="50cfce5e-8d84-4520-8db0-4226e003e013" />
         <field name="Name" type="NameTableFieldDefinition" value="Background_Spjm_DivineContact" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h95400c63gfbc2g33d4gb7edg1474d5c7dcde" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb0afa464g5234ge051g9f73g148aebbb3cde" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Action_DivineIntervention_Supplies" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="headf19efg5745g1274gd55ag99a91c822c93" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_DivineIntervention_Attack" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="LoreDescription" type="TranslatedStringTableFieldDefinition" handle="h1fbfea32g6188gb001g16e1g5ce3d640b0a5" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(SavingThrow,Wisdom)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -34,9 +36,10 @@
         <field name="UUID" type="IdTableFieldDefinition" value="5d91396a-d6a3-4bb2-b36f-64209cdb092c" />
         <field name="Name" type="NameTableFieldDefinition" value="Background_Spjm_WildspaceAdaptation" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8b023e16g66ddg06bdg619ega47c53b1b8d9" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h31555400g4792gb507gbb03g25e3fc3e8897" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="3" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_WildMagicSurge" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="LoreDescription" type="TranslatedStringTableFieldDefinition" handle="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -46,6 +49,15 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirBubble" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2b08e930-1ec1-41df-9a36-2a6b44079940" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_WildspaceOrrery_ForTooltipDesc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Magical" />
       </fields>
     </stat_object>
   </stat_objects>

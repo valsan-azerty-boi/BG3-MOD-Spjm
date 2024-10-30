@@ -29,9 +29,10 @@
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_WildspaceOrerry_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h15664102g660cga135gc7d3g7ed687640947" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Item_ALCH_Ingredient_Part_ScryingEye" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Magical" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_WILDSPACEOREITEM_BUFF" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(SavingThrow,Wisdom);ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Perception)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Perception)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

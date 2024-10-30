@@ -7,13 +7,19 @@
   <content contentuid="he8b29522g64d7ge617g6a3bgb48e3cc8ce06" version="2">You have &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;Proficiency&amp;lt;/LSTag&amp;gt; in &amp;lt;LSTag Tooltip="Insight"&amp;gt;Insight&amp;lt;/LSTag&amp;gt; and &amp;lt;LSTag Tooltip="Religion"&amp;gt;Religion&amp;lt;/LSTag&amp;gt;.</content>
   <content contentuid="h95400c63gfbc2g33d4gb7edg1474d5c7dcde" version="1">Divine Contact</content>
   <content contentuid="hb0afa464g5234ge051g9f73g148aebbb3cde" version="1">In the Astral Sea, you crossed paths with a wandering deity. The encounter was brief and nonviolent, yet it made a lasting impression on you. This deity saw fit to share one secret or obscure bit of cosmic lore with you.</content>
+  <content contentuid="h1fbfea32g6188gb001g16e1g5ce3d640b0a5" version="1">In the Astral Sea, you crossed paths with a wandering deity. The encounter was brief and nonviolent, yet it made a lasting impression on you. This deity saw fit to share one secret or obscure bit of cosmic lore with you.</content>
+  <content contentuid="h433116e0gb7e0g56f7g838eg0d6bc19e0a8d" version="1">You have a permanent advantage on Wisdom saving throws.</content>
+  <content contentuid="headf19efg5745g1274gd55ag99a91c822c93" version="1">You have a permanent advantage on Wisdom saving throws.</content>
   <content contentuid="h646f6661g2582gb6e1gcb86g5d5943e3dfd7" version="1">Wildspacer</content>
   <content contentuid="h102a62cag5189g1440g33dbgd9e57be73253" version="1">Wildspacer</content>
   <content contentuid="h63ce5bd0g339fg02c9g73eegf034b061e892" version="1">Wildspacer</content>
   <content contentuid="he9a2d11bga7f7gf42bg98d5ga03f231fe2b3" version="1">You were raised in the void of Wildspace, home to asteroid miners, moon farmers, and other hardy folk. You spent your early years on the crew of a spelljamming ship, performing helpful chores such as swabbing the deck, loading and offloading cargo, and scraping barnacles off the hull.</content>
   <content contentuid="h8c3ad9beg67f3gd301g2edbg4aa980a73bbc" version="2">You have &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;Proficiency&amp;lt;/LSTag&amp;gt; in &amp;lt;LSTag Tooltip="Athletics"&amp;gt;Athletics&amp;lt;/LSTag&amp;gt; and &amp;lt;LSTag Tooltip="Survival"&amp;gt;Survival&amp;lt;/LSTag&amp;gt;.</content>
   <content contentuid="h8b023e16g66ddg06bdg619ega47c53b1b8d9" version="1">Wildspace Adaptation</content>
-  <content contentuid="h31555400g4792gb507gbb03g25e3fc3e8897" version="1">You learned how to adapt to any gravity. You gain the Tough feat.</content>
+  <content contentuid="h31555400g4792gb507gbb03g25e3fc3e8897" version="2">You have gained experience from your time in space and have learned to adapt to any gravity.</content>
+  <content contentuid="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1">You have gained experience from your time in space and have learned to adapt to any gravity.</content>
+  <content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">You have the Tough feat permanently.</content>
+  <content contentuid="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="3">You have the Tough feat permanently.</content>
   <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Portal</content>
   <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
   <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
@@ -257,11 +263,11 @@
   <content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">Discover what the 'meat sound' is.</content>
   <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Brain Blast!</content>
   <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
-  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="4">Oz</content>
-  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="4">Tavern keeper</content>
-  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="4">*This illithid looks at you*</content>
-  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="4">&lt;i&gt;Trade.&lt;/i&gt;</content>
-  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="4">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="5">Oz</content>
+  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="5">Tavern keeper</content>
+  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="8">*This illithid looks at you*</content>
+  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="8">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="8">&lt;i&gt;Leave.&lt;/i&gt;</content>
   <content contentuid="h89975669ga317g279cga6a9g028012652811" version="1">Air Bubble</content>
   <content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">Air Bubble</content>
   <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
@@ -282,8 +288,8 @@
   <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="2">You are synchronized with a Spelljamming Helm.</content>
   <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
   <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>
-  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="1">Wildspace Orrery</content>
-  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="1">Within a Wildspace system, this portable arcane device once automatically tracked the positions and movements of all suns, planets, moons, and comets within that system, projecting a display of these bodies into the space above its current location. In that display, a white, pulsating pinprick of light marked the orrery’s location.</content>
+  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="2">Wildspace Orrery</content>
+  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="2">Within a Wildspace system, this portable arcane device once automatically tracked the positions and movements of all suns, planets, moons, and comets within that system, projecting a display of these bodies into the space above its current location. In that display, a white, pulsating pinprick of light marked the orrery’s location.</content>
   <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">You have a Proficienty bonus in Nature and Perception.</content>
   <content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">You have a Proficienty bonus in Nature and Perception.</content>
   <content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">Traveller's Chest</content>
@@ -292,10 +298,82 @@
   <content contentuid="h698d80bdg29e5g51a4g3a76g32d5ad9b985e" version="1">Traveller's Chest</content>
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Hatch to camp</content>
   <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="2">Hatch to camp</content>
-  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="4">Ladder to ship</content>
+  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="5">Ladder to ship</content>
   <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="7">*Symbiosing with the Helm*</content>
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="6">*Perform a ritual to synchronize with the Helm*</content>
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="5">*Use your faith towards the Helm*</content>
   <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="2">Ballistae</content>
   <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="2">Canon</content>
+  <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="5">*A simple merchant who offers goods for purchase*</content>
+  <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="5">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">Trout</content>
+  <content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="2">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h882854e6g2815g3a64g1543g4712359645aa" version="1">Think the stardust vendor will be in soon?</content>
+  <content contentuid="ha67711e7g8ab8ge040gc710gaded92d07a35" version="1">Seen any astral fish today?</content>
+  <content contentuid="h0d6ea77eg9977g619dg6972g60822f2bb5ad" version="1">In the Astral Sea, one moment you're adrift, the next you're face-to-face with a god.</content>
+  <content contentuid="h76b6b14bg6443g7877g304bg21e8339b55fa" version="1">Haven't aged a day since I left my world. Strange feeling, that.</content>
+  <content contentuid="h8077f50fga02bg1017g42f8g90cf9269160b" version="1">Nothing like the hum of the silver void to ease the mind.</content>
+  <content contentuid="hd8b11de5gf81cgb24dg6530gc7ea752b104a" version="1">Keep your wits here stranger, the stars might swallow you whole.</content>
+  <content contentuid="h78eab429gca56g2a96gcf57g5e9dcebd16bc" version="1">Watch your step around those Githyanki pirates, unless you like the taste of steel.</content>
+  <content contentuid="haefeeff8g5b66gcd2ag32e0g7a5d972af239" version="1">Floating islands again today... they're closer than they were yesterday.</content>
+  <content contentuid="h5c76a666ga171g50d5gbbb5gbe2d4d931d35" version="1">And if you gaze for long into a star, the star gazes also into you.</content>
+  <content contentuid="h8d4be789gb480g24a6gcb85gdef04b225b26" version="2">Thomas the Astral Smith</content>
+  <content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="2">Smith</content>
+  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="1">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Wildspace Orrery</content>
+  <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="h23edfc03g758fg3180ge0a0g298e712c880e" version="2">Last time I drifted in space, a voice called my name from beyond the stars.</content>
+  <content contentuid="hb37628e5gfa24g28a4g33b3ga0d25817b8e2" version="2">Time's a funny thing here; best not to think too hard about it.</content>
+  <content contentuid="h328585a0g5b06gba29g39c9g28e8fb5aa344" version="2">I swear I saw a god drift by, wrapped in chains, looking right through me.</content>
+  <content contentuid="haf37fe6dgce9eg6e5dg2aa9gdbf1186f128f" version="2">Here's to another day the Astral Sea didn't claim us! Bottoms up!</content>
+  <content contentuid="h5e7240aegf2efg5bbcg48degc281f532538e" version="2">First time here, eh? You'll find no better ale, nor stranger folk.</content>
+  <content contentuid="h7ae59af3g7127gcc2ag3e41ge2b24ed6f90d" version="2">A toast! May the stars never turn their gaze our way.</content>
+  <content contentuid="h00788fadg1b3bgbd87g8220gc26a47ad2571" version="2">So there I was, wrestling a megapede with one hand and holding my drink in the other!</content>
+  <content contentuid="hb81d8926ge58egdba1g5960g9f263f409e82" version="2">The stars watch us, so we watch each other. Keep your allies close, friend.</content>
+  <content contentuid="hcb7c21f7g8e5bgfc99gabf0g944050e186f4" version="2">Drink up, mate! In the Astral Sea, you never know when you'll float by this way again.</content>
+  <content contentuid="hf244f071g131dg4804g4a50ge2476e1cd62f" version="2">Ever seen a mind flayer ship up close?</content>
+  <content contentuid="hab852e5cgc89ag2bbcg5929g688012db5a4c" version="2">The stars tell stories, if you know how to listen.</content>
+  <content contentuid="h51fe44e2g3c14g2349g601bg13298f9260fb" version="2">Mind your thoughts, traveler. They drift louder out here.</content>
+  <content contentuid="hcf0a1b2dg24d4gd218g11a9gaef27a1bafb2" version="2">Hold tight to your soul, stranger. The void has ways of taking what it wants.</content>
+  <content contentuid="h529c210egb111g7250g0d54g8d53103ef0ce" version="2">A gith raider once told me, 'Here, time's just another horizon.'</content>
+  <content contentuid="h5a745238g7836g5930g7818g2a2dc699be72" version="2">Keep an eye out for fallen starssome hold secrets from other worlds.</content>
+  <content contentuid="h3c6e5d24gee25gb853g73c1gaba3ea129d39" version="2">Floating islands come and go. Like dreams, they vanish if you don't catch them.</content>
+  <content contentuid="hff18299fgf5b6g951dg6167gb4bc75314565" version="2">I swear the stars look closer after a few rounds of beer!</content>
+  <content contentuid="h2a41fb57gc2d7g7987g20d9geb30d16b01ad" version="2">Cheers to our last port; may the next be as lively as this one!</content>
+  <content contentuid="h3c7569f7ge0f2g5d55g305eg45685a6265c0" version="2">Never trust a sailor without a tale or two of ghost ships.</content>
+  <content contentuid="hd580690dg30e9g02d7g69a0gdd2cea6426b6" version="2">I heard a tale of a star you can drink from… don't know what's true anymore.</content>
+  <content contentuid="hbee341e6g4816ga260g0f71gefeea6470d66" version="2">I've seen ships come back empty-handed, as if the crew just… dissolved into the stars.</content>
+  <content contentuid="h151bb0c8g955dge57dg9fc4g2c12920d6d98" version="2">You can find lost memories floating in the Astral Sea… but not all of them are yours to take.</content>
+  <content contentuid="hf4c7b82fg0d47gb627ga645ge4ab56e5b63e" version="2">Touching a star isn't the hard part. Surviving what comes after, now that's a challenge.</content>
+  <content contentuid="h4f2882dfgbbc0g2ad6g3281g7ac9a992369c" version="2">I once found a scroll just floating in space, but it vanished before I could grab it.</content>
+  <content contentuid="hd5c73691g6669g2f32gd726g53a038065406" version="2">You ever notice how you can taste the sky in these drinks? It's like a piece of infinity.</content>
+  <content contentuid="h90e0002dgef4eg0242g79cegb00ebb805a9f" version="2">Bought a map from a gith traderbest gold I ever spent. Took me to worlds I never knew existed.</content>
+  <content contentuid="h9c191f9cgb495g87fcg5fd4gd2d86fde3189" version="2">Every drink here tastes like dreams and memories. Or maybe that's just the stardust.</content>
+  <content contentuid="h446976ceg339eg1155g0811gd9acfdf31c28" version="2">Just another round to keep us steady in this strange, spinning universe.</content>
+  <content contentuid="ha250f369gc7eag971bg517bg577eec10b2ab" version="2">It's funnyout here, a single night can feel like a whole lifetime.</content>
+  <content contentuid="h1a1db8c9gba14g8f18g5221g1368eac474c5" version="2">They say Spelljamming Helm knows your soul better than you do. A toast to our guides, then!</content>
+  <content contentuid="h1b770f7bg9f6bga6f2g19e8g9380bc619a5a" version="2">Raise a glass! Even out here, we're closer than family.</content>
+  <content contentuid="h1193e8a7g7f18g628fgef69g85eec47e5753" version="2">A ship passed by yesterday, all painted in strange colors. Said they'd seen the stars at the 'edge.' I wonder what that means…</content>
+  <content contentuid="h12ddb5aeg21b9g7ffagb011gcad3c42ec2de" version="2">The stars don't rest, so why should we?</content>
+  <content contentuid="h4e9728b8g65f5g8a9dg9487g8bb7348b450e" version="2">I used to look up at the stars and think I'd never see them up close. Now? They're more like neighbors.</content>
+  <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="2">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
+  <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="2">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
+  <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="2">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
+  <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="1">Keep your weapons close, if you've got the nerve to use them.</content>
+  <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="1">I've met phantoms in the Astral Sea with more spine than your crew.</content>
+  <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="1">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
+  <content contentuid="hc3d0ebc8g7885g2bb5gf7c0ge10f0a751756" version="1">Astral raiders fear no void, can you say the same, wretch?</content>
+  <content contentuid="hec7130f3gd0ddg1780g3a24g49f5acbf1490" version="1">Touch me again, and you'll lose that hand.</content>
+  <content contentuid="h631aceebg4af9gc92eg6f59g6911f2aad6a2" version="1">If you're going to linger, at least try not to bore me.</content>
+  <content contentuid="h7e8efb48gbeeegadd0g229bgb463b2ba9884" version="1">Did I invite you this close? Didn't think so.</content>
+  <content contentuid="hf359c2d2g440bgba89g4219g870e052bca2f" version="1">Stay back, unless you want me to make a quick end of this.</content>
+  <content contentuid="h479eb43fga78eg3fd4g741cg758070e888ef" version="1">The more you stare, the less I like you.</content>
+  <content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="1">Is there a purpose to your presence, or just an itch for trouble?</content>
+  <content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="1">The forge never sleeps, and neither do I, it seems.</content>
+  <content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="1">I swear, one day, I'll forge a hammer that doesn't weigh half a mountain.</content>
+  <content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="1">Master Thomas says it's the heat that toughens you... feels like it's cooking me alive.</content>
+  <content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="1">Master Thomas says it's 'precision work.' Looks a lot like hard labor to me.</content>
+  <content contentuid="h3b919efbg8ad6g0860gdb50g5f01919f5e01" version="1">One day, I'll have my own forge, and maybe I'll get an apprentice to do all this.</content>
+  <content contentuid="heba2bdb5g69f4gbda6g1a50g8e6509cb0f97" version="2">Adventurer</content>
+  <content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">Adventurer</content>
 </contentList>

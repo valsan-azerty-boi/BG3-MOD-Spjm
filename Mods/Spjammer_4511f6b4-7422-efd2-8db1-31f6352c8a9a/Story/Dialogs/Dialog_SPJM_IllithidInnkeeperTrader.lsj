@@ -64,7 +64,7 @@
                                                 "TagText" : {
                                                    "handle" : "h86737cdeg6395ge827g2177gc831190868fc",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 8
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -281,7 +281,7 @@
                                                 "TagText" : {
                                                    "handle" : "he9927395g5fbcg752bgd87bg2605a81d23a9",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 8
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -450,7 +450,7 @@
                                                 "TagText" : {
                                                    "handle" : "hd2be7132gc61ag81c2gdca2g39a9c125216e",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 8
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -597,7 +597,7 @@
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "c157649f-0694-4277-8cc2-a58fb55f43f5"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "fe80d0b0-8e03-427c-a954-0491f1af07a5"}
+                        "list" : {"type" : "LSString", "value" : "5abb83cf-88bd-47e5-b3cc-a6981e1c8686"}
                      },
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "bdf1eedb-86b1-47f8-b91f-8e245c2c742f"},

@@ -28,7 +28,7 @@
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Features from DnD 5E Spelljammer"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
-                    <attribute id="PhotoBooth" type="FixedString" value=""/>
+                    <attribute id="PhotoBooth" type="FixedString" value="SYS_PortraitGeneration_A"/>
                     <attribute id="PublishHandle" type="uint64" value="4441753"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="4511f6b4-7422-efd2-8db1-31f6352c8a9a"/>

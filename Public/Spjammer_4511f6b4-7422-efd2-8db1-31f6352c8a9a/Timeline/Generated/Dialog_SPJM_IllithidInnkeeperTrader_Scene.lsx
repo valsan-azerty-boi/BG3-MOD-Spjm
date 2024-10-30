@@ -3,9 +3,9 @@
     <version major="4" minor="7" revision="1" build="3"/>
     <region id="TLScene">
         <node id="root">
-            <attribute id="Identifier" type="guid" value="c2890e59-8d32-8219-0ffb-af88be1b1e8d"/>
+            <attribute id="Identifier" type="guid" value="f6332c98-ee74-95e6-5a53-1b4cbcac22f2"/>
             <attribute id="SceneBounds" type="fvec3">
-                <float3 x="1" y="0" z="2"/>
+                <float3 x="0.66463268" y="0" z="1.2411034"/>
             </attribute>
             <children>
                 <node id="LightingSetups">
@@ -86,11 +86,6 @@
                     <children>
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="1"/>
-                        </node>
-                        <node id="TLActor">
-                            <attribute id="ActorType" type="uint8" value="2"/>
-                            <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="aa772968-b5e0-4441-8d86-2d0506b4aab5"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -99,7 +94,7 @@
                                             <children>
                                                 <node id="MapValue">
                                                     <attribute id="Position" type="fvec3">
-                                                        <float3 x="0" y="0" z="1"/>
+                                                        <float3 x="0" y="0" z="0"/>
                                                     </attribute>
                                                     <attribute id="RotationQuat" type="fvec4">
                                                         <float4 x="0" y="0" z="0" w="1"/>
@@ -113,9 +108,9 @@
                             </children>
                         </node>
                         <node id="TLActor">
-                            <attribute id="ActorType" type="uint8" value="4"/>
+                            <attribute id="ActorType" type="uint8" value="2"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
+                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -124,7 +119,7 @@
                                             <children>
                                                 <node id="MapValue">
                                                     <attribute id="Position" type="fvec3">
-                                                        <float3 x="-1" y="0" z="2"/>
+                                                        <float3 x="0" y="0" z="0.38200456"/>
                                                     </attribute>
                                                     <attribute id="RotationQuat" type="fvec4">
                                                         <float4 x="0" y="0" z="0" w="1"/>
@@ -149,12 +144,12 @@
                                             <children>
                                                 <node id="MapValue">
                                                     <attribute id="Position" type="fvec3">
-                                                        <float3 x="1" y="0" z="2"/>
+                                                        <float3 x="0.68875909" y="0" z="1.555907"/>
                                                     </attribute>
                                                     <attribute id="RotationQuat" type="fvec4">
-                                                        <float4 x="0" y="0" z="0" w="1"/>
+                                                        <float4 x="0" y="0.070188694" z="0" w="0.9975338"/>
                                                     </attribute>
-                                                    <attribute id="Scale" type="float" value="1"/>
+                                                    <attribute id="Scale" type="float" value="0.99999988"/>
                                                 </node>
                                             </children>
                                         </node>
@@ -165,7 +160,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="4"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
+                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -174,12 +169,37 @@
                                             <children>
                                                 <node id="MapValue">
                                                     <attribute id="Position" type="fvec3">
-                                                        <float3 x="0" y="0" z="3"/>
+                                                        <float3 x="1.0463068" y="0" z="0.69233429"/>
                                                     </attribute>
                                                     <attribute id="RotationQuat" type="fvec4">
-                                                        <float4 x="0" y="0" z="0" w="1"/>
+                                                        <float4 x="0" y="0.15666042" z="0" w="0.98765254"/>
                                                     </attribute>
-                                                    <attribute id="Scale" type="float" value="1"/>
+                                                    <attribute id="Scale" type="float" value="1.0000004"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="TLActor">
+                            <attribute id="ActorType" type="uint8" value="4"/>
+                            <attribute id="ImportantForStaging" type="bool" value="true"/>
+                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
+                            <children>
+                                <node id="Transforms">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                            <children>
+                                                <node id="MapValue">
+                                                    <attribute id="Position" type="fvec3">
+                                                        <float3 x="-0.28295845" y="0" z="1.650075"/>
+                                                    </attribute>
+                                                    <attribute id="RotationQuat" type="fvec4">
+                                                        <float4 x="0" y="-0.077164866" z="0" w="0.99701834"/>
+                                                    </attribute>
+                                                    <attribute id="Scale" type="float" value="1.0000001"/>
                                                 </node>
                                             </children>
                                         </node>
@@ -190,7 +210,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="8"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="08c970d7-3138-45e8-8965-68eadf4b07cd"/>
+                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -199,7 +219,7 @@
                                             <children>
                                                 <node id="MapValue">
                                                     <attribute id="Position" type="fvec3">
-                                                        <float3 x="-8.7422777e-08" y="0" z="-1"/>
+                                                        <float3 x="-8.7422777e-08" y="0" z="-0.83213186"/>
                                                     </attribute>
                                                     <attribute id="RotationQuat" type="fvec4">
                                                         <float4 x="0" y="1" z="0" w="-4.3711388e-08"/>
@@ -214,46 +234,10 @@
                         </node>
                     </children>
                 </node>
-                <node id="TLCameras">
+                <node id="TLInheritedScenes">
                     <children>
-                        <node id="Object">
-                            <attribute id="MapKey" type="guid" value="2fb290ec-148c-4ce7-a23f-2f61875ecd66"/>
-                            <children>
-                                <node id="TLCameras">
-                                    <attribute id="Identifier" type="guid" value="2fb290ec-148c-4ce7-a23f-2f61875ecd66"/>
-                                    <attribute id="Name" type="LSString" value="Camera 0"/>
-                                    <children>
-                                        <node id="FramingOffset">
-                                            <children>
-                                                <node id="Object">
-                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
-                                                    <attribute id="MapValue" type="fvec2">
-                                                        <float2 x="0.0040274858" y="0.016924189"/>
-                                                    </attribute>
-                                                </node>
-                                            </children>
-                                        </node>
-                                        <node id="Transform">
-                                            <children>
-                                                <node id="Object">
-                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
-                                                    <children>
-                                                        <node id="MapValue">
-                                                            <attribute id="Position" type="fvec3">
-                                                                <float3 x="0.35772824" y="2.0755939" z="0.10013586"/>
-                                                            </attribute>
-                                                            <attribute id="RotationQuat" type="fvec4">
-                                                                <float4 x="-0.027505476" y="0.97230893" z="-0.17345406" w="-0.15418388"/>
-                                                            </attribute>
-                                                            <attribute id="Scale" type="float" value="1"/>
-                                                        </node>
-                                                    </children>
-                                                </node>
-                                            </children>
-                                        </node>
-                                    </children>
-                                </node>
-                            </children>
+                        <node id="TLScene">
+                            <attribute id="Object" type="string" value="BG3modTest/UnpackedMods/Shared/bnz_standing_Px1_Shipping.lsx"/>
                         </node>
                     </children>
                 </node>

@@ -20,7 +20,7 @@
                     <attribute id="Description" type="TranslatedString" handle="he9a2d11bga7f7gf42bg98d5ga03f231fe2b3" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h646f6661g2582gb6e1gcb86g5d5943e3dfd7" version="1"/>
                     <attribute id="Hidden" type="bool" value="false"/>
-                    <attribute id="Passives" type="LSString" value="Background_Spjm_Wildspacer;Background_Spjm_WildspaceAdaptation"/>
+                    <attribute id="Passives" type="LSString" value="Background_Spjm_Wildspacer;Background_Spjm_WildspaceAdaptation;Tough"/>
                     <attribute id="UUID" type="guid" value="05c0ef8b-93c5-4454-9165-c6dbaf3a6ced"/>
                     <children>
                         <node id="Tags">
