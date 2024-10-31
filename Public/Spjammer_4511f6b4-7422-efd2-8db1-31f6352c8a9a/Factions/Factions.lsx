@@ -9,6 +9,11 @@
                     <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="34aad042-80d3-4f0f-aa83-7752bc9dffa5"/>
                 </node>
+                <node id="Faction">
+                    <attribute id="Faction" type="FixedString" value="SPJM_GithPirates"/>
+                    <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="cf71a534-e9ca-4845-a15a-a8e974419a4e"/>
+                </node>
             </children>
         </node>
     </region>
