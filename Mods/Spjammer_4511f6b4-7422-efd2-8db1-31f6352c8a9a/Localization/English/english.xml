@@ -263,8 +263,8 @@
   <content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">Discover what the 'meat sound' is.</content>
   <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Brain Blast!</content>
   <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
-  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="10">Oz</content>
-  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="10">Tavern keeper</content>
+  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
+  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
   <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="8">*This illithid looks at you*</content>
   <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="8">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="8">&lt;i&gt;Leave.&lt;/i&gt;</content>
@@ -302,7 +302,7 @@
   <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="7">*Symbiosing with the Helm*</content>
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="6">*Perform a ritual to synchronize with the Helm*</content>
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="5">*Use your faith towards the Helm*</content>
-  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="2">Ballistae</content>
+  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="3">Ballistae</content>
   <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="2">Canon</content>
   <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="5">*A simple merchant who offers goods for purchase*</content>
   <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="5">&lt;i&gt;Leave.&lt;/i&gt;</content>
@@ -317,9 +317,9 @@
   <content contentuid="h78eab429gca56g2a96gcf57g5e9dcebd16bc" version="1">Watch your step around those Githyanki pirates, unless you like the taste of steel.</content>
   <content contentuid="haefeeff8g5b66gcd2ag32e0g7a5d972af239" version="1">Floating islands again today... they're closer than they were yesterday.</content>
   <content contentuid="h5c76a666ga171g50d5gbbb5gbe2d4d931d35" version="1">And if you gaze for long into a star, the star gazes also into you.</content>
-  <content contentuid="h8d4be789gb480g24a6gcb85gdef04b225b26" version="6">Thomas the Astral Smith</content>
-  <content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="6">Smith</content>
-  <content contentuid="h48ca4288g5ef5gc0e6g2877g7a8373fa100c" version="2">Gerart the apprentice</content>
+  <content contentuid="h8d4be789gb480g24a6gcb85gdef04b225b26" version="7">Thomas the Astral Smith</content>
+  <content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="7">Smith</content>
+  <content contentuid="h48ca4288g5ef5gc0e6g2877g7a8373fa100c" version="3">Gerart the apprentice</content>
   <content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="1">The forge never sleeps, and neither do I, it seems.</content>
   <content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="1">I swear, one day, I'll forge a hammer that doesn't weigh half a mountain.</content>
   <content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="1">Master Thomas says it's the heat that toughens you... feels like it's cooking me alive.</content>
@@ -365,12 +365,12 @@
   <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="2">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
   <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="2">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
   <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="2">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
-  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="2">Gith pirate captain</content>
-  <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="2">Gith pirate</content>
-  <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="2">Gith pirate</content>
-  <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="2">Gith pirate</content>
-  <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="2">Gith pirate</content>
-  <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="2">Gith pirate</content>
+  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="6">Gith pirate captain</content>
+  <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="5">Gith pirate</content>
+  <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="5">Gith pirate</content>
+  <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="4">Gith pirate</content>
+  <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="5">Gith pirate</content>
+  <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="6">Gith pirate</content>
   <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="1">Keep your weapons close, if you've got the nerve to use them.</content>
   <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="1">I've met phantoms in the Astral Sea with more spine than your crew.</content>
   <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="1">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
@@ -388,4 +388,18 @@
   <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Spelljammer trader</content>
   <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Adventurer</content>
   <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Adventurer</content>
+  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="6">Adventurer</content>
+  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="4">Wildspacer</content>
+  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="2">Gith pirate</content>
+  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="1">Gith pirate</content>
+  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="2">Adventurer</content>
+  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="2">Plasmoid adventurer</content>
+  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="2">Astral Drifter</content>
+  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="4">Plasmoid fighter</content>
+  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="4">Astral Drifter</content>
+  <content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="2">Flexible in form, firm in resolve.</content>
+  <content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="2">Not every adventurer can be as... versatile as me.</content>
+  <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="2">I'm 'fluid in my movements'.</content>
+  <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="2">*Bloop*</content>
+  <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="1">Chest</content>
 </contentList>

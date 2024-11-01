@@ -78,5 +78,97 @@
         <field name="Charisma" type="IntegerTableFieldDefinition" value="5" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3bfbfc5a-bf15-4193-b72a-bc3a7252023a" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Gith_PirateCaptain" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b21446e5-50ee-42ed-bcc9-ea48931bb253" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="90" />
+        <field name="XPReward" type="GuidObjectTableFieldDefinition" value="206b753f-bc3b-46af-98b9-0c711d98c678" />
+        <field name="Passives" type="StringTableFieldDefinition" value="WarMagic_Githyanki;AttackOfOpportunity;DarknessRules;Background_Spjm_WildspaceAdaptation;Tough;ExtraAttack" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0f0d0085-5594-4550-94c9-fa92a280d220" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Gith_Pirate" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="70dc05cf-dedc-416f-909f-d5ee0fdcfaf5" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="78" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ExtraAttack;CrossbowExpert_PointBlank;CrossbowExpert_Wounding;AttackOfOpportunity;DarknessRules;Tough" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="243692d3-c692-49a0-a287-e38642349d7f" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_AstralSmith" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="70a2dff4-9778-4b31-be09-40827866f8b9" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="112" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ExtraAttack;Tactical_Discipline;AttackOfOpportunity;DarknessRules;Tough" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="15e80687-1412-4841-ae3a-852d4be2b12a" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_AstralSmith_Apprentice" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="70a2dff4-9778-4b31-be09-40827866f8b9" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="48" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;Movement:9;ReactionActionPoint:1" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tactical_Discipline;AttackOfOpportunity;DarknessRules" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4018e6ed-b20d-4b56-9112-35fe2ccb09b9" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_IllithidTaverner" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="70a2dff4-9778-4b31-be09-40827866f8b9" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="96" />
+        <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="ResistantToMagical" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="504486a2-a5ed-4704-a2aa-8b3d4e5442e7" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Plasmoid_AstralDrifter" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="92972161-3e36-4853-9591-da68898d4d7a" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="20" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="24" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;Movement:7;ReactionActionPoint:1" />
+        <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;DarknessRules;Darkvision;Blindsight;Background_Spjm_DivineContact" />
+        <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
