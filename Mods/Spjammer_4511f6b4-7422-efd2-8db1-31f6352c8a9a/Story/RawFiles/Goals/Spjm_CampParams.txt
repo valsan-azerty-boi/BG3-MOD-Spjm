@@ -46,10 +46,23 @@ TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_CAMP_SPJM_Entrance_59bed0c5-da4d-49
 
 //REGION SPJM Ladder to leave camp
 
-PROC
-PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Camp_HatchToShip_2689e989-9d2a-4c58-a381-9210c5b0c209, _)
-THEN
-TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Ship_CampEntrance_18d6b7db-38a9-491d-9281-549d4b2b5b3b, "", 1, 1, 1, 1, 1);
+//PROC
+//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Camp_HatchToShip_2689e989-9d2a-4c58-a381-9210c5b0c209, _)
+//AND
+//DB_PlayerInCamp(_Player)
+//AND
+//NOT DB_Camp_QueuedNight(_)
+//THEN
+//PROC_Camp_Leave((CHARACTER)_Player);
+
+//PROC
+//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Camp_HatchToShip_2689e989-9d2a-4c58-a381-9210c5b0c209, _)
+//AND
+//DB_Camp_QueuedNight(_)
+//AND
+//NOT DB_CampNight_Completed(_)
+//THEN
+//DB_NOOP(1);
 
 //END_REGION
 EXITSECTION

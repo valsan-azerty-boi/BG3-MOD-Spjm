@@ -19,6 +19,13 @@ PROC_TryStartAD((DIALOGRESOURCE)Dialog_SpelljammerShip_AstralEnhDevice_856b9f03-
 //REGION SPJM Spelljammer Upgrade Ballistae
 
 IF
+CastSpell(_Spell, "Shout_Spjm_PurchaseOrderBallistae", _, _, _)
+AND
+DB_Players(_Player)
+THEN
+SetFlag((FLAG)SPJM_Spelljammer_Ship_Ballistae_Unlockable_fba4506e-b8e4-420d-98cf-cd717405523f, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+IF
 DB_GlobalFlag((FLAG)SPJM_Spelljammer_Ship_Ballistae_Unlocked_1064032c-df91-4ecb-b409-aa3969da66ef)
 AND
 DB_Players(_Player)
@@ -28,6 +35,13 @@ AddSpell((CHARACTER)_Player, "ProjectileStrike_Spjm_ShipStrike_Ballistae", 1, 0)
 //END_REGION
 
 //REGION SPJM Spelljammer Upgrade Canon
+
+IF
+CastSpell(_Spell, "Shout_Spjm_PurchaseOrderCanon", _, _, _)
+AND
+DB_Players(_Player)
+THEN
+SetFlag((FLAG)SPJM_Spelljammer_Ship_Canon_Unlockable_60d733b3-ad1a-422b-97f9-650491569ba9, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
 
 IF
 DB_GlobalFlag((FLAG)SPJM_Spelljammer_Ship_Canon_Unlocked_88741912-bd5d-42f0-a686-488ba6b79eea)

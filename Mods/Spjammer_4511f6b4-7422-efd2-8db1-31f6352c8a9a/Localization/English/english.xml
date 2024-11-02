@@ -70,13 +70,13 @@
   <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="29">*Travel to Dungeon 2 TODO*</content>
   <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="29">*Travel to Dungeon 3 TODO*</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
-  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="7">A title deed from space</content>
+  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="9">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
-  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="7">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
-  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="7">This contract is unread.</content>
+  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="9">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="9">This contract is unread.</content>
   <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
-  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="7">Activate</content>
-  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="2">Allows you to claim a Spelljammer.</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="9">Activate</content>
+  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="4">Allows you to claim a Spelljammer.</content>
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
   <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljammer*</content>
@@ -298,12 +298,12 @@
   <content contentuid="h698d80bdg29e5g51a4g3a76g32d5ad9b985e" version="1">Traveller's Chest</content>
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Hatch to camp</content>
   <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="2">Hatch to camp</content>
-  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="5">Ladder to ship</content>
+  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="7">Ladder to ship</content>
   <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="7">*Symbiosing with the Helm*</content>
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="6">*Perform a ritual to synchronize with the Helm*</content>
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="5">*Use your faith towards the Helm*</content>
-  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="3">Ballistae</content>
-  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="2">Canon</content>
+  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="4">Ballistae</content>
+  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="3">Canon</content>
   <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="5">*A simple merchant who offers goods for purchase*</content>
   <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="5">&lt;i&gt;Leave.&lt;/i&gt;</content>
   <content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">Trout</content>
@@ -365,12 +365,12 @@
   <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="2">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
   <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="2">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
   <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="2">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
-  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="6">Gith pirate captain</content>
-  <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="5">Gith pirate</content>
-  <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="5">Gith pirate</content>
-  <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="4">Gith pirate</content>
-  <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="5">Gith pirate</content>
-  <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="6">Gith pirate</content>
+  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="9">Gith pirate captain</content>
+  <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">Gith pirate</content>
+  <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="8">Gith pirate</content>
+  <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="6">Gith pirate</content>
+  <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="9">Gith pirate</content>
+  <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="10">Gith pirate</content>
   <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="1">Keep your weapons close, if you've got the nerve to use them.</content>
   <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="1">I've met phantoms in the Astral Sea with more spine than your crew.</content>
   <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="1">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
@@ -388,18 +388,52 @@
   <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Spelljammer trader</content>
   <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Adventurer</content>
   <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Adventurer</content>
-  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="6">Adventurer</content>
-  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="4">Wildspacer</content>
-  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="2">Gith pirate</content>
-  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="1">Gith pirate</content>
-  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="2">Adventurer</content>
-  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="2">Plasmoid adventurer</content>
-  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="2">Astral Drifter</content>
-  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="4">Plasmoid fighter</content>
-  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="4">Astral Drifter</content>
+  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="10">Adventurer</content>
+  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="7">Wildspacer</content>
+  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="4">Gith pirate</content>
+  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="6">Gith pirate</content>
+  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="15">Adventurer</content>
+  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="7">Plasmoid adventurer</content>
+  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="7">Astral Drifter</content>
+  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="8">Plasmoid fighter</content>
+  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="8">Astral Drifter</content>
   <content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="2">Flexible in form, firm in resolve.</content>
   <content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="2">Not every adventurer can be as... versatile as me.</content>
   <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="2">I'm 'fluid in my movements'.</content>
   <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="2">*Bloop*</content>
-  <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="1">Chest</content>
+  <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="2">Chest</content>
+  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="5">Market guard</content>
+  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="10">Market guard</content>
+  <content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="4">*This blacksmith seems to have goods to sell*</content>
+  <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="4">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="4">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="1">Traveller</content>
+  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="1">Traveller</content>
+  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="1">Traveller</content>
+  <content contentuid="h14d8c383g300cgb863g6954gb8ab1876cbfd" version="7">Autognome artisan</content>
+  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="10">Onah</content>
+  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="10">Astral Elf</content>
+  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="8">Adventurer</content>
+  <content contentuid="h8db392e8gd14cg3ad1gae80gd85ff0b6fa9c" version="1">Mephit</content>
+  <content contentuid="h1b99d3bfgb9cegf60ag3986g45c54fa2f943" version="1">Move along!</content>
+  <content contentuid="h97664e96gda2bgffe3g73aag3c8846c4ffe9" version="1">It's my job to patrol.</content>
+  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="4">Lost cultist</content>
+  <content contentuid="hb9552a4dg983dg8161g430eg2444b5e67fa1" version="1">Traveller</content>
+  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="3">Traveller</content>
+  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="3">Traveller</content>
+  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="2">Traveller</content>
+  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="5">Purchase order: Ballistae</content>
+  <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="5">Activate</content>
+  <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="5">This purchase order is unread.</content>
+  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="5">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Spelljammer's upgrade device.</content>
+  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="5">A purchase order for a Spelljammer Ballistae weapon.</content>
+  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="4">Purchase order: Canon</content>
+  <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="4">Activate</content>
+  <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="4">This purchase order is unread.</content>
+  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="4">First, you need to manually activate the purchase order. Second, you will be able to install your Canon via the Spelljammer's upgrade device.</content>
+  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="4">A purchase order for a Spelljammer Canon weapon.</content>
+  <content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">Purchase order: Ballistae</content>
+  <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">You can install a Ballistae via the upgrade device.</content>
+  <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase order: Canon</content>
+  <content contentuid="h78f19273g83e4g92d5ge16dg03d02785e03f" version="1">You can install a Canon via the upgrade device.</content>
 </contentList>

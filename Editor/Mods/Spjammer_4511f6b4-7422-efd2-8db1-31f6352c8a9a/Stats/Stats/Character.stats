@@ -148,6 +148,7 @@
         <field name="Vitality" type="IntegerTableFieldDefinition" value="96" />
         <field name="ForceResistance" type="EnumerationListTableFieldDefinition" value="ResistantToMagical" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -168,6 +169,21 @@
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="STATUS_EASY: HEALTHREDUCTION_EASYMODE" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1b3cb4dd-a141-44e1-929f-4baffaacebde" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dgb_Guard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="057f438c-84e7-4214-9884-5d126c9c85c0" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="13" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="76" />
+        <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;DarknessRules;ExtraAttack" />
       </fields>
     </stat_object>
   </stat_objects>

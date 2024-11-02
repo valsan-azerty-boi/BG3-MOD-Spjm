@@ -37,7 +37,7 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d6f1aa2e-d7a2-4850-8128-0e74bd61b0e2" />
-        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpeljammerContract_Template" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerContract_Template" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Value" type="IntegerTableFieldDefinition" value="3000" />
@@ -150,6 +150,40 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_AirBubble" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="ff23c831-22ca-47e2-ab80-5aa2bb3b856f" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6523a661-73e8-484c-9f7a-89308742039a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eee87963-e58e-4637-a720-dab3a6d5b1a6" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerBallistae_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e466d255-d24d-4480-9010-b7ce79545dfc" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="5000" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e8d03db8-3b1a-4433-ac6c-0d97bfa9bf06" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerBallistae" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="eee87963-e58e-4637-a720-dab3a6d5b1a6" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ff3b03a0-de63-4420-807d-d7a55ff1ffe3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2004f996-f258-42fb-b525-3c8c6f2e4f93" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerCanon_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e466d255-d24d-4480-9010-b7ce79545dfc" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="7000" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dda98600-9e58-4ac6-b47a-dc4e2027266d" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerCanon" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2004f996-f258-42fb-b525-3c8c6f2e4f93" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0400102b-461a-4440-bcca-49723f7886d2" />
       </fields>
     </stat_object>
   </stat_objects>

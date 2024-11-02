@@ -120,7 +120,9 @@ new treasuretable "SPJM_Trader_ShipUpgrades_Trade"
 new subtable "2,1"
 object category "T_Gold_Trader_Wealthy",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,1
+object category "I_OBJ_Spjm_SpelljammerBallistae",1,0,0,0,0,0,0,1
+new subtable "1,1"
+object category "I_OBJ_Spjm_SpelljammerCanon",1,0,0,0,0,0,0,1
 new treasuretable "SPJM_Trader_AstralSmith_Trade"
 new subtable "1,1"
 object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
@@ -168,6 +170,8 @@ object category "I_WPN_HandCrossbow",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_HandCrossbow_2",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Trader_AstralFish_Trade"
+new subtable "1,1"
+object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
 new subtable "3,1"
 object category "I_CONS_FOOD_Fish_Small_A",1,0,0,0,0,0,0,0
 new subtable "3,1"
@@ -182,3 +186,8 @@ new subtable "1,1"
 object category "I_CONS_FOOD_Fish_Big_Headface",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_CONS_FOOD_Fish_Small_B",1,0,0,0,0,0,0,0
+new treasuretable "SPJM_TraderAstralElfArtisan_Trade"
+new subtable "1,1"
+object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
+new subtable "4,1"
+object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,0

@@ -13,9 +13,9 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="c92355af-3dca-452e-bdbd-1d4b25aa1c28" />
-        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SpeljammerContract" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SpelljammerContract" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRestPerItem" enumeration_type_name="CooldownType" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_BLD_Ship_Darklake_Raft_New_Catamaran_A" />
@@ -127,6 +127,26 @@
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IgnoreSilence;NoCooldownOnMiss" enumeration_type_name="SpellFlagList" version="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ab912ec9-dce1-4cbf-ad76-3e25b7801c31" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_PurchaseOrderBallistae" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c92355af-3dca-452e-bdbd-1d4b25aa1c28" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_TOOL_GEN_Dragon_Ballista_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6b88fc5e-5738-42c8-bbb6-9dda6623d77a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_PurchaseOrderCanon" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c92355af-3dca-452e-bdbd-1d4b25aa1c28" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_DEC_Foundry_Machinery_F_Dynamic" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h78f19273g83e4g92d5ge16dg03d02785e03f" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

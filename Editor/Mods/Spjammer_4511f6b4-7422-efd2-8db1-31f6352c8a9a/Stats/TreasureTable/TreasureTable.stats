@@ -496,7 +496,18 @@
         <field name="UUID" type="IdTableFieldDefinition" value="76eb9da8-452c-4f17-b5e4-497540e934bf" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Trader_ShipUpgrades_Trade_substat" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_WildspaceOrrery" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_SpelljammerBallistae" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="210620c8-539d-4727-9a3a-c079a16c0907" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b3089f42-5539-4e94-9630-c50e79342802" />
+        <field name="Name" type="NameTableFieldDefinition" value="210620c8-539d-4727-9a3a-c079a16c0907_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_SpelljammerCanon" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
         <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
       </fields>
@@ -724,6 +735,16 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="f0c1dee4-5f1f-422a-84b0-09cf0cad3e36" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Trader_AstralFish_Trade" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Normal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f0c1dee4-5f1f-422a-84b0-09cf0cad3e36" />
+        <field name="UUID" type="IdTableFieldDefinition" value="89c7070f-bd82-4918-90aa-66d7993f46e9" />
+        <field name="Name" type="NameTableFieldDefinition" value="f0c1dee4-5f1f-422a-84b0-09cf0cad3e36_substat_5" />
         <field name="DropCount" type="StringTableFieldDefinition" value="3,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_FOOD_Fish_Small_A" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -786,6 +807,25 @@
         <field name="Name" type="NameTableFieldDefinition" value="f0c1dee4-5f1f-422a-84b0-09cf0cad3e36_substat_4" />
         <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_FOOD_Fish_Small_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7f997548-d4bc-4a94-8f27-0fe1792a3602" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_TraderAstralElfArtisan_Trade" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Normal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7f997548-d4bc-4a94-8f27-0fe1792a3602" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4d30404b-b6ae-482b-8549-237a5a61de48" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_TraderAstralElfArtisan_Trade_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="4,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_WildspaceOrrery" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

@@ -1,0 +1,6 @@
+game.configs.DefaultCombatSmithing = Config{
+    root=StateRef{game.roots.DefaultCharacter,
+        genericBehaviours = StateRef{game.states.CrimesHumanoid},
+        idle = StateRef{game.states.DEN_IrritatedTiefling_LookAtTrainees},
+    }
+}
