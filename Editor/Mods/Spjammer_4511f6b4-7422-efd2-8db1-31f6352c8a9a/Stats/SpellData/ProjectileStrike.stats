@@ -37,7 +37,7 @@
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Canon" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8db67ad3g1542geb85g1920g77db36dbb262" version="2" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerRest" enumeration_type_name="CooldownType" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
         <field name="SpellRoll" type="StringTableFieldDefinition" value="not SavingThrow(Ability.Constitution,20)" />
         <field name="Angle" type="IntegerTableFieldDefinition" value="0" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="1" />
@@ -53,7 +53,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2b79ae32-8259-49b1-b273-b819193c8dae" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_ShipStrike_Ballistae" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Melt)" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />

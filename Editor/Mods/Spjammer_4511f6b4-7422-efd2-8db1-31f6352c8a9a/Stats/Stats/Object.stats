@@ -49,7 +49,6 @@
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="BooksAndKeys" enumeration_type_name="InventoryTabs" version="1" />
         <field name="AddToBottomBar" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="IgnoredByAI" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
         <field name="ItemUseType" type="EnumerationTableFieldDefinition" value="Consumable" enumeration_type_name="ItemUseTypes" version="1" />
         <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
@@ -159,6 +158,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="e466d255-d24d-4480-9010-b7ce79545dfc" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Value" type="IntegerTableFieldDefinition" value="5000" />
+        <field name="Unique" type="IntegerTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -176,6 +176,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="e466d255-d24d-4480-9010-b7ce79545dfc" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Value" type="IntegerTableFieldDefinition" value="7000" />
+        <field name="Unique" type="IntegerTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
