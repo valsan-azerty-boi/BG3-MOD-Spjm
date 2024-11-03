@@ -169,7 +169,7 @@
         <field name="AcidResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
-        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="STATUS_EASY: HEALTHREDUCTION_EASYMODE" />
+        <field name="DifficultyStatuses" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -181,8 +181,8 @@
         <field name="Constitution" type="IntegerTableFieldDefinition" value="16" />
         <field name="Intelligence" type="IntegerTableFieldDefinition" value="12" />
         <field name="Wisdom" type="IntegerTableFieldDefinition" value="14" />
-        <field name="Armor" type="IntegerTableFieldDefinition" value="14" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="76" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="96" />
         <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;DarknessRules;ExtraAttack" />
       </fields>
     </stat_object>

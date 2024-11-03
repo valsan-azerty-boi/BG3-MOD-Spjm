@@ -85,7 +85,7 @@
   <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="29">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="29">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral boat</content>
-  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="9">Astral boat</content>
+  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="10">Astral boat</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
   <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="5">Eye Monger</content>
   <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="1">The Lower Rock</content>
@@ -365,12 +365,12 @@
   <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="2">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
   <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="2">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
   <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="2">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
-  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="9">Gith pirate captain</content>
+  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="11">Gith pirate captain</content>
   <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">Gith pirate</content>
-  <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="8">Gith pirate</content>
-  <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="6">Gith pirate</content>
-  <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="9">Gith pirate</content>
-  <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="10">Gith pirate</content>
+  <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="10">Gith pirate</content>
+  <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="8">Gith pirate</content>
+  <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="11">Gith pirate</content>
+  <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="15">Gith pirate</content>
   <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="1">Keep your weapons close, if you've got the nerve to use them.</content>
   <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="1">I've met phantoms in the Astral Sea with more spine than your crew.</content>
   <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="1">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
@@ -389,7 +389,7 @@
   <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Adventurer</content>
   <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Adventurer</content>
   <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="10">Adventurer</content>
-  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="7">Wildspacer</content>
+  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="9">Wildspacer</content>
   <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="4">Gith pirate</content>
   <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="6">Gith pirate</content>
   <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="15">Adventurer</content>
@@ -402,8 +402,8 @@
   <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="2">I'm 'fluid in my movements'.</content>
   <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="2">*Bloop*</content>
   <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="2">Chest</content>
-  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="5">Market guard</content>
-  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="10">Market guard</content>
+  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="8">Guard</content>
+  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="12">Guard</content>
   <content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="4">*This blacksmith seems to have goods to sell*</content>
   <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="4">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="4">&lt;i&gt;Leave.&lt;/i&gt;</content>
@@ -456,4 +456,8 @@
   <content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="1">Navigating the Astral Sea isn't easy, but the treasures make it worth the journey.</content>
   <content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="1">If you see a comet trader offering "good fortune", you'll want to check for curses first.</content>
   <content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="1">Know any good spots for an honest night's sleep?</content>
+  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="3">Traveler</content>
+  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="3">Traveler</content>
+  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="4">Traveler</content>
+  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="4">Guard</content>
 </contentList>

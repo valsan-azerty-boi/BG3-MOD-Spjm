@@ -798,7 +798,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="72e7f04b-bcdb-4825-99ae-a50fd12e75db" />
         <field name="Name" type="NameTableFieldDefinition" value="93691280-b057-4485-9194-e249fcd2e420_substat_19" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_HandCrossbow_2" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_HandCrossbow_1" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -818,7 +818,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="c61c7c5b-53d4-43a8-9046-1921f2d71e7d" />
         <field name="Name" type="NameTableFieldDefinition" value="93691280-b057-4485-9194-e249fcd2e420_substat_21" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_HandCrossbow_1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_DEN_Weaponsmith_Trade" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -1030,6 +1030,16 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7f997548-d4bc-4a94-8f27-0fe1792a3602" />
+        <field name="UUID" type="IdTableFieldDefinition" value="56535aa1-c8d3-4d73-bdce-9e0a5d1a33fe" />
+        <field name="Name" type="NameTableFieldDefinition" value="7f997548-d4bc-4a94-8f27-0fe1792a3602_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Valuables_Jewelry" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="67833036-a50f-406d-9883-83ac4d37692e" />
@@ -1046,6 +1056,36 @@
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_TraderAlchemist_Trade_substat" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_AlchemistTrader" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="67833036-a50f-406d-9883-83ac4d37692e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f2d662de-ff3c-4242-bf27-4c1c2cd92feb" />
+        <field name="Name" type="NameTableFieldDefinition" value="67833036-a50f-406d-9883-83ac4d37692e_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_ST_DyeVeryRare" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="67833036-a50f-406d-9883-83ac4d37692e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8b2e569a-22d4-4988-8bbf-4cdad1b11440" />
+        <field name="Name" type="NameTableFieldDefinition" value="67833036-a50f-406d-9883-83ac4d37692e_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Supply_Alchemy_Poison" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="67833036-a50f-406d-9883-83ac4d37692e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eeb29356-f56c-48be-8d6f-ed36481e42ab" />
+        <field name="Name" type="NameTableFieldDefinition" value="67833036-a50f-406d-9883-83ac4d37692e_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Supply_Alchemy_Loot_Rare" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
