@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Layers">
+        <node id="root">
+            <children>
+                <node id="Layer">
+                    <attribute id="Object" type="guid" value="5a2adc1f-09e3-47b7-384e-793ca7167a66"/>
+                </node>
+                <node id="Layer">
+                    <attribute id="Object" type="guid" value="fdb14484-7861-d6dd-641a-0575f9d4d6fc"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="14156aae-39aa-d7fe-b4fc-9e596491805b"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="OthersPrefab"/>
+        </node>
+    </region>
+</save>

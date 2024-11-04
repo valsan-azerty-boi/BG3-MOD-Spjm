@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Timeline Id="e7b3881e-ad47-403f-9d7b-0ba4b5778b4e" DialogResourceId="ac29ce9a-935c-c91a-c87b-ca044fa29e1b" AllowedPeanutTypes="Emotion, Attitude, LookAt">
+    <GenerationMetadata FullGenerationTimestamp="1730742679" />
+    <TimelinePosition BoundSceneId="76a11303-a8ab-45f8-b209-c447ed91b36b" />
+    <Tracks>
+      <Track Name="Camera Shots" TrackId="917ac0bc-2ce9-402c-9e7e-c7d0e18ff0e0" Type="ComponentTrackCameraShot" />
+      <Track Name="Speakers" TrackId="b9944521-e6c8-41d0-b703-66d0b44f5e8a" Type="FolderTrack">
+        <Track Name="GROUP_Players" TrackId="55c9fcce-e9e9-4021-859f-88968bda1d68" ActorType="character" ActorId="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" AssignedActorId="00000000-0000-0000-0000-000000000000" IsPlayer="true" SceneActorType="Initiator" SpeakerMappingId="7880e63d-181d-4870-ae15-549d0c6d85f7" Type="ActorTrackSpeaker">
+          <Track Name="Voice" TrackId="66451815-0ea3-412a-886a-dfa5c49cb99a" Type="ComponentTrackVoice" />
+          <Track Name="Look At Event" TrackId="485e4b61-931c-47b4-8c46-b47a41ef2182" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="c509887d-45e5-4022-b486-d600634780a2" Type="ComponentTrackEmotionEvent" />
+          <Track Name="Show Weapon" TrackId="307dd631-d1e6-463c-a8fa-a3c228eea473" Type="ComponentTrackShowWeapon" />
+          <Track Name="Foot IK" TrackId="c3f28970-5aad-4e5a-a683-8f8942366168" Type="ComponentTrackPhysics" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+      </Track>
+      <Track Name="Peanuts" TrackId="a0b96fdf-233f-49bf-bada-70a0170a5b0d" Type="PeanutFolderTrack">
+        <Track Name="Peanut 1" TrackId="f3732de0-1443-4245-9929-ca2c861c831b" ActorType="peanut" ActorId="f3732de0-1443-4245-9929-ca2c861c831b" AssignedActorId="3278f064-5353-4c08-ab96-c2f432d0fda0" PeanutSlotIndex="0" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Look At Event" TrackId="a5e0ab61-cfe6-42bc-9a54-2ea707aaace9" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="06c76d63-d54e-4b3c-a4d5-1a7afbd23f03" Type="ComponentTrackEmotionEvent" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+        <Track Name="Peanut 2" TrackId="b9c2b1e1-d8fc-42dd-a9bc-051b02adce71" ActorType="peanut" ActorId="b9c2b1e1-d8fc-42dd-a9bc-051b02adce71" AssignedActorId="3278f064-5353-4c08-ab96-c2f432d0fda0" PeanutSlotIndex="1" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Look At Event" TrackId="3dbadc6d-5f0c-4608-9157-d1fe4396e8a9" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="2918a9d8-410f-40a6-a56c-196e011468d4" Type="ComponentTrackEmotionEvent" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+        <Track Name="Peanut 3" TrackId="71c00955-a1d0-4c19-ab61-15047be6a44d" ActorType="peanut" ActorId="71c00955-a1d0-4c19-ab61-15047be6a44d" AssignedActorId="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" PeanutSlotIndex="2" ActorOverride="00000000-0000-0000-0000-000000000000" Type="PeanutTrack">
+          <Track Name="Look At Event" TrackId="504c881e-0387-463e-a872-da1df95697e1" Type="ComponentTrackLookAtEvent" />
+          <Track Name="Emotion Event" TrackId="e955ba92-dedb-4b8e-8604-fa3e22856623" Type="ComponentTrackEmotionEvent" />
+          <CustomActorData Type="CustomActorSoundData" />
+          <ActorEndState />
+          <ActorIdleOverrideData />
+          <BehaviourActorStartCondition />
+        </Track>
+      </Track>
+    </Tracks>
+    <Sequences>
+      <Sequence Id="140314b9-788a-4867-8c5b-5efd12023e14" Name="Sequence 1 - Cinematic" DialogNodeColor="#FFCD5C5C" TimeDuration="5.5">
+        <DialogNodeReference DialogNodeId="2b033bb9-0a1d-4222-b811-c8a7b0633726" ReferenceId="2b033bb9-0a1d-4222-b811-c8a7b0633726" />
+        <Components TrackId="485e4b61-931c-47b4-8c46-b47a41ef2182">
+          <Component ComponentId="950c4e01-2960-4965-83c5-bede4eed1082" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="c509887d-45e5-4022-b486-d600634780a2">
+          <Component ComponentId="098169af-a447-49c1-b375-9ad9e92c0961" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="307dd631-d1e6-463c-a8fa-a3c228eea473">
+          <Component ComponentId="8b4c61c0-c8a6-4761-9a8a-21bd2bea421b" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components TrackId="c3f28970-5aad-4e5a-a683-8f8942366168">
+          <Component ComponentId="ceadd942-8497-4722-b794-01ccd6aa1814" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="485e4b61-931c-47b4-8c46-b47a41ef2182" IncludeInTimeline="false" TrackId="a5e0ab61-cfe6-42bc-9a54-2ea707aaace9">
+          <Component ComponentId="6f0709a4-b47f-45d7-adfa-a2f3d86f0983" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="c509887d-45e5-4022-b486-d600634780a2" IncludeInTimeline="false" TrackId="06c76d63-d54e-4b3c-a4d5-1a7afbd23f03">
+          <Component ComponentId="0e5183ef-d702-4abf-ac52-98e01d7fd12b" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="485e4b61-931c-47b4-8c46-b47a41ef2182" IncludeInTimeline="false" TrackId="3dbadc6d-5f0c-4608-9157-d1fe4396e8a9">
+          <Component ComponentId="8a5c59b5-ffcf-4642-abae-712767e06d49" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="c509887d-45e5-4022-b486-d600634780a2" IncludeInTimeline="false" TrackId="2918a9d8-410f-40a6-a56c-196e011468d4">
+          <Component ComponentId="84656488-46fd-413a-a0c9-daab04fce70a" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="485e4b61-931c-47b4-8c46-b47a41ef2182" IncludeInTimeline="false" TrackId="504c881e-0387-463e-a872-da1df95697e1">
+          <Component ComponentId="fd20adf7-5031-4be5-b068-d99fdd043755" IsInfinite="true" TimeDuration="1" />
+        </Components>
+        <Components ComponentTrackReference="c509887d-45e5-4022-b486-d600634780a2" IncludeInTimeline="false" TrackId="e955ba92-dedb-4b8e-8604-fa3e22856623">
+          <Component ComponentId="69d11903-f861-4bf6-9391-e666c7b287a5" IsInfinite="true" TimeDuration="1" />
+        </Components>
+      </Sequence>
+    </Sequences>
+    <Playlists>
+      <Playlist PlaylistType="Dynamic">
+        <Sequences />
+      </Playlist>
+    </Playlists>
+    <FoleySettings ShouldPlay="true" CameraCullingEnabled="true" MinVelocityThreshold="0.2" MaxVelocityThreshold="8" VelocitySpikeThreshold="3.25" VelocityResumeSpikeDetectionThreshold="3.25" MinRotationThreshold="0.2" MaxRotationThreshold="10" RotationSpikeThreshold="2.25" RotationResumeSpikeDetectionThreshold="2.25" ArmorType="Cloth" />
+    <ExposureSettings />
+    <QuestionHoldAutomation OverrideGlobalSettings="true" QuestionHoldAutomationCycleSpeed="-1" />
+    <WorldCinematicSettings PlayCount="1" />
+    <PersistentPreviewSettings />
+  </Timeline>
+</Root>

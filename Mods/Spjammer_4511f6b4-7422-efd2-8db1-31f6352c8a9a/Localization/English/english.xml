@@ -24,12 +24,12 @@
   <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
   <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
   <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
-  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="3">Spelljammer</content>
+  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="5">Spelljammer</content>
   <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="22">Spelljammer Helm</content>
   <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljammer Helm</content>
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljammer Helm</content>
   <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="11">Astral circle</content>
-  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="18">Astral circle</content>
+  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="19">Astral circle</content>
   <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="10">Astral circle</content>
   <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Astral Dungeon 1</content>
   <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
@@ -41,12 +41,12 @@
   <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
   <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="2">Use your Spelljammer's ballista to shoot an area.</content>
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
-  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="96">*Leave*</content>
+  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="99">*Leave*</content>
   <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
   <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Powering*</content>
-  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="82">*Great Power surge from the Helm*</content>
-  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="56">*Use your innate powers to tame the Helm*</content>
-  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="55">*Cut the connection*</content>
+  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="85">*Great Power surge from the Helm*</content>
+  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="59">*Use your innate powers to tame the Helm*</content>
+  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="58">*Cut the connection*</content>
   <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="8">Enhancement device</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="16">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
   <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="9">Canon</content>
@@ -56,19 +56,19 @@
   <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="19">*Unlock the Ballistae*</content>
   <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
   <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="19">*Leave*</content>
-  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="3">Spacecrafter Inn</content>
-  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="52">*Channels the arcane flow of the Helm*</content>
-  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="52">*Bend the Helm to your will*</content>
-  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="49">*Try to understand the magic emanating from the Helm*</content>
-  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="47">*Your mind does not seem to reach the arcana of the Helm*</content>
-  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="44">*You are successfully syncing with the Helm*</content>
+  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="5">Spacecrafter Inn</content>
+  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="55">*Channels the arcane flow of the Helm*</content>
+  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="55">*Bend the Helm to your will*</content>
+  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="52">*Try to understand the magic emanating from the Helm*</content>
+  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="50">*Your mind does not seem to reach the arcana of the Helm*</content>
+  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="47">*You are successfully syncing with the Helm*</content>
   <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
-  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="38">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="38">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="35">*Travel to the nearest city in the Astral Sea*</content>
-  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="34">*Travel to a nearby spacecrafter inn*</content>
-  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="30">*Travel to Dungeon 2 TODO*</content>
-  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="30">*Travel to Dungeon 3 TODO*</content>
+  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="41">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="41">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="38">*Travel to the nearest city in the Astral Sea*</content>
+  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="37">*Travel to a nearby spacecrafter inn*</content>
+  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="33">*Travel to Dungeon 2 TODO*</content>
+  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="33">*Travel to Dungeon 3 TODO*</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
   <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="9">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
@@ -80,15 +80,15 @@
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
   <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljammer*</content>
-  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="32">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
-  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="30">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="30">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="30">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="35">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
+  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="33">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="33">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="33">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral boat</content>
-  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="10">Astral boat</content>
+  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="11">Astral boat</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
   <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="5">Eye Monger</content>
-  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="1">The Lower Rock</content>
+  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="3">The Lower Rock</content>
   <content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">Secrets of the Sundering</content>
   <content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">Unlock and read the Book of Dead Gods.</content>
   <content contentuid="hf8439975g2c8eg466fg82c6g43b05ea6356f" version="3">Roots of the Grove</content>
@@ -299,9 +299,9 @@
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Hatch to camp</content>
   <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="2">Hatch to camp</content>
   <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="7">Ladder to ship</content>
-  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="8">*Symbiosing with the Helm*</content>
-  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="7">*Perform a ritual to synchronize with the Helm*</content>
-  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="6">*Use your faith towards the Helm*</content>
+  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="11">*Symbiosing with the Helm*</content>
+  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="10">*Perform a ritual to synchronize with the Helm*</content>
+  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="9">*Use your faith towards the Helm*</content>
   <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="4">Ballistae</content>
   <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="3">Canon</content>
   <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="6">*A simple merchant who offers goods for purchase*</content>
@@ -474,4 +474,9 @@
   <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="2">Spelljamming</content>
   <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Spelljammer's equipment remotely.</content>
   <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljammer and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
+  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="1">Silver Plate</content>
+  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="5">Astral boat</content>
+  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="2">Astral circle</content>
+  <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="2">Shattered Sanctum</content>
+  <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="2">Spjm dg3</content>
 </contentList>
