@@ -125,7 +125,7 @@
                                                 "TagText" : {
                                                    "handle" : "h85c98cb3g2d88g7cb8gae67gd2a55fe88b60",
                                                    "type" : "TranslatedString",
-                                                   "version" : 18
+                                                   "version" : 19
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -316,7 +316,7 @@
                                                 "TagText" : {
                                                    "handle" : "h22f112d5g0166g9e8bg79b0g75bd9e0778e3",
                                                    "type" : "TranslatedString",
-                                                   "version" : 18
+                                                   "version" : 19
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -476,7 +476,7 @@
                                                 "TagText" : {
                                                    "handle" : "h78dab559gf119gba69gc41bg5b2a9c029643",
                                                    "type" : "TranslatedString",
-                                                   "version" : 15
+                                                   "version" : 16
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -644,7 +644,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6b017b2eg8e82gfb63gf2a3g56f3835adec9",
                                                    "type" : "TranslatedString",
-                                                   "version" : 18
+                                                   "version" : 19
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }

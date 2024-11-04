@@ -1,0 +1,25 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION SPJM Dungeon1 respiration mechanic
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon1_NeedRespiration_EventTrigger_a2050d6f-f51f-4618-8021-0aaf22223e3b)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon1_NeedRespiration_EventTrigger_a2050d6f-f51f-4618-8021-0aaf22223e3b)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff");
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION

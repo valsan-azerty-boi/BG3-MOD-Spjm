@@ -26,6 +26,13 @@
                     <attribute id="V2" type="float" value="0.12402344"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Spjm_Spell_AirArea"/>
+                    <attribute id="U1" type="float" value="0.87597656"/>
+                    <attribute id="U2" type="float" value="0.99902344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Spjm_Spell_AirBubble"/>
                     <attribute id="U1" type="float" value="0.37597656"/>
                     <attribute id="U2" type="float" value="0.49902344"/>

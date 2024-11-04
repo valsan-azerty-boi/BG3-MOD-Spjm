@@ -35,6 +35,24 @@ DB_ORI_OriginCampData((CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de08
 
 //END_REGION
 KBSECTION
+//REGION SPJM Camp respiration mechanic
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_ShipCamp_AirZone_EventTrigger_54e50efe-a56a-4fe5-b96d-e693c631bb85)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_ShipCamp_AirZone_EventTrigger_54e50efe-a56a-4fe5-b96d-e693c631bb85)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff");
+
+//END_REGION
+
 //REGION SPJM Hatch to camp
 
 PROC

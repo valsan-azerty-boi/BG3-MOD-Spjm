@@ -3,13 +3,47 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7cd0b315-d6af-4730-9c30-ef0e9f462a22" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirZoneBuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirArea" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Blue" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_AIRZONE_BUFF" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_DifficultBreathingZone_Debuff)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b4f869a5-a095-41b6-a4de-012f3b1adf4b" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubbleBuff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h89975669ga317g279cga6a9g028012652811" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirBubble" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_AIRBUBBLE_BUFF" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Survival)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_DifficultBreathingZone_Debuff);ProficiencyBonus(Skill,Survival)" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Green" enumeration_type_name="FormatStringColor" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="12f88cc6-5f76-44df-87f2-60eea393d6ee" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_DifficultBreathingZone_Debuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h252fd1a6gab11gfb05g4134g37e780055467" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Exhaustion" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Suffocating" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="SoundVocalStart" type="EnumerationTableFieldDefinition" value="WEAK" enumeration_type_name="SoundVocalType" version="1" />
+        <field name="SoundVocalEnd" type="EnumerationTableFieldDefinition" value="RECOVER" enumeration_type_name="SoundVocalType" version="1" />
+        <field name="OnApplyConditions" type="StringTableFieldDefinition" value="not HasStatus('Spjm_AirBubbleBuff') and not HasStatus('Spjm_AirZoneBuff')" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_DIFFBREATH_DEBUFF" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Disadvantage(AllAbilities);Disadvantage(AttackRoll);Disadvantage(SavingThrow, Constitution);IncreaseMaxHP(-15);BlockTravel()" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff') or HasStatus('Spjm_AirZoneBuff')" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnApply;OnApplyAndTurn;OnMove;OnStatusApplied" enumeration_type_name="StatusEvent" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -21,6 +55,7 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_SUMHELM_BUFF" />
         <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Arcana)" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Gold" enumeration_type_name="FormatStringColor" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -33,6 +68,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_WILDSPACEOREITEM_BUFF" />
         <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Perception)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="LightBlue" enumeration_type_name="FormatStringColor" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

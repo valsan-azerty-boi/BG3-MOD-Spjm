@@ -3,6 +3,24 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
+//REGION SPJM Astral city respiration mechanic
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_AstralCity_AirZone_EventTrigger_4272c425-89d7-42ab-99ce-cc3729474f52)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_AstralCity_AirZone_EventTrigger_4272c425-89d7-42ab-99ce-cc3729474f52)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff");
+
+//END_REGION
+
 //REGION SPJM Gith pirate hostile
 
 PROC

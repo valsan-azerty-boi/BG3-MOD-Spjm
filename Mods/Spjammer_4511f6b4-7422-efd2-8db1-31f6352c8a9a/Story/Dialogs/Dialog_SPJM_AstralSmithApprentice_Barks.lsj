@@ -60,7 +60,7 @@
                                                 "TagText" : {
                                                    "handle" : "h116855dcge003g0851gd8b8g8e0fe6922ddb",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -69,7 +69,7 @@
                                                 "TagText" : {
                                                    "handle" : "hf222141cgb1b6g07e3ga5deg12f4b6e2e860",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -78,7 +78,7 @@
                                                 "TagText" : {
                                                    "handle" : "h3c76f411g49e1gc253g0b76gca4872aad267",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -87,7 +87,7 @@
                                                 "TagText" : {
                                                    "handle" : "h94ffe475g224bg5d1cgbb7dg0da8415a6f77",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -96,7 +96,7 @@
                                                 "TagText" : {
                                                    "handle" : "h3b919efbg8ad6g0860gdb50g5f01919f5e01",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }

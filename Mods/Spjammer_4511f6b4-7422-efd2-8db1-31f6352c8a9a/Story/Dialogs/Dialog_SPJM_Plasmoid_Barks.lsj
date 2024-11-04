@@ -59,7 +59,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6832ddf0g5256gbbb4gf448g0b8ab3b3562c",
                                                    "type" : "TranslatedString",
-                                                   "version" : 2
+                                                   "version" : 3
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
