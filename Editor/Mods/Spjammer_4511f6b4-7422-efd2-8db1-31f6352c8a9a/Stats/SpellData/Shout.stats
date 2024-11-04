@@ -41,12 +41,11 @@
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(88f360de-210f-4c4d-a47e-6b65841b7674, 10, , , ,);ApplyStatus(Spjm_SummonedSpelljammerHelm,100,10)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_SummonedSpelljammerHelm,100,-1)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="1" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(Spjm_SummonedSpelljammerHelm,100,10)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="3" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Item_SummonHusband" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_DetectThoughts_L1to3" />
@@ -62,6 +61,7 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="5" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="33302a46-4a12-41dd-8845-6b7314d50022" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="1a4b0423-005b-4577-b376-815a08809675" />
+        <field name="ExtraDescription" type="TranslatedStringTableFieldDefinition" handle="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

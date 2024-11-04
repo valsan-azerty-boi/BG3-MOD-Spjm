@@ -37,9 +37,9 @@
   <content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">Astral Strike</content>
   <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">Target Astral Strike Description TODO</content>
   <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="2">Astral Strike: Canon</content>
-  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="1">TODO Description AstralStrikeCanon </content>
+  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="2">Use your Spelljammer's cannon to bombard an area.</content>
   <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
-  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="1">TODO Description AstralStrikeBallistae</content>
+  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="2">Use your Spelljammer's ballista to shoot an area.</content>
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
   <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="96">*Leave*</content>
   <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
@@ -279,13 +279,13 @@
   <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">Fish Suit Helmet</content>
   <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">A bulky helmet, which fully encases your head.</content>
   <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Create Spelljamming Helm</content>
-  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="1">Create Spelljamming Helm</content>
+  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="2">Sync. Spelljamming Helm</content>
   <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljammer Helm</content>
-  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="2">Spelljamming Helm Sync.</content>
-  <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="3">Scroll of Create Spelljamming Helm</content>
+  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="3">Spelljamming</content>
+  <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Scroll of Sync. Spelljamming Helm</content>
   <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You summon a temporary Spelljamming Helm and sync with its magic, allowing you to use your ship's weapons from the ground. However, you need to own a Spelljammer and have it equipped with a weapon. Otherwise the spell will be of no use.</content>
-  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="1">You summon a temporary Spelljamming Helm and sync with its magic, allowing you to use your ship's weapons from the ground. However, you need to own a Spelljammer and have it equipped with a weapon. Otherwise the spell will be of no use.</content>
-  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="2">You are synchronized with a Spelljamming Helm.</content>
+  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="3">You sync with the Helm of your Spelljammer, allowing you to use your ship's equipments from the ground.</content>
+  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="5">Allows you to use your ship's equipments from the ground.</content>
   <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
   <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>
   <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="2">Wildspace Orrery</content>
@@ -470,4 +470,8 @@
   <content contentuid="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2">This place lacks air. An air bubble can counter this harmful effect.</content>
   <content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">Area with Air</content>
   <content contentuid="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2">This place is magically filled with air to breathe.</content>
+  <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljammer's Helm to reuse its weapons.</content>
+  <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="2">Spelljamming</content>
+  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Spelljammer's equipment remotely.</content>
+  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljammer and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
 </contentList>
