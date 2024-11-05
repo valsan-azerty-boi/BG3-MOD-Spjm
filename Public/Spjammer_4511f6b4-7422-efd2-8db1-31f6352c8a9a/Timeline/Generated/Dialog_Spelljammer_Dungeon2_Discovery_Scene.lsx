@@ -3,7 +3,7 @@
     <version major="4" minor="7" revision="1" build="3"/>
     <region id="TLScene">
         <node id="root">
-            <attribute id="Identifier" type="guid" value="a241d258-00c3-bbcc-7605-9b7d551f920e"/>
+            <attribute id="Identifier" type="guid" value="993f7cf7-7563-ae84-36a2-4d805d3616ce"/>
             <attribute id="SceneBounds" type="fvec3">
                 <float3 x="1" y="0" z="1"/>
             </attribute>
@@ -90,7 +90,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="2"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
+                            <attribute id="TemplateId" type="guid" value="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -180,6 +180,88 @@
                                                         <float4 x="0" y="0" z="0" w="1"/>
                                                     </attribute>
                                                     <attribute id="Scale" type="float" value="1"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="TLCameras">
+                    <children>
+                        <node id="Object">
+                            <attribute id="MapKey" type="guid" value="b9dec715-006f-4e10-ba06-6fd8634e27db"/>
+                            <children>
+                                <node id="TLCameras">
+                                    <attribute id="Identifier" type="guid" value="b9dec715-006f-4e10-ba06-6fd8634e27db"/>
+                                    <attribute id="Name" type="LSString" value="Camera 0"/>
+                                    <children>
+                                        <node id="FramingOffset">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <attribute id="MapValue" type="fvec2">
+                                                        <float2 x="0.64993244" y="0.034830943"/>
+                                                    </attribute>
+                                                </node>
+                                            </children>
+                                        </node>
+                                        <node id="Transform">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <children>
+                                                        <node id="MapValue">
+                                                            <attribute id="Position" type="fvec3">
+                                                                <float3 x="-6.7002869" y="25.569101" z="-35.009895"/>
+                                                            </attribute>
+                                                            <attribute id="RotationQuat" type="fvec4">
+                                                                <float4 x="-0.040067453" y="0.94775105" z="-0.13202243" w="-0.28763267"/>
+                                                            </attribute>
+                                                            <attribute id="Scale" type="float" value="1"/>
+                                                        </node>
+                                                    </children>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="guid" value="90519c90-158f-4717-90c8-070cdc7a64ee"/>
+                            <children>
+                                <node id="TLCameras">
+                                    <attribute id="Identifier" type="guid" value="90519c90-158f-4717-90c8-070cdc7a64ee"/>
+                                    <attribute id="Name" type="LSString" value="Camera 1"/>
+                                    <children>
+                                        <node id="FramingOffset">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <attribute id="MapValue" type="fvec2">
+                                                        <float2 x="0.59489924" y="0.084110498"/>
+                                                    </attribute>
+                                                </node>
+                                            </children>
+                                        </node>
+                                        <node id="Transform">
+                                            <children>
+                                                <node id="Object">
+                                                    <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                                                    <children>
+                                                        <node id="MapValue">
+                                                            <attribute id="Position" type="fvec3">
+                                                                <float3 x="58.964924" y="54.712719" z="57.644421"/>
+                                                            </attribute>
+                                                            <attribute id="RotationQuat" type="fvec4">
+                                                                <float4 x="-0.10339206" y="0.8874104" z="-0.24271037" w="-0.37802747"/>
+                                                            </attribute>
+                                                            <attribute id="Scale" type="float" value="1"/>
+                                                        </node>
+                                                    </children>
                                                 </node>
                                             </children>
                                         </node>

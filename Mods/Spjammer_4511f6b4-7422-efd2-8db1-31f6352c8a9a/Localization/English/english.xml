@@ -65,10 +65,10 @@
   <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
   <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="41">*The energy emanating from the Helm seems familiar to someone like you*</content>
   <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="41">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="38">*Travel to the nearest city in the Astral Sea*</content>
-  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="37">*Travel to a nearby spacecrafter inn*</content>
-  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="33">*Travel to Dungeon 2 TODO*</content>
-  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="33">*Travel to Dungeon 3 TODO*</content>
+  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="38">*Travel to the nearest city: The Lower Rock*</content>
+  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="37">*Travel to Spacecrafter Inn*</content>
+  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="33">*Travel to Shattered Sanctum*</content>
+  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="33">*Travel to TODO Dungeon 3 TODO*</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
   <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="9">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
@@ -427,8 +427,8 @@
   <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="5">Adventurer</content>
   <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="8">Adventurer</content>
   <content contentuid="h14d8c383g300cgb863g6954gb8ab1876cbfd" version="7">Autognome artisan</content>
-  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="10">Onah</content>
-  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="10">Astral Elf</content>
+  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="15">Onah</content>
+  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="15">Astral Elf</content>
   <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="5">Pirate</content>
   <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="5">Pirate</content>
   <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="4">Jethro</content>
@@ -475,8 +475,8 @@
   <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Spelljammer's equipment remotely.</content>
   <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljammer and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
   <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="1">Silver Plate</content>
-  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="5">Astral boat</content>
-  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="2">Astral circle</content>
+  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="7">Astral boat</content>
+  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="8">Astral circle</content>
   <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="2">Shattered Sanctum</content>
   <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="2">Spjm dg3</content>
 </contentList>

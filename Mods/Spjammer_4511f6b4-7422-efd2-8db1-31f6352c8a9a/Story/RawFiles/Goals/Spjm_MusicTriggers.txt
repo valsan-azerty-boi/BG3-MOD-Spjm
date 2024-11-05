@@ -102,14 +102,14 @@ EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_1
 AND
 DB_Players(_Player)
 THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "Music_Lobby_Screen");
+MusicPlayOnCharacter((CHARACTER)_Player, "TUT_Helm_Transponder_Music");
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_2_195ae54b-66e6-4588-ae24-4f670871568d)
 AND
 DB_Players(_Player)
 THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "Music_Lobby_Screen");
+MusicPlayOnCharacter((CHARACTER)_Player, "TUT_Helm_Transponder_Music");
 
 //END_REGION
 
