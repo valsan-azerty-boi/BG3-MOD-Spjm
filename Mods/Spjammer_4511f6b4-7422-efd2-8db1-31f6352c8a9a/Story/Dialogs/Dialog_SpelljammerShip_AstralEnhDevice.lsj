@@ -125,7 +125,7 @@
                                                 "TagText" : {
                                                    "handle" : "h85c98cb3g2d88g7cb8gae67gd2a55fe88b60",
                                                    "type" : "TranslatedString",
-                                                   "version" : 19
+                                                   "version" : 21
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -152,7 +152,15 @@
                                           "UUID" : {"type" : "FixedString", "value" : "60d733b3-ad1a-422b-97f9-650491569ba9"},"value" : {"type" : "bool", "value" : true}},
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "88741912-bd5d-42f0-a686-488ba6b79eea"},"value" : {"type" : "bool", "value" : false}}
-                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}},
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "07962ccb-6652-455f-9327-69602944d4e3"},
+                                          "paramval" : {"type" : "int32", "value" : 0},
+                                          "value" : {"type" : "bool", "value" : false}
+                                       }
+                                    ],"type" : {"type" : "FixedString", "value" : "Quest"}}
                               ]
                            }
                         ],
@@ -281,7 +289,15 @@
                                           "UUID" : {"type" : "FixedString", "value" : "60d733b3-ad1a-422b-97f9-650491569ba9"},"value" : {"type" : "bool", "value" : false}},
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "88741912-bd5d-42f0-a686-488ba6b79eea"},"value" : {"type" : "bool", "value" : true}}
-                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}},
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "07962ccb-6652-455f-9327-69602944d4e3"},
+                                          "paramval" : {"type" : "int32", "value" : 0},
+                                          "value" : {"type" : "bool", "value" : true}
+                                       }
+                                    ],"type" : {"type" : "FixedString", "value" : "Quest"}}
                               ]
                            }
                         ],
@@ -316,7 +332,7 @@
                                                 "TagText" : {
                                                    "handle" : "h22f112d5g0166g9e8bg79b0g75bd9e0778e3",
                                                    "type" : "TranslatedString",
-                                                   "version" : 19
+                                                   "version" : 21
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -476,7 +492,7 @@
                                                 "TagText" : {
                                                    "handle" : "h78dab559gf119gba69gc41bg5b2a9c029643",
                                                    "type" : "TranslatedString",
-                                                   "version" : 16
+                                                   "version" : 18
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -644,7 +660,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6b017b2eg8e82gfb63gf2a3g56f3835adec9",
                                                    "type" : "TranslatedString",
-                                                   "version" : 19
+                                                   "version" : 21
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -671,7 +687,15 @@
                                           "UUID" : {"type" : "FixedString", "value" : "1064032c-df91-4ecb-b409-aa3969da66ef"},"value" : {"type" : "bool", "value" : false}},
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "fba4506e-b8e4-420d-98cf-cd717405523f"},"value" : {"type" : "bool", "value" : true}}
-                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}},
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "9414fa65-0d8c-40c9-8fa8-e32ceb3ffe18"},
+                                          "paramval" : {"type" : "int32", "value" : 0},
+                                          "value" : {"type" : "bool", "value" : false}
+                                       }
+                                    ],"type" : {"type" : "FixedString", "value" : "Quest"}}
                               ]
                            }
                         ],
@@ -800,7 +824,15 @@
                                           "UUID" : {"type" : "FixedString", "value" : "1064032c-df91-4ecb-b409-aa3969da66ef"},"value" : {"type" : "bool", "value" : true}},
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "fba4506e-b8e4-420d-98cf-cd717405523f"},"value" : {"type" : "bool", "value" : false}}
-                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}},
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "9414fa65-0d8c-40c9-8fa8-e32ceb3ffe18"},
+                                          "paramval" : {"type" : "int32", "value" : 0},
+                                          "value" : {"type" : "bool", "value" : true}
+                                       }
+                                    ],"type" : {"type" : "FixedString", "value" : "Quest"}}
                               ]
                            }
                         ],

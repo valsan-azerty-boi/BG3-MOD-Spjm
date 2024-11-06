@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="QuestCategories">
+        <node id="root">
+            <children>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Spelljammer"/>
+                    <attribute id="Description" type="TranslatedString" handle="hacbbadeeg7a60gf5cdgb51cg79cc97addb8e" version="3"/>
+                    <attribute id="QuestCategoryGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="SortingPriority" type="int32" value="10"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -118,6 +118,18 @@ type "Object"
 using "OBJ_Spjm_Scroll_AirBubble_Template"
 data "RootTemplate" "6523a661-73e8-484c-9f7a-89308742039a"
 
+new entry "OBJ_Spjm_Scroll_GiantSpaceHamster_Template"
+type "Object"
+using "_MagicScroll"
+data "ValueOverride" "150"
+data "Rarity" "Uncommon"
+data "UseCosts" "BonusActionPoint:1"
+
+new entry "OBJ_Spjm_Scroll_GiantSpaceHamster"
+type "Object"
+using "OBJ_Spjm_Scroll_GiantSpaceHamster_Template"
+data "RootTemplate" "a36ec475-6799-4cff-874a-0c190ee7a7bc"
+
 new entry "OBJ_Spjm_SpelljammerBallistae_Template"
 type "Object"
 using "OBJ_Spjm_SpelljammerContract"

@@ -134,3 +134,13 @@ data "Level" "9"
 data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:9"
 data "PowerLevel" "9"
 
+new entry "Target_Spjm_HamsterBite"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Bite"
+data "SpellSchool" "None"
+data "SpellSuccess" "DealDamage(max(1,2d6+UnarmedMeleeAbilityModifier),Piercing)"
+data "Icon" "Action_VampireBite"
+data "DescriptionParams" "DealDamage(2d6+UnarmedMeleeAbilityModifier,Piercing)"
+data "TooltipDamageList" "DealDamage(2d6+UnarmedMeleeAbilityModifier,Piercing)"
+

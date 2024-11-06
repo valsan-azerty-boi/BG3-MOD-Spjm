@@ -3,6 +3,32 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e0f015cc-f33b-45fd-b5df-44994df6e2a1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_UnusualNatureBuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heb592b8bgafb8g5b6ag0a64g4b44171f1778" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h878f9d88gb97eg1d38g35a1g552c279c6487" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_UnusualNature" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Brown" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_UNUSNAT_BUFF" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_DifficultBreathingZone_Debuff)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="SPJM_Passive_UnusualNature_ForTooltipDesc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7a95639b-2d73-4b56-9e0e-a9644a313b45" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_HoldBreathBuff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h421de244g793ag68cfgcf22gdd1a8b2ddb76" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h314ff465g5aa0g8771g3cb1gba64d434118f" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_HoldBreath" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Brown" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_HOLDBREATH_BUFF" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_DifficultBreathingZone_Debuff)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="SPJM_Passive_HoldBreath_ForTooltipDesc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="7cd0b315-d6af-4730-9c30-ef0e9f462a22" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirZoneBuff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1" />
@@ -32,7 +58,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_DifficultBreathingZone_Debuff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h252fd1a6gab11gfb05g4134g37e780055467" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Status_Exhaustion" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Airless" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
         <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Suffocating" enumeration_type_name="StatusAnimationType" version="1" />
         <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
@@ -68,6 +94,20 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Perception)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="LightBlue" enumeration_type_name="FormatStringColor" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8d72b5bf-d784-42d9-9dc1-aa54b9d28da8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_TalarithAttunement_Buff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_AgonizingBlast" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Water" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_TALARATTUN_BUFF" />
+        <field name="Passives" type="StringTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

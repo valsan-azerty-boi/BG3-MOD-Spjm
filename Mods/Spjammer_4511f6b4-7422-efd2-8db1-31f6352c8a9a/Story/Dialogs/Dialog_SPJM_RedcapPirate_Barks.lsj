@@ -59,7 +59,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6d6bd3bbgc8fbg0309gaf20g0e7154951667",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 4
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -68,7 +68,7 @@
                                                 "TagText" : {
                                                    "handle" : "h38c6cbf4g2a15g33aegd759g180b88ba3917",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 4
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -203,7 +203,7 @@
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "3f3a9976-5052-40dc-9d96-72e69d2243bb"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "ea0de76a-0d47-4171-aeda-875273dae98b;7235ac4b-a85d-4944-941d-ef832d6343c0"}
+                        "list" : {"type" : "LSString", "value" : "a84f4caa-5ad9-1572-276a-c74311e373ff"}
                      },
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "a7236f3c-93c0-4d3c-bdde-adeef2a880e5"},

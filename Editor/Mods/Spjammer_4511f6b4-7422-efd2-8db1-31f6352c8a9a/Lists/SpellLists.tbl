@@ -5,7 +5,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="10e9135c-df2e-457b-bd6b-01c5de6ad9fc" />
         <field name="Name" type="NameTableFieldDefinition" value="Druid spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="fd366d4e-4063-4b6f-9cd9-26889bcd6465" />
       </fields>
     </stat_object>
@@ -13,7 +13,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d0791e39-6609-48e2-8207-dc23aaccae68" />
         <field name="Name" type="NameTableFieldDefinition" value="Druid, Circle of Land spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="2c5a2f80-4da9-4aab-b9f4-500335eeffee" />
       </fields>
     </stat_object>
@@ -21,7 +21,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d9042b77-cb9b-40c2-b1ae-1dbdbcbfd857" />
         <field name="Name" type="NameTableFieldDefinition" value="Druid, Circle of Spores spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="877f8053-b97f-4b75-99e2-6e6834a11e87" />
       </fields>
     </stat_object>
@@ -125,7 +125,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="d250338d-24ae-4063-9b54-678acfc9c0e0" />
         <field name="Name" type="NameTableFieldDefinition" value="Ranger spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="ffd3b636-d424-4120-87ae-4499a34828dc" />
       </fields>
     </stat_object>
@@ -133,7 +133,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="ae2abdcf-0ece-42ae-a779-8e43cdec1139" />
         <field name="Name" type="NameTableFieldDefinition" value="Ranger, Gloom Stalker spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="54450a9e-a079-4449-9463-089916803d9c" />
       </fields>
     </stat_object>
@@ -197,7 +197,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a9bac327-0eda-4d4d-a3da-6e3a89dec71d" />
         <field name="Name" type="NameTableFieldDefinition" value="Sorcerer spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="2ba5248a-f014-409d-ab26-b50116f7e477" />
       </fields>
     </stat_object>
@@ -205,7 +205,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6fd33ab3-67e2-455a-966c-819daeae1229" />
         <field name="Name" type="NameTableFieldDefinition" value="Sorcerer, Storm spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="c572712a-eabf-4659-8289-ea1fa4a0d234" />
       </fields>
     </stat_object>
@@ -277,7 +277,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="9f3c4489-5807-4724-a481-fecb23a5cce0" />
         <field name="Name" type="NameTableFieldDefinition" value="Wizard spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="beb9389e-24f8-49b0-86a5-e8d08b6fdc2e" />
       </fields>
     </stat_object>
@@ -285,7 +285,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6f61d620-d0a1-443c-9598-c06507ffa1ba" />
         <field name="Name" type="NameTableFieldDefinition" value="Wizard, Enchantment spell scroll list" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster" />
         <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="355aa142-57f6-4616-b5d1-04777309d9d1" />
       </fields>
     </stat_object>

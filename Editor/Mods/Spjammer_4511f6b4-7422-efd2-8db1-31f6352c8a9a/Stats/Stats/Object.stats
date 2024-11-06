@@ -153,6 +153,24 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d75e882-0b5a-4e02-bf4e-0ea158c31aa3" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_GiantSpaceHamster_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d8dae55-ce17-4fec-a9cb-833e83f4f6a2" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="150" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="148e0d20-0bd8-49a8-9447-6ea1caea7f2f" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Scroll_GiantSpaceHamster" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d75e882-0b5a-4e02-bf4e-0ea158c31aa3" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a36ec475-6799-4cff-874a-0c190ee7a7bc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="eee87963-e58e-4637-a720-dab3a6d5b1a6" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerBallistae_Template" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="e466d255-d24d-4480-9010-b7ce79545dfc" />

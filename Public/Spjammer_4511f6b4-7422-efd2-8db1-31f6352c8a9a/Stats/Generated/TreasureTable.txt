@@ -6,15 +6,19 @@ object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,0
+object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,0
-new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
-CanMerge 1
 new subtable "1,1"
-object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
-new subtable "2,1"
-object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Necklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Diadem",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Gloves",1,0,0,0,0,0,0,0
 new treasuretable "MOO_ZhentQuartermaster"
 CanMerge 1
 new subtable "1,1"
@@ -23,20 +27,8 @@ new treasuretable "CRE_GithQuartermistress_Trade"
 CanMerge 1
 new subtable "5,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
-new subtable "4,1"
-object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,0
-new treasuretable "LOW_MysticCarrion_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
-new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
-CanMerge 1
-new subtable "2,1"
-object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new treasuretable "SHA_MerregonTrader"
 CanMerge 1
 new subtable "1,1"
@@ -47,6 +39,8 @@ new subtable "6,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
 new subtable "4,1"
 object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0
 new treasuretable "WYR_Circus_KoboldMerchant_Magic"
 CanMerge 1
 new subtable "1,1"
@@ -55,10 +49,14 @@ new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,1
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0
 new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
 CanMerge 1
-new subtable "1,1"
+new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Diadem",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Ship_Crate_1"
 new subtable "4,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
@@ -142,15 +140,25 @@ new treasuretable "SPJM_Trader_AstralSmith_Trade"
 new subtable "1,1"
 object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "T_DEN_Weaponsmith_Trade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_Melee",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_WPN_Greatsword",1,0,0,0,0,0,0,0
+object category "I_OBJ_Spjm_Talarith_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_HandCrossbow_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Greatsword_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_WPN_Shortsword",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_WPN_Shortsword_1",1,0,0,0,0,0,0,0
+new subtable "-5"
+object category "I_OBJ_Dye_Remover",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Greatsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Shortsword",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Longsword",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -166,28 +174,20 @@ new subtable "-1"
 object category "I_MAG_Hunting_Shortbow",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Rapier",1,0,0,0,0,0,0,0
-new subtable "-5"
-object category "I_OBJ_Dye_Remover",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "T_EquipmentTrader_Melee",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Leather_Body",1,0,0,0,0,0,0,0
-new subtable "2,1"
-object category "I_OBJ_Tool_Shovel",1,0,0,0,0,0,0,0
-new subtable "3,1"
-object category "I_OBJ_Tool_Hammer",1,0,0,0,0,0,0,0
-new subtable "2,1"
-object category "I_OBJ_Kit_ThievesTools",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Helmet_Leather",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_HandCrossbow",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_WPN_HandCrossbow_1",1,0,0,0,0,0,0,0
+new subtable "3,1"
+object category "I_OBJ_Tool_Hammer",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "I_OBJ_Tool_Shovel",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "I_OBJ_Kit_ThievesTools",1,0,0,0,0,0,0,0
 new subtable "3,1"
 object category "I_WPN_Torch",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "T_DEN_Weaponsmith_Trade",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Trader_AstralFish_Trade"
 new subtable "1,1"
 object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
@@ -216,6 +216,12 @@ object category "T_ST_Food_Fish",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_TraderAstralElfArtisan_Trade"
 new subtable "1,1"
 object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Necklace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Ring",1,0,0,0,0,0,0,0
 new subtable "4,1"
 object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,0
 new subtable "3,1;4,1;5,1"
@@ -232,8 +238,6 @@ new subtable "3,1;4,1;5,1"
 object category "I_OBJ_Plate_Metal",1,0,0,0,0,0,0,0
 new subtable "3,1;4,1;5,1"
 object category "I_OBJ_Plate_Metal_B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_TraderAlchemist_Trade"
 new subtable "1,1"
 object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
@@ -245,3 +249,5 @@ new subtable "1,1"
 object category "T_Supply_Alchemy_Poison",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_Supply_Alchemy_Loot_Rare",1,0,0,0,0,0,0,0
+new subtable "3,1;4,1;5,1"
+object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0

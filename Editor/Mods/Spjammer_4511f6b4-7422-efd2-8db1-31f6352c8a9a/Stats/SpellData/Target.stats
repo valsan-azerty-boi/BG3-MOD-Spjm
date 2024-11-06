@@ -155,5 +155,17 @@
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="9" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4b080656-9ce5-4dcc-a942-01694cbadcd3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_HamsterBite" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="062f04c9-4b83-4059-979f-7cd5b2a8cae1" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(max(1,2d6+UnarmedMeleeAbilityModifier),Piercing)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_VampireBite" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(2d6+UnarmedMeleeAbilityModifier,Piercing)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(2d6+UnarmedMeleeAbilityModifier,Piercing)" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

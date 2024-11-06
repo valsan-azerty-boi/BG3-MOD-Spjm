@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Objectives">
+        <node id="root">
+            <children>
+                <node id="Objective">
+                    <attribute id="Description" type="TranslatedString" handle="h18b55390gdddcg08abg1799ge1fa22a8bebe" version="3"/>
+                    <attribute id="ObjectiveID" type="FixedString" value="SPJ_Spelljammer_AdventuresInSpace"/>
+                    <attribute id="Priority" type="int32" value="1000"/>
+                    <attribute id="QuestID" type="FixedString" value="SPJ_Spelljammer"/>
+                    <attribute id="QuestObjectiveGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="Objective">
+                    <attribute id="Description" type="TranslatedString" handle="h5c40a550g7437gf5eaga8bcgd0bd20d51de2" version="1"/>
+                    <attribute id="ObjectiveID" type="FixedString" value="SPJ_Spelljammer_Upgrades"/>
+                    <attribute id="Priority" type="int32" value="1001"/>
+                    <attribute id="QuestID" type="FixedString" value="SPJ_Spelljammer"/>
+                    <attribute id="QuestObjectiveGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="Objective">
+                    <attribute id="Description" type="TranslatedString" handle="h80ef3df7g0ed4gb2cbg530cgf2d8a2a5b0b2" version="1"/>
+                    <attribute id="ObjectiveID" type="FixedString" value="SPJ_Spelljammer_End"/>
+                    <attribute id="Priority" type="int32" value="1002"/>
+                    <attribute id="QuestID" type="FixedString" value="SPJ_Spelljammer"/>
+                    <attribute id="QuestObjectiveGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

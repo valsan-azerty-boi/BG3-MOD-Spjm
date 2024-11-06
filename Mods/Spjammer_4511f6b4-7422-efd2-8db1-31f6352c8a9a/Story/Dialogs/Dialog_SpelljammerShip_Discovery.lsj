@@ -52,7 +52,15 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "e7eab15f-a5ea-42c9-99a5-cd679984815a"},"value" : {"type" : "bool", "value" : false}}
-                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}},
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "e6701538-72da-41a7-a86d-31dff6ba7e71"},
+                                          "paramval" : {"type" : "int32", "value" : 0},
+                                          "value" : {"type" : "bool", "value" : false}
+                                       }
+                                    ],"type" : {"type" : "FixedString", "value" : "Quest"}}
                               ]
                            }
                         ],
@@ -173,7 +181,15 @@
                                     "flag" : [
                                        {
                                           "UUID" : {"type" : "FixedString", "value" : "e7eab15f-a5ea-42c9-99a5-cd679984815a"},"value" : {"type" : "bool", "value" : true}}
-                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}},
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "e6701538-72da-41a7-a86d-31dff6ba7e71"},
+                                          "paramval" : {"type" : "int32", "value" : 0},
+                                          "value" : {"type" : "bool", "value" : true}
+                                       }
+                                    ],"type" : {"type" : "FixedString", "value" : "Quest"}}
                               ]
                            }
                         ],

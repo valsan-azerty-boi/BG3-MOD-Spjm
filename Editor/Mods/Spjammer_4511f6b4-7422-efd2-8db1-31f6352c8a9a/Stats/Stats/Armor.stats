@@ -33,5 +33,90 @@
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="121311e6-354f-496d-afb5-66de6f382637" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6957e343-1a2f-4f3c-9465-b33786136590" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Template" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Ring" enumeration_type_name="Itemslot" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="7" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="3e8b9d6e-7e83-4fd7-bc99-bb4956d67a2a" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="2000" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.03" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Spjm_Talarith_ReigarIllusion)" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement_ForTooltipDesc" />
+        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_TalarithAttunement_Buff" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1faf3e57-23ec-4e6d-ab3a-ed005194c4d9" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Ring" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6957e343-1a2f-4f3c-9465-b33786136590" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7e41a22f-0636-49dc-9140-7ac9f6d08343" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7db38d65-2473-43e5-a7f5-5c876a497abf" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Gloves_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6957e343-1a2f-4f3c-9465-b33786136590" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Gloves" enumeration_type_name="Itemslot" version="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="a57433fc-8be8-4efb-ac6b-a625b3bdcd18" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.2" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="23a5a7fd-3a29-4fb3-87aa-21ae6feedab7" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Gloves" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7db38d65-2473-43e5-a7f5-5c876a497abf" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f4c50bac-0c8a-45b2-9be9-364dcce4c892" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f4d72b48-404b-4593-bb22-7ff6f9b5ef07" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Necklace_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6957e343-1a2f-4f3c-9465-b33786136590" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Amulet" enumeration_type_name="Itemslot" version="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="ccaceafa-6dc1-41c7-bd43-db6d4da8a3d8" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.05" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="98eac867-10e0-4781-b5b5-87361b0e0341" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Necklace" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f4d72b48-404b-4593-bb22-7ff6f9b5ef07" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f6a03139-f73f-4e99-898a-4b5648dd9ca2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ce122f7-bda9-4844-af62-b1c67e68c5a6" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Diadem_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6957e343-1a2f-4f3c-9465-b33786136590" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Helmet" enumeration_type_name="Itemslot" version="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="a57433fc-8be8-4efb-ac6b-a625b3bdcd18" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e637cd84-6653-44b1-969e-8e1c52d553fb" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Talarith_Diadem" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6ce122f7-bda9-4844-af62-b1c67e68c5a6" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2a48207a-5aff-467d-ae7e-c7d2824608ea" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
