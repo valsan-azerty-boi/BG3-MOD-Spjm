@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Backgrounds -->
   <content contentuid="h1b6195b5gc566g234fg308cg912df50b25f2" version="1">Astral Drifter</content>
   <content contentuid="h0763002fg6176ga306g6080g546023b9d9ae" version="3">Astral Drifter</content>
   <content contentuid="ha3004fcdged23g9562ge385gc8e437cbe741" version="1">Astral Drifter</content>
@@ -18,77 +19,9 @@
   <content contentuid="h8b023e16g66ddg06bdg619ega47c53b1b8d9" version="1">Wildspace Adaptation</content>
   <content contentuid="h31555400g4792gb507gbb03g25e3fc3e8897" version="2">You have gained experience from your time in space and have learned to adapt to any gravity.</content>
   <content contentuid="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1">You have gained experience from your time in space and have learned to adapt to any gravity.</content>
-  <content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">You have the Tough feat permanently.</content>
+  <content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">Your hit point maximum increases by 1 for every level you have gained.</content>
   <content contentuid="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="4">Your hit point maximum increases by 1 for every level you have gained.</content>
-  <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Portal</content>
-  <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
-  <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
-  <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
-  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="5">Spelljammer</content>
-  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="22">Spelljammer Helm</content>
-  <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljammer Helm</content>
-  <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljammer Helm</content>
-  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="11">Astral circle</content>
-  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="19">Astral circle</content>
-  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="10">Astral circle</content>
-  <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Astral Dungeon 1</content>
-  <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
-  <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
-  <content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">Astral Strike</content>
-  <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">Target Astral Strike Description TODO</content>
-  <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="2">Astral Strike: Canon</content>
-  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="2">Use your Spelljammer's cannon to bombard an area.</content>
-  <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
-  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="2">Use your Spelljammer's ballista to shoot an area.</content>
-  <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
-  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="100">*Leave*</content>
-  <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
-  <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Powering*</content>
-  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="86">*Great Power surge from the Helm*</content>
-  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="60">*Use your innate powers to tame the Helm*</content>
-  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="59">*Cut the connection*</content>
-  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="8">Enhancement device</content>
-  <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="18">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
-  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="9">Canon</content>
-  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="21">*Unlock the Canon*</content>
-  <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Canon unlocked*</content>
-  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="10">Ballistae</content>
-  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="21">*Unlock the Ballistae*</content>
-  <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
-  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="21">*Leave*</content>
-  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="5">Spacecrafter Inn</content>
-  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="56">*Channels the arcane flow of the Helm*</content>
-  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="56">*Bend the Helm to your will*</content>
-  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="53">*Try to understand the magic emanating from the Helm*</content>
-  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="51">*Your mind does not seem to reach the arcana of the Helm*</content>
-  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="48">*You are successfully syncing with the Helm*</content>
-  <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
-  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="42">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="42">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="39">*Travel to the nearest city 'The Lower Rock'*</content>
-  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="38">*Travel to a 'Spacecrafter Inn'*</content>
-  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="34">*Travel to a 'Shattered Sanctum'*</content>
-  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="34">*Travel to a 'TODO Dungeon 3 TODO'*</content>
-  <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
-  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="9">A title deed from space</content>
-  <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
-  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="9">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
-  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="9">This contract is unread.</content>
-  <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
-  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="9">Activate</content>
-  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="4">Allows you to claim a Spelljammer.</content>
-  <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
-  <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
-  <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljammer*</content>
-  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="36">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
-  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral boat</content>
-  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="11">Astral boat</content>
-  <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
-  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="6">Eye Monger</content>
-  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="3">The Lower Rock</content>
+  <!-- Bg Goals -->
   <content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">Secrets of the Sundering</content>
   <content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">Unlock and read the Book of Dead Gods.</content>
   <content contentuid="hf8439975g2c8eg466fg82c6g43b05ea6356f" version="3">Roots of the Grove</content>
@@ -263,35 +196,61 @@
   <content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">Discover what the 'meat sound' is.</content>
   <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Brain Blast!</content>
   <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
-  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
-  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
-  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="9">*This illithid looks at you*</content>
-  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="9">&lt;i&gt;Trade.&lt;/i&gt;</content>
-  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="9">&lt;i&gt;Leave.&lt;/i&gt;</content>
-  <content contentuid="h89975669ga317g279cga6a9g028012652811" version="1">Air Bubble</content>
-  <content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">Air Bubble</content>
-  <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
-  <content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2">Head covered with an air bubble filled with fresh air.</content>
-  <content contentuid="hed624bb4gccecg8b13gdd80g91b3fab2cb0a" version="2">Scroll of Air Bubble</content>
-  <content contentuid="h96790e9eg1bf5ge89cgb79ag9ebcb806aa9d" version="4">Gives the "Air Bubble" effect and resistance to "Acid" clouds.</content>
-  <content contentuid="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1">Air Bubble</content>
-  <content contentuid="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2">Head covered with an air bubble filled with fresh air.</content>
-  <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">Fish Suit Helmet</content>
-  <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">A bulky helmet, which fully encases your head.</content>
-  <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Create Spelljamming Helm</content>
-  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="2">Sync. Spelljamming Helm</content>
-  <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljammer Helm</content>
-  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="3">Spelljamming</content>
-  <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Scroll of Sync. Spelljamming Helm</content>
-  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You summon a temporary Spelljamming Helm and sync with its magic, allowing you to use your ship's weapons from the ground. However, you need to own a Spelljammer and have it equipped with a weapon. Otherwise the spell will be of no use.</content>
-  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="3">You sync with the Helm of your Spelljammer, allowing you to use your ship's equipments from the ground.</content>
-  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="5">Allows you to use your ship's equipments from the ground.</content>
-  <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
-  <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>
-  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="2">Wildspace Orrery</content>
-  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="2">Within a Wildspace system, this portable arcane device once automatically tracked the positions and movements of all suns, planets, moons, and comets within that system, projecting a display of these bodies into the space above its current location. In that display, a white, pulsating pinprick of light marked the orrery’s location.</content>
-  <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">You have a Proficienty bonus in Nature and Perception.</content>
-  <content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <!-- Area -->
+  <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Portal</content>
+  <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral Boat</content>
+  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="11">Astral Boat</content>
+  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="7">Astral Boat</content>
+  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="11">Astral Circle</content>
+  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="19">Astral Circle</content>
+  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="10">Astral Circle</content>
+  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="8">Astral Circle</content>
+  <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
+  <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
+  <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
+  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="5">Spelljammer</content>
+  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="3">The Lower Rock</content>
+  <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Spacecrafter Inn</content>
+  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="5">Spacecrafter Inn</content>
+  <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="2">Shattered Sanctum</content>
+  <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="2">TODO Dungeon 3 TODO</content>
+  <!-- Ship -->
+  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="22">Spelljammer Helm</content>
+  <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljammer Helm</content>
+  <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljammer Helm</content>
+  <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
+  <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
+  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="100">*Leave*</content>
+  <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
+  <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Powering*</content>
+  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="86">*Great Power surge from the Helm*</content>
+  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="60">*Use your innate powers to tame the Helm*</content>
+  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="59">*Cut the connection*</content>
+  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="8">Enhancement device</content>
+  <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="18">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
+  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="9">Canon</content>
+  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="21">*Unlock the Canon*</content>
+  <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Canon unlocked*</content>
+  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="10">Ballistae</content>
+  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="21">*Unlock the Ballistae*</content>
+  <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
+  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="21">*Leave*</content>
+  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="56">*Channels the arcane flow of the Helm*</content>
+  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="56">*Bend the Helm to your will*</content>
+  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="53">*Try to understand the magic emanating from the Helm*</content>
+  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="51">*Your mind does not seem to reach the arcana of the Helm*</content>
+  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="48">*You are successfully syncing with the Helm*</content>
+  <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
+  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="42">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="42">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="39">*Travel to the nearest city 'The Lower Rock'*</content>
+  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="38">*Travel to a 'Spacecrafter Inn'*</content>
+  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="34">*Travel to a 'Shattered Sanctum'*</content>
+  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="34">*Travel to a 'TODO Dungeon 3 TODO'*</content>
+  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="36">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
+  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">Traveler's Chest</content>
   <content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">Traveler's Chest</content>
   <content contentuid="h13e50984gf83agbf28gf6eagb9664a007fb5" version="1">Traveler's Chest</content>
@@ -302,12 +261,33 @@
   <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="12">*Symbiosing with the Helm*</content>
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="11">*Perform a ritual to synchronize with the Helm*</content>
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="10">*Use your faith towards the Helm*</content>
-  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="4">Ballistae</content>
-  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="3">Canon</content>
+  <!-- The Lower Rock -->
+  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
+  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
+  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="9">*This illithid looks at you*</content>
+  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="9">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="9">&lt;i&gt;Leave.&lt;/i&gt;</content>
   <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="6">*A simple merchant who offers goods for purchase*</content>
-  <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="6">&lt;i&gt;Leave.&lt;/i&gt;</content>
   <content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">Trout</content>
   <content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="3">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="4">Ballistae</content>
+  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="3">Canon</content>
+  <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="6">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="8">Traveler</content>
+  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="8">Traveler</content>
+  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="6">Traveler</content>
+  <content contentuid="hb9552a4dg983dg8161g430eg2444b5e67fa1" version="1">Traveler</content>
+  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="9">Traveler</content>
+  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="3">Traveler</content>
+  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="7">Traveler</content>
+  <content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="7">Traveler</content>
+  <content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="7">Traveler</content>
+  <content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="5">Traveler</content>
+  <content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="11">Traveler</content>
+  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="3">Traveler</content>
+  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="3">Traveler</content>
+  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="4">Traveler</content>
+  <content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="9">Traveler</content>
   <content contentuid="h882854e6g2815g3a64g1543g4712359645aa" version="3">Think the stardust vendor will be in soon?</content>
   <content contentuid="ha67711e7g8ab8ge040gc710gaded92d07a35" version="3">Seen any astral fish today?</content>
   <content contentuid="h0d6ea77eg9977g619dg6972g60822f2bb5ad" version="3">In the Astral Sea, one moment you're adrift, the next you're face-to-face with a god.</content>
@@ -318,16 +298,23 @@
   <content contentuid="haefeeff8g5b66gcd2ag32e0g7a5d972af239" version="3">Floating islands again today... they're closer than they were yesterday.</content>
   <content contentuid="h5c76a666ga171g50d5gbbb5gbe2d4d931d35" version="3">And if you gaze for long into a star, the star gazes also into you.</content>
   <content contentuid="h8d4be789gb480g24a6gcb85gdef04b225b26" version="7">Thomas the Astral Smith</content>
-  <content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="7">Smith</content>
+  <content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="5">*This blacksmith seems to have goods to sell*</content>
+  <content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="7">Blacksmith</content>
   <content contentuid="h48ca4288g5ef5gc0e6g2877g7a8373fa100c" version="3">Gerart the Apprentice</content>
   <content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="2">The forge never sleeps, and neither do I, it seems.</content>
   <content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="2">I swear, one day, I'll forge a hammer that doesn't weigh half a mountain.</content>
   <content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="2">Master Thomas says it's the heat that toughens you... feels like it's cooking me alive.</content>
   <content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="2">Master Thomas says it's 'precision work.' Looks a lot like hard labor to me.</content>
   <content contentuid="h3b919efbg8ad6g0860gdb50g5f01919f5e01" version="2">One day, I'll have my own forge, and maybe I'll get an apprentice to do all this.</content>
-  <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Wildspace Orrery</content>
-  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="1">Having this item in inventory grants you its magical effect.</content>
-  <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="heba2bdb5g69f4gbda6g1a50g8e6509cb0f97" version="2">Adventurer</content>
+  <content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">Adventurer</content>
+  <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Adventurer</content>
+  <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Adventurer</content>
+  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="10">Adventurer</content>
+  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="15">Adventurer</content>
+  <content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="4">Adventurer</content>
+  <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="5">Adventurer</content>
+  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="8">Adventurer</content>
   <content contentuid="h23edfc03g758fg3180ge0a0g298e712c880e" version="3">Last time I drifted in space, a voice called my name from beyond the stars.</content>
   <content contentuid="hb37628e5gfa24g28a4g33b3ga0d25817b8e2" version="3">Time's a funny thing here; best not to think too hard about it.</content>
   <content contentuid="h328585a0g5b06gba29g39c9g28e8fb5aa344" version="3">I swear I saw a god drift by, wrapped in chains, looking right through me.</content>
@@ -366,11 +353,19 @@
   <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="3">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
   <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="3">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
   <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="12">Githyanki captain</content>
+  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="10">Wildspacer</content>
   <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">Githyanki Buccaneer</content>
   <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="10">Githyanki Buccaneer</content>
   <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="8">Githyanki Buccaneer</content>
   <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="11">Githyanki Buccaneer</content>
   <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="15">Githyanki Buccaneer</content>
+  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="4">Githyanki Buccaneer</content>
+  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="6">Githyanki Buccaneer</content>
+  <content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="1">Githyanki Buccaneer</content>
+  <content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="1">Githyanki Buccaneer</content>
+  <content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="1">Githyanki Buccaneer</content>
+  <content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="1">Githyanki Buccaneer</content>
+  <content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="1">Githyanki Buccaneer</content>
   <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="2">Keep your weapons close, if you've got the nerve to use them.</content>
   <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="2">I've met phantoms in the Astral Sea with more spine than your crew.</content>
   <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="2">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
@@ -381,64 +376,97 @@
   <content contentuid="hf359c2d2g440bgba89g4219g870e052bca2f" version="2">Stay back, unless you want me to make a quick end of this.</content>
   <content contentuid="h479eb43fga78eg3fd4g741cg758070e888ef" version="2">The more you stare, the less I like you.</content>
   <content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="2">Is there a purpose to your presence, or just an itch for trouble?</content>
-  <content contentuid="heba2bdb5g69f4gbda6g1a50g8e6509cb0f97" version="2">Adventurer</content>
-  <content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">Adventurer</content>
   <content contentuid="h516fd51bg4561g1ed9gd7c4g28aa979991f9" version="12">Trout</content>
   <content contentuid="h17564982gf365gf9d2ge875g41c0e4466f38" version="7">Trout</content>
   <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Spelljammer Trader</content>
-  <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Adventurer</content>
-  <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Adventurer</content>
-  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="10">Adventurer</content>
-  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="10">Wildspacer</content>
-  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="4">Gith pirate</content>
-  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="6">Gith pirate</content>
-  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="15">Adventurer</content>
   <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="10">Plasmoid Adventurer</content>
+  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="13">Plasmoid Fighter</content>
   <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="10">Astral Drifter</content>
-  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="13">Plasmoid fighter</content>
   <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="13">Astral Drifter</content>
   <content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="3">Flexible in form, firm in resolve.</content>
   <content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="3">Not every adventurer can be as... versatile as me.</content>
   <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="3">I'm 'fluid in my movements'.</content>
   <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="3">*Bloop*</content>
   <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="2">Chest</content>
-  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="9">Guard</content>
-  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="13">Guard</content>
-  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="5">Guard</content>
-  <content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="5">*This blacksmith seems to have goods to sell*</content>
   <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="5">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="5">&lt;i&gt;Leave.&lt;/i&gt;</content>
-  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="8">Traveler</content>
-  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="8">Traveler</content>
-  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="6">Traveler</content>
-  <content contentuid="hb9552a4dg983dg8161g430eg2444b5e67fa1" version="1">Traveler</content>
-  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="9">Traveler</content>
-  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="3">Traveler</content>
-  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="7">Traveler</content>
-  <content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="7">Traveler</content>
-  <content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="7">Traveler</content>
-  <content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="5">Traveler</content>
-  <content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="11">Traveler</content>
-  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="3">Traveler</content>
-  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="3">Traveler</content>
-  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="4">Traveler</content>
-  <content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="9">Traveler</content>
-  <content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="4">Adventurer</content>
-  <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="5">Adventurer</content>
-  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="8">Adventurer</content>
   <content contentuid="h14d8c383g300cgb863g6954gb8ab1876cbfd" version="7">Autognome artisan</content>
   <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="15">Onah</content>
   <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="15">Astral Elf</content>
-  <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="5">Pirate</content>
-  <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="5">Pirate</content>
   <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="4">Jethro</content>
-  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="3">Astral fisherman</content>
+  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="3">Astral Fisherman</content>
   <content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="8">Orobia</content>
-  <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="7">Plant seller</content>
-  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="11">Lost cultist</content>
+  <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="7">Plant Seller</content>
+  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="11">Lost Cultist</content>
   <content contentuid="h8db392e8gd14cg3ad1gae80gd85ff0b6fa9c" version="1">Mephit</content>
+  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="9">Guard</content>
+  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="13">Guard</content>
+  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="5">Guard</content>
   <content contentuid="h1b99d3bfgb9cegf60ag3986g45c54fa2f943" version="2">Move along!</content>
   <content contentuid="h97664e96gda2bgffe3g73aag3c8846c4ffe9" version="2">It's my job to patrol.</content>
+  <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="5">Pirate</content>
+  <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="5">Pirate</content>
+  <content contentuid="h6d6bd3bbgc8fbg0309gaf20g0e7154951667" version="4">Leave me alone.</content>
+  <content contentuid="h38c6cbf4g2a15g33aegd759g180b88ba3917" version="4">I don't talk to boring people.</content>
+  <content contentuid="h61c08743gb315g56cfgfd8dgc264515efac7" version="2">Say what you will about the Astral Sea, but no place has better night markets.</content>
+  <content contentuid="h0f9fa049g1191g2110g2bd5g21d93b29ce87" version="2">One day I'll retire to a nice quiet nebula.</content>
+  <content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="2">Navigating the Astral Sea isn't easy, but the treasures make it worth the journey.</content>
+  <content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="2">If you see a comet trader offering "good fortune", you'll want to check for curses first.</content>
+  <content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="2">Know any good spots for an honest night's sleep?</content>
+  <content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="2">Homebody man</content>
+  <content contentuid="he244bc8dg50dcg31d3g06b4g70340e742d5e" version="3">All those lives, running from star to star, never finding peace.</content>
+  <content contentuid="hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d" version="3">There's more wisdom in one quiet moment than in a thousand words.</content>
+  <content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="3">In the depths of space, I found peace.</content>
+  <content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="3">I've seen worlds come and go.</content>
+  <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="3">You smell like prey.</content>
+  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="6">Vampirate</content>
+  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="5">Vampirate</content>
+  <!-- Spacecrafter Inn -->
+  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="6">Eye Monger</content>
+  <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="2">Corrupted Starlight Apparition</content>
+  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="2">Cultist</content>
+  <!-- TODO -->
+  <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="4">Space Clown</content>
+  <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="4" />
+  <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="18">Giant Space Hamster</content>
+  <content contentuid="h0a24bf53g2a55gd927gcabdg5a2496d394dd" version="1">Giant Space Hamster</content>
+  <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="3">*Crr-crr*</content>
+  <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="3">*Cush-cush*</content>
+  <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="3">*Skkk*</content>
+  <!-- Journal -->
+  <content contentuid="hacbbadeeg7a60gf5cdgb51cg79cc97addb8e" version="3">Spelljammer</content>
+  <content contentuid="ha159b668g7e97gdffbg7339g93bd4888ee75" version="2">Adventures in Space</content>
+  <content contentuid="h18b55390gdddcg08abg1799ge1fa22a8bebe" version="3">Space Galleon</content>
+  <content contentuid="hfb6d5ad0g6ca4gcf5cg5e0bgcd8ad6db0ed9" version="2">It appears that you now have ownership of a Spelljammer in the Astral Plane. You can now explore the Astral Plane with your Space Galleon.</content>
+  <content contentuid="ha172501agaa8ag97f8g17e5g67466bd8d4fe" version="2">It's time to move forward into Baldur's Gate.</content>
+  <content contentuid="h5c40a550g7437gf5eaga8bcgd0bd20d51de2" version="1">Improved Spelljammer</content>
+  <content contentuid="h9840d568g5126g0b93g3089gbb1ea3689b74" version="1">Your ship is now equipped with a Ballistae that you can use against your enemies.</content>
+  <content contentuid="h96c053c6gb0fbgfa9eg416bgb18298fd7515" version="1">Your ship is now equipped with a Canon that you can use against your enemies.</content>
+  <content contentuid="h80ef3df7g0ed4gb2cbg530cgf2d8a2a5b0b2" version="1">Return to Baldur's Gate</content>
+  <!-- Items & Spells -->
+  <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
+  <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
+  <content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">Astral Strike</content>
+  <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">Target Astral Strike Description TODO</content>
+  <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="2">Astral Strike: Canon</content>
+  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="2">Use your Spelljammer's cannon to bombard an area.</content>
+  <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
+  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="2">Use your Spelljammer's ballista to shoot an area.</content>
+  <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="2">Spelljamming</content>
+  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Spelljammer's equipment remotely.</content>
+  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljammer and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
+  <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljammer's Helm to reuse its weapons.</content>
+  <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
+  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="9">A title deed from space</content>
+  <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
+  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="9">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="9">This contract is unread.</content>
+  <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="9">Activate</content>
+  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="4">Allows you to claim a Spelljammer.</content>
+  <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
+  <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
+  <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljammer*</content>
   <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="5">Purchase order: Ballistae</content>
   <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="5">Activate</content>
   <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="5">This purchase order is unread.</content>
@@ -453,83 +481,64 @@
   <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">You can install a Ballistae via the upgrade device.</content>
   <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase order: Canon</content>
   <content contentuid="h78f19273g83e4g92d5ge16dg03d02785e03f" version="1">You can install a Canon via the upgrade device.</content>
-  <content contentuid="h6d6bd3bbgc8fbg0309gaf20g0e7154951667" version="4">Leave me alone.</content>
-  <content contentuid="h38c6cbf4g2a15g33aegd759g180b88ba3917" version="4">I don't talk to boring people.</content>
-  <content contentuid="h61c08743gb315g56cfgfd8dgc264515efac7" version="2">Say what you will about the Astral Sea, but no place has better night markets.</content>
-  <content contentuid="h0f9fa049g1191g2110g2bd5g21d93b29ce87" version="2">One day I'll retire to a nice quiet nebula.</content>
-  <content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="2">Navigating the Astral Sea isn't easy, but the treasures make it worth the journey.</content>
-  <content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="2">If you see a comet trader offering "good fortune", you'll want to check for curses first.</content>
-  <content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="2">Know any good spots for an honest night's sleep?</content>
-  <content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="2">Homebody man</content>
-  <content contentuid="he244bc8dg50dcg31d3g06b4g70340e742d5e" version="3">All those lives, running from star to star, never finding peace.</content>
-  <content contentuid="hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d" version="3">There's more wisdom in one quiet moment than in a thousand words.</content>
-  <content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="3">In the depths of space, I found peace.</content>
-  <content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="3">I've seen worlds come and go.</content>
-  <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="3">You smell like prey.</content>
   <content contentuid="h252fd1a6gab11gfb05g4134g37e780055467" version="3">Airless Area</content>
   <content contentuid="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2">This place lacks air. An air bubble can counter this harmful effect.</content>
   <content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">Area with Air</content>
   <content contentuid="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2">This place is magically filled with air to breathe.</content>
-  <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljammer's Helm to reuse its weapons.</content>
-  <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="2">Spelljamming</content>
-  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Spelljammer's equipment remotely.</content>
-  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljammer and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
-  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="1">Silver Plate</content>
-  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="7">Astral boat</content>
-  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="8">Astral circle</content>
-  <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="2">Shattered Sanctum</content>
-  <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="2">Spjm dg3</content>
   <content contentuid="heb592b8bgafb8g5b6ag0a64g4b44171f1778" version="1">Unusual Nature</content>
-  <content contentuid="h878f9d88gb97eg1d38g35a1g552c279c6487" version="1">The creature doesn't require air.</content>
   <content contentuid="h1c14fc74g9a0fgbb23gc276g1546ab6e0dc4" version="1">Unusual Nature</content>
+  <content contentuid="h878f9d88gb97eg1d38g35a1g552c279c6487" version="1">The creature doesn't require air.</content>
   <content contentuid="hc6ec109eg30d9g3f43g0bd4g70b33451f8c4" version="1">The creature doesn't require air.</content>
   <content contentuid="h421de244g793ag68cfgcf22gdd1a8b2ddb76" version="1">Hold Breath</content>
-  <content contentuid="h314ff465g5aa0g8771g3cb1gba64d434118f" version="1">The creature holds its breath.</content>
   <content contentuid="h47918afeg3328g074fg6a1cg5206108998c8" version="1">Hold Breath</content>
+  <content contentuid="h314ff465g5aa0g8771g3cb1gba64d434118f" version="1">The creature holds its breath.</content>
   <content contentuid="h4624eb99g6af0g9dd2gc03fg973ffb8808ab" version="1">The creature holds its breath.</content>
-  <content contentuid="h18b55390gdddcg08abg1799ge1fa22a8bebe" version="3">Space Galleon</content>
-  <content contentuid="hacbbadeeg7a60gf5cdgb51cg79cc97addb8e" version="3">Spelljammer</content>
-  <content contentuid="ha159b668g7e97gdffbg7339g93bd4888ee75" version="2">Adventures in Space</content>
-  <content contentuid="hfb6d5ad0g6ca4gcf5cg5e0bgcd8ad6db0ed9" version="2">It appears that you now have ownership of a Spelljammer in the Astral Plane. You can now explore the Astral Plane with your Space Galleon.</content>
-  <content contentuid="ha172501agaa8ag97f8g17e5g67466bd8d4fe" version="2">It's time to move forward into Baldur's Gate.</content>
-  <content contentuid="h9840d568g5126g0b93g3089gbb1ea3689b74" version="1">Your ship is now equipped with a Ballistae that you can use against your enemies.</content>
-  <content contentuid="h96c053c6gb0fbgfa9eg416bgb18298fd7515" version="1">Your ship is now equipped with a Canon that you can use against your enemies.</content>
-  <content contentuid="h5c40a550g7437gf5eaga8bcgd0bd20d51de2" version="1">Improved Spelljammer</content>
-  <content contentuid="h80ef3df7g0ed4gb2cbg530cgf2d8a2a5b0b2" version="1">Return to Baldur's Gate</content>
-  <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="18">Giant Space Hamster</content>
-  <content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="1">Githyanki Buccaneer</content>
-  <content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="1">Githyanki Buccaneer</content>
-  <content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="1">Githyanki Buccaneer</content>
-  <content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="1">Githyanki Buccaneer</content>
-  <content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="1">Githyanki Buccaneer</content>
-  <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="2">Corrupted Starlight Apparition</content>
-  <content contentuid="h0a24bf53g2a55gd927gcabdg5a2496d394dd" version="1">Giant Space Hamster</content>
-  <content contentuid="h7ef170e9gd5aag3b0cgde8dg9efaaf932b58" version="1">Summon a brave 'Giant Space Hamster'. He temporarily adds himself to your team.</content>
   <content contentuid="h399bd7dbg2b9fg4e03g838cg7e299b0aa7bb" version="3">Scroll of Summon Giant Space Hamster</content>
+  <content contentuid="h7ef170e9gd5aag3b0cgde8dg9efaaf932b58" version="1">Summon a brave 'Giant Space Hamster'. He temporarily adds himself to your team.</content>
+  <content contentuid="h89975669ga317g279cga6a9g028012652811" version="1">Air Bubble</content>
+  <content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">Air Bubble</content>
+  <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
+  <content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2">Head covered with an air bubble filled with fresh air.</content>
+  <content contentuid="hed624bb4gccecg8b13gdd80g91b3fab2cb0a" version="2">Scroll of Air Bubble</content>
+  <content contentuid="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1">Air Bubble</content>
+  <content contentuid="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2">Head covered with an air bubble filled with fresh air.</content>
+  <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">Fish Suit Helmet</content>
+  <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">A bulky helmet, which fully encases your head.</content>
+  <content contentuid="h96790e9eg1bf5ge89cgb79ag9ebcb806aa9d" version="4">Gives the "Air Bubble" effect and resistance to "Acid" clouds.</content>
+  <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Sync. Spelljamming Helm</content>
+  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="2">Sync. Spelljamming Helm</content>
+  <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljammer Helm</content>
+  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="3">Spelljamming</content>
+  <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Scroll of Sync. Spelljamming Helm</content>
+  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You sync with the Helm of your Spelljammer, allowing you to use your ship's equipments from the ground.</content>
+  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="3">You sync with the Helm of your Spelljammer, allowing you to use your ship's equipments from the ground.</content>
+  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="5">Allows you to use your ship's equipments from the ground.</content>
+  <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
+  <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>
+  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="2">Wildspace Orrery</content>
+  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="2">Within a Wildspace system, this portable arcane device once automatically tracked the positions and movements of all suns, planets, moons, and comets within that system, projecting a display of these bodies into the space above its current location. In that display, a white, pulsating pinprick of light marked the orrery’s location.</content>
+  <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="1">Silver Plate</content>
   <content contentuid="h806975eagdb0fgabf3g50d5g1e000d4c6d8e" version="4">Talarith Ring</content>
   <content contentuid="h8a5981c4ga0b5g91dfgac8bg4a1da190e97e" version="4">A Reigar master craftsman created this piece of jewelry in the form of a ring to put on your finger. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
-  <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="3">*Crr-crr*</content>
-  <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="3">*Cush-cush*</content>
-  <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="3">*Skkk*</content>
-  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="6">Vampirate</content>
-  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="5">Vampirate</content>
-  <content contentuid="h2aff07f2g0148g50f6g06ecga32a5f4536f6" version="1">Reigar Illusion</content>
-  <content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">Summon duplicates that looks just like the caster.</content>
-  <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="2">Attunement</content>
-  <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">The wearer's weapon attacks deal an additional [1] force damage.</content>
-  <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="1">Attunement</content>
-  <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
-  <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="1">Attunement</content>
-  <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
   <content contentuid="hda0d8d75g9405g7c19g248agd8d077eaf6a0" version="1">Talarith Bracelets</content>
   <content contentuid="h9ba0a317g0f3cg3ad4g5d5fg9ee8be6b24eb" version="1">A Reigar master craftsman created this piece of jewelry in the form of bracelets to put on your hands. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
   <content contentuid="h33a504e9gc5c7gfab8g9273g8cee2ca74386" version="1">Talarith Diadem</content>
   <content contentuid="h70330665g8036g0ac9g052dg49c6c4be4303" version="1">A Reigar master craftsman created this piece of jewelry in the form of a diadem to put on your head. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
   <content contentuid="h8dc85010g52c1g5e4agb515gb811d448bb97" version="1">Talarith Necklace</content>
   <content contentuid="h1428863agb14fg8803g0abcgfc8b071ac733" version="1">A Reigar master craftsman created this piece of jewelry in the form of an amulet to put on your neck. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
+  <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="2">Attunement</content>
+  <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="1">Attunement</content>
+  <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="1">Attunement</content>
+  <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">The wearer's weapon attacks deal an additional [1] force damage.</content>
+  <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
+  <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
   <content contentuid="hec096946g23b1gdf65g6fe4g9f3f93892b76" version="1">Reigar Illusion</content>
+  <content contentuid="h2aff07f2g0148g50f6g06ecga32a5f4536f6" version="1">Reigar Illusion</content>
+  <content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">Summon duplicates that looks just like the caster.</content>
   <content contentuid="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="1">Summon duplicates that looks just like the caster.</content>
-  <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="4">Space Clown</content>
-  <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="4" />
-  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="2">Cultist</content>
+  <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Wildspace Orrery</content>
+  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="1">Having this item in inventory grants you its magical effect.</content>
+  <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">You have a Proficienty bonus in Nature and Perception.</content>
 </contentList>
