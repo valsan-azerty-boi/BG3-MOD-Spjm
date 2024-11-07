@@ -198,10 +198,11 @@
   <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral Boat</content>
   <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="11">Astral Boat</content>
   <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="7">Astral Boat</content>
-  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="11">Astral Circle</content>
+  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="16">Astral Circle</content>
   <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="19">Astral Circle</content>
   <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="10">Astral Circle</content>
   <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="8">Astral Circle</content>
+  <content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="13">Astral Circle</content>
   <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
   <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
   <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
@@ -216,13 +217,14 @@
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljamming Helm</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
-  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="100">*Leave*</content>
+  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="107">*Leave*</content>
   <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
   <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Powering*</content>
-  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="86">*Great Power surge from the Helm*</content>
-  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="60">*Use your innate powers to tame the Helm*</content>
-  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="59">*Cut the connection*</content>
-  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="8">Enhancement device</content>
+  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="93">*Great Power surge from the Helm*</content>
+  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="67">*Use your innate powers to tame the Helm*</content>
+  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="66">*Cut the connection*</content>
+  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="9">Enhancement device</content>
+  <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="2">Enhancement device</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="18">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
   <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="9">Canon</content>
   <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="21">*Unlock the Canon*</content>
@@ -231,22 +233,26 @@
   <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="21">*Unlock the Ballistae*</content>
   <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
   <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="21">*Leave*</content>
-  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="56">*Channels the arcane flow of the Helm*</content>
-  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="56">*Bend the Helm to your will*</content>
-  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="53">*Try to understand the magic emanating from the Helm*</content>
-  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="51">*Your mind does not seem to reach the arcana of the Helm*</content>
-  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="48">*You are successfully syncing with the Helm*</content>
+  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="63">*Channels the arcane flow of the Helm*</content>
+  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="63">*Bend the Helm to your will*</content>
+  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="60">*Try to understand the magic emanating from the Helm*</content>
+  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="58">*Your mind does not seem to reach the arcana of the Helm*</content>
+  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="55">*You are successfully syncing with the Helm*</content>
   <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
-  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="42">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="42">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="39">*Travel to the nearest city 'The Lower Rock'*</content>
-  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="38">*Travel to a 'Spacecrafter Inn'*</content>
-  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="34">*Travel to a 'Shattered Sanctum'*</content>
-  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="34">*Travel to a 'TODO Dungeon 3 TODO'*</content>
-  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="36">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
-  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="34">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="49">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="49">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="46">*Travel to the nearest city 'The Lower Rock'*</content>
+  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="45">*Travel to a 'Spacecrafter Inn'*</content>
+  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="41">*Travel to a 'Shattered Sanctum'*</content>
+  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="41">*Travel to a 'TODO Dungeon 3 TODO'*</content>
+  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="43">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
+  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="41">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="41">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="41">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="7"> [Astral Encounter] Explore the Astral Sea.</content>
+  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="4"> [Astral Encounter] Explore the Astral Sea.</content>
+  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="4"> [Astral Encounter] Explore the Astral Sea.</content>
+  <content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="5">*The Helm allows you to naturally navigate through the Astral Sea to your next exploration.*</content>
   <content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">Traveler's Chest</content>
   <content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">Traveler's Chest</content>
   <content contentuid="h13e50984gf83agbf28gf6eagb9664a007fb5" version="1">Traveler's Chest</content>
@@ -254,9 +260,9 @@
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Hatch to camp</content>
   <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="2">Hatch to camp</content>
   <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="7">Ladder to ship</content>
-  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="12">*Symbiosing with the Helm*</content>
-  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="11">*Perform a ritual to synchronize with the Helm*</content>
-  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="10">*Use your faith towards the Helm*</content>
+  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="19">*Symbiosing with the Helm*</content>
+  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="18">*Perform a ritual to synchronize with the Helm*</content>
+  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="17">*Use your faith towards the Helm*</content>
   <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
   <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
   <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="9">*This illithid looks at you*</content>
@@ -416,8 +422,8 @@
   <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="3">You smell like prey.</content>
   <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="6">Vampirate</content>
   <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="5">Vampirate</content>
-  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="11">Eye Monger</content>
-  <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="2">Corrupted Starlight Apparition</content>
+  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="15">Eye Monger</content>
+  <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="4">Corrupted Starlight Apparition</content>
   <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="2">Cultist</content>
   <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="9">Space Clown</content>
   <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="9" />
@@ -426,10 +432,10 @@
   <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="3">*Crr-crr*</content>
   <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="3">*Cush-cush*</content>
   <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="3">*Skkk*</content>
-  <content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="9">Gaj</content>
-  <content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="3">Gaj</content>
-  <content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="2">Gaj</content>
-  <content contentuid="had4c80c1g589bgb151g96d5g6b3cfd7f4b5c" version="2">Gaj</content>
+  <content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="14">Gaj</content>
+  <content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="8">Gaj</content>
+  <content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="7">Gaj</content>
+  <content contentuid="had4c80c1g589bgb151g96d5g6b3cfd7f4b5c" version="7">Gaj</content>
   <content contentuid="h3d920ed0g518agb14dgd8dag5827b8598729" version="1">Mandibles</content>
   <content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">Mandibles</content>
   <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target. </content>
@@ -566,4 +572,20 @@
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="hc0b30e99gf229g38c6g70ecgc67805c075b8" version="4">Space Clown</content>
+  <content contentuid="h3d13c9b4g191egdc0dg7925gb26269d0edc1" version="4">Space Clown</content>
+  <content contentuid="h389eeb7ag0368gba70gb53cg54785894496e" version="4">Space Clown</content>
+  <content contentuid="hd0a462feg7297g65e5g0849g7ccc4d8d6864" version="4">Space Clown</content>
+  <content contentuid="hfca0f650g2891g5533gf6a5g1dc37c989f3c" version="7">Githyanki captain</content>
+  <content contentuid="h442fa36fg1587g0230gf65cg7560cca26330" version="2" />
+  <content contentuid="h20844b4fg3925gc385g34a1gc6432766e769" version="6">Githyanki Buccaneer</content>
+  <content contentuid="hf5027610g3c25g7634gcb7agde6eced32e21" version="5">Githyanki Buccaneer</content>
+  <content contentuid="hd7599f8dgb382ga71fgce24g5475b51851e0" version="4">Githyanki Buccaneer</content>
+  <content contentuid="h9d85fea1gde3agec05gb459gbe2975ded4a6" version="5">Vampirate</content>
+  <content contentuid="h86d6d4a9g90a7gf0feg3d0fg47c8ae710f05" version="4">Vampirate</content>
+  <content contentuid="h0184ffceg6c2cgc9eag0b90g024a27d16d40" version="5">Vampirate</content>
+  <content contentuid="h6c609f86g192bg9687g21e3g9e68e31a6785" version="5">Vampirate</content>
+  <content contentuid="hf63df877g07d1g18ddgbd0ag97c8466906b2" version="5">Giant Space Hamster</content>
+  <content contentuid="h8102834dg4476ge437g1120gfaf05d4dcbff" version="4">Shapeless Plasmoid</content>
+  <content contentuid="h251b956eg868fg2b0bgfcadgd0b59c6b5306" version="2">Eye Monger</content>
 </contentList>

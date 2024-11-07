@@ -151,7 +151,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6f87e37c-94d4-45d8-acb2-fcbe1805ab28" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_Random_2" />
-        <field name="OnApplyRoll" type="RollConditionsTableFieldDefinition" value="not SavingThrow(Ability.Constitution,13)" />
+        <field name="OnApplyRoll" type="RollConditionsTableFieldDefinition" value="not SavingThrow(Ability.Wisdom,13)" />
         <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_3,100,0)" />
         <field name="OnApplyFail" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_4,100,0)" />
       </fields>
@@ -174,7 +174,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="1704677c-464c-4603-b817-90fdde8c77c0" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_Random_3" />
-        <field name="OnApplyRoll" type="RollConditionsTableFieldDefinition" value="not SavingThrow(Ability.Charisma,13)" />
+        <field name="OnApplyRoll" type="RollConditionsTableFieldDefinition" value="not SavingThrow(Ability.Wisdom,13)" />
         <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_5,100,0)" />
         <field name="OnApplyFail" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_6,100,0)" />
       </fields>

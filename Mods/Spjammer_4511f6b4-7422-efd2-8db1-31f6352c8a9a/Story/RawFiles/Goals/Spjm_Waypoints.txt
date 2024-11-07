@@ -32,6 +32,7 @@ AND
 QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerShip_Discovery_1c4ca709-6fb4-149d-8eeb-8a4d2bdaa8a3, (GUIDSTRING)_Player)
 THEN
 ClearFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9281d09, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+SetFlag((FLAG)SPJM_Spelljammer_Teleport_Explo1_IsNext_edd65e98-3815-4df8-8c38-da0d80e6d86f, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
 
 //END_REGION
 

@@ -5,42 +5,65 @@ INITSECTION
 KBSECTION
 //REGION SPJM Explo comet 1
 
-//PROC
-//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Ship_ReturnBoat_ExploComet_1_000000000, _)
-//AND
-//IsInCombat((CHARACTER)_Player, 0)
-//THEN
-//TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+IF
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Explo1_11f4676e-ca92-4b0f-9c76-54c0d2a5a1b2)
+AND
+DB_Players(_Player)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)SPJM_Explo1_Player_TeleportTrigger_bae3438a-dfc5-41c9-9035-03942f220258, "", 1, 1, 1, 1, 1);
+SetVisible((GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, 1);
+SetVisible((GUIDSTRING)_Player, 1);
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)SPJM_Rowboat_Astral_Interaction_Explo1_1186274e-e2cb-4070-b3b0-c68481df6153, _)
+AND
+IsInCombat((CHARACTER)_Player, 0)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
 AND
 DB_Players(_Player)
 THEN
-ApplyStatus((GUIDSTRING)_Player,"Spjm_RandomCometExploEncounter_Random_1",0.0,1);
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+EnteredTrigger((CHARACTER)_Avatar, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
+AND
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Explo1_11f4676e-ca92-4b0f-9c76-54c0d2a5a1b2)
+AND
+DB_Avatars(_Avatar)
+THEN
+ApplyStatus((GUIDSTRING)_Avatar,"Spjm_RandomCometExploEncounter_Random_1",0.0,1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo1_11f4676e-ca92-4b0f-9c76-54c0d2a5a1b2, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
 
 IF
 StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_1",_,_)
 AND
-CreateAtObject(bbcd2f10-9fc0-4823-8e52-5279aa8a9eea,S_SPJM_CometExplo_TeleportTrigger_1_47ad891f-e724-4c15-85c5-a050c60686d1,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature1)
-AND
-CreateAtObject(bbcd2f10-9fc0-4823-8e52-5279aa8a9eea,S_SPJM_CometExplo_TeleportTrigger_2_7ab7dfb4-104d-42d4-b308-5562a9fc9d9b,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature2)
+CreateAtObject(b67ccd3e-3a81-4c77-a28f-b373df94730c,S_SPJM_CometExplo_TeleportTrigger_1_47ad891f-e724-4c15-85c5-a050c60686d1,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature1)
 THEN
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature1);
-DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature2);
 
 IF
 StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_2",_,_)
 AND
-CreateAtObject(84b47b17-f8ad-4d86-afbf-22d9751a0706,S_SPJM_CometExplo_TeleportTrigger_1_47ad891f-e724-4c15-85c5-a050c60686d1,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature1)
+CreateAtObject(bb7ba708-ca45-40ec-b66e-413f271c27b4,S_SPJM_CometExplo_TeleportTrigger_1_47ad891f-e724-4c15-85c5-a050c60686d1,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature1)
 AND
-CreateAtObject(84b47b17-f8ad-4d86-afbf-22d9751a0706,S_SPJM_CometExplo_TeleportTrigger_2_7ab7dfb4-104d-42d4-b308-5562a9fc9d9b,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature2)
+CreateAtObject(bb7ba708-ca45-40ec-b66e-413f271c27b4,S_SPJM_CometExplo_TeleportTrigger_2_7ab7dfb4-104d-42d4-b308-5562a9fc9d9b,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature2)
 AND
-CreateAtObject(84b47b17-f8ad-4d86-afbf-22d9751a0706,S_SPJM_CometExplo_TeleportTrigger_3_3dbff59a-13f2-435a-a9f4-9ada8e9d6f22,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature3)
+CreateAtObject(bb7ba708-ca45-40ec-b66e-413f271c27b4,S_SPJM_CometExplo_TeleportTrigger_3_3dbff59a-13f2-435a-a9f4-9ada8e9d6f22,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature3)
 THEN
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature1);
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature2);
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature3);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff");
 
 IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
@@ -73,13 +96,219 @@ RequestDeleteTemporary((CHARACTER)_SpjmTempComet1Creature3);
 
 //REGION SPJM Explo comet 2
 
+IF
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Explo2_e4d03708-1db4-48f4-83e6-f2edd3bae47c)
+AND
+DB_Players(_Player)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)SPJM_Explo2_Player_TeleportTrigger_7d1fe658-36f9-417f-9775-3f6e4aa2b6ad, "", 1, 1, 1, 1, 1);
+SetVisible((GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, 1);
+SetVisible((GUIDSTRING)_Player, 1);
 
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)SPJM_Rowboat_Astral_Interaction_Explo2_26016f83-450b-4764-9753-80e9180b35df, _)
+AND
+IsInCombat((CHARACTER)_Player, 0)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+EnteredTrigger((CHARACTER)_Avatar, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Explo2_e4d03708-1db4-48f4-83e6-f2edd3bae47c)
+AND
+DB_Avatars(_Avatar)
+THEN
+ApplyStatus((GUIDSTRING)_Avatar,"Spjm_RandomCometExploEncounter_Random_2",0.0,1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo2_e4d03708-1db4-48f4-83e6-f2edd3bae47c, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+IF
+StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_3",_,_)
+AND
+CreateAtObject(eded7aba-2f2e-4cc7-93af-8b7b8a2e9a82,S_SPJM_CometExplo2_TeleportTrigger_1_7e1c65a1-34e1-4f82-8489-a8bdaea7c64e,1,1,"",1,(GUIDSTRING)_SpjmTempComet2Creature1)
+AND
+CreateAtObject(d011e193-dad4-4a7f-a22f-70c537e891d6,S_SPJM_CometExplo2_TeleportTrigger_2_5e42e5ad-18ef-445c-9cf9-c170778eaae2,1,1,"",1,(GUIDSTRING)_SpjmTempComet2Creature2)
+AND
+CreateAtObject(a8f7f320-5f12-498f-895b-9a18c3135c55,S_SPJM_CometExplo2_TeleportTrigger_3_0ee6eb4a-4288-4053-9306-75facf001367,1,1,"",1,(GUIDSTRING)_SpjmTempComet2Creature3)
+AND
+CreateAtObject(7e6f511c-74e6-4cba-ac29-dd87c6496c01,S_SPJM_CometExplo2_TeleportTrigger_4_e1c67441-1ac2-4add-ba3c-e78eabfb3e53,1,1,"",1,(GUIDSTRING)_SpjmTempComet2Creature4)
+THEN
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature1);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature2);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature3);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature4);
+
+IF
+StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_4",_,_)
+AND
+CreateAtObject(5e375b6e-62f7-452c-bb73-765598dcc908,S_SPJM_CometExplo2_TeleportTrigger_1_7e1c65a1-34e1-4f82-8489-a8bdaea7c64e,1,1,"",1,(GUIDSTRING)_SpjmTempComet2Creature1)
+AND
+CreateAtObject(5e375b6e-62f7-452c-bb73-765598dcc908,S_SPJM_CometExplo2_TeleportTrigger_2_5e42e5ad-18ef-445c-9cf9-c170778eaae2,1,1,"",1,(GUIDSTRING)_SpjmTempComet2Creature2)
+THEN
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature1);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature2);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff");
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet2Creature1)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet2Creature1);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet2Creature2)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet2Creature2);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet2Creature3)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet2Creature3);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet2Creature4)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet2Creature4);
 
 //END_REGION
 
 //REGION SPJM Explo comet 3
 
+IF
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Explo3_b159c9e2-bbe7-4c3f-8c35-8bc15cd60d88)
+AND
+DB_Players(_Player)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)SPJM_Explo3_Player_TeleportTrigger_de2050a7-ef86-4dcf-b7fd-f52c411ccfb7, "", 1, 1, 1, 1, 1);
+SetVisible((GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, 1);
+SetVisible((GUIDSTRING)_Player, 1);
 
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Explo3_ReturnOriginalToShip_215c7960-3dae-4e75-ac7d-1b5ccf688a83, _)
+AND
+IsInCombat((CHARACTER)_Player, 0)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
+EnteredTrigger((CHARACTER)_Avatar, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Explo3_b159c9e2-bbe7-4c3f-8c35-8bc15cd60d88)
+AND
+DB_Avatars(_Avatar)
+THEN
+ApplyStatus((GUIDSTRING)_Avatar,"Spjm_RandomCometExploEncounter_Random_3",0.0,1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo3_b159c9e2-bbe7-4c3f-8c35-8bc15cd60d88, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+IF
+StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_5",_,_)
+AND
+CreateAtObject(ddc304c0-722e-4b6f-a4ff-5c3aa1620161,S_SPJM_CometExplo3_TeleportTrigger_1_003a3526-c20b-46ce-a6fd-d10434880536,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature1)
+AND
+CreateAtObject(c20a9503-c802-4c04-bb7f-0dedbed211c8,S_SPJM_CometExplo3_TeleportTrigger_2_03fb1efc-c771-4897-b252-2716cbc5bf76,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature2)
+AND
+CreateAtObject(0f9b35e0-0b0f-40e6-b97d-a95fb7873728,S_SPJM_CometExplo3_TeleportTrigger_3_ab55a7a4-c90e-4784-9606-af02a9c25373,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature3)
+AND
+CreateAtObject(fb4bd85f-ef37-42fb-9bc8-468926a4fff3,S_SPJM_CometExplo3_TeleportTrigger_4_e4151b37-0d0a-4106-83fe-a5bbf5cd2e2b,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature4)
+THEN
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature1);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature2);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature3);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature4);
+
+IF
+StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_6",_,_)
+AND
+CreateAtObject(315369cb-6af9-4926-8ae6-62ecddabdca4,S_SPJM_CometExplo3_TeleportTrigger_1_003a3526-c20b-46ce-a6fd-d10434880536,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature1)
+AND
+CreateAtObject(49ba3ca8-f268-44fb-a8b1-e150eeb825a5,S_SPJM_CometExplo3_TeleportTrigger_2_03fb1efc-c771-4897-b252-2716cbc5bf76,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature2)
+AND
+CreateAtObject(f883549e-fdf1-424e-ad4b-0452d5d147ad,S_SPJM_CometExplo3_TeleportTrigger_3_ab55a7a4-c90e-4784-9606-af02a9c25373,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature3)
+AND
+CreateAtObject(4789d8d1-512e-466a-935d-1aa5120b5596,S_SPJM_CometExplo3_TeleportTrigger_4_e4151b37-0d0a-4106-83fe-a5bbf5cd2e2b,1,1,"",1,(GUIDSTRING)_SpjmTempComet3Creature4)
+THEN
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature1);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature2);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature3);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature4);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff");
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet3Creature1)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet3Creature1);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet3Creature2)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet3Creature2);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet3Creature3)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet3Creature3);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet3Creature4)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet3Creature4);
 
 //END_REGION
 EXITSECTION
