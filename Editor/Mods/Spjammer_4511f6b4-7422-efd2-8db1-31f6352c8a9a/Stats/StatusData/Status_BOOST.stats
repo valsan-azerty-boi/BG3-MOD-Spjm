@@ -110,5 +110,88 @@
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c7347e81-d3a9-41c0-b94d-c8818a9b02a8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_Gythka_Advantage_Buff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a26099ag0fceg0fffgee95g037eb793a819" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_TrueStrike" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Purple" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_GYTHKA_BUFF" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RollBonus(Attack,1d6)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a8909a5c-3406-4a6e-b197-a763560a6c0c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_Random_1" />
+        <field name="OnApplyRoll" type="RollConditionsTableFieldDefinition" value="not SavingThrow(Ability.Wisdom,13)" />
+        <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_1,100,0)" />
+        <field name="OnApplyFail" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_2,100,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6d876269-0dd1-493f-8ff5-86e26f1d0078" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_1" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Spjm_RandomCometExploEncounter_Random_1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6fc2fb94-1125-498c-b839-acfe3cbb4886" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_2" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Spjm_RandomCometExploEncounter_Random_1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6f87e37c-94d4-45d8-acb2-fcbe1805ab28" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_Random_2" />
+        <field name="OnApplyRoll" type="RollConditionsTableFieldDefinition" value="not SavingThrow(Ability.Constitution,13)" />
+        <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_3,100,0)" />
+        <field name="OnApplyFail" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_4,100,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="73367923-dd31-4897-9d51-479bda856cfa" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_3" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Spjm_RandomCometExploEncounter_Random_2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6f686d71-782c-47a7-b1c2-76af681c171b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_4" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Spjm_RandomCometExploEncounter_Random_2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1704677c-464c-4603-b817-90fdde8c77c0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_Random_3" />
+        <field name="OnApplyRoll" type="RollConditionsTableFieldDefinition" value="not SavingThrow(Ability.Charisma,13)" />
+        <field name="OnApplySuccess" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_5,100,0)" />
+        <field name="OnApplyFail" type="FunctorsTableFieldDefinition" value="ApplyStatus(Spjm_RandomCometExploEncounter_6,100,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6f8591cc-1099-47bf-9b93-0f9d6011af10" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_5" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Spjm_RandomCometExploEncounter_Random_3)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4985f06d-708b-4344-b98d-9a29718cd63c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_RandomCometExploEncounter_6" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(Spjm_RandomCometExploEncounter_Random_3)" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

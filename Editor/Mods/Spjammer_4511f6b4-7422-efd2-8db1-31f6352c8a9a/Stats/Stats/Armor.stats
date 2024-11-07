@@ -118,5 +118,33 @@
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2a48207a-5aff-467d-ae7e-c7d2824608ea" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2cddce17-f6a7-40ba-bf64-a45e4413a790" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Squeakers_Boots_Template" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Boots" enumeration_type_name="Itemslot" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="be545ee9-311c-4ab8-ab14-fefcc552cace" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="120" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0.3" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Skill(Stealth,-2);Skill(Survival,-2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="807923b0-0be3-4276-8183-58eb7e932fe7" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Squeakers_Boots" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2cddce17-f6a7-40ba-bf64-a45e4413a790" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="525b827a-5657-4445-bf69-4789afc7396f" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

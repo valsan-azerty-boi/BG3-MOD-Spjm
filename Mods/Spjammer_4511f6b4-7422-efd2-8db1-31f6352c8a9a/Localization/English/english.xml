@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <!-- Backgrounds -->
   <content contentuid="h1b6195b5gc566g234fg308cg912df50b25f2" version="1">Astral Drifter</content>
   <content contentuid="h0763002fg6176ga306g6080g546023b9d9ae" version="3">Astral Drifter</content>
   <content contentuid="ha3004fcdged23g9562ge385gc8e437cbe741" version="1">Astral Drifter</content>
@@ -21,7 +20,6 @@
   <content contentuid="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1">You have gained experience from your time in space and have learned to adapt to any gravity.</content>
   <content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">Your hit point maximum increases by 1 for every level you have gained.</content>
   <content contentuid="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="4">Your hit point maximum increases by 1 for every level you have gained.</content>
-  <!-- Bg Goals -->
   <content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">Secrets of the Sundering</content>
   <content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">Unlock and read the Book of Dead Gods.</content>
   <content contentuid="hf8439975g2c8eg466fg82c6g43b05ea6356f" version="3">Roots of the Grove</content>
@@ -196,7 +194,6 @@
   <content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">Discover what the 'meat sound' is.</content>
   <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Brain Blast!</content>
   <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
-  <!-- Area -->
   <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Portal</content>
   <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral Boat</content>
   <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="11">Astral Boat</content>
@@ -214,10 +211,9 @@
   <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="5">Spacecrafter Inn</content>
   <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="2">Shattered Sanctum</content>
   <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="2">TODO Dungeon 3 TODO</content>
-  <!-- Ship -->
-  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="22">Spelljammer Helm</content>
-  <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljammer Helm</content>
-  <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljammer Helm</content>
+  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="22">Spelljamming Helm</content>
+  <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljamming Helm</content>
+  <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljamming Helm</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
   <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="100">*Leave*</content>
@@ -261,7 +257,6 @@
   <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="12">*Symbiosing with the Helm*</content>
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="11">*Perform a ritual to synchronize with the Helm*</content>
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="10">*Use your faith towards the Helm*</content>
-  <!-- The Lower Rock -->
   <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
   <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
   <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="9">*This illithid looks at you*</content>
@@ -378,7 +373,7 @@
   <content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="2">Is there a purpose to your presence, or just an itch for trouble?</content>
   <content contentuid="h516fd51bg4561g1ed9gd7c4g28aa979991f9" version="12">Trout</content>
   <content contentuid="h17564982gf365gf9d2ge875g41c0e4466f38" version="7">Trout</content>
-  <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Spelljammer Trader</content>
+  <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Spelljamming Trader</content>
   <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="10">Plasmoid Adventurer</content>
   <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="13">Plasmoid Fighter</content>
   <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="10">Astral Drifter</content>
@@ -421,41 +416,47 @@
   <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="3">You smell like prey.</content>
   <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="6">Vampirate</content>
   <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="5">Vampirate</content>
-  <!-- Spacecrafter Inn -->
-  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="6">Eye Monger</content>
+  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="11">Eye Monger</content>
   <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="2">Corrupted Starlight Apparition</content>
   <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="2">Cultist</content>
-  <!-- TODO -->
-  <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="4">Space Clown</content>
-  <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="4" />
+  <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="9">Space Clown</content>
+  <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="9" />
   <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="18">Giant Space Hamster</content>
   <content contentuid="h0a24bf53g2a55gd927gcabdg5a2496d394dd" version="1">Giant Space Hamster</content>
   <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="3">*Crr-crr*</content>
   <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="3">*Cush-cush*</content>
   <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="3">*Skkk*</content>
-  <!-- Journal -->
+  <content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="9">Gaj</content>
+  <content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="3">Gaj</content>
+  <content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="2">Gaj</content>
+  <content contentuid="had4c80c1g589bgb151g96d5g6b3cfd7f4b5c" version="2">Gaj</content>
+  <content contentuid="h3d920ed0g518agb14dgd8dag5827b8598729" version="1">Mandibles</content>
+  <content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">Mandibles</content>
+  <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target. </content>
+  <content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target. </content>
+  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="2">Cult Portal</content>
+  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="2">Cult Portal</content>
   <content contentuid="hacbbadeeg7a60gf5cdgb51cg79cc97addb8e" version="3">Spelljammer</content>
   <content contentuid="ha159b668g7e97gdffbg7339g93bd4888ee75" version="2">Adventures in Space</content>
   <content contentuid="h18b55390gdddcg08abg1799ge1fa22a8bebe" version="3">Space Galleon</content>
-  <content contentuid="hfb6d5ad0g6ca4gcf5cg5e0bgcd8ad6db0ed9" version="2">It appears that you now have ownership of a Spelljammer in the Astral Plane. You can now explore the Astral Plane with your Space Galleon.</content>
+  <content contentuid="hfb6d5ad0g6ca4gcf5cg5e0bgcd8ad6db0ed9" version="2">It appears that you now have ownership of a Spelljamming Ship in the Astral Plane. You can now explore the Astral Plane with your Space Galleon.</content>
   <content contentuid="ha172501agaa8ag97f8g17e5g67466bd8d4fe" version="2">It's time to move forward into Baldur's Gate.</content>
-  <content contentuid="h5c40a550g7437gf5eaga8bcgd0bd20d51de2" version="1">Improved Spelljammer</content>
+  <content contentuid="h5c40a550g7437gf5eaga8bcgd0bd20d51de2" version="1">Improved Ship</content>
   <content contentuid="h9840d568g5126g0b93g3089gbb1ea3689b74" version="1">Your ship is now equipped with a Ballistae that you can use against your enemies.</content>
   <content contentuid="h96c053c6gb0fbgfa9eg416bgb18298fd7515" version="1">Your ship is now equipped with a Canon that you can use against your enemies.</content>
   <content contentuid="h80ef3df7g0ed4gb2cbg530cgf2d8a2a5b0b2" version="1">Return to Baldur's Gate</content>
-  <!-- Items & Spells -->
   <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Astral Targetting</content>
   <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
   <content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">Astral Strike</content>
   <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">Target Astral Strike Description TODO</content>
   <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="2">Astral Strike: Canon</content>
-  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="2">Use your Spelljammer's cannon to bombard an area.</content>
+  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="2">Use your Ship's cannon to bombard an area.</content>
   <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
-  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="2">Use your Spelljammer's ballista to shoot an area.</content>
+  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="2">Use your Ship's ballista to shoot an area.</content>
   <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="2">Spelljamming</content>
-  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Spelljammer's equipment remotely.</content>
-  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljammer and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
-  <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljammer's Helm to reuse its weapons.</content>
+  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Ship's equipment remotely.</content>
+  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljamming Ship and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
+  <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljamming Helm to reuse its weapons.</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
   <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="9">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
@@ -463,20 +464,20 @@
   <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="9">This contract is unread.</content>
   <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
   <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="9">Activate</content>
-  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="4">Allows you to claim a Spelljammer.</content>
+  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="4">Allows you to claim a Spelljamming Ship.</content>
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
-  <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljammer*</content>
+  <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljamming Ship*</content>
   <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="5">Purchase order: Ballistae</content>
   <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="5">Activate</content>
   <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="5">This purchase order is unread.</content>
-  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="5">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Spelljammer's upgrade device.</content>
-  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="5">A purchase order for a Spelljammer Ballistae weapon.</content>
+  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="5">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Ship's upgrade device.</content>
+  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="5">A purchase order for a Spelljamming Ballistae weapon.</content>
   <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="4">Purchase order: Canon</content>
   <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="4">Activate</content>
   <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="4">This purchase order is unread.</content>
-  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="4">First, you need to manually activate the purchase order. Second, you will be able to install your Canon via the Spelljammer's upgrade device.</content>
-  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="4">A purchase order for a Spelljammer Canon weapon.</content>
+  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="4">First, you need to manually activate the purchase order. Second, you will be able to install your Canon via the Ship's upgrade device.</content>
+  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="4">A purchase order for a Spelljamming Canon weapon.</content>
   <content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">Purchase order: Ballistae</content>
   <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">You can install a Ballistae via the upgrade device.</content>
   <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase order: Canon</content>
@@ -497,21 +498,24 @@
   <content contentuid="h7ef170e9gd5aag3b0cgde8dg9efaaf932b58" version="1">Summon a brave 'Giant Space Hamster'. He temporarily adds himself to your team.</content>
   <content contentuid="h89975669ga317g279cga6a9g028012652811" version="1">Air Bubble</content>
   <content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">Air Bubble</content>
-  <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
-  <content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2">Head covered with an air bubble filled with fresh air.</content>
-  <content contentuid="hed624bb4gccecg8b13gdd80g91b3fab2cb0a" version="2">Scroll of Air Bubble</content>
+  <content contentuid="hddc514fcg15f7g9bafg7d63gb2d68c95557a" version="2">Charm of Air Bubbles</content>
   <content contentuid="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1">Air Bubble</content>
+  <content contentuid="hed624bb4gccecg8b13gdd80g91b3fab2cb0a" version="2">Scroll of Air Bubble</content>
+  <content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2">Head covered with an air bubble filled with fresh air.</content>
   <content contentuid="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2">Head covered with an air bubble filled with fresh air.</content>
+  <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
+  <content contentuid="hedc1df35g19d0gb40bg99fag6116444934be" version="3">This trinket allows you to create a spectral globe around the head of 3 willing creatures you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
+  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="1">Silver Plate</content>
   <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">Fish Suit Helmet</content>
   <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">A bulky helmet, which fully encases your head.</content>
   <content contentuid="h96790e9eg1bf5ge89cgb79ag9ebcb806aa9d" version="4">Gives the "Air Bubble" effect and resistance to "Acid" clouds.</content>
   <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Sync. Spelljamming Helm</content>
   <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="2">Sync. Spelljamming Helm</content>
-  <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljammer Helm</content>
+  <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljamming Helm</content>
   <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="3">Spelljamming</content>
   <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Scroll of Sync. Spelljamming Helm</content>
-  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You sync with the Helm of your Spelljammer, allowing you to use your ship's equipments from the ground.</content>
-  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="3">You sync with the Helm of your Spelljammer, allowing you to use your ship's equipments from the ground.</content>
+  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You sync with the Helm of your Ship, allowing you to use your ship's equipments from the ground.</content>
+  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="3">You sync with the Helm of your Ship, allowing you to use your ship's equipments from the ground.</content>
   <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="5">Allows you to use your ship's equipments from the ground.</content>
   <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
   <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>
@@ -519,7 +523,6 @@
   <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="2">Within a Wildspace system, this portable arcane device once automatically tracked the positions and movements of all suns, planets, moons, and comets within that system, projecting a display of these bodies into the space above its current location. In that display, a white, pulsating pinprick of light marked the orrery’s location.</content>
   <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">You have a Proficienty bonus in Nature and Perception.</content>
   <content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">You have a Proficienty bonus in Nature and Perception.</content>
-  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="1">Silver Plate</content>
   <content contentuid="h806975eagdb0fgabf3g50d5g1e000d4c6d8e" version="4">Talarith Ring</content>
   <content contentuid="h8a5981c4ga0b5g91dfgac8bg4a1da190e97e" version="4">A Reigar master craftsman created this piece of jewelry in the form of a ring to put on your finger. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
   <content contentuid="hda0d8d75g9405g7c19g248agd8d077eaf6a0" version="1">Talarith Bracelets</content>
@@ -541,4 +544,26 @@
   <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Wildspace Orrery</content>
   <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="1">Having this item in inventory grants you its magical effect.</content>
   <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="h931831bagdb4ag58bfgd29dg08e838965c67" version="6">Charm of Air Bubbles</content>
+  <content contentuid="hc9f60dc9gd341g2907gd91bgb9115368e2cc" version="3">Charm of Instant Tools</content>
+  <content contentuid="h2f8ca464g6834g2a20g7e91g219358e926c6" version="3">Consume</content>
+  <content contentuid="h493d3cc5g0f23g566bgacdfg61cc41a5d6eb" version="3">Consume</content>
+  <content contentuid="h7e4b0b47gea96g50d8gf74ag19332d1748e5" version="1">A trinket made by a Chwinga. Once used, this charm goes away.</content>
+  <content contentuid="h3840b9c2gc5adge66ag917agc73392ca62df" version="2">A trinket made by a Chwinga. Once used, this charm goes away.</content>
+  <content contentuid="ha431dcc2g57adg12e2ga72ag5f34bb5a8be6" version="1">Charm of Instant Tools</content>
+  <content contentuid="hc561caa2gda7fg1616g366cge37dc7ef99bb" version="3">This trinket allows you to magically create 3 Thieves' Tools for your adventure.</content>
+  <content contentuid="h65dff092gf42dg7514ga5e7ga6c239a29086" version="4">Squeakers</content>
+  <content contentuid="hb24675a8gfc06gb2a1g021fg42f5e73badbc" version="4">Clown shoes that squeak when you walk.</content>
+  <content contentuid="he2fe53fcg097dg15aag30d8gb9496cad95d9" version="2">You get a Stealth and Survival penalty when you equip this item.</content>
+  <content contentuid="h28241fe4g6861g59aagaac0gc197d94a3c8f" version="4">Gythka</content>
+  <content contentuid="he36da38cg5767ga644g1d1cgccb1d902a06f" version="2">Gythka</content>
+  <content contentuid="h66a0b518g3b14g3f2dgdc67g3b8172b21a53" version="8">Gythka</content>
+  <content contentuid="h455cce1ag5617gea5cgf35age6fd5e675446" version="1">Gythka</content>
+  <content contentuid="hb63d8961gb40agbc6eg46eeg6a468373a3d4" version="4">An exotic weapon invented by the Thri-kreen.</content>
+  <content contentuid="hd267c678gb241g1567g914fg042554d28544" version="2">An exotic weapon invented by the Thri-kreen.</content>
+  <content contentuid="h5a32d8e0g8667gc8bfgcaacgb78db650feb9" version="8">An exotic weapon invented by the Thri-kreen.</content>
+  <content contentuid="h5a26099ag0fceg0fffgee95g037eb793a819" version="2">Thri-kreen Expertise</content>
+  <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
+  <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
 </contentList>

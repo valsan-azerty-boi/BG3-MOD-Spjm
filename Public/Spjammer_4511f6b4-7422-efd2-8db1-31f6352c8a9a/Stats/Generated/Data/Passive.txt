@@ -67,3 +67,10 @@ data "Description" "h989cb931gf567ga7dfg03ffgd5460a7a3565;1"
 data "DescriptionParams" "1d6"
 data "Icon" "PassiveFeature_AgonizingBlast"
 
+new entry "SPJM_Passive_Gythka_Advantage_ForTooltipDesc"
+type "PassiveData"
+data "DisplayName" "h91625929gbac5gb215g6f08gfa3c9bfa7d46;2"
+data "Description" "h3db9a464gea66g72fdg22d0gd7f941b728e0;3"
+data "DescriptionParams" "1d6"
+data "Icon" "Spell_Divination_TrueStrike"
+

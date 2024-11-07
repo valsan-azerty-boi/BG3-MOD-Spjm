@@ -24,6 +24,11 @@
                     <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="c790f2f9-a276-4570-ac88-2636247e107a"/>
                 </node>
+                <node id="Faction">
+                    <attribute id="Faction" type="FixedString" value="SPJM_CometExplo_Encounters"/>
+                    <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="45944b65-b21f-4ddf-b744-5d1cc1211670"/>
+                </node>
             </children>
         </node>
     </region>

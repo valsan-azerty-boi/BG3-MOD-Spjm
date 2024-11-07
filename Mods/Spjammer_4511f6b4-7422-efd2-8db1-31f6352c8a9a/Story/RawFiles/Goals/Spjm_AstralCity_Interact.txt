@@ -3,6 +3,15 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
+//REGION Leave SPJM City with rope
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)TOOL_Ladder_Fishnet_10H_A_001_7144b3d8-9e7d-4165-ab94-5419a45b2e5b, _)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+//END_REGION
+
 //REGION SPJM Astral city respiration mechanic
 
 IF

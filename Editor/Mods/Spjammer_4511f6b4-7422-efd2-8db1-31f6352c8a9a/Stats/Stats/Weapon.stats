@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a1fa1d2f-c335-4902-898c-4228c3c07d52">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9b7cd70d-60fc-4399-92c1-74b4749613a1" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_CheatWeaponForTest_Template" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="59afe51a-dfbf-4e13-bf7e-0009b102e935" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="1d4+390" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value=";" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value=";" />
+        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_Gythka_Advantage_Buff" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f4babd91-32d6-4c12-9f3e-d2ad50fe4ddf" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_CheatWeaponForTest" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9b7cd70d-60fc-4399-92c1-74b4749613a1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1f9c9255-026b-4a61-bb0c-cdce7b935a6b" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c3b1ebc6-482a-419b-912a-a6d2a93bacdf" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_GythkaHalberd_Wpn_Template" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Slashing" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="2d8" />
+        <field name="WeaponRange" type="IntegerTableFieldDefinition" value="230" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="7" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="81764c3c-c7a9-49a7-b145-d31ffd5aebe1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1800" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Melee Main Weapon" enumeration_type_name="Itemslot" version="1" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Rush_SpringAttack);UnlockSpell(Target_Slash_New);UnlockSpell(Zone_Cleave)" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="SPJM_Passive_Gythka_Advantage_ForTooltipDesc" />
+        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_Gythka_Advantage_Buff" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Heavy;Reach;Twohanded;Melee;Dippable" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Halberds;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="59afe51a-dfbf-4e13-bf7e-0009b102e935" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_GythkaHalberd_Wpn" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c3b1ebc6-482a-419b-912a-a6d2a93bacdf" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2e54bc7c-111e-4322-83b9-b5cf3f655716" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

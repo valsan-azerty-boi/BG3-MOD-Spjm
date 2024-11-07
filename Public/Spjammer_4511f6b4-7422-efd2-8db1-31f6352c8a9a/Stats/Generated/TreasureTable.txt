@@ -19,6 +19,14 @@ new subtable "1,1"
 object category "I_OBJ_Spjm_Talarith_Diadem",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_Talarith_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Squeakers_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Gythka_Wpn",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_CharmOfAirBubbles",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_CharmOfInstantTools",1,0,0,0,0,0,0,0
 new treasuretable "MOO_ZhentQuartermaster"
 CanMerge 1
 new subtable "1,1"
@@ -191,6 +199,10 @@ object category "I_WPN_Torch",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Trader_AstralFish_Trade"
 new subtable "1,1"
 object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_CharmOfAirBubbles",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_CharmOfInstantTools",1,0,0,0,0,0,0,0
 new subtable "3,1"
 object category "I_CONS_FOOD_Fish_Small_A",1,0,0,0,0,0,0,0
 new subtable "3,1"

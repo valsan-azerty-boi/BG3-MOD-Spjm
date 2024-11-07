@@ -1,0 +1,87 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION SPJM Explo comet 1
+
+//PROC
+//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Ship_ReturnBoat_ExploComet_1_000000000, _)
+//AND
+//IsInCombat((CHARACTER)_Player, 0)
+//THEN
+//TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player,"Spjm_RandomCometExploEncounter_Random_1",0.0,1);
+
+IF
+StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_1",_,_)
+AND
+CreateAtObject(bbcd2f10-9fc0-4823-8e52-5279aa8a9eea,S_SPJM_CometExplo_TeleportTrigger_1_47ad891f-e724-4c15-85c5-a050c60686d1,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature1)
+AND
+CreateAtObject(bbcd2f10-9fc0-4823-8e52-5279aa8a9eea,S_SPJM_CometExplo_TeleportTrigger_2_7ab7dfb4-104d-42d4-b308-5562a9fc9d9b,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature2)
+THEN
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature1);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature2);
+
+IF
+StatusRemoved(_Player,"Spjm_RandomCometExploEncounter_2",_,_)
+AND
+CreateAtObject(84b47b17-f8ad-4d86-afbf-22d9751a0706,S_SPJM_CometExplo_TeleportTrigger_1_47ad891f-e724-4c15-85c5-a050c60686d1,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature1)
+AND
+CreateAtObject(84b47b17-f8ad-4d86-afbf-22d9751a0706,S_SPJM_CometExplo_TeleportTrigger_2_7ab7dfb4-104d-42d4-b308-5562a9fc9d9b,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature2)
+AND
+CreateAtObject(84b47b17-f8ad-4d86-afbf-22d9751a0706,S_SPJM_CometExplo_TeleportTrigger_3_3dbff59a-13f2-435a-a9f4-9ada8e9d6f22,1,1,"",1,(GUIDSTRING)_SpjmTempComet1Creature3)
+THEN
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature1);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature2);
+DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature3);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet1Creature1)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet1Creature1);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet1Creature2)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet1Creature2);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
+AND
+DB_Players(_Player)
+AND
+DB_SpjmTempComet(_SpjmTempComet1Creature3)
+THEN
+RequestDeleteTemporary((CHARACTER)_SpjmTempComet1Creature3);
+
+//END_REGION
+
+//REGION SPJM Explo comet 2
+
+
+
+//END_REGION
+
+//REGION SPJM Explo comet 3
+
+
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION

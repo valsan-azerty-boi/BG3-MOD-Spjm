@@ -100,5 +100,15 @@
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_AgonizingBlast" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c4c7fef-3dd2-454e-a1d1-7de4befcb9ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Gythka_Advantage_ForTooltipDesc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_TrueStrike" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

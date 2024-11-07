@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="d125b4c2-4dab-5cef-3b06-e21f31079721"/>
+            <attribute id="LayerColor" type="int32" value="-606720"/>
+            <attribute id="Name" type="LSString" value="CometExplo"/>
+        </node>
+    </region>
+</save>
