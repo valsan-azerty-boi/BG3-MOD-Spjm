@@ -117,7 +117,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_9" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Gythka_Wpn" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_GythkaHalberd_Wpn" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -318,6 +318,160 @@
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Ship_Crate_2_substat" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Solution_Potion_Rest_Greater" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a45756f8-e246-4de1-baea-d595e68ce6e4" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg1_Cultist" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_WildspaceOrrery" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a45756f8-e246-4de1-baea-d595e68ce6e4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7cbfb7dd-99ca-41a1-a772-818bafb35c11" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg1_Cultist_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_CharmOfInstantTools" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3d960f75-68ef-4b51-9281-4c441aebffc4" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg2_CultistBoss" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Wealthy" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3d960f75-68ef-4b51-9281-4c441aebffc4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="04d04890-9429-4442-a981-c5ca26636c78" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg2_CultistBoss_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_SpelljammerCanon" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3d960f75-68ef-4b51-9281-4c441aebffc4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="28a6b529-88b3-4cc7-9317-acb6cd8f5a55" />
+        <field name="Name" type="NameTableFieldDefinition" value="3d960f75-68ef-4b51-9281-4c441aebffc4_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_CreateSpelljammerHelm" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="68c638b1-1397-4bb0-9cf4-27a6e27dd51e" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg3_Boss" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Wealthy" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="68c638b1-1397-4bb0-9cf4-27a6e27dd51e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9817aaca-f14f-47f4-be1a-0b80520af99e" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg3_Boss_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_GythkaHalberd_Wpn" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4950e9e9-c989-46bd-aa73-4cba4cab0c3c" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Explo_Trs_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Normal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4950e9e9-c989-46bd-aa73-4cba4cab0c3c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="73c2bbea-8891-4e10-a23f-7aa8b28b91ba" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Explo_Trs_1_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_WildspaceOrrery" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4950e9e9-c989-46bd-aa73-4cba4cab0c3c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e2f1c6b5-0f9a-46d6-ac59-389035660de5" />
+        <field name="Name" type="NameTableFieldDefinition" value="4950e9e9-c989-46bd-aa73-4cba4cab0c3c_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_GiantSpaceHamster" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a3fa249-9298-4512-9474-5952d0e38a78" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Explo_Trs_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Wealthy" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1a3fa249-9298-4512-9474-5952d0e38a78" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c8f7b853-2e4c-46a0-a121-4d1cf6ac51e2" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Explo_Trs_2_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Talarith_Diadem" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1a3fa249-9298-4512-9474-5952d0e38a78" />
+        <field name="UUID" type="IdTableFieldDefinition" value="560d1b87-8a34-45de-b4be-c8731241830a" />
+        <field name="Name" type="NameTableFieldDefinition" value="1a3fa249-9298-4512-9474-5952d0e38a78_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_AirBubble" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bbee1e6f-742f-4b04-b72e-f6f0e3df7928" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Explo_Trs_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Opulent" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bbee1e6f-742f-4b04-b72e-f6f0e3df7928" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1e771e88-b14c-44f7-8285-439e96163442" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Explo_Trs_3_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_SpelljammerBallistae" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bbee1e6f-742f-4b04-b72e-f6f0e3df7928" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0fd163de-f555-4913-b6c1-eb6cad46ee7e" />
+        <field name="Name" type="NameTableFieldDefinition" value="bbee1e6f-742f-4b04-b72e-f6f0e3df7928_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_CreateSpelljammerHelm" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
