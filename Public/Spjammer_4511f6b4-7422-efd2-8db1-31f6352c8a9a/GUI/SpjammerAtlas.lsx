@@ -27,8 +27,8 @@
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Spjm_Item_SummonGiantSpaceHamster"/>
-                    <attribute id="U1" type="float" value="0.37597656"/>
-                    <attribute id="U2" type="float" value="0.49902344"/>
+                    <attribute id="U1" type="float" value="0.62597656"/>
+                    <attribute id="U2" type="float" value="0.74902344"/>
                     <attribute id="V1" type="float" value="0.12597656"/>
                     <attribute id="V2" type="float" value="0.24902344"/>
                 </node>
@@ -78,6 +78,13 @@
                     <attribute id="MapKey" type="FixedString" value="Spjm_Spell_HoldBreath"/>
                     <attribute id="U1" type="float" value="0.12597656"/>
                     <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Spjm_Spell_SpaceGalleon"/>
+                    <attribute id="U1" type="float" value="0.37597656"/>
+                    <attribute id="U2" type="float" value="0.49902344"/>
                     <attribute id="V1" type="float" value="0.12597656"/>
                     <attribute id="V2" type="float" value="0.24902344"/>
                 </node>

@@ -212,6 +212,13 @@ SetVisible((GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b
 SetVisible((GUIDSTRING)_Player, 1);
 
 PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)SPJM_Explo3_SpelljammerHelm_c5720202-3e66-4655-bb7b-473862d1a0e6, _)
+AND
+IsInCombat((CHARACTER)_Player, 0)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_Secondary_a290f744-bdac-488f-99bf-9217bfb77f3d, "", 1, 1, 1, 1, 1);
+
+PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Explo3_ReturnOriginalToShip_215c7960-3dae-4e75-ac7d-1b5ccf688a83, _)
 AND
 IsInCombat((CHARACTER)_Player, 0)

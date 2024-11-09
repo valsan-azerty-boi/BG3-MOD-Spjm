@@ -3,7 +3,7 @@
     <version major="4" minor="7" revision="1" build="3"/>
     <region id="TLScene">
         <node id="root">
-            <attribute id="Identifier" type="guid" value="cf8bd4c7-d5d5-d55d-58c6-fa442e3ac083"/>
+            <attribute id="Identifier" type="guid" value="4fe083ea-e756-3c21-dca4-a6cbbb1513cd"/>
             <attribute id="SceneBounds" type="fvec3">
                 <float3 x="0.66463268" y="0" z="1.2411034"/>
             </attribute>
@@ -210,7 +210,7 @@
                         <node id="TLActor">
                             <attribute id="ActorType" type="uint8" value="8"/>
                             <attribute id="ImportantForStaging" type="bool" value="true"/>
-                            <attribute id="TemplateId" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a"/>
+                            <attribute id="TemplateId" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0"/>
                             <children>
                                 <node id="Transforms">
                                     <children>
@@ -237,7 +237,7 @@
                 <node id="TLInheritedScenes">
                     <children>
                         <node id="TLScene">
-                            <attribute id="Object" type="string" value="BG3modTest/UnpackedMods/Shared/bnz_standing_Px1_Shipping.lsx"/>
+                            <attribute id="Object" type="string" value="Public/Spjammer_4511f6b4-7422-efd2-8db1-31f6352c8a9a/Timeline/Scenes/Default/bnz_standing_Px1_Shipping.lsx"/>
                         </node>
                     </children>
                 </node>

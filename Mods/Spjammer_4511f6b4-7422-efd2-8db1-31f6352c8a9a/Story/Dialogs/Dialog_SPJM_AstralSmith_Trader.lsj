@@ -20,6 +20,7 @@
                }
             ],
             "DefaultSpeakerIndex" : {"type" : "int32", "value" : 1},
+            "IsAllowingJoinCombat" : {"type" : "bool", "value" : true},
             "TimelineId" : {"type" : "FixedString", "value" : "a5e6cef7-f783-4519-b6f9-31c2e44c2a9b"},
             "UUID" : {"type" : "FixedString", "value" : "893b7fb2-8cf6-a619-9a56-405c1b00105b"},
             "category" : {"type" : "LSString", "value" : "Generic NPC Dialog"},
@@ -91,6 +92,7 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
+                        "Greeting" : {"type" : "bool", "value" : true},
                         "Root" : {"type" : "bool", "value" : true},
                         "TaggedTexts" : [
                            {
@@ -116,7 +118,7 @@
                                                 "TagText" : {
                                                    "handle" : "hbfc216d4gb57fg41e3gab05gedccc9bff1df",
                                                    "type" : "TranslatedString",
-                                                   "version" : 5
+                                                   "version" : 12
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -129,6 +131,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "606dd027-8ddc-450f-8a8a-a4bc91c9cddb"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -285,7 +288,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6fe881c2g96d0g5de6gcb1cge5a0de31a488",
                                                    "type" : "TranslatedString",
-                                                   "version" : 5
+                                                   "version" : 12
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -303,6 +306,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -420,6 +424,7 @@
                               ]
                            }
                         ],
+                        "optional" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 1}
                      },
@@ -456,7 +461,7 @@
                                                 "TagText" : {
                                                    "handle" : "h10800e69g8369g6255g55bcgcc5a1c800135",
                                                    "type" : "TranslatedString",
-                                                   "version" : 5
+                                                   "version" : 12
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -474,6 +479,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagQuestion"},
@@ -584,6 +590,7 @@
                            }
                         ],
                         "endnode" : {"type" : "bool", "value" : true},
+                        "optional" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 1}
                      }

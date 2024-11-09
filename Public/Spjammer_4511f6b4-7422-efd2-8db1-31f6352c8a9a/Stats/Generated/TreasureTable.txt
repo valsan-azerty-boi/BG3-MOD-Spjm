@@ -49,6 +49,12 @@ new subtable "4,1"
 object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
+CanMerge 1
+new subtable "2,1"
+object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_Talarith_Diadem",1,0,0,0,0,0,0,0
 new treasuretable "WYR_Circus_KoboldMerchant_Magic"
 CanMerge 1
 new subtable "1,1"
@@ -59,12 +65,8 @@ new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0
-new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
-CanMerge 1
-new subtable "2,1"
-object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Spjm_Talarith_Diadem",1,0,0,0,0,0,0,0
+object category "I_OBJ_Spjm_SpelljammerContract",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Ship_Crate_1"
 new subtable "4,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0

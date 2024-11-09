@@ -3,6 +3,30 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
+//REGION SPJM Sync spell
+
+IF
+CastSpell(_Spell, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
+AND
+DB_Avatars(_Avatar)
+AND
+NOT HasPassive(_Avatar, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm_Failed", 30.0);
+
+//IF
+//CastSpell(_Spell, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
+//AND
+//DB_Avatars(_Avatar)
+//AND
+//HasPassive(_Avatar, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
+//THEN
+//ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm", -1.0);
+//ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm_2", -1.0);
+//ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm_3", -1.0);
+
+//END_REGION
+
 //REGION SPJM Spelljammer Upgrade Device dialog
 
 PROC

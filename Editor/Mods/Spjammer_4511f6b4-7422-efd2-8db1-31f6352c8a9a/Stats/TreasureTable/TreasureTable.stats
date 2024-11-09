@@ -219,6 +219,27 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9d685f91-5f4d-46c0-9ca9-9f46f776b31d" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_DevilsFee_Diabolist_Trade_Magic" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_AirBubble" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9d685f91-5f4d-46c0-9ca9-9f46f776b31d" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b84693c9-c4d4-450a-a4ed-e0c5ddb56436" />
+        <field name="Name" type="NameTableFieldDefinition" value="LOW_DevilsFee_Diabolist_Trade_Magic_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Talarith_Diadem" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b85c503d-662c-4970-b9b0-a5ef22e2c11e" />
         <field name="Name" type="NameTableFieldDefinition" value="WYR_Circus_KoboldMerchant_Magic" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
@@ -262,24 +283,14 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="9d685f91-5f4d-46c0-9ca9-9f46f776b31d" />
-        <field name="Name" type="NameTableFieldDefinition" value="LOW_DevilsFee_Diabolist_Trade_Magic" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="2,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_AirBubble" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="9d685f91-5f4d-46c0-9ca9-9f46f776b31d" />
-        <field name="UUID" type="IdTableFieldDefinition" value="b84693c9-c4d4-450a-a4ed-e0c5ddb56436" />
-        <field name="Name" type="NameTableFieldDefinition" value="LOW_DevilsFee_Diabolist_Trade_Magic_substat" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b85c503d-662c-4970-b9b0-a5ef22e2c11e" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a435d87f-6578-4819-b26d-cd4b560a9f69" />
+        <field name="Name" type="NameTableFieldDefinition" value="b85c503d-662c-4970-b9b0-a5ef22e2c11e_substat_2" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Talarith_Diadem" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_SpelljammerContract" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

@@ -203,16 +203,16 @@
   <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="10">Astral Circle</content>
   <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="8">Astral Circle</content>
   <content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="13">Astral Circle</content>
-  <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Plane</content>
-  <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="1">Astral Plane</content>
-  <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Spelljammer</content>
-  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="5">Spelljammer</content>
-  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="3">The Lower Rock</content>
+  <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Sea</content>
+  <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="2">Astral Sea</content>
+  <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Space Galleon</content>
+  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="6">Space Galleon</content>
+  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="4">The Lower Rock</content>
   <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Spacecrafter Inn</content>
-  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="5">Spacecrafter Inn</content>
-  <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="2">Shattered Sanctum</content>
-  <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="2">TODO Dungeon 3 TODO</content>
-  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="22">Spelljamming Helm</content>
+  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="6">Spacecrafter Inn</content>
+  <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="3">Shattered Sanctum</content>
+  <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="3">Cult Laboratory</content>
+  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="23">Spelljamming Helm</content>
   <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljamming Helm</content>
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljamming Helm</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
@@ -265,173 +265,173 @@
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="20">*Use your faith towards the Helm*</content>
   <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
   <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
-  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="9">*This illithid looks at you*</content>
-  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="9">&lt;i&gt;Trade.&lt;/i&gt;</content>
-  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="9">&lt;i&gt;Leave.&lt;/i&gt;</content>
-  <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="6">*A simple merchant who offers goods for purchase*</content>
+  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">*This illithid looks at you*</content>
+  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="13">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="13">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="10">*A simple merchant who offers goods for purchase*</content>
   <content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">Trout</content>
-  <content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="3">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="7">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="4">Ballistae</content>
   <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="3">Canon</content>
-  <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="6">&lt;i&gt;Leave.&lt;/i&gt;</content>
-  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="8">Traveler</content>
-  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="8">Traveler</content>
-  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="6">Traveler</content>
+  <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="10">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="9">Traveler</content>
+  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="9">Traveler</content>
+  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="7">Traveler</content>
   <content contentuid="hb9552a4dg983dg8161g430eg2444b5e67fa1" version="1">Traveler</content>
-  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="9">Traveler</content>
-  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="3">Traveler</content>
-  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="7">Traveler</content>
-  <content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="7">Traveler</content>
-  <content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="7">Traveler</content>
-  <content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="5">Traveler</content>
-  <content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="11">Traveler</content>
-  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="3">Traveler</content>
-  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="3">Traveler</content>
-  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="4">Traveler</content>
-  <content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="9">Traveler</content>
-  <content contentuid="h882854e6g2815g3a64g1543g4712359645aa" version="3">Think the stardust vendor will be in soon?</content>
-  <content contentuid="ha67711e7g8ab8ge040gc710gaded92d07a35" version="3">Seen any astral fish today?</content>
-  <content contentuid="h0d6ea77eg9977g619dg6972g60822f2bb5ad" version="3">In the Astral Sea, one moment you're adrift, the next you're face-to-face with a god.</content>
-  <content contentuid="h76b6b14bg6443g7877g304bg21e8339b55fa" version="3">Haven't aged a day since I left my world. Strange feeling, that.</content>
-  <content contentuid="h8077f50fga02bg1017g42f8g90cf9269160b" version="3">Nothing like the hum of the silver void to ease the mind.</content>
-  <content contentuid="hd8b11de5gf81cgb24dg6530gc7ea752b104a" version="3">Keep your wits here stranger, the stars might swallow you whole.</content>
-  <content contentuid="h78eab429gca56g2a96gcf57g5e9dcebd16bc" version="3">Watch your step around those Githyanki pirates, unless you like the taste of steel.</content>
-  <content contentuid="haefeeff8g5b66gcd2ag32e0g7a5d972af239" version="3">Floating islands again today... they're closer than they were yesterday.</content>
-  <content contentuid="h5c76a666ga171g50d5gbbb5gbe2d4d931d35" version="3">And if you gaze for long into a star, the star gazes also into you.</content>
+  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="10">Traveler</content>
+  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="8">Traveler</content>
+  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="8">Traveler</content>
+  <content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="8">Traveler</content>
+  <content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="8">Traveler</content>
+  <content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="6">Traveler</content>
+  <content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="12">Traveler</content>
+  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="4">Traveler</content>
+  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="4">Traveler</content>
+  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="6">Traveler</content>
+  <content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="10">Traveler</content>
+  <content contentuid="h882854e6g2815g3a64g1543g4712359645aa" version="4">Think the stardust vendor will be in soon?</content>
+  <content contentuid="ha67711e7g8ab8ge040gc710gaded92d07a35" version="4">Seen any astral fish today?</content>
+  <content contentuid="h0d6ea77eg9977g619dg6972g60822f2bb5ad" version="4">In the Astral Sea, one moment you're adrift, the next you're face-to-face with a god.</content>
+  <content contentuid="h76b6b14bg6443g7877g304bg21e8339b55fa" version="4">Haven't aged a day since I left my world. Strange feeling, that.</content>
+  <content contentuid="h8077f50fga02bg1017g42f8g90cf9269160b" version="4">Nothing like the hum of the silver void to ease the mind.</content>
+  <content contentuid="hd8b11de5gf81cgb24dg6530gc7ea752b104a" version="4">Keep your wits here stranger, the stars might swallow you whole.</content>
+  <content contentuid="h78eab429gca56g2a96gcf57g5e9dcebd16bc" version="4">Watch your step around those Githyanki pirates, unless you like the taste of steel.</content>
+  <content contentuid="haefeeff8g5b66gcd2ag32e0g7a5d972af239" version="4">Floating islands again today... they're closer than they were yesterday.</content>
+  <content contentuid="h5c76a666ga171g50d5gbbb5gbe2d4d931d35" version="4">And if you gaze for long into a star, the star gazes also into you.</content>
   <content contentuid="h8d4be789gb480g24a6gcb85gdef04b225b26" version="7">Thomas the Astral Smith</content>
-  <content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="5">*This blacksmith seems to have goods to sell*</content>
+  <content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="12">*This blacksmith seems to have goods to sell*</content>
   <content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="7">Blacksmith</content>
   <content contentuid="h48ca4288g5ef5gc0e6g2877g7a8373fa100c" version="3">Gerart the Apprentice</content>
-  <content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="2">The forge never sleeps, and neither do I, it seems.</content>
-  <content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="2">I swear, one day, I'll forge a hammer that doesn't weigh half a mountain.</content>
-  <content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="2">Master Thomas says it's the heat that toughens you... feels like it's cooking me alive.</content>
-  <content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="2">Master Thomas says it's 'precision work.' Looks a lot like hard labor to me.</content>
-  <content contentuid="h3b919efbg8ad6g0860gdb50g5f01919f5e01" version="2">One day, I'll have my own forge, and maybe I'll get an apprentice to do all this.</content>
+  <content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="3">The forge never sleeps, and neither do I, it seems.</content>
+  <content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="3">I swear, one day, I'll forge a hammer that doesn't weigh half a mountain.</content>
+  <content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="3">Master Thomas says it's the heat that toughens you... feels like it's cooking me alive.</content>
+  <content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="3">Master Thomas says it's 'precision work.' Looks a lot like hard labor to me.</content>
+  <content contentuid="h3b919efbg8ad6g0860gdb50g5f01919f5e01" version="3">One day, I'll have my own forge, and maybe I'll get an apprentice to do all this.</content>
   <content contentuid="heba2bdb5g69f4gbda6g1a50g8e6509cb0f97" version="2">Adventurer</content>
   <content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">Adventurer</content>
   <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Adventurer</content>
   <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Adventurer</content>
-  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="10">Adventurer</content>
-  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="15">Adventurer</content>
-  <content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="4">Adventurer</content>
-  <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="5">Adventurer</content>
-  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="8">Adventurer</content>
-  <content contentuid="h23edfc03g758fg3180ge0a0g298e712c880e" version="3">Last time I drifted in space, a voice called my name from beyond the stars.</content>
-  <content contentuid="hb37628e5gfa24g28a4g33b3ga0d25817b8e2" version="3">Time's a funny thing here; best not to think too hard about it.</content>
-  <content contentuid="h328585a0g5b06gba29g39c9g28e8fb5aa344" version="3">I swear I saw a god drift by, wrapped in chains, looking right through me.</content>
-  <content contentuid="haf37fe6dgce9eg6e5dg2aa9gdbf1186f128f" version="3">Here's to another day the Astral Sea didn't claim us! Bottoms up!</content>
-  <content contentuid="h5e7240aegf2efg5bbcg48degc281f532538e" version="3">First time here, eh? You'll find no better ale, nor stranger folk.</content>
-  <content contentuid="h7ae59af3g7127gcc2ag3e41ge2b24ed6f90d" version="3">A toast! May the stars never turn their gaze our way.</content>
-  <content contentuid="h00788fadg1b3bgbd87g8220gc26a47ad2571" version="3">So there I was, wrestling a megapede with one hand and holding my drink in the other!</content>
-  <content contentuid="hb81d8926ge58egdba1g5960g9f263f409e82" version="3">The stars watch us, so we watch each other. Keep your allies close, friend.</content>
-  <content contentuid="hcb7c21f7g8e5bgfc99gabf0g944050e186f4" version="3">Drink up, mate! In the Astral Sea, you never know when you'll float by this way again.</content>
-  <content contentuid="hf244f071g131dg4804g4a50ge2476e1cd62f" version="3">Ever seen a mind flayer ship up close?</content>
-  <content contentuid="hab852e5cgc89ag2bbcg5929g688012db5a4c" version="3">The stars tell stories, if you know how to listen.</content>
-  <content contentuid="h51fe44e2g3c14g2349g601bg13298f9260fb" version="3">Mind your thoughts, traveler. They drift louder out here.</content>
-  <content contentuid="hcf0a1b2dg24d4gd218g11a9gaef27a1bafb2" version="3">Hold tight to your soul, stranger. The void has ways of taking what it wants.</content>
-  <content contentuid="h529c210egb111g7250g0d54g8d53103ef0ce" version="3">A gith raider once told me, 'Here, time's just another horizon.'</content>
-  <content contentuid="h5a745238g7836g5930g7818g2a2dc699be72" version="3">Keep an eye out for fallen starssome hold secrets from other worlds.</content>
-  <content contentuid="h3c6e5d24gee25gb853g73c1gaba3ea129d39" version="3">Floating islands come and go. Like dreams, they vanish if you don't catch them.</content>
-  <content contentuid="hff18299fgf5b6g951dg6167gb4bc75314565" version="3">I swear the stars look closer after a few rounds of beer!</content>
-  <content contentuid="h2a41fb57gc2d7g7987g20d9geb30d16b01ad" version="3">Cheers to our last port; may the next be as lively as this one!</content>
-  <content contentuid="h3c7569f7ge0f2g5d55g305eg45685a6265c0" version="3">Never trust a sailor without a tale or two of ghost ships.</content>
-  <content contentuid="hd580690dg30e9g02d7g69a0gdd2cea6426b6" version="3">I heard a tale of a star you can drink from… don't know what's true anymore.</content>
-  <content contentuid="hbee341e6g4816ga260g0f71gefeea6470d66" version="3">I've seen ships come back empty-handed, as if the crew just… dissolved into the stars.</content>
-  <content contentuid="h151bb0c8g955dge57dg9fc4g2c12920d6d98" version="3">You can find lost memories floating in the Astral Sea… but not all of them are yours to take.</content>
-  <content contentuid="hf4c7b82fg0d47gb627ga645ge4ab56e5b63e" version="3">Touching a star isn't the hard part. Surviving what comes after, now that's a challenge.</content>
-  <content contentuid="h4f2882dfgbbc0g2ad6g3281g7ac9a992369c" version="3">I once found a scroll just floating in space, but it vanished before I could grab it.</content>
-  <content contentuid="hd5c73691g6669g2f32gd726g53a038065406" version="3">You ever notice how you can taste the sky in these drinks? It's like a piece of infinity.</content>
-  <content contentuid="h90e0002dgef4eg0242g79cegb00ebb805a9f" version="3">Bought a map from a gith traderbest gold I ever spent. Took me to worlds I never knew existed.</content>
-  <content contentuid="h9c191f9cgb495g87fcg5fd4gd2d86fde3189" version="3">Every drink here tastes like dreams and memories. Or maybe that's just the stardust.</content>
-  <content contentuid="h446976ceg339eg1155g0811gd9acfdf31c28" version="3">Just another round to keep us steady in this strange, spinning universe.</content>
-  <content contentuid="ha250f369gc7eag971bg517bg577eec10b2ab" version="3">It's funnyout here, a single night can feel like a whole lifetime.</content>
-  <content contentuid="h1a1db8c9gba14g8f18g5221g1368eac474c5" version="3">They say Spelljamming Helm knows your soul better than you do. A toast to our guides, then!</content>
-  <content contentuid="h1b770f7bg9f6bga6f2g19e8g9380bc619a5a" version="3">Raise a glass! Even out here, we're closer than family.</content>
-  <content contentuid="h1193e8a7g7f18g628fgef69g85eec47e5753" version="3">A ship passed by yesterday, all painted in strange colors. Said they'd seen the stars at the 'edge.' I wonder what that means…</content>
-  <content contentuid="h12ddb5aeg21b9g7ffagb011gcad3c42ec2de" version="3">The stars don't rest, so why should we?</content>
-  <content contentuid="h4e9728b8g65f5g8a9dg9487g8bb7348b450e" version="3">I used to look up at the stars and think I'd never see them up close. Now? They're more like neighbors.</content>
-  <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="3">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
-  <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="3">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
-  <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="3">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
-  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="12">Githyanki captain</content>
-  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="10">Wildspacer</content>
+  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="13">Adventurer</content>
+  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="17">Adventurer</content>
+  <content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="5">Adventurer</content>
+  <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="6">Adventurer</content>
+  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="10">Adventurer</content>
+  <content contentuid="h23edfc03g758fg3180ge0a0g298e712c880e" version="4">Last time I drifted in space, a voice called my name from beyond the stars.</content>
+  <content contentuid="hb37628e5gfa24g28a4g33b3ga0d25817b8e2" version="4">Time's a funny thing here; best not to think too hard about it.</content>
+  <content contentuid="h328585a0g5b06gba29g39c9g28e8fb5aa344" version="4">I swear I saw a god drift by, wrapped in chains, looking right through me.</content>
+  <content contentuid="haf37fe6dgce9eg6e5dg2aa9gdbf1186f128f" version="4">Here's to another day the Astral Sea didn't claim us! Bottoms up!</content>
+  <content contentuid="h5e7240aegf2efg5bbcg48degc281f532538e" version="4">First time here, eh? You'll find no better ale, nor stranger folk.</content>
+  <content contentuid="h7ae59af3g7127gcc2ag3e41ge2b24ed6f90d" version="4">A toast! May the stars never turn their gaze our way.</content>
+  <content contentuid="h00788fadg1b3bgbd87g8220gc26a47ad2571" version="4">So there I was, wrestling a megapede with one hand and holding my drink in the other!</content>
+  <content contentuid="hb81d8926ge58egdba1g5960g9f263f409e82" version="4">The stars watch us, so we watch each other. Keep your allies close, friend.</content>
+  <content contentuid="hcb7c21f7g8e5bgfc99gabf0g944050e186f4" version="4">Drink up, mate! In the Astral Sea, you never know when you'll float by this way again.</content>
+  <content contentuid="hf244f071g131dg4804g4a50ge2476e1cd62f" version="4">Ever seen a mind flayer ship up close?</content>
+  <content contentuid="hab852e5cgc89ag2bbcg5929g688012db5a4c" version="4">The stars tell stories, if you know how to listen.</content>
+  <content contentuid="h51fe44e2g3c14g2349g601bg13298f9260fb" version="4">Mind your thoughts, traveler. They drift louder out here.</content>
+  <content contentuid="hcf0a1b2dg24d4gd218g11a9gaef27a1bafb2" version="4">Hold tight to your soul, stranger. The void has ways of taking what it wants.</content>
+  <content contentuid="h529c210egb111g7250g0d54g8d53103ef0ce" version="4">A gith raider once told me, 'Here, time's just another horizon.'</content>
+  <content contentuid="h5a745238g7836g5930g7818g2a2dc699be72" version="4">Keep an eye out for fallen starssome hold secrets from other worlds.</content>
+  <content contentuid="h3c6e5d24gee25gb853g73c1gaba3ea129d39" version="4">Floating islands come and go. Like dreams, they vanish if you don't catch them.</content>
+  <content contentuid="hff18299fgf5b6g951dg6167gb4bc75314565" version="4">I swear the stars look closer after a few rounds of beer!</content>
+  <content contentuid="h2a41fb57gc2d7g7987g20d9geb30d16b01ad" version="4">Cheers to our last port; may the next be as lively as this one!</content>
+  <content contentuid="h3c7569f7ge0f2g5d55g305eg45685a6265c0" version="4">Never trust a sailor without a tale or two of ghost ships.</content>
+  <content contentuid="hd580690dg30e9g02d7g69a0gdd2cea6426b6" version="4">I heard a tale of a star you can drink from… don't know what's true anymore.</content>
+  <content contentuid="hbee341e6g4816ga260g0f71gefeea6470d66" version="4">I've seen ships come back empty-handed, as if the crew just… dissolved into the stars.</content>
+  <content contentuid="h151bb0c8g955dge57dg9fc4g2c12920d6d98" version="4">You can find lost memories floating in the Astral Sea… but not all of them are yours to take.</content>
+  <content contentuid="hf4c7b82fg0d47gb627ga645ge4ab56e5b63e" version="4">Touching a star isn't the hard part. Surviving what comes after, now that's a challenge.</content>
+  <content contentuid="h4f2882dfgbbc0g2ad6g3281g7ac9a992369c" version="4">I once found a scroll just floating in space, but it vanished before I could grab it.</content>
+  <content contentuid="hd5c73691g6669g2f32gd726g53a038065406" version="4">You ever notice how you can taste the sky in these drinks? It's like a piece of infinity.</content>
+  <content contentuid="h90e0002dgef4eg0242g79cegb00ebb805a9f" version="4">Bought a map from a gith traderbest gold I ever spent. Took me to worlds I never knew existed.</content>
+  <content contentuid="h9c191f9cgb495g87fcg5fd4gd2d86fde3189" version="4">Every drink here tastes like dreams and memories. Or maybe that's just the stardust.</content>
+  <content contentuid="h446976ceg339eg1155g0811gd9acfdf31c28" version="4">Just another round to keep us steady in this strange, spinning universe.</content>
+  <content contentuid="ha250f369gc7eag971bg517bg577eec10b2ab" version="4">It's funnyout here, a single night can feel like a whole lifetime.</content>
+  <content contentuid="h1a1db8c9gba14g8f18g5221g1368eac474c5" version="4">They say Spelljamming Helm knows your soul better than you do. A toast to our guides, then!</content>
+  <content contentuid="h1b770f7bg9f6bga6f2g19e8g9380bc619a5a" version="4">Raise a glass! Even out here, we're closer than family.</content>
+  <content contentuid="h1193e8a7g7f18g628fgef69g85eec47e5753" version="4">A ship passed by yesterday, all painted in strange colors. Said they'd seen the stars at the 'edge.' I wonder what that means…</content>
+  <content contentuid="h12ddb5aeg21b9g7ffagb011gcad3c42ec2de" version="4">The stars don't rest, so why should we?</content>
+  <content contentuid="h4e9728b8g65f5g8a9dg9487g8bb7348b450e" version="4">I used to look up at the stars and think I'd never see them up close. Now? They're more like neighbors.</content>
+  <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="4">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
+  <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="4">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
+  <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="4">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
+  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="13">Githyanki captain</content>
+  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="11">Wildspacer</content>
   <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">Githyanki Buccaneer</content>
   <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="10">Githyanki Buccaneer</content>
   <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="8">Githyanki Buccaneer</content>
   <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="11">Githyanki Buccaneer</content>
   <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="15">Githyanki Buccaneer</content>
-  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="4">Githyanki Buccaneer</content>
-  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="6">Githyanki Buccaneer</content>
-  <content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="1">Githyanki Buccaneer</content>
-  <content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="1">Githyanki Buccaneer</content>
-  <content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="1">Githyanki Buccaneer</content>
-  <content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="1">Githyanki Buccaneer</content>
-  <content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="1">Githyanki Buccaneer</content>
-  <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="2">Keep your weapons close, if you've got the nerve to use them.</content>
-  <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="2">I've met phantoms in the Astral Sea with more spine than your crew.</content>
-  <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="2">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
-  <content contentuid="hc3d0ebc8g7885g2bb5gf7c0ge10f0a751756" version="2">Astral raiders fear no void, can you say the same, wretch?</content>
-  <content contentuid="hec7130f3gd0ddg1780g3a24g49f5acbf1490" version="2">Touch me again, and you'll lose that hand.</content>
-  <content contentuid="h631aceebg4af9gc92eg6f59g6911f2aad6a2" version="2">If you're going to linger, at least try not to bore me.</content>
-  <content contentuid="h7e8efb48gbeeegadd0g229bgb463b2ba9884" version="2">Did I invite you this close? Didn't think so.</content>
-  <content contentuid="hf359c2d2g440bgba89g4219g870e052bca2f" version="2">Stay back, unless you want me to make a quick end of this.</content>
-  <content contentuid="h479eb43fga78eg3fd4g741cg758070e888ef" version="2">The more you stare, the less I like you.</content>
-  <content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="2">Is there a purpose to your presence, or just an itch for trouble?</content>
+  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="7">Githyanki Buccaneer</content>
+  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="9">Githyanki Buccaneer</content>
+  <content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="2">Githyanki Buccaneer</content>
+  <content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="2">Githyanki Buccaneer</content>
+  <content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="2">Githyanki Buccaneer</content>
+  <content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="2">Githyanki Buccaneer</content>
+  <content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="2">Githyanki Buccaneer</content>
+  <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="3">Keep your weapons close, if you've got the nerve to use them.</content>
+  <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="3">I've met phantoms in the Astral Sea with more spine than your crew.</content>
+  <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="3">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
+  <content contentuid="hc3d0ebc8g7885g2bb5gf7c0ge10f0a751756" version="3">Astral raiders fear no void, can you say the same, wretch?</content>
+  <content contentuid="hec7130f3gd0ddg1780g3a24g49f5acbf1490" version="3">Touch me again, and you'll lose that hand.</content>
+  <content contentuid="h631aceebg4af9gc92eg6f59g6911f2aad6a2" version="3">If you're going to linger, at least try not to bore me.</content>
+  <content contentuid="h7e8efb48gbeeegadd0g229bgb463b2ba9884" version="3">Did I invite you this close? Didn't think so.</content>
+  <content contentuid="hf359c2d2g440bgba89g4219g870e052bca2f" version="3">Stay back, unless you want me to make a quick end of this.</content>
+  <content contentuid="h479eb43fga78eg3fd4g741cg758070e888ef" version="3">The more you stare, the less I like you.</content>
+  <content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="3">Is there a purpose to your presence, or just an itch for trouble?</content>
   <content contentuid="h516fd51bg4561g1ed9gd7c4g28aa979991f9" version="12">Trout</content>
   <content contentuid="h17564982gf365gf9d2ge875g41c0e4466f38" version="7">Trout</content>
   <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Spelljamming Trader</content>
-  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="10">Plasmoid Adventurer</content>
-  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="13">Plasmoid Fighter</content>
-  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="10">Astral Drifter</content>
-  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="13">Astral Drifter</content>
+  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="12">Plasmoid Adventurer</content>
+  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="17">Plasmoid Fighter</content>
+  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="12">Astral Drifter</content>
+  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="17">Astral Drifter</content>
   <content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="3">Flexible in form, firm in resolve.</content>
   <content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="3">Not every adventurer can be as... versatile as me.</content>
   <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="3">I'm 'fluid in my movements'.</content>
   <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="3">*Bloop*</content>
   <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="2">Chest</content>
-  <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="5">&lt;i&gt;Trade.&lt;/i&gt;</content>
-  <content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="5">&lt;i&gt;Leave.&lt;/i&gt;</content>
+  <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="12">&lt;i&gt;Trade.&lt;/i&gt;</content>
+  <content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="12">&lt;i&gt;Leave.&lt;/i&gt;</content>
   <content contentuid="h14d8c383g300cgb863g6954gb8ab1876cbfd" version="7">Autognome artisan</content>
-  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="15">Onah</content>
-  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="15">Astral Elf</content>
-  <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="4">Jethro</content>
-  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="3">Astral Fisherman</content>
-  <content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="8">Orobia</content>
-  <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="7">Plant Seller</content>
-  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="12">Lost Cultist</content>
+  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="18">Onah</content>
+  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="18">Astral Elf</content>
+  <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="8">Jethro</content>
+  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="7">Astral Fisherman</content>
+  <content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="12">Orobia</content>
+  <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="11">Plant Seller</content>
+  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="14">Lost Cultist</content>
   <content contentuid="h8db392e8gd14cg3ad1gae80gd85ff0b6fa9c" version="1">Mephit</content>
-  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="9">Guard</content>
-  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="13">Guard</content>
-  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="5">Guard</content>
-  <content contentuid="h1b99d3bfgb9cegf60ag3986g45c54fa2f943" version="2">Move along!</content>
-  <content contentuid="h97664e96gda2bgffe3g73aag3c8846c4ffe9" version="2">It's my job to patrol.</content>
-  <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="5">Pirate</content>
-  <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="5">Pirate</content>
-  <content contentuid="h6d6bd3bbgc8fbg0309gaf20g0e7154951667" version="4">Leave me alone.</content>
-  <content contentuid="h38c6cbf4g2a15g33aegd759g180b88ba3917" version="4">I don't talk to boring people.</content>
-  <content contentuid="h61c08743gb315g56cfgfd8dgc264515efac7" version="2">Say what you will about the Astral Sea, but no place has better night markets.</content>
-  <content contentuid="h0f9fa049g1191g2110g2bd5g21d93b29ce87" version="2">One day I'll retire to a nice quiet nebula.</content>
-  <content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="2">Navigating the Astral Sea isn't easy, but the treasures make it worth the journey.</content>
-  <content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="2">If you see a comet trader offering "good fortune", you'll want to check for curses first.</content>
-  <content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="2">Know any good spots for an honest night's sleep?</content>
-  <content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="2">Homebody man</content>
-  <content contentuid="he244bc8dg50dcg31d3g06b4g70340e742d5e" version="3">All those lives, running from star to star, never finding peace.</content>
-  <content contentuid="hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d" version="3">There's more wisdom in one quiet moment than in a thousand words.</content>
-  <content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="3">In the depths of space, I found peace.</content>
-  <content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="3">I've seen worlds come and go.</content>
-  <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="3">You smell like prey.</content>
-  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="7">Vampirate</content>
-  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="5">Vampirate</content>
+  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="10">Guard</content>
+  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="14">Guard</content>
+  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="6">Guard</content>
+  <content contentuid="h1b99d3bfgb9cegf60ag3986g45c54fa2f943" version="3">Move along!</content>
+  <content contentuid="h97664e96gda2bgffe3g73aag3c8846c4ffe9" version="3">It's my job to patrol.</content>
+  <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="6">Pirate</content>
+  <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="6">Pirate</content>
+  <content contentuid="h6d6bd3bbgc8fbg0309gaf20g0e7154951667" version="5">Leave me alone.</content>
+  <content contentuid="h38c6cbf4g2a15g33aegd759g180b88ba3917" version="5">I don't talk to boring people.</content>
+  <content contentuid="h61c08743gb315g56cfgfd8dgc264515efac7" version="3">Say what you will about the Astral Sea, but no place has better night markets.</content>
+  <content contentuid="h0f9fa049g1191g2110g2bd5g21d93b29ce87" version="3">One day I'll retire to a nice quiet nebula.</content>
+  <content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="3">Navigating the Astral Sea isn't easy, but the treasures make it worth the journey.</content>
+  <content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="3">If you see a comet trader offering "good fortune", you'll want to check for curses first.</content>
+  <content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="3">Know any good spots for an honest night's sleep?</content>
+  <content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="3">Homebody man</content>
+  <content contentuid="he244bc8dg50dcg31d3g06b4g70340e742d5e" version="4">All those lives, running from star to star, never finding peace.</content>
+  <content contentuid="hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d" version="4">There's more wisdom in one quiet moment than in a thousand words.</content>
+  <content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="4">In the depths of space, I found peace.</content>
+  <content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="4">I've seen worlds come and go.</content>
+  <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="4">You smell like prey.</content>
+  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="8">Vampirate</content>
+  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="6">Vampirate</content>
   <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="15">Eye Monger</content>
   <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="5">Corrupted Starlight Apparition</content>
-  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="5">Cultist</content>
+  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="7">Cultist</content>
   <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="9">Space Clown</content>
   <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="9" />
-  <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="18">Giant Space Hamster</content>
+  <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="19">Giant Space Hamster</content>
   <content contentuid="h0a24bf53g2a55gd927gcabdg5a2496d394dd" version="1">Giant Space Hamster</content>
-  <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="3">*Crr-crr*</content>
-  <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="3">*Cush-cush*</content>
-  <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="3">*Skkk*</content>
+  <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="4">*Crr-crr*</content>
+  <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="4">*Cush-cush*</content>
+  <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="4">*Skkk*</content>
   <content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="16">Gaj</content>
   <content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="10">Gaj</content>
   <content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="10">Gaj</content>
@@ -455,35 +455,35 @@
   <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">to do</content>
   <content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">Astral Strike</content>
   <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">Target Astral Strike Description TODO</content>
-  <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="2">Astral Strike: Canon</content>
-  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="2">Use your Ship's cannon to bombard an area.</content>
+  <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="3">Astral Strike: Cannon</content>
+  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="3">Use your Ship's Cannon to bombard 5 times an area.</content>
   <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
-  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="2">Use your Ship's ballista to shoot an area.</content>
-  <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="2">Spelljamming</content>
-  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="2">Allows you to use your Ship's equipment remotely.</content>
-  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljamming Ship and have it equipped with an equipment. Otherwise the spell will be of no use.</content>
+  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="3">Use your Ship's Ballistae to shoot 1 time an area.</content>
+  <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="3">Spelljamming Slot</content>
+  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="3">Allows you to use your Ship's Equipment remotely.</content>
+  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljamming Ship and have it equipped with an Equipment. Otherwise the spell will be of no use.</content>
   <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljamming Helm to reuse its weapons.</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
-  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="9">A title deed from space</content>
+  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="10">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
-  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="9">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
-  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="9">This contract is unread.</content>
+  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="10">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="10">This contract is unread.</content>
   <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
-  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="9">Activate</content>
-  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="4">Allows you to claim a Spelljamming Ship.</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="10">Activate</content>
+  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="5">Allows you to claim a Spelljamming Ship.</content>
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
-  <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="3">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. Space galleons can easily pass for ordinary seafaring galleons.</content>
+  <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="4">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. A Space Galleon can easily pass for an ordinary seafaring galleon.</content>
   <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljamming Ship*</content>
-  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="5">Purchase order: Ballistae</content>
-  <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="5">Activate</content>
-  <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="5">This purchase order is unread.</content>
-  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="5">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Ship's upgrade device.</content>
-  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="5">A purchase order for a Spelljamming Ballistae weapon.</content>
-  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="4">Purchase order: Canon</content>
-  <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="4">Activate</content>
-  <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="4">This purchase order is unread.</content>
-  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="4">First, you need to manually activate the purchase order. Second, you will be able to install your Canon via the Ship's upgrade device.</content>
-  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="4">A purchase order for a Spelljamming Canon weapon.</content>
+  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="6">Purchase order: Ballistae</content>
+  <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="6">Activate</content>
+  <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="6">This purchase order is unread.</content>
+  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="6">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Ship's upgrade device.</content>
+  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="6">A purchase order for a Spelljamming weapon.</content>
+  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="6">Purchase order: Cannon</content>
+  <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="6">Activate</content>
+  <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="6">This purchase order is unread.</content>
+  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="6">First, you need to manually activate the purchase order. Second, you will be able to install your Cannon via the Ship's upgrade device.</content>
+  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="6">A purchase order for a Spelljamming weapon.</content>
   <content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">Purchase order: Ballistae</content>
   <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">You can install a Ballistae via the upgrade device.</content>
   <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase order: Canon</content>
@@ -518,11 +518,11 @@
   <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Sync. Spelljamming Helm</content>
   <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="2">Sync. Spelljamming Helm</content>
   <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljamming Helm</content>
-  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="3">Spelljamming</content>
+  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="5">Spelljamming Slot</content>
   <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Scroll of Sync. Spelljamming Helm</content>
-  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You sync with the Helm of your Ship, allowing you to use your ship's equipments from the ground.</content>
-  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="3">You sync with the Helm of your Ship, allowing you to use your ship's equipments from the ground.</content>
-  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="5">Allows you to use your ship's equipments from the ground.</content>
+  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You sync with the Helm of your Ship, allowing you to use your Ship's Equipments from the ground.</content>
+  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="4">You sync with the Helm of your Ship, allowing you to use your Ship's Equipments from the ground.</content>
+  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="6">Allows you to use your Ship's Equipments from the ground.</content>
   <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Wildspace Orrery</content>
   <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Wildspace Orrery</content>
   <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="2">Wildspace Orrery</content>
@@ -591,5 +591,15 @@
   <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="3">Murder Comet</content>
   <content contentuid="hfdb2adb3g198cgcaedg45cdgbc64371a8924" version="1">Cultist</content>
   <content contentuid="h7b42fd8aga988g4f8fg8739g31d4691e66be" version="1">Cultist</content>
-  <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="4">Cult Leader</content>
+  <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="5">Cult Leader</content>
+  <content contentuid="h49783a2agd32dge5b8ge66fg4e44a44caa21" version="2">Spelljamming</content>
+  <content contentuid="head34f4dge27ag034fgcc1ag54e4fd99a431" version="2">You own a Spelljamming Ship in the Astral Sea.</content>
+  <content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="2">Spelljamming Helm</content>
+  <content contentuid="he2e6c3efg71bag97dagd302gfc94496c378d" version="1">Advantage on Wisdom Saving Throw</content>
+  <content contentuid="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1">Failed Sync. </content>
+  <content contentuid="hde317402g58e5gebdfg959fg9e952c48e6ff" version="1">You cannot sync with a non-existing Helm or Space Ship.</content>
+  <content contentuid="h522a0890ge170gb53bg656egdc58756b0b9f" version="1">Transfer Spelljamming sync.</content>
+  <content contentuid="h68bf2282gcc61gf8a0g319dg7ec719a622f2" version="1">Transfer the Spelljamming sync to an ally.</content>
+  <content contentuid="hbb3421beg81c5g3071gf9e0gd20ba5277ab7" version="1">Spelljamming Slot</content>
+  <content contentuid="h41c7b9c9g1ccage314g466ag7dcd6181e80f" version="1">Allows you to use your Ship's Equipments from the ground.</content>
 </contentList>

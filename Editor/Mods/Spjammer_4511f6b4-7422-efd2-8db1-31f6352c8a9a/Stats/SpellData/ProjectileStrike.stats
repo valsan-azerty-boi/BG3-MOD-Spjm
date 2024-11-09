@@ -8,7 +8,7 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((3d10+2),Piercing,Magical)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((3d10),Piercing,Magical);RemoveStatus(Spjm_SummonedSpelljammerHelm_Buff)" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="40" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
@@ -24,9 +24,9 @@
         <field name="Trajectories" type="StringTableFieldDefinition" value="8725be58-b7c7-4885-8f8f-ce89e5b222f0" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Ballistae" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2349aa86g9d22g149dg4d96gef53b749541a" version="2" />
-        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(3d10+2,Piercing)" />
-        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(3d10+2,Piercing)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2349aa86g9d22g149dg4d96gef53b749541a" version="3" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(3d10,Piercing)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(3d10,Piercing)" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Dash" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Prepare_Dash_Loop" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_AllySummon" />
@@ -43,7 +43,7 @@
         <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="41de42e1-56d0-4336-8b44-99fc38281525" />
         <field name="DamageType" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="Damage Type" version="1" />
         <field name="ProjectileType" type="EnumerationTableFieldDefinition" value="Arrow" enumeration_type_name="ProjectileType" version="1" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="SpelljammingSlot:1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="SpjmSpelljammingSlot:1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -51,14 +51,14 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8d5998f5-6269-4e0a-afab-e666aa0bf1fc" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_ShipStrike_Canon" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((1d10+1),Bludgeoning,Magical)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((1d10),Bludgeoning,Magical);RemoveStatus(Spjm_SummonedSpelljammerHelm_Buff)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="40" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="5" />
         <field name="DeathType" type="EnumerationTableFieldDefinition" value="Physical" enumeration_type_name="Death Type" version="1" />
         <field name="ExplodeRadius" type="IntegerTableFieldDefinition" value="5" />
         <field name="CastTargetHitDelay" type="IntegerTableFieldDefinition" value="300" />
         <field name="TargetProjectiles" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ProjectileCount" type="StringTableFieldDefinition" value="4" />
+        <field name="ProjectileCount" type="StringTableFieldDefinition" value="5" />
         <field name="ProjectileDelay" type="IntegerTableFieldDefinition" value="400" />
         <field name="Height" type="IntegerTableFieldDefinition" value="40" />
         <field name="SingleSource" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
@@ -79,15 +79,15 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Canon" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8db67ad3g1542geb85g1920g77db36dbb262" version="2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8db67ad3g1542geb85g1920g77db36dbb262" version="3" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="Angle" type="IntegerTableFieldDefinition" value="0" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="2" />
-        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(4d10+4,Bludgeoning)" />
-        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(4d10+4,Bludgeoning)" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="3" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(5d10,Bludgeoning)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(5d10,Bludgeoning)" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="SpelljammingSlot:1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="SpjmSpelljammingSlot:1" />
       </fields>
     </stat_object>
   </stat_objects>

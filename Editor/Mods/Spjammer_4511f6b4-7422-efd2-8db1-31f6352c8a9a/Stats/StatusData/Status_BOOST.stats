@@ -3,6 +3,40 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb3cf08b-155a-44b4-9f7f-5d1f7977820f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SpaceGalleonUnlockBuff" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_SpaceGalleon" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6cc409ea-affb-486d-aa29-a334f045e9fc" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm_Failed" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hde317402g58e5gebdfg959fg9e952c48e6ff" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Red" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StillAnimationType" type="EnumerationTableFieldDefinition" value="Suffocating" enumeration_type_name="StatusAnimationType" version="1" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="SoundVocalStart" type="EnumerationTableFieldDefinition" value="WEAK" enumeration_type_name="SoundVocalType" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_SUMSPJMTRES_FAIL" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4f9bf7a8-4a28-4739-a185-0930ac8401fb" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm_Buff" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="5" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="6" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
+        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Gold" enumeration_type_name="FormatStringColor" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Stack" enumeration_type_name="StatusStackType" version="1" />
+        <field name="Passives" type="StringTableFieldDefinition" value="SPJM_Passive_SummonedSpelljammerHelm" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e0f015cc-f33b-45fd-b5df-44994df6e2a1" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_UnusualNatureBuff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heb592b8bgafb8g5b6ag0a64g4b44171f1778" version="1" />
@@ -69,18 +103,6 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="Disadvantage(AllAbilities);Disadvantage(AttackRoll);Disadvantage(SavingThrow, Constitution);IncreaseMaxHP(-15)" />
         <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff') or HasStatus('Spjm_AirZoneBuff')" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnApply;OnApplyAndTurn;OnMove;OnStatusApplied" enumeration_type_name="StatusEvent" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="4f9bf7a8-4a28-4739-a185-0930ac8401fb" />
-        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="3" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="5" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpelljammingSlot,3,0)" />
-        <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Gold" enumeration_type_name="FormatStringColor" version="1" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisablePortraitIndicator;DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

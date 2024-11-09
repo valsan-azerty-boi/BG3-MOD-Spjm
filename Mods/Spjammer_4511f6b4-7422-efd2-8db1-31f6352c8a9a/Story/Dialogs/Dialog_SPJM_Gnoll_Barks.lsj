@@ -21,7 +21,7 @@
             ],
             "UUID" : {"type" : "FixedString", "value" : "13eed9ed-66a8-eab8-89fa-4fc10c7b190a"},
             "automated" : {"type" : "bool", "value" : true},
-            "category" : {"type" : "LSString", "value" : "Generic NPC Dialog"},
+            "category" : {"type" : "LSString", "value" : "Voice bark"},
             "nodes" : [
                {
                   "RootNodes" : [
@@ -58,7 +58,7 @@
                                                 "TagText" : {
                                                    "handle" : "h097e1c07gec11g5b18gc3bfg6042fe2d3d00",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 4
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }

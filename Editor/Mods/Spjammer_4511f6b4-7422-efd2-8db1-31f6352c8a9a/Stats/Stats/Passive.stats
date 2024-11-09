@@ -43,11 +43,54 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="ee067bde-c269-42b0-ac1e-269b0c5633dd" />
-        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_AirBubble_ForTooltipDesc" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirBubble" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ec9b933-5e74-4e72-bb00-c29a6bca0617" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_UnlockedSpelljammingSlots" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h49783a2agd32dge5b8ge66fg4e44a44caa21" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="head34f4dge27ag034fgcc1ag54e4fd99a431" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_SpaceGalleon" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77d43947-728a-4e9e-9d82-58633894a1c4" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_SummonedSpelljammerHelm" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb3421beg81c5g3071gf9e0gd20ba5277ab7" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h41c7b9c9g1ccage314g466ag7dcd6181e80f" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Spjm_TransferSpelljammingSync);UnlockSpellVariant(SpellId('ProjectileStrike_Spjm_ShipStrike_Ballistae'),ModifyUseCosts(Replace,SpjmSpelljammingSlot,0,0,SpjmSpelljammingSlot));UnlockSpellVariant(SpellId('ProjectileStrike_Spjm_ShipStrike_Canon'),ModifyUseCosts(Replace,SpjmSpelljammingSlot,0,0,SpjmSpelljammingSlot))" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="015cefa5-1a55-402c-91c1-e021a8638a86" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2f371454g3022g3f20gf845g0e97f53c0529" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_AgonizingBlast" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="CharacterWeaponDamage(1d6,Force)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e7caa18d-644f-4294-b15f-dd289b6eec33" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement_ForTooltipDesc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h29e411fdge733ga810gf837g326373c098e4" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_AgonizingBlast" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c4c7fef-3dd2-454e-a1d1-7de4befcb9ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Gythka_Advantage_ForTooltipDesc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_TrueStrike" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -81,33 +124,11 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="015cefa5-1a55-402c-91c1-e021a8638a86" />
-        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2f371454g3022g3f20gf845g0e97f53c0529" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2" />
-        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_AgonizingBlast" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="CharacterWeaponDamage(1d6,Force)" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="e7caa18d-644f-4294-b15f-dd289b6eec33" />
-        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement_ForTooltipDesc" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h29e411fdge733ga810gf837g326373c098e4" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1" />
-        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_AgonizingBlast" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="1c4c7fef-3dd2-454e-a1d1-7de4befcb9ef" />
-        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Gythka_Advantage_ForTooltipDesc" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_TrueStrike" />
-        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ee067bde-c269-42b0-ac1e-269b0c5633dd" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_AirBubble_ForTooltipDesc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_AirBubble" />
       </fields>
     </stat_object>
   </stat_objects>

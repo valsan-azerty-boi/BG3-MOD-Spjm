@@ -19,6 +19,7 @@
                   ]
                }
             ],
+            "IsAllowingJoinCombat" : {"type" : "bool", "value" : true},
             "TimelineId" : {"type" : "FixedString", "value" : "7b5f4eb3-6a84-fea8-693f-49dae99a3b20"},
             "UUID" : {"type" : "FixedString", "value" : "4e53ae0f-af30-e458-7e3f-bb54f8f4ffdb"},
             "category" : {"type" : "LSString", "value" : "Generic NPC Dialog"},
@@ -83,6 +84,7 @@
                         "speaker" : {"type" : "int32", "value" : 0}
                      },
                      {
+                        "AllowNodeGrouping" : {"type" : "bool", "value" : false},
                         "GameData" : [
                            {
                               "AiPersonalities" : [ {} ],
@@ -90,6 +92,7 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
+                        "Greeting" : {"type" : "bool", "value" : true},
                         "Root" : {"type" : "bool", "value" : true},
                         "TaggedTexts" : [
                            {
@@ -110,7 +113,7 @@
                                                 "TagText" : {
                                                    "handle" : "h032b5a69g8a49gb995gd547g104339e1cdec",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 10
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -123,6 +126,7 @@
                         ],
                         "Tags" : [ {} ],
                         "UUID" : {"type" : "FixedString", "value" : "976877c1-9d87-68cc-0e49-c885de2282ce"},
+                        "addressedspeaker" : {"type" : "int32", "value" : 1},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -254,7 +258,6 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
-                        "ShowOnce" : {"type" : "bool", "value" : true},
                         "TaggedTexts" : [
                            {
                               "TaggedText" : [
@@ -274,7 +277,7 @@
                                                 "TagText" : {
                                                    "handle" : "h30f294b9ga84fg3159g6143g57b560bf07da",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 7
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -292,6 +295,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [
                            {
@@ -409,6 +413,7 @@
                               ]
                            }
                         ],
+                        "optional" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 1}
                      },
@@ -420,7 +425,6 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
-                        "ShowOnce" : {"type" : "bool", "value" : true},
                         "TaggedTexts" : [
                            {
                               "TaggedText" : [
@@ -440,7 +444,7 @@
                                                 "TagText" : {
                                                    "handle" : "ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 10
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -458,6 +462,7 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
+                        "addressedspeaker" : {"type" : "int32", "value" : 0},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagQuestion"},
@@ -568,6 +573,7 @@
                            }
                         ],
                         "endnode" : {"type" : "bool", "value" : true},
+                        "optional" : {"type" : "bool", "value" : true},
                         "setflags" : [ {} ],
                         "speaker" : {"type" : "int32", "value" : 1}
                      }
@@ -580,7 +586,7 @@
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "b21058f4-6b9a-4c7e-a861-3e8b077f732a"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "fe80d0b0-8e03-427c-a954-0491f1af07a5"}
+                        "list" : {"type" : "LSString", "value" : "cb0304d4-d100-4ae0-a04d-381e0bc62c16;9b86fddb-c7b5-4f11-b9e1-8e560f317cf3;633aa91a-3c4e-475d-b32a-eb6e608b4b89;165eab1e-abac-4ffb-9c60-8a3f5628413e"}
                      },
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "f65fa2c5-715c-4f99-a6a5-6ac6b5fb1fbc"},
