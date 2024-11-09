@@ -6,24 +6,110 @@ KBSECTION
 //REGION SPJM Sync spell
 
 IF
-CastSpell(_Spell, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
+CastSpell(_Caster, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
 AND
-DB_Avatars(_Avatar)
-AND
-NOT HasPassive(_Avatar, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
+NOT HasPassive(_Caster, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
 THEN
-ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm_Failed", 30.0);
+ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Failed", 60.0);
 
-//IF
-//CastSpell(_Spell, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
-//AND
-//DB_Avatars(_Avatar)
-//AND
-//HasPassive(_Avatar, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
-//THEN
-//ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm", -1.0);
-//ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm_2", -1.0);
-//ApplyStatus((GUIDSTRING)_Avatar, "Spjm_SummonedSpelljammerHelm_3", -1.0);
+IF
+CastSpell(_Caster, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
+AND
+HasPassive(_Caster, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff", -1.0);
+ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", -1.0);
+ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", -1.0);
+
+IF
+CastSpell(_Caster, "ProjectileStrike_Spjm_ShipStrike_Ballistae", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", 0)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", 0)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff");
+
+IF
+CastSpell(_Caster, "ProjectileStrike_Spjm_ShipStrike_Ballistae", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", 0)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", 1)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff2");
+
+IF
+CastSpell(_Caster, "ProjectileStrike_Spjm_ShipStrike_Ballistae", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", 1)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", 1)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff3");
+
+IF
+CastSpell(_Caster, "ProjectileStrike_Spjm_ShipStrike_Canon", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", 0)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", 0)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff");
+
+IF
+CastSpell(_Caster, "ProjectileStrike_Spjm_ShipStrike_Canon", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", 0)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", 1)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff2");
+
+IF
+CastSpell(_Caster, "ProjectileStrike_Spjm_ShipStrike_Canon", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", 1)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", 1)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff3");
+
+IF
+UsingSpellOnTarget(_Caster, _Target, "Target_Spjm_TransferSpelljammingSync", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff3");
+ApplyStatus((GUIDSTRING)_Target, "Spjm_SummonedSpelljammerHelm_Buff3", -1.0);
+
+IF
+UsingSpellOnTarget(_Caster, _Target, "Target_Spjm_TransferSpelljammingSync", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff2");
+ApplyStatus((GUIDSTRING)_Target, "Spjm_SummonedSpelljammerHelm_Buff2", -1.0);
+
+IF
+UsingSpellOnTarget(_Caster, _Target, "Target_Spjm_TransferSpelljammingSync", _, _, _)
+AND
+HasActiveStatus(_Caster, "Spjm_SummonedSpelljammerHelm_Buff", 1)
+THEN
+RemoveStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff");
+ApplyStatus((GUIDSTRING)_Target, "Spjm_SummonedSpelljammerHelm_Buff", -1.0);
 
 //END_REGION
 

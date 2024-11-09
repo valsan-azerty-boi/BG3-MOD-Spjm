@@ -31,8 +31,24 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Gold" enumeration_type_name="FormatStringColor" version="1" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="StackType" type="EnumerationTableFieldDefinition" value="Stack" enumeration_type_name="StatusStackType" version="1" />
         <field name="Passives" type="StringTableFieldDefinition" value="SPJM_Passive_SummonedSpelljammerHelm" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_HELMBUFF_1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b8d08c85-46d1-4606-8702-5aede9698d39" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm_Buff2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4f9bf7a8-4a28-4739-a185-0930ac8401fb" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_HELMBUFF_2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e291b820-0db7-4e4b-92a1-41fee6adf2f1" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm_Buff3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4f9bf7a8-4a28-4739-a185-0930ac8401fb" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_HELMBUFF_3" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

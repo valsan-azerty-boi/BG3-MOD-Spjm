@@ -8,7 +8,7 @@
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((3d10),Piercing,Magical);RemoveStatus(Spjm_SummonedSpelljammerHelm_Buff)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((3d10),Piercing,Magical)" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="40" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="6" />
@@ -51,7 +51,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8d5998f5-6269-4e0a-afab-e666aa0bf1fc" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_ShipStrike_Canon" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((1d10),Bludgeoning,Magical);RemoveStatus(Spjm_SummonedSpelljammerHelm_Buff)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage((1d10),Bludgeoning,Magical)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="40" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="5" />
         <field name="DeathType" type="EnumerationTableFieldDefinition" value="Physical" enumeration_type_name="Death Type" version="1" />
