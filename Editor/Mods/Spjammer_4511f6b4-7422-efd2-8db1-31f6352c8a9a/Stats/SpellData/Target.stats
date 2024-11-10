@@ -55,7 +55,7 @@
         <field name="TargetConditions" type="StringTableFieldDefinition" value="not Self() and Character() and not Dead()" />
         <field name="AmountOfTargets" type="StringTableFieldDefinition" value="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h522a0890ge170gb53bg656egdc58756b0b9f" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h522a0890ge170gb53bg656egdc58756b0b9f" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h68bf2282gcc61gf8a0g319dg7ec719a622f2" version="1" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />

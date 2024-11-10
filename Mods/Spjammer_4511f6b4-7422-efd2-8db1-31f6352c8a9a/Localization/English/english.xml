@@ -424,7 +424,7 @@
   <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="6">Vampirate</content>
   <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="15">Eye Monger</content>
   <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="5">Corrupted Starlight Apparition</content>
-  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="7">Cultist</content>
+  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="8">Cultist</content>
   <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="9">Space Clown</content>
   <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="9" />
   <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="19">Giant Space Hamster</content>
@@ -515,11 +515,11 @@
   <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">Fish Suit Helmet</content>
   <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">A bulky helmet, which fully encases your head.</content>
   <content contentuid="h96790e9eg1bf5ge89cgb79ag9ebcb806aa9d" version="4">Gives the "Air Bubble" effect and resistance to "Acid" clouds.</content>
-  <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Sync. Spelljamming Helm</content>
-  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="2">Sync. Spelljamming Helm</content>
+  <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Spelljamming Helm Attunement</content>
+  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="3">Spelljamming Helm Attunement</content>
   <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Spelljamming Helm</content>
   <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="5">Spelljamming Slot</content>
-  <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Scroll of Sync. Spelljamming Helm</content>
+  <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Scroll of Spelljamming Helm Attunement</content>
   <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">You sync with the Helm of your Ship, allowing you to use your Ship's Equipments from the ground.</content>
   <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="4">You sync with the Helm of your Ship, allowing you to use your Ship's Equipments from the ground.</content>
   <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="6">Allows you to use your Ship's Equipments from the ground.</content>
@@ -596,10 +596,13 @@
   <content contentuid="head34f4dge27ag034fgcc1ag54e4fd99a431" version="2">You own a Spelljamming Ship in the Astral Sea.</content>
   <content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="2">Spelljamming Helm</content>
   <content contentuid="he2e6c3efg71bag97dagd302gfc94496c378d" version="1">Advantage on Wisdom Saving Throw</content>
-  <content contentuid="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1">Failed Sync. </content>
+  <content contentuid="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1">Failed Attunement</content>
   <content contentuid="hde317402g58e5gebdfg959fg9e952c48e6ff" version="1">You cannot sync with a non-existing Helm or Space Ship.</content>
-  <content contentuid="h522a0890ge170gb53bg656egdc58756b0b9f" version="1">Transfer Spelljamming sync.</content>
-  <content contentuid="h68bf2282gcc61gf8a0g319dg7ec719a622f2" version="1">Transfer the Spelljamming sync to an ally.</content>
+  <content contentuid="h522a0890ge170gb53bg656egdc58756b0b9f" version="2">Transfer Attunement</content>
+  <content contentuid="h68bf2282gcc61gf8a0g319dg7ec719a622f2" version="1">Transfer the Spelljamming Attunement to an ally.</content>
   <content contentuid="hbb3421beg81c5g3071gf9e0gd20ba5277ab7" version="1">Spelljamming Slot</content>
   <content contentuid="h41c7b9c9g1ccage314g466ag7dcd6181e80f" version="1">Allows you to use your Ship's Equipments from the ground.</content>
+  <content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="1">We'll rebuild a god with your bones!</content>
+  <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="1">Their fragments will live through us!</content>
+  <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="1">He calls your name!</content>
 </contentList>

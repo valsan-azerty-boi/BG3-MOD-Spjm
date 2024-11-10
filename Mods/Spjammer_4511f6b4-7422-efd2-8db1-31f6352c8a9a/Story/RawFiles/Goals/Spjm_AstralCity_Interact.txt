@@ -32,6 +32,7 @@ RemoveStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff");
 
 //REGION SPJM Gith pirate hostile
 
+//DialogAttackRequested(target, player)
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)TOOL_Ladder_Rope_9H_A_000_942f7caf-7b9a-42f8-a2a3-01ed0645681c, _)
 THEN
