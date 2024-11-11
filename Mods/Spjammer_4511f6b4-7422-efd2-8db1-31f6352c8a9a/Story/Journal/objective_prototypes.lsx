@@ -21,7 +21,21 @@
                 <node id="Objective">
                     <attribute id="Description" type="TranslatedString" handle="h80ef3df7g0ed4gb2cbg530cgf2d8a2a5b0b2" version="1"/>
                     <attribute id="ObjectiveID" type="FixedString" value="SPJ_Spelljammer_End"/>
+                    <attribute id="Priority" type="int32" value="1004"/>
+                    <attribute id="QuestID" type="FixedString" value="SPJ_Spelljammer"/>
+                    <attribute id="QuestObjectiveGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="Objective">
+                    <attribute id="Description" type="TranslatedString" handle="h9f44ea54g3399g3413g1072g1863d29ef979" version="1"/>
+                    <attribute id="ObjectiveID" type="FixedString" value="SPJ_Spelljammer_AstralEncounters"/>
                     <attribute id="Priority" type="int32" value="1002"/>
+                    <attribute id="QuestID" type="FixedString" value="SPJ_Spelljammer"/>
+                    <attribute id="QuestObjectiveGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="Objective">
+                    <attribute id="Description" type="TranslatedString" handle="hf913c98bg973ega2b2g406fg0b3c37df3dd1" version="1"/>
+                    <attribute id="ObjectiveID" type="FixedString" value="SPJ_Spelljammer_CultistsQuest"/>
+                    <attribute id="Priority" type="int32" value="1003"/>
                     <attribute id="QuestID" type="FixedString" value="SPJ_Spelljammer"/>
                     <attribute id="QuestObjectiveGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                 </node>

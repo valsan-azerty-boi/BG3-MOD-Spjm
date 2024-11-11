@@ -20,6 +20,9 @@
         <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
         <field name="SoundVocalStart" type="EnumerationTableFieldDefinition" value="WEAK" enumeration_type_name="SoundVocalType" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_SUMSPJMTRES_FAIL" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="a15aaf6c-5fcd-4602-a7b5-343c98d49591" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Negative" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="bc4f779b-7424-4770-90bb-bdea0f4e9ead" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -30,9 +33,9 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_CreateSpelljammerHelm" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Gold" enumeration_type_name="FormatStringColor" version="1" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="Passives" type="StringTableFieldDefinition" value="SPJM_Passive_SummonedSpelljammerHelm" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_HELMBUFF_1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_SummonedSpelljammerHelm_Failed)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -41,6 +44,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm_Buff2" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="4f9bf7a8-4a28-4739-a185-0930ac8401fb" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_HELMBUFF_2" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -49,6 +53,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_SummonedSpelljammerHelm_Buff3" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="4f9bf7a8-4a28-4739-a185-0930ac8401fb" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_HELMBUFF_3" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

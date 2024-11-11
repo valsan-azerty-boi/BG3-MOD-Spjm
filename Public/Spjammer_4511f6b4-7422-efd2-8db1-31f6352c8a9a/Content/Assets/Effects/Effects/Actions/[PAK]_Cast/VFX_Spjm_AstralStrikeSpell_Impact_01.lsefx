@@ -3462,7 +3462,7 @@
                     <rampchannel type="Linear" id="ba924589-b36a-44a2-bf68-5e149e9b5d9b" selected="True">
                       <keyframes>
                         <keyframe time="0" value="1" />
-                        <keyframe time="1" value="1" />
+                        <keyframe time="1" value="1.05" />
                       </keyframes>
                     </rampchannel>
                     <rampchannel type="Linear" id="92d6c55f-51f6-4f1f-8df6-f6479b9d89f4" selected="False">
@@ -6408,7 +6408,7 @@
                     <rampchannel type="Linear" id="ba924589-b36a-44a2-bf68-5e149e9b5d9b" selected="True">
                       <keyframes>
                         <keyframe time="0" value="1" />
-                        <keyframe time="1" value="1" />
+                        <keyframe time="1" value="1.05" />
                       </keyframes>
                     </rampchannel>
                     <rampchannel type="Linear" id="92d6c55f-51f6-4f1f-8df6-f6479b9d89f4" selected="False">
@@ -9804,7 +9804,7 @@
                       <keyframes>
                         <keyframe time="0" value="0" />
                         <keyframe time="0.25" value="1" />
-                        <keyframe time="1" value="1" />
+                        <keyframe time="1" value="1.05" />
                       </keyframes>
                     </rampchannel>
                     <rampchannel type="Linear" id="384976bb-84e8-4e28-b91c-e11a988679a5" selected="False">
@@ -10814,7 +10814,7 @@
                     <rampchannel type="Linear" id="ba924589-b36a-44a2-bf68-5e149e9b5d9b" selected="True">
                       <keyframes>
                         <keyframe time="0" value="1" />
-                        <keyframe time="1" value="1" />
+                        <keyframe time="1" value="1.05" />
                       </keyframes>
                     </rampchannel>
                     <rampchannel type="Linear" id="92d6c55f-51f6-4f1f-8df6-f6479b9d89f4" selected="False">

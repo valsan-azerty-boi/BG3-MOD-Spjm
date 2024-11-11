@@ -433,5 +433,20 @@
         <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;DarknessRules;Darkvision;Blindsight" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b61a2138-e959-47d9-af24-b5b647fb002f" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Allied_Emperor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f42a7b84-bf51-43d9-9af3-48fdb8b7a33e" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="21" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="17" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="19" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="202" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

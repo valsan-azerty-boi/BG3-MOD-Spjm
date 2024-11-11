@@ -3,7 +3,7 @@ SubGoalCombiner SGC_AND
 INITSECTION
 
 KBSECTION
-//REGION Leave SPJM City with rope
+//REGION Leave SPJM Astral City with rope
 
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)TOOL_Ladder_Fishnet_10H_A_001_7144b3d8-9e7d-4165-ab94-5419a45b2e5b, _)
@@ -12,7 +12,7 @@ TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b
 
 //END_REGION
 
-//REGION SPJM Astral city respiration mechanic
+//REGION SPJM Astral City respiration mechanic
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_AstralCity_AirZone_EventTrigger_4272c425-89d7-42ab-99ce-cc3729474f52)
@@ -30,24 +30,54 @@ RemoveStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff");
 
 //END_REGION
 
-//REGION SPJM Gith pirate hostile
+//REGION SPJM Astral City pirate hostile
 
-//DialogAttackRequested(target, player)
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)TOOL_Ladder_Rope_9H_A_000_942f7caf-7b9a-42f8-a2a3-01ed0645681c, _)
 THEN
 SetRelation((FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e, (FACTION)Hero_a1542c81-6895-929e-4522-10ce218bb360, 0);
 SetRelation((FACTION)Hero_a1542c81-6895-929e-4522-10ce218bb360, (FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e, 0);
+
+IF
+EnteredCombat((GUIDSTRING)SPJM_Githyanki_Female_Gish_000_14b38859-d286-49dc-8343-f21d38b75df7, _)
+THEN
 SetRelation((FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e,(FACTION)SPJM_TheLowerRock_MarketGuard_c790f2f9-a276-4570-ac88-2636247e107a, 0);
 SetRelation((FACTION)SPJM_TheLowerRock_MarketGuard_c790f2f9-a276-4570-ac88-2636247e107a,(FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e, 0);
 
-PROC
-PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)SPJM_TreasurePile_Full_GithPirate_9e079445-546c-4cfe-b5cd-f96e7e3642e3, _)
+IF
+EnteredCombat((GUIDSTRING)SPJM_Githyanki_Male_Raider_002_901d0036-4bfe-4cc3-ac63-1531d921bbef, _)
 THEN
-SetRelation((FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e, (FACTION)Hero_a1542c81-6895-929e-4522-10ce218bb360, 0);
-SetRelation((FACTION)Hero_a1542c81-6895-929e-4522-10ce218bb360, (FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e, 0);
-SetRelation((FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e,(FACTION)SPJM_TheLowerRock_MarketGuard_c790f2f9-a276-4570-ac88-2636247e107a, 0);
-SetRelation((FACTION)SPJM_TheLowerRock_MarketGuard_c790f2f9-a276-4570-ac88-2636247e107a,(FACTION)SPJM_GithPirates_cf71a534-e9ca-4845-a15a-a8e974419a4e, 0);
+SetRelation((FACTION)SPJM_GithPirates_Inn_8e144633-99db-4c61-ac61-7b1447dc49b3,(FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5,(FACTION)SPJM_GithPirates_Inn_8e144633-99db-4c61-ac61-7b1447dc49b3, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_Vampirates_ca62951b-4152-467f-91b9-fc657a05f9c0,(FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5,(FACTION)SPJM_TheLowerRock_Vampirates_ca62951b-4152-467f-91b9-fc657a05f9c0, 0);
+
+IF
+EnteredCombat((GUIDSTRING)SPJM_Trader_Oz_5abb83cf-88bd-47e5-b3cc-a6981e1c8686, _)
+THEN
+SetRelation((FACTION)SPJM_GithPirates_Inn_8e144633-99db-4c61-ac61-7b1447dc49b3,(FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5,(FACTION)SPJM_GithPirates_Inn_8e144633-99db-4c61-ac61-7b1447dc49b3, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_Vampirates_ca62951b-4152-467f-91b9-fc657a05f9c0,(FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5,(FACTION)SPJM_TheLowerRock_Vampirates_ca62951b-4152-467f-91b9-fc657a05f9c0, 0);
+
+IF
+EnteredCombat((GUIDSTRING)SPJM_Vampirate_2_38f9a2a2-81a6-44fc-9d6f-f1588dd954a7, _)
+THEN
+SetRelation((FACTION)SPJM_GithPirates_Inn_8e144633-99db-4c61-ac61-7b1447dc49b3,(FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5,(FACTION)SPJM_GithPirates_Inn_8e144633-99db-4c61-ac61-7b1447dc49b3, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_Vampirates_ca62951b-4152-467f-91b9-fc657a05f9c0,(FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5, 0);
+SetRelation((FACTION)SPJM_TheLowerRock_34aad042-80d3-4f0f-aa83-7752bc9dffa5,(FACTION)SPJM_TheLowerRock_Vampirates_ca62951b-4152-467f-91b9-fc657a05f9c0, 0);
+
+//END_REGION
+
+//REGION SPJM Astral City lost cultist
+
+IF
+EnteredCombat((GUIDSTRING)SPJM_AstralCity_Cultist_0d8e7d63-f5e2-4e6e-9946-c0f2487c3313, _)
+AND
+StartDialog_Internal(Dialog_SPJM_Cultist_Dg1_Barks_6748b1dc-f04b-944e-164c-724490edc791,1,(GUIDSTRING)SPJM_AstralCity_Cultist_0d8e7d63-f5e2-4e6e-9946-c0f2487c3313,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,_,_Instance,0)
+THEN
+DB_NOOP(1);
 
 //END_REGION
 EXITSECTION
