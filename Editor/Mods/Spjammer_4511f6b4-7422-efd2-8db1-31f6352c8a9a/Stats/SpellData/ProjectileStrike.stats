@@ -90,5 +90,23 @@
         <field name="UseCosts" type="StringTableFieldDefinition" value="SpjmSpelljammingSlot:1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="502aa803-1a7e-46d0-a085-2b9d6e060246" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_ShipStrike_Canon_EvilNpc_Free" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8d5998f5-6269-4e0a-afab-e666aa0bf1fc" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="AIFlags" version="1" />
+        <field name="CastTargetHitDelay" type="IntegerTableFieldDefinition" value="500" />
+        <field name="ProjectileCount" type="StringTableFieldDefinition" value="2" />
+        <field name="ProjectileDelay" type="IntegerTableFieldDefinition" value="600" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8ef5f65egc6eag53b3g4e62ge7bc9050eb7a" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" clear_inherited_value="true" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(2d10,Bludgeoning)" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(2d10,Bludgeoning)" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="03114753-8d91-4c52-8207-728a67cdd59b,,;,,;bc6778cf-e501-4c69-a72f-bce826a4d2bd,,;e2cc2257-661e-4add-aef2-e64d447b63dd,,;8fcb1f19-a84b-486d-81fa-098aaf7cc9be,,;,,;c5bd6ce6-281c-4314-9f74-9f7bb2f4cf03,,;,,;,," />
+        <field name="RechargeValues" type="StringTableFieldDefinition" value="2-3" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

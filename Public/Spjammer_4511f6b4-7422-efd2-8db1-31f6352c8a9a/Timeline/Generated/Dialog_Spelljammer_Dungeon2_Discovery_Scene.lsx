@@ -3,7 +3,7 @@
     <version major="4" minor="7" revision="1" build="3"/>
     <region id="TLScene">
         <node id="root">
-            <attribute id="Identifier" type="guid" value="993f7cf7-7563-ae84-36a2-4d805d3616ce"/>
+            <attribute id="Identifier" type="guid" value="6192a72d-1cfe-f491-499e-8eb421795d8e"/>
             <attribute id="SceneBounds" type="fvec3">
                 <float3 x="1" y="0" z="1"/>
             </attribute>
@@ -203,7 +203,7 @@
                                                 <node id="Object">
                                                     <attribute id="MapKey" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                                                     <attribute id="MapValue" type="fvec2">
-                                                        <float2 x="0.64993244" y="0.034830943"/>
+                                                        <float2 x="0.66344857" y="-0.011671201"/>
                                                     </attribute>
                                                 </node>
                                             </children>
@@ -215,10 +215,10 @@
                                                     <children>
                                                         <node id="MapValue">
                                                             <attribute id="Position" type="fvec3">
-                                                                <float3 x="-6.7002869" y="25.569101" z="-35.009895"/>
+                                                                <float3 x="-8.7676468" y="18.197815" z="-36.281231"/>
                                                             </attribute>
                                                             <attribute id="RotationQuat" type="fvec4">
-                                                                <float4 x="-0.040067453" y="0.94775105" z="-0.13202243" w="-0.28763267"/>
+                                                                <float4 x="-0.0059619006" y="0.96402687" z="-0.021700663" w="-0.26485053"/>
                                                             </attribute>
                                                             <attribute id="Scale" type="float" value="1"/>
                                                         </node>

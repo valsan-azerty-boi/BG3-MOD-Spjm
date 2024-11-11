@@ -356,7 +356,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="3d960f75-68ef-4b51-9281-4c441aebffc4" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg2_CultistBoss" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Wealthy" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Normal" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -385,7 +385,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="68c638b1-1397-4bb0-9cf4-27a6e27dd51e" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg3_Boss" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Wealthy" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Normal" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

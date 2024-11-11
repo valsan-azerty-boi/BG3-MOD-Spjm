@@ -8,18 +8,18 @@ KBSECTION
 IF
 CastSpell(_Caster, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
 AND
-NOT HasPassive(_Caster, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
-THEN
-ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Failed", 60.0);
-
-IF
-CastSpell(_Caster, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
-AND
 HasPassive(_Caster, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
 THEN
 ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff", -1.0);
 ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff2", -1.0);
 ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Buff3", -1.0);
+
+IF
+CastSpell(_Caster, "Shout_Spjm_CreateSpelljammerHelm", _, _, _)
+AND
+NOT HasPassive(_Caster, "SPJM_Passive_UnlockedSpelljammingSlots", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Caster, "Spjm_SummonedSpelljammerHelm_Failed", 60.0);
 
 IF
 CastSpell(_Caster, "ProjectileStrike_Spjm_ShipStrike_Ballistae", _, _, _)

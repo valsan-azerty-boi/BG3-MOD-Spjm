@@ -84,35 +84,6 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="08786838-6292-48e7-a14c-3fb5a6b581ef" />
-        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Gaj_TemplateStats" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="e2170ea8-33cd-4462-bd93-5c3bd667e781" />
-        <field name="Strength" type="IntegerTableFieldDefinition" value="16" />
-        <field name="Dexterity" type="IntegerTableFieldDefinition" value="10" />
-        <field name="Constitution" type="IntegerTableFieldDefinition" value="15" />
-        <field name="Intelligence" type="IntegerTableFieldDefinition" value="12" />
-        <field name="Wisdom" type="IntegerTableFieldDefinition" value="15" />
-        <field name="Charisma" type="IntegerTableFieldDefinition" value="7" />
-        <field name="Armor" type="IntegerTableFieldDefinition" value="16" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="102" />
-        <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
-        <field name="Sight" type="IntegerTableFieldDefinition" value="900" />
-        <field name="Hearing" type="IntegerTableFieldDefinition" value="600" />
-        <field name="FOV" type="IntegerTableFieldDefinition" value="90" />
-        <field name="VerticalFOV" type="IntegerTableFieldDefinition" value="0" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="200" />
-        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Large" enumeration_type_name="ObjectSize" version="1" />
-        <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Large" enumeration_type_name="ObjectSize" version="1" />
-        <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
-        <field name="ProficiencyBonus" type="IntegerTableFieldDefinition" value="2" />
-        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:1;Movement:9;ReactionActionPoint:1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;DarknessRules;Darkvision;ExtraAttack" />
-        <field name="MinimumDetectionRange" type="StringTableFieldDefinition" value="2" />
-        <field name="DarkvisionRange" type="StringTableFieldDefinition" value="14" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b901d510-13ff-4a7b-82e0-a5c41b23350a" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_GiantSpaceHamster_TemplateStats" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="6cbddbfd-9618-4766-b45e-364f6342207a" />
@@ -126,6 +97,8 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="150" />
         <field name="ProficiencyBonus" type="IntegerTableFieldDefinition" value="2" />
         <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;DarknessRules;Darkvision" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="BlockRegainHP(Undead;Construct)" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -229,6 +202,35 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="08786838-6292-48e7-a14c-3fb5a6b581ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Gaj_TemplateStats" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e2170ea8-33cd-4462-bd93-5c3bd667e781" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="7" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="102" />
+        <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="600" />
+        <field name="Hearing" type="IntegerTableFieldDefinition" value="400" />
+        <field name="FOV" type="IntegerTableFieldDefinition" value="120" />
+        <field name="VerticalFOV" type="IntegerTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="200" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Large" enumeration_type_name="ObjectSize" version="1" />
+        <field name="SoundSize" type="EnumerationTableFieldDefinition" value="Large" enumeration_type_name="ObjectSize" version="1" />
+        <field name="Proficiency Bonus Scaling" type="GuidObjectTableFieldDefinition" value="265d62c4-9b82-4ed6-9a86-da675b4ef8fe" />
+        <field name="ProficiencyBonus" type="IntegerTableFieldDefinition" value="2" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:1;Movement:9;ReactionActionPoint:1" />
+        <field name="Passives" type="StringTableFieldDefinition" value="AttackOfOpportunity;DarknessRules;Darkvision;ExtraAttack" />
+        <field name="MinimumDetectionRange" type="StringTableFieldDefinition" value="2" />
+        <field name="DarkvisionRange" type="StringTableFieldDefinition" value="14" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="af4bf65e-32e6-4c03-8e51-0a5bc96b18f8" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_MurderComet_TemplateStats" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d4acbf0e-03a1-4c7c-a36b-eca366b8d9d0" />
@@ -246,6 +248,37 @@
         <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="700" />
+        <field name="Hearing" type="IntegerTableFieldDefinition" value="500" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1903c680-e4e8-4b4a-99ec-1c631e7629e4" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg2_Cultist" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7da1b819-250f-43c3-be83-5eeffa86512d" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="11" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="110" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="700" />
+        <field name="Hearing" type="IntegerTableFieldDefinition" value="500" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:2;Movement:9;ReactionActionPoint:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6c96b440-0352-4247-8d0f-2961807e8e29" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg2_CultistBossIllithid" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="939e3e37-0479-48e6-9a53-caf27c04bbe8" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="20" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="244" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="90" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:2;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ExtraAttack;MagicResistance;AttackOfOpportunity;DarknessRules" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="700" />
+        <field name="Hearing" type="IntegerTableFieldDefinition" value="500" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -366,21 +399,6 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="6c96b440-0352-4247-8d0f-2961807e8e29" />
-        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg2_CultistBossIllithid" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="939e3e37-0479-48e6-9a53-caf27c04bbe8" />
-        <field name="Strength" type="IntegerTableFieldDefinition" value="14" />
-        <field name="Wisdom" type="IntegerTableFieldDefinition" value="16" />
-        <field name="Charisma" type="IntegerTableFieldDefinition" value="20" />
-        <field name="Armor" type="IntegerTableFieldDefinition" value="15" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="244" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="90" />
-        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:2;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="ExtraAttack;MagicResistance;AttackOfOpportunity;DarknessRules" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e0e8e166-0ad4-4ea4-802c-515527a15f40" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_EyeMonger_Explo" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="049fc6ab-9065-4e76-b608-a6183bf2176e" />
@@ -395,6 +413,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="b901d510-13ff-4a7b-82e0-a5c41b23350a" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="84" />
         <field name="XPReward" type="GuidObjectTableFieldDefinition" value="810b5510-6748-4c8e-bef0-d990880ed1dd" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:1;Movement:9;ReactionActionPoint:1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

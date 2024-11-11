@@ -84,14 +84,14 @@ new subtable "1,1"
 object category "I_OBJ_Spjm_CharmOfInstantTools",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Dg2_CultistBoss"
 new subtable "1,1"
-object category "T_Gold_Trader_Wealthy",1,0,0,0,0,0,0,0
+object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_SpelljammerCanon",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Dg3_Boss"
 new subtable "1,1"
-object category "T_Gold_Trader_Wealthy",1,0,0,0,0,0,0,0
+object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_GythkaHalberd_Wpn",1,0,0,0,0,0,0,0
 new treasuretable "SPJM_Explo_Trs_1"

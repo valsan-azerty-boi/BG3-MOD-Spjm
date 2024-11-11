@@ -34,15 +34,11 @@ RemoveStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff");
 
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_0_cddb5d48-a5a2-4c18-8c1b-31a7f97a34b0, _)
-AND
-IsInCombat((CHARACTER)_Player, 0)
 THEN
 TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_1_TeleportTrigger_adee01ca-9a87-4d40-8e5b-294e724c76b8, "", 1, 1, 1, 1, 1);
 
 PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_1_5cd2037e-b677-48ae-875b-f43e0fbef02f, _)
-AND
-IsInCombat((CHARACTER)_Player, 0)
 THEN
 TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_0_TeleportTrigger_9246bea8-09a5-4b96-a42b-2638233d29bb, "", 1, 1, 1, 1, 1);
 
