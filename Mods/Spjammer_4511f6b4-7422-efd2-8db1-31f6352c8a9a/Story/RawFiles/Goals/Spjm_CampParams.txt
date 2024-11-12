@@ -4,7 +4,7 @@ INITSECTION
 //REGION SPJM Camp Definitions
 
 DB_Camp("SPJMMAIN",
-		(ITEM)S_CAMP_Fire_000_a39ad2bf-30c6-8ce1-11f5-5cc50798c2ba,// a3197134-0860-4044-92bd-a01687b55a75
+		(ITEM)S_CAMP_Fire_000_a39ad2bf-30c6-8ce1-11f5-5cc50798c2ba,
 		(TRIGGER)S_CAMP_SPJM_Area_b7e22974-3bf9-45ea-9e87-ef39fc56f7d0,
 		(TRIGGER)S_CAMP_SPJM_Entrance_59bed0c5-da4d-492d-96ab-27fc9421f137);
 DB_MainCamp("SPJM_AstralPlane_S","SPJMMAIN");
@@ -25,16 +25,72 @@ DB_ORI_OriginCampData((CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f1
 DB_ORI_OriginCampData((CHARACTER)S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a, "SPJMMAIN", (TRIGGER)S_CAMP_SPJM_Jaheira_TeleportTrigger_090fcc99-42b4-4d8a-8340-13611fc47cbe);
 DB_ORI_OriginCampData((CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba, "SPJMMAIN", (TRIGGER)S_CAMP_SPJM_Minsc_TeleportTrigger_bc0d6478-ab2f-40be-b49c-8e2ef2859a1c);
 
-// TODO
-//DB_Camp_PersonalCornerLevelTemplate("SPJMMAIN",(CHARACTER)S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604,(LEVELTEMPLATE)LT_CMP_Cave_Gale_001_4edf605e-3a0c-4d39-86f4-96f37e7727fa);
-//DB_Camp_PersonalCornerLevelTemplate("SPJMMAIN",(CHARACTER)S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255,(LEVELTEMPLATE)LT_CMP_Cave_Astarion_001_51e97344-bb09-4790-8f4b-c2b4f9c68e8e);
-//DB_Camp_PersonalCornerLevelTemplate("SPJMMAIN",(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679,(LEVELTEMPLATE)LT_CMP_Cave_Shadowheart_001_3fcc68b6-bde8-4d1c-9d14-989d6535dac4);
-//DB_Camp_PersonalCornerLevelTemplate("SPJMMAIN",(CHARACTER)S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12,(LEVELTEMPLATE)LT_CMP_Cave_Laezel_001_8b217f84-222b-4736-94e6-23df2e01486b);
-//DB_Camp_PersonalCornerLevelTemplate("SPJMMAIN",(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d,(LEVELTEMPLATE)CLT_CMP_Cave_Wyll_001_6ec1efb3-7a70-48e5-9e88-f69be19a95a3);
-//DB_Camp_PersonalCornerLevelTemplate("SPJMMAIN",(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c,(LEVELTEMPLATE)LT_CMP_Cave_Karlach_001_b5273a65-01d3-46df-bd76-be6bdfb8de11);
+DB_MagicMirrorInstance("SPJM_AstralPlane_S",(ITEM)UNI_MagicMirror_35605208-7a09-8588-4b0a-f4372356c71f);
 
 //END_REGION
 KBSECTION
+//REGION SPJM camp magic mirror
+
+//PROC
+//PROC_ApplySavegamePatches()
+//AND
+//QRY_BG3_SaveGameIsOlderThan("Release Patch 4")
+//THEN
+//DB_MagicMirrorInstance("SPJM_AstralPlane_S",(ITEM)UNI_MagicMirror_35605208-7a09-8588-4b0a-f4372356c71f);
+
+//PROC
+//PROC_ApplySavegamePatches()
+//AND
+//NOT DB_DropMutingStatussesDialog((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78)
+//THEN
+//DB_DropMutingStatussesDialog((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78);
+
+//IF
+//TemplateUseFinished(_Player,(ITEMROOT)UNI_MagicMirror_35605208-7a09-8588-4b0a-f4372356c71f,_Mirror,1)
+//AND
+//NOT QRY_GLO_MagicMirror_Eligible(_Player, _Mirror)
+//THEN
+//PROC_PlayCantUseItemAD(_Player);
+
+//QRY
+//QRY_GLO_MagicMirror_Eligible((CHARACTER)_Player, (ITEM)_Mirror)
+//AND
+//NOT QRY_GLO_MagicMirror_Ineligible((CHARACTER)_Player, (ITEM)_Mirror)
+//AND
+//DB_Players(_Player)
+//AND
+//NOT DB_Origins(_Player)
+//AND
+//IsTagged(_Player, FULL_CEREMORPH_3797bfc4-8004-4a19-9578-61ce0714cc0b, 0)
+//AND
+//QRY_StartDialog_Fixed((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78,_Mirror,_Player)
+//THEN
+//DB_NOOP(1);
+
+//QRY
+//QRY_GLO_MagicMirror_Ineligible((CHARACTER)_Player, (ITEM)_Mirror)
+//AND
+//1 == 0
+//THEN
+//DB_NOOP(1);
+
+//IF
+//DialogEnded((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78,_ID)
+//AND
+//DB_DialogPlayers(_ID,_Player,1)
+//THEN
+//StartChangeAppearance(_Player);
+
+//IF
+//DB_CurrentLevel(_Level)
+//AND
+//DB_MagicMirrorInstance(_Level,_MagicMirror)
+//THEN
+//SetCanExamine(_MagicMirror,0);
+//NOT DB_MagicMirrorInstance(_Level,_MagicMirror);
+
+//END_REGION
+
 //REGION SPJM Camp respiration mechanic
 
 IF

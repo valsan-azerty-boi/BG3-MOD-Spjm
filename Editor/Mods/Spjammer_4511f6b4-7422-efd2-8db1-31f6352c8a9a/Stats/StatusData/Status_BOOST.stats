@@ -93,6 +93,9 @@
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_AIRZONE_BUFF" />
         <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_DifficultBreathingZone_Debuff)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnApplyConditions" type="StringTableFieldDefinition" value="not HasStatus('Spjm_AirBubbleBuff')" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff')" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnApply;OnApplyAndTurn;OnMove;OnStatusApplied" enumeration_type_name="StatusEvent" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -124,6 +127,7 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="Disadvantage(AllAbilities);Disadvantage(AttackRoll);Disadvantage(SavingThrow, Constitution);IncreaseMaxHP(-15)" />
         <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff') or HasStatus('Spjm_AirZoneBuff')" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnApply;OnApplyAndTurn;OnMove;OnStatusApplied" enumeration_type_name="StatusEvent" version="1" />
+        <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="DealDamage(1d4,Piercing)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

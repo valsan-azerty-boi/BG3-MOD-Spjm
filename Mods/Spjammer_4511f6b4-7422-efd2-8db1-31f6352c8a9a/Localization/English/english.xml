@@ -218,12 +218,12 @@
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljamming Helm</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
-  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="113">*Leave*</content>
+  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="117">Leave.</content>
   <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
   <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Powering*</content>
-  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="99">*Great Power surge from the Helm*</content>
-  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="73">*Use your innate powers to tame the Helm*</content>
-  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="72">*Cut the connection*</content>
+  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="103">*Great Power surge from the Helm*</content>
+  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="77">*Use your innate powers to tame the Helm*</content>
+  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="76">*Cut the connection*</content>
   <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="9">Enhancement device</content>
   <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="2">Enhancement device</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="19">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
@@ -234,26 +234,26 @@
   <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="22">*Unlock the Ballistae*</content>
   <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
   <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="22">*Leave*</content>
-  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="69">*Channels the arcane flow of the Helm*</content>
-  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="69">*Bend the Helm to your will*</content>
-  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="66">*Try to understand the magic emanating from the Helm*</content>
-  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="64">*Your mind does not seem to reach the arcana of the Helm*</content>
-  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="61">*You are successfully syncing with the Helm*</content>
+  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="73">*Channels the arcane flow of the Helm*</content>
+  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="73">*Bend the Helm to your will*</content>
+  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="70">*Try to understand the magic emanating from the Helm*</content>
+  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="68">*Your mind does not seem to reach the arcana of the Helm*</content>
+  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="65">*You are successfully syncing with the Helm*</content>
   <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
-  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="55">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="55">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="52">*Travel to the nearest city 'The Lower Rock'*</content>
-  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="51">*Travel to a 'Spacecrafter Inn'*</content>
-  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="47">*Travel to a 'Shattered Sanctum'*</content>
-  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="47">*Travel to the 'Cult Laboratory'*</content>
-  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="49">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
-  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="47">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="47">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="47">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="13">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="10">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="10">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="11">*The Helm allows you to naturally navigate through the Astral Sea to your next exploration.*</content>
+  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="59">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="59">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="56">*Travel to the nearest city 'The Lower Rock'*</content>
+  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="55">*Travel to a 'Spacecrafter Inn'*</content>
+  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="51">*Travel to a 'Shattered Sanctum'*</content>
+  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="51">*Travel to the 'Cult Laboratory'*</content>
+  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="53">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
+  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="51">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="51">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="51">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="17">[Astral Encounter] *Explore the Astral Sea*</content>
+  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="14">[Astral Encounter] *Explore the Astral Sea*</content>
+  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="14">[Astral Encounter] *Explore the Astral Sea*</content>
+  <content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="15">*The Helm allows you to naturally navigate through the Astral Sea to your next exploration.*</content>
   <content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">Traveler's Chest</content>
   <content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">Traveler's Chest</content>
   <content contentuid="h13e50984gf83agbf28gf6eagb9664a007fb5" version="1">Traveler's Chest</content>
@@ -261,9 +261,9 @@
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Hatch to camp</content>
   <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="2">Hatch to camp</content>
   <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="7">Ladder to ship</content>
-  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="25">*Symbiosing with the Helm*</content>
-  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="24">*Perform a ritual to synchronize with the Helm*</content>
-  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="23">*Use your faith towards the Helm*</content>
+  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="29">*Symbiosing with the Helm*</content>
+  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="28">*Perform a ritual to synchronize with the Helm*</content>
+  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="27">*Use your faith towards the Helm*</content>
   <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
   <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
   <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">*This illithid looks at you*</content>
@@ -453,14 +453,14 @@
   <content contentuid="hce75ca0eg45c5g0365g2152g8f52817b6a92" version="3">Cultist</content>
   <content contentuid="h4de5d956gd24fg76e6gff92g0e5a2ac870d0" version="2">Cultist</content>
   <content contentuid="h3a4ad24fg70c2g9b8fgf8a2g15e520d012d3" version="4">Cultist</content>
-  <content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="1">We'll rebuild a god with your bones!</content>
-  <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="1">Their fragments will live through us!</content>
-  <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="1">He calls your name!</content>
-  <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="3">Murder Comet</content>
+  <content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="2">We'll rebuild a god with your bones!</content>
+  <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="2">Their fragments will live through us!</content>
+  <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="2">He calls your name!</content>
+  <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="4">Murder Comet</content>
   <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="18">Cult Leader</content>
-  <content contentuid="h6d9ee59eg2589g2598g5c71g0fff78129d46" version="1">The corpses of gods hold more promise than any Elder Brain!</content>
-  <content contentuid="h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d" version="1">We don't need the Grand Design. The old gods' power is ours to claim.</content>
-  <content contentuid="hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121" version="1">Why follow an ancient mind when we can create something greater?</content>
+  <content contentuid="h6d9ee59eg2589g2598g5c71g0fff78129d46" version="2">The corpses of gods hold more promise than any Elder Brain!</content>
+  <content contentuid="h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d" version="2">We don't need the Grand Design. The old gods' power is ours to claim.</content>
+  <content contentuid="hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121" version="2">Why follow an ancient mind when we can create something greater?</content>
   <content contentuid="hacbbadeeg7a60gf5cdgb51cg79cc97addb8e" version="3">Spelljammer</content>
   <content contentuid="ha159b668g7e97gdffbg7339g93bd4888ee75" version="2">Adventures in Space</content>
   <content contentuid="h18b55390gdddcg08abg1799ge1fa22a8bebe" version="3">Space Galleon</content>

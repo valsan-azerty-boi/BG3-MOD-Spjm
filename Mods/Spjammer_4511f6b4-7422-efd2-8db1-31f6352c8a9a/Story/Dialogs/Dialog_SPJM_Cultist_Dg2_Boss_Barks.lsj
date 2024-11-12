@@ -16,6 +16,7 @@
                }
             ],
             "UUID" : {"type" : "FixedString", "value" : "24e09c6b-3219-c1b5-6d3f-83f52b2a15d2"},
+            "automated" : {"type" : "bool", "value" : true},
             "category" : {"type" : "LSString", "value" : "Voice bark"},
             "nodes" : [
                {
@@ -54,7 +55,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6d9ee59eg2589g2598g5c71g0fff78129d46",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -63,7 +64,7 @@
                                                 "TagText" : {
                                                    "handle" : "h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -72,7 +73,7 @@
                                                 "TagText" : {
                                                    "handle" : "hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }

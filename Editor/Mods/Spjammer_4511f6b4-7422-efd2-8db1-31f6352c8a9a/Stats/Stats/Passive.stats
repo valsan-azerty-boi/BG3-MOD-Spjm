@@ -28,6 +28,7 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Action_DivineIntervention_Attack" />
         <field name="LoreDescription" type="TranslatedStringTableFieldDefinition" handle="h1fbfea32g6188gb001g16e1g5ce3d640b0a5" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Advantage(SavingThrow,Wisdom)" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -39,6 +40,7 @@
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_WildMagicSurge" />
         <field name="LoreDescription" type="TranslatedStringTableFieldDefinition" handle="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="IncreaseMaxHP(Level)" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

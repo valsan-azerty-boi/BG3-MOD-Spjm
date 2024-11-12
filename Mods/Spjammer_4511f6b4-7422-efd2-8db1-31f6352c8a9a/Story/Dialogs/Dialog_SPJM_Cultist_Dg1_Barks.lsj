@@ -55,7 +55,7 @@
                                                 "TagText" : {
                                                    "handle" : "heed2f880g21cag10c6ge107gb47e43bea6fc",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -64,7 +64,7 @@
                                                 "TagText" : {
                                                    "handle" : "h890e51beg6986g4c15g5a4cg4acb9b0cd9b2",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -73,7 +73,7 @@
                                                 "TagText" : {
                                                    "handle" : "h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98",
                                                    "type" : "TranslatedString",
-                                                   "version" : 1
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
