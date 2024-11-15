@@ -5,7 +5,7 @@ DB_WaypointInfo("Act3","WAYP_SPJM_Spelljammer",162fd1c1-2cf8-4914-b1eb-da52486c1
 DB_WaypointInfo("Act3","WAYP_SPJM_AstralCity",80548723-7cba-4484-aa2a-a3b0cc2384b2,fadd3446-ac26-40a8-a066-fe3fa863b9c3);
 DB_WaypointInfo("Act3","WAYP_SPJM_Dungeon1",5f46ef47-2b8e-414d-b86f-1eb9bc861541,d45ac4fe-1da2-4686-bc6b-61594da25c67);
 DB_WaypointInfo("Act3","WAYP_SPJM_Dungeon2",c0cceb00-5b49-4335-bebe-f67abc2148ae,7d5eaa6b-0ad5-4981-a209-cac0c85fbc9d);
-//DB_WaypointInfo("Act3","WAYP_SPJM_Dungeon3",id,id);
+DB_WaypointInfo("Act3","WAYP_SPJM_Dungeon3",0686c0a4-c3cf-4e6f-a66f-88adada378bb,12a927de-1759-43fd-b28b-98c2a40d962d);
 KBSECTION
 //REGION SPJM Unlocking a Spelljammer
 
