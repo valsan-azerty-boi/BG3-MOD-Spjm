@@ -147,14 +147,14 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8d72b5bf-d784-42d9-9dc1-aa54b9d28da8" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_TalarithAttunement_Buff" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_AgonizingBlast" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Talarith" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Water" enumeration_type_name="FormatStringColor" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_TALARATTUN_BUFF" />
         <field name="Passives" type="StringTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisablePortraitIndicator;DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -163,11 +163,11 @@
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_Gythka_Advantage_Buff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a26099ag0fceg0fffgee95g037eb793a819" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Divination_TrueStrike" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Gythka" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Purple" enumeration_type_name="FormatStringColor" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_GYTHKA_BUFF" />
         <field name="Boosts" type="StringTableFieldDefinition" value="RollBonus(Attack,1d6)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;TickingWithSource" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;TickingWithSource;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
       </fields>
     </stat_object>

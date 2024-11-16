@@ -581,9 +581,9 @@
   <content contentuid="h70330665g8036g0ac9g052dg49c6c4be4303" version="1">A Reigar master craftsman created this piece of jewelry in the form of a diadem to put on your head. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
   <content contentuid="h8dc85010g52c1g5e4agb515gb811d448bb97" version="1">Talarith Necklace</content>
   <content contentuid="h1428863agb14fg8803g0abcgfc8b071ac733" version="1">A Reigar master craftsman created this piece of jewelry in the form of an amulet to put on your neck. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
-  <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="2">Attunement</content>
-  <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="1">Attunement</content>
-  <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="1">Attunement</content>
+  <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="3">Talarith Attunement</content>
+  <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="2">Talarith Attunement</content>
+  <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="2">Talarith Attunement</content>
   <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">The wearer's weapon attacks deal an additional [1] force damage.</content>
   <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
   <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
@@ -607,11 +607,11 @@
   <content contentuid="he2fe53fcg097dg15aag30d8gb9496cad95d9" version="2">You get a Stealth and Survival penalty when you equip this item.</content>
   <content contentuid="h28241fe4g6861g59aagaac0gc197d94a3c8f" version="4">Gythka</content>
   <content contentuid="he36da38cg5767ga644g1d1cgccb1d902a06f" version="2">Gythka</content>
-  <content contentuid="h66a0b518g3b14g3f2dgdc67g3b8172b21a53" version="8">Gythka</content>
+  <content contentuid="h66a0b518g3b14g3f2dgdc67g3b8172b21a53" version="9">Gythka</content>
   <content contentuid="h455cce1ag5617gea5cgf35age6fd5e675446" version="1">Gythka</content>
   <content contentuid="hb63d8961gb40agbc6eg46eeg6a468373a3d4" version="4">An exotic weapon invented by the Thri-kreen.</content>
   <content contentuid="hd267c678gb241g1567g914fg042554d28544" version="2">An exotic weapon invented by the Thri-kreen.</content>
-  <content contentuid="h5a32d8e0g8667gc8bfgcaacgb78db650feb9" version="8">An exotic weapon invented by the Thri-kreen.</content>
+  <content contentuid="h5a32d8e0g8667gc8bfgcaacgb78db650feb9" version="9">An exotic weapon invented by the Thri-kreen.</content>
   <content contentuid="h5a26099ag0fceg0fffgee95g037eb793a819" version="2">Thri-kreen Expertise</content>
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
