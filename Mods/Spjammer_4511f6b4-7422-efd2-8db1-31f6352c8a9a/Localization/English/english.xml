@@ -508,26 +508,26 @@
   <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljamming Ship and have it equipped with an Equipment. Otherwise the spell will be of no use.</content>
   <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljamming Helm to reuse its weapons.</content>
   <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
-  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="10">A title deed from space</content>
+  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="11">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
-  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="10">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
-  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="10">This contract is unread.</content>
+  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="11">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="11">This contract is unread.</content>
   <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Activate</content>
-  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="10">Activate</content>
-  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="5">Allows you to claim a Spelljamming Ship.</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="11">Activate</content>
+  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="6">Allows you to claim a Spelljamming Ship.</content>
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="4">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. A Space Galleon can easily pass for an ordinary seafaring galleon.</content>
   <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljamming Ship*</content>
-  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="6">Purchase order: Ballistae</content>
-  <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="6">Activate</content>
-  <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="6">This purchase order is unread.</content>
-  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="6">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Ship's upgrade device.</content>
-  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="6">A purchase order for a Spelljamming weapon.</content>
-  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="6">Purchase order: Cannon</content>
-  <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="6">Activate</content>
-  <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="6">This purchase order is unread.</content>
-  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="6">First, you need to manually activate the purchase order. Second, you will be able to install your Cannon via the Ship's upgrade device.</content>
-  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="6">A purchase order for a Spelljamming weapon.</content>
+  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="7">Purchase order: Ballistae</content>
+  <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="7">Activate</content>
+  <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="7">This purchase order is unread.</content>
+  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="7">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Ship's upgrade device.</content>
+  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="7">A purchase order for a Spelljamming weapon.</content>
+  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="7">Purchase order: Cannon</content>
+  <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="7">Activate</content>
+  <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="7">This purchase order is unread.</content>
+  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="7">First, you need to manually activate the purchase order. Second, you will be able to install your Cannon via the Ship's upgrade device.</content>
+  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="7">A purchase order for a Spelljamming weapon.</content>
   <content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">Purchase order: Ballistae</content>
   <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">You can install a Ballistae via the upgrade device.</content>
   <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase order: Cannon</content>
