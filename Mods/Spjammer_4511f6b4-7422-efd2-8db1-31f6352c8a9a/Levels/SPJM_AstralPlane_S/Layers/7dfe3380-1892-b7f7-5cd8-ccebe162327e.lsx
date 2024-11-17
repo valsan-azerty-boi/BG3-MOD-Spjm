@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
     <version major="4" minor="7" revision="1" build="3"/>
-    <region id="Layers">
-        <node id="root"/>
-    </region>
     <region id="MetaData">
         <node id="root">
-            <attribute id="ID" type="guid" value="0743bb2b-2e82-d729-9fff-281ad1c5836a"/>
+            <attribute id="ID" type="guid" value="7dfe3380-1892-b7f7-5cd8-ccebe162327e"/>
             <attribute id="LayerColor" type="int32" value="0"/>
-            <attribute id="Name" type="LSString" value="Dungeon3"/>
+            <attribute id="Name" type="LSString" value="RealShip"/>
         </node>
     </region>
 </save>

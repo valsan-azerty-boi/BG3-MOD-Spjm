@@ -197,13 +197,13 @@
   <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
   <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Portal</content>
   <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral Boat</content>
-  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="12">Astral Boat</content>
-  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="11">Astral Boat</content>
-  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="17">Astral Circle</content>
-  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="24">Astral Circle</content>
-  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="23">Astral Circle</content>
-  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="18">Astral Circle</content>
-  <content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="14">Astral Circle</content>
+  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="16">Astral Boat</content>
+  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="15">Astral Boat</content>
+  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="24">Astral Circle</content>
+  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="29">Astral Circle</content>
+  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="31">Astral Circle</content>
+  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="24">Astral Circle</content>
+  <content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="19">Astral Circle</content>
   <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Sea</content>
   <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="2">Astral Sea</content>
   <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Space Galleon</content>
@@ -213,57 +213,57 @@
   <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="6">Spacecrafter Inn</content>
   <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="3">Shattered Sanctum</content>
   <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="3">Cult Laboratory</content>
-  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="24">Spelljamming Helm</content>
+  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="31">Spelljamming Helm</content>
   <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljamming Helm</content>
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljamming Helm</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*What a strange place*</content>
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*You sense great power*</content>
-  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="117">Leave.</content>
+  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="120">Leave.</content>
   <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interact*</content>
   <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Powering*</content>
-  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="103">*Great Power surge from the Helm*</content>
-  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="77">*Use your innate powers to tame the Helm*</content>
-  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="76">*Cut the connection*</content>
-  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="10">Enhancement device</content>
-  <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="3">Enhancement device</content>
+  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="106">*Great Power surge from the Helm*</content>
+  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="80">*Use your innate powers to tame the Helm*</content>
+  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="79">*Cut the connection*</content>
+  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="17">Enhancement device</content>
+  <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="8">Enhancement device</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="19">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
-  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="11">Cannon</content>
+  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="15">Cannon</content>
   <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="22">*Unlock the Cannon*</content>
   <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Cannon unlocked*</content>
-  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="12">Ballistae</content>
+  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="16">Ballistae</content>
   <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="22">*Unlock the Ballistae*</content>
   <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
   <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="22">*Leave*</content>
-  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="73">*Channels the arcane flow of the Helm*</content>
-  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="73">*Bend the Helm to your will*</content>
-  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="70">*Try to understand the magic emanating from the Helm*</content>
-  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="68">*Your mind does not seem to reach the arcana of the Helm*</content>
-  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="65">*You are successfully syncing with the Helm*</content>
+  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="76">*Channels the arcane flow of the Helm*</content>
+  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="76">*Bend the Helm to your will*</content>
+  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="73">*Try to understand the magic emanating from the Helm*</content>
+  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="71">*Your mind does not seem to reach the arcana of the Helm*</content>
+  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="68">*You are successfully syncing with the Helm*</content>
   <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
-  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="59">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="59">*The energy emanating from the Helm seems familiar to someone like you*</content>
-  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="56">*Travel to the nearest city 'The Lower Rock'*</content>
-  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="55">*Travel to a 'Spacecrafter Inn'*</content>
-  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="51">*Travel to a 'Shattered Sanctum'*</content>
-  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="51">*Travel to the 'Cult Laboratory'*</content>
-  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="53">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
-  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="51">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="51">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="51">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="17">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="14">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="14">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="15">*The Helm allows you to naturally navigate through the Astral Sea to your next exploration.*</content>
+  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="62">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="62">*The energy emanating from the Helm seems familiar to someone like you*</content>
+  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="59">*Travel to the nearest city 'The Lower Rock'*</content>
+  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="58">*Travel to a 'Spacecrafter Inn'*</content>
+  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="54">*Travel to a 'Shattered Sanctum'*</content>
+  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="53">*Travel to the 'Cult Laboratory'*</content>
+  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="56">*The Helm allows you to naturally navigate to the nearest village in the Astral Sea. Enjoy the journey.*</content>
+  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="54">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="54">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="53">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
+  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="20">[Astral Encounter] *Explore the Astral Sea*</content>
+  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="17">[Astral Encounter] *Explore the Astral Sea*</content>
+  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="17">[Astral Encounter] *Explore the Astral Sea*</content>
+  <content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="18">*The Helm allows you to naturally navigate through the Astral Sea to your next exploration.*</content>
   <content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">Traveler's Chest</content>
   <content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">Traveler's Chest</content>
   <content contentuid="h13e50984gf83agbf28gf6eagb9664a007fb5" version="1">Traveler's Chest</content>
   <content contentuid="h698d80bdg29e5g51a4g3a76g32d5ad9b985e" version="1">Traveler's Chest</content>
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Hatch to camp</content>
-  <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="3">Hatch to camp</content>
-  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="9">Ladder to ship</content>
-  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="29">*Symbiosing with the Helm*</content>
-  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="28">*Perform a ritual to synchronize with the Helm*</content>
-  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="27">*Use your faith towards the Helm*</content>
+  <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="10">Hatch to camp</content>
+  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="16">Ladder to ship</content>
+  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="32">*Symbiosing with the Helm*</content>
+  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="31">*Perform a ritual to synchronize with the Helm*</content>
+  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="30">*Use your faith towards the Helm*</content>
   <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
   <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
   <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">*This illithid looks at you*</content>
@@ -272,24 +272,24 @@
   <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="10">*A simple merchant who offers goods for purchase*</content>
   <content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">Trout</content>
   <content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="7">&lt;i&gt;Trade.&lt;/i&gt;</content>
-  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="9">Ballistae</content>
-  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="8">Cannon</content>
+  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="16">Ballistae</content>
+  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="15">Cannon</content>
   <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="10">&lt;i&gt;Leave.&lt;/i&gt;</content>
-  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="14">Traveler</content>
-  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="14">Traveler</content>
-  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="12">Traveler</content>
+  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="21">Traveler</content>
+  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="21">Traveler</content>
+  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="19">Traveler</content>
   <content contentuid="hb9552a4dg983dg8161g430eg2444b5e67fa1" version="1">Traveler</content>
-  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="15">Traveler</content>
-  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="13">Traveler</content>
-  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="13">Traveler</content>
-  <content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="13">Traveler</content>
-  <content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="14">Traveler</content>
-  <content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="11">Traveler</content>
-  <content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="17">Traveler</content>
-  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="9">Traveler</content>
-  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="9">Traveler</content>
-  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="11">Traveler</content>
-  <content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="15">Traveler</content>
+  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="22">Traveler</content>
+  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="20">Traveler</content>
+  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="20">Traveler</content>
+  <content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="20">Traveler</content>
+  <content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="21">Traveler</content>
+  <content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="18">Traveler</content>
+  <content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="24">Traveler</content>
+  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="16">Traveler</content>
+  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="16">Traveler</content>
+  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="18">Traveler</content>
+  <content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="22">Traveler</content>
   <content contentuid="h882854e6g2815g3a64g1543g4712359645aa" version="4">Think the stardust vendor will be in soon?</content>
   <content contentuid="ha67711e7g8ab8ge040gc710gaded92d07a35" version="4">Seen any astral fish today?</content>
   <content contentuid="h0d6ea77eg9977g619dg6972g60822f2bb5ad" version="4">In the Astral Sea, one moment you're adrift, the next you're face-to-face with a god.</content>
@@ -312,11 +312,11 @@
   <content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">Adventurer</content>
   <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Adventurer</content>
   <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Adventurer</content>
-  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="18">Adventurer</content>
-  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="22">Adventurer</content>
-  <content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="10">Adventurer</content>
-  <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="11">Adventurer</content>
-  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="15">Adventurer</content>
+  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="25">Adventurer</content>
+  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="29">Adventurer</content>
+  <content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="17">Adventurer</content>
+  <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="18">Adventurer</content>
+  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="22">Adventurer</content>
   <content contentuid="h23edfc03g758fg3180ge0a0g298e712c880e" version="4">Last time I drifted in space, a voice called my name from beyond the stars.</content>
   <content contentuid="hb37628e5gfa24g28a4g33b3ga0d25817b8e2" version="4">Time's a funny thing here; best not to think too hard about it.</content>
   <content contentuid="h328585a0g5b06gba29g39c9g28e8fb5aa344" version="4">I swear I saw a god drift by, wrapped in chains, looking right through me.</content>
@@ -354,20 +354,20 @@
   <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="4">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
   <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="4">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
   <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="4">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
-  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="18">Githyanki captain</content>
-  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="16">Wildspacer</content>
+  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="25">Githyanki captain</content>
+  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="23">Wildspacer</content>
   <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">Githyanki Buccaneer</content>
   <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="10">Githyanki Buccaneer</content>
   <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="8">Githyanki Buccaneer</content>
   <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="11">Githyanki Buccaneer</content>
   <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="15">Githyanki Buccaneer</content>
-  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="12">Githyanki Buccaneer</content>
-  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="14">Githyanki Buccaneer</content>
-  <content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="7">Githyanki Buccaneer</content>
-  <content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="7">Githyanki Buccaneer</content>
-  <content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="7">Githyanki Buccaneer</content>
-  <content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="7">Githyanki Buccaneer</content>
-  <content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="7">Githyanki Buccaneer</content>
+  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="19">Githyanki Buccaneer</content>
+  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="21">Githyanki Buccaneer</content>
+  <content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="14">Githyanki Buccaneer</content>
+  <content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="14">Githyanki Buccaneer</content>
+  <content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="14">Githyanki Buccaneer</content>
+  <content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="14">Githyanki Buccaneer</content>
+  <content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="14">Githyanki Buccaneer</content>
   <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="3">Keep your weapons close, if you've got the nerve to use them.</content>
   <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="3">I've met phantoms in the Astral Sea with more spine than your crew.</content>
   <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="3">Tell me, do you fight, or do you just scream? I'm fine with either.</content>
@@ -382,33 +382,33 @@
   <content contentuid="h516fd51bg4561g1ed9gd7c4g28aa979991f9" version="12">Trout</content>
   <content contentuid="h17564982gf365gf9d2ge875g41c0e4466f38" version="7">Trout</content>
   <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Spelljamming Trader</content>
-  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="17">Plasmoid Adventurer</content>
-  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="22">Plasmoid Fighter</content>
-  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="17">Astral Drifter</content>
-  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="22">Astral Drifter</content>
+  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="24">Plasmoid Adventurer</content>
+  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="29">Plasmoid Fighter</content>
+  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="24">Astral Drifter</content>
+  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="29">Astral Drifter</content>
   <content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="3">Flexible in form, firm in resolve.</content>
   <content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="3">Not every adventurer can be as... versatile as me.</content>
   <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="3">I'm 'fluid in my movements'.</content>
   <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="3">*Bloop*</content>
-  <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="9">Chest</content>
+  <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="16">Chest</content>
   <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="12">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="12">&lt;i&gt;Leave.&lt;/i&gt;</content>
   <content contentuid="h14d8c383g300cgb863g6954gb8ab1876cbfd" version="7">Autognome artisan</content>
-  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="23">Onah</content>
-  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="23">Astral Elf</content>
-  <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="13">Jethro</content>
-  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="12">Astral Fisherman</content>
-  <content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="17">Orobia</content>
-  <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="16">Plant Seller</content>
-  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="19">Lost Cultist</content>
+  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="30">Onah</content>
+  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="30">Astral Elf</content>
+  <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="20">Jethro</content>
+  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="19">Astral Fisherman</content>
+  <content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="24">Orobia</content>
+  <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="23">Plant Seller</content>
+  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="26">Lost Cultist</content>
   <content contentuid="h8db392e8gd14cg3ad1gae80gd85ff0b6fa9c" version="1">Mephit</content>
-  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="15">Guard</content>
-  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="19">Guard</content>
-  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="11">Guard</content>
+  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="22">Guard</content>
+  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="26">Guard</content>
+  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="18">Guard</content>
   <content contentuid="h1b99d3bfgb9cegf60ag3986g45c54fa2f943" version="3">Move along!</content>
   <content contentuid="h97664e96gda2bgffe3g73aag3c8846c4ffe9" version="3">It's my job to patrol.</content>
-  <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="11">Pirate</content>
-  <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="11">Pirate</content>
+  <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="18">Pirate</content>
+  <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="18">Pirate</content>
   <content contentuid="h6d6bd3bbgc8fbg0309gaf20g0e7154951667" version="5">Leave me alone.</content>
   <content contentuid="h38c6cbf4g2a15g33aegd759g180b88ba3917" version="5">I don't talk to boring people.</content>
   <content contentuid="h61c08743gb315g56cfgfd8dgc264515efac7" version="3">Say what you will about the Astral Sea, but no place has better night markets.</content>
@@ -416,17 +416,17 @@
   <content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="3">Navigating the Astral Sea isn't easy, but the treasures make it worth the journey.</content>
   <content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="3">If you see a comet trader offering "good fortune", you'll want to check for curses first.</content>
   <content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="3">Know any good spots for an honest night's sleep?</content>
-  <content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="8">Homebody man</content>
+  <content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="15">Homebody man</content>
   <content contentuid="he244bc8dg50dcg31d3g06b4g70340e742d5e" version="4">All those lives, running from star to star, never finding peace.</content>
   <content contentuid="hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d" version="4">There's more wisdom in one quiet moment than in a thousand words.</content>
   <content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="4">In the depths of space, I found peace.</content>
   <content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="4">I've seen worlds come and go.</content>
   <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="4">You smell like prey.</content>
-  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="14">Vampirate</content>
-  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="12">Vampirate</content>
+  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="21">Vampirate</content>
+  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="19">Vampirate</content>
   <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="15">Eye Monger</content>
   <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="5">Corrupted Starlight Apparition</content>
-  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="9">Cultist</content>
+  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="13">Cultist</content>
   <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="9">Space Clown</content>
   <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="9" />
   <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="29">Giant Space Hamster</content>
@@ -434,30 +434,30 @@
   <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="4">*Crr-crr*</content>
   <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="4">*Cush-cush*</content>
   <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="4">*Skkk*</content>
-  <content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="18">Gaj</content>
-  <content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="12">Gaj</content>
-  <content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="13">Gaj</content>
-  <content contentuid="had4c80c1g589bgb151g96d5g6b3cfd7f4b5c" version="13">Gaj</content>
+  <content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="22">Gaj</content>
+  <content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="16">Gaj</content>
+  <content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="17">Gaj</content>
+  <content contentuid="had4c80c1g589bgb151g96d5g6b3cfd7f4b5c" version="17">Gaj</content>
   <content contentuid="h3d920ed0g518agb14dgd8dag5827b8598729" version="1">Mandibles</content>
   <content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">Mandibles</content>
   <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target. </content>
   <content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target. </content>
-  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="4">Cult Portal</content>
-  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="6">Cult Portal</content>
-  <content contentuid="hfdb2adb3g198cgcaedg45cdgbc64371a8924" version="7">Cultist</content>
-  <content contentuid="h7b42fd8aga988g4f8fg8739g31d4691e66be" version="8">Cultist</content>
-  <content contentuid="hbbba2b2fg0fbagc83egd2ceg02fd58ada2a2" version="5">Cultist</content>
-  <content contentuid="h3e9ceb49gbfa2g3334gd17bg0a1a72eb7728" version="5">Cultist</content>
-  <content contentuid="h0aec0d79g4a48g1504ge525ga5c67810d689" version="6">Cultist</content>
-  <content contentuid="h995ab35fgf446g6ff7g5912ga27450c67210" version="5">Cultist</content>
-  <content contentuid="hce75ca0eg45c5g0365g2152g8f52817b6a92" version="5">Cultist</content>
-  <content contentuid="h4de5d956gd24fg76e6gff92g0e5a2ac870d0" version="4">Cultist</content>
-  <content contentuid="h3a4ad24fg70c2g9b8fgf8a2g15e520d012d3" version="6">Cultist</content>
+  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="8">Cult Portal</content>
+  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="10">Cult Portal</content>
+  <content contentuid="hfdb2adb3g198cgcaedg45cdgbc64371a8924" version="11">Cultist</content>
+  <content contentuid="h7b42fd8aga988g4f8fg8739g31d4691e66be" version="12">Cultist</content>
+  <content contentuid="hbbba2b2fg0fbagc83egd2ceg02fd58ada2a2" version="9">Cultist</content>
+  <content contentuid="h3e9ceb49gbfa2g3334gd17bg0a1a72eb7728" version="9">Cultist</content>
+  <content contentuid="h0aec0d79g4a48g1504ge525ga5c67810d689" version="10">Cultist</content>
+  <content contentuid="h995ab35fgf446g6ff7g5912ga27450c67210" version="9">Cultist</content>
+  <content contentuid="hce75ca0eg45c5g0365g2152g8f52817b6a92" version="9">Cultist</content>
+  <content contentuid="h4de5d956gd24fg76e6gff92g0e5a2ac870d0" version="8">Cultist</content>
+  <content contentuid="h3a4ad24fg70c2g9b8fgf8a2g15e520d012d3" version="10">Cultist</content>
   <content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="2">We'll rebuild a god with your bones!</content>
   <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="2">Their fragments will live through us!</content>
   <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="2">He calls your name!</content>
   <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="4">Murder Comet</content>
-  <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="20">Cult Leader</content>
+  <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="24">Cult Leader</content>
   <content contentuid="h6d9ee59eg2589g2598g5c71g0fff78129d46" version="2">The corpses of gods hold more promise than any Elder Brain!</content>
   <content contentuid="h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d" version="2">We don't need the Grand Design. The old gods' power is ours to claim.</content>
   <content contentuid="hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121" version="2">Why follow an ancient mind when we can create something greater?</content>
@@ -496,7 +496,7 @@
   <content contentuid="h8ef5f65egc6eag53b3g4e62ge7bc9050eb7a" version="1">Laboratory Strike: Cannon</content>
   <content contentuid="h49783a2agd32dge5b8ge66fg4e44a44caa21" version="2">Spelljamming</content>
   <content contentuid="head34f4dge27ag034fgcc1ag54e4fd99a431" version="2">You own a Spelljamming Ship in the Astral Sea.</content>
-  <content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="3">Spelljamming Helm</content>
+  <content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="8">Spelljamming Helm</content>
   <content contentuid="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1">Failed Attunement</content>
   <content contentuid="hde317402g58e5gebdfg959fg9e952c48e6ff" version="1">You cannot sync with a non-existing Helm or Space Ship.</content>
   <content contentuid="h522a0890ge170gb53bg656egdc58756b0b9f" version="2">Transfer Attunement</content>
@@ -555,7 +555,7 @@
   <content contentuid="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2">Head covered with an air bubble filled with fresh air.</content>
   <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
   <content contentuid="hedc1df35g19d0gb40bg99fag6116444934be" version="3">This trinket allows you to create a spectral globe around the head of 3 willing creatures you can see within range. The globe is filled with fresh air that lasts until the spell ends.</content>
-  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="6">Silver Plate</content>
+  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="13">Silver Plate</content>
   <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">Fish Suit Helmet</content>
   <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">A bulky helmet, which fully encases your head.</content>
   <content contentuid="h96790e9eg1bf5ge89cgb79ag9ebcb806aa9d" version="4">Gives the "Air Bubble" effect and resistance to "Acid" clouds.</content>
@@ -634,4 +634,73 @@
   <content contentuid="h251b956eg868fg2b0bgfcadgd0b59c6b5306" version="3">Eye Monger</content>
   <content contentuid="h676a34bbg3892gbe2eg238eg7fc9ca9d61e9" version="4">Astral Boat</content>
   <content contentuid="hb6f4912ag6c90gee96g4541g59f2d0ac183e" version="5">Astral Circle</content>
+  <content contentuid="hebddb588gcec8g55c8g276fg5d3dc20c020a" version="1">Guard</content>
+  <content contentuid="hf80444dcg04bdg1b4dg345eg56080096998e" version="1">Traveler</content>
+  <content contentuid="h04d6d0bfg9980g5179g9000g1be82eb40b40" version="1">Traveler</content>
+  <content contentuid="hdd1441e4gb1bcg2320ga278gd9785acb23f0" version="1">Traveler</content>
+  <content contentuid="hff8ec2f7g5603g584cgd5f3g04971b511022" version="1">Traveler</content>
+  <content contentuid="hdc25d406g7b04ge2d5g8ea6g226fd78b3b0e" version="1">Pirate</content>
+  <content contentuid="h36b0e312g6965gd4f4g3a15g50d1546860d7" version="1">Gaj</content>
+  <content contentuid="hc6de7239gfd71g0850gd00dg26850ec17b98" version="1">Adventurer</content>
+  <content contentuid="h1f334529g882cg1f49g3d5dg6035a7348620" version="1">Adventurer</content>
+  <content contentuid="h13b70a16ga923gcf4fg955ag1d38fe381e7d" version="1">Cultist</content>
+  <content contentuid="h41b5ace2ge0cege70bg6776gbe1777e4f8af" version="1">Githyanki Buccaneer</content>
+  <content contentuid="h15c45af0g79abg75f5g6cc2g2dc9f2e15b1d" version="1">Githyanki Buccaneer</content>
+  <content contentuid="h257a3d16gf490g4f59g4ce8g343b3e8e3fef" version="1">Cultist</content>
+  <content contentuid="h714ab0ebg7bd7g19f8g838cg499af971421f" version="1">Githyanki Buccaneer</content>
+  <content contentuid="h12c29633g9331gfc36gfd2ag722fd07e5dcf" version="1">Gaj</content>
+  <content contentuid="he212cad6g3bbfg1ecdge059g6db0c7c97aaf" version="1">Traveler</content>
+  <content contentuid="hc06d5853g8370g9ff9g0aedg18ee2101d2be" version="1">Vampirate</content>
+  <content contentuid="h24ea23b6g7dd8gf5e8gfbf3g51439967e6ea" version="1">Traveler</content>
+  <content contentuid="h9455954eg4016gd6e8g751bg9fed1d0d2186" version="1">Traveler</content>
+  <content contentuid="h35180490g993fg1cbag6091g30bcfbe9a450" version="1">Adventurer</content>
+  <content contentuid="h1cc59bd7g3b49ga8eegb7ecg3e68e56af1a2" version="1">Githyanki Buccaneer</content>
+  <content contentuid="h20e73cc4g2ff1ge689g2591g74e46d320562" version="1">Githyanki Buccaneer</content>
+  <content contentuid="hfd59cb54g92c6g2854g7d03ga6e60d877f48" version="1">Cultist</content>
+  <content contentuid="h4d06fbf2g648dga501g78c8gc5f746e628a2" version="1">Adventurer</content>
+  <content contentuid="h16510d53g0e3agc796g6ba7g6f83703b4855" version="1">Gaj</content>
+  <content contentuid="head9107egd6ceg68f9g7c5eg7a5bd434b6dc" version="1">Githyanki Buccaneer</content>
+  <content contentuid="hea750f6cg0476gac3bgd695g2857b2492c16" version="1">Pirate</content>
+  <content contentuid="h61a9cab8g8cbfg1e1fge98cgc64710eb5198" version="1">Traveler</content>
+  <content contentuid="h553b23acg4b67g0fb3g502dgb41155ebef57" version="1">Plasmoid Fighter</content>
+  <content contentuid="h8763db21g731dg5c25g731fgcf7c20562247" version="1">Astral Drifter</content>
+  <content contentuid="h30375329gab44g9e80gfd42ga21eed48bc73" version="1">Guard</content>
+  <content contentuid="h6bb6c77dge6d1g36b0g3126gf6504019eb5f" version="1">Traveler</content>
+  <content contentuid="h12ab5e60g46f4g387agb961gdd1cbd18cde0" version="1">Cultist</content>
+  <content contentuid="h560a602dg5986g14e0g1584g2a9a5ae38620" version="1">Cultist</content>
+  <content contentuid="hfabbb3efgddb9gf7a1gcc39gac542206590c" version="1">Traveler</content>
+  <content contentuid="ha2ae2a9fg477agad7dgdb53gca3f514f2937" version="1">Cultist</content>
+  <content contentuid="hdc78734fgbb34gceb3ga640g626f75df56e8" version="1">Homebody man</content>
+  <content contentuid="hc7b7b0e4g73f8gd4f6g4147gf95200210549" version="1">Githyanki Buccaneer</content>
+  <content contentuid="hb8f337a1gaeefge4cfg0bffg159342620b99" version="1">Vampirate</content>
+  <content contentuid="h2f2c7a4agaf58g268fgbcd4gae5630cfc46b" version="1">Cultist</content>
+  <content contentuid="hc0037b2fg9f61gc549g4163g8b39bf8e8d78" version="1">Gaj</content>
+  <content contentuid="h5daae8degddbagd6dfg710dg6bd4b7045456" version="1">Adventurer</content>
+  <content contentuid="hafefab97ge903g6737gdf78g49dbdee26168" version="1">Traveler</content>
+  <content contentuid="hddb743fbg6311gdf02g9005g269486282047" version="1">Plasmoid Adventurer</content>
+  <content contentuid="h322862cdgbab5g882fgc355g259dd3fd6c81" version="1">Astral Drifter</content>
+  <content contentuid="h9d4f25f1gde39g232bg651cgc554046b2a4f" version="1">Githyanki captain</content>
+  <content contentuid="haa7873b4g83fcga854g93e5gce1be533036f" version="1">Wildspacer</content>
+  <content contentuid="h64fe0182gdabcgc850g5835g289b263235a8" version="1">Traveler</content>
+  <content contentuid="h3bdb0984g8948g53d2gaa99g33ec6a74c646" version="1">Cultist</content>
+  <content contentuid="h43318bdcg0b4cgbb24g5284g74a216bb705e" version="1">Guard</content>
+  <content contentuid="hd84228fbg11dfg3f33g36a2g1a3c5fc304fc" version="1">Cultist</content>
+  <content contentuid="h0c80184cgaae1g3317gd9a3g4c7ad9ec6dca" version="1">Traveler</content>
+  <content contentuid="h6c77014dg8c8cge84agc8a1g2a89cd4139d5" version="1">Traveler</content>
+  <content contentuid="hfdbf8023gd2ceg5ac2g8684g11487fe6bce9" version="1">Silver Plate</content>
+  <content contentuid="h11297817gf07fg8034g20c6gf604e6642b15" version="1">Astral Boat</content>
+  <content contentuid="h559fdb78g1108g88c5g0858g9a400c2b77d5" version="1">Chest</content>
+  <content contentuid="h0fb40e56g7f6fg2bb8geea4g3fdac72f37ad" version="1">Cult Portal</content>
+  <content contentuid="h33213a14g472bgc8f9g957bgc347e2de8f37" version="1">Spelljamming Helm</content>
+  <content contentuid="ha0804ef0gc15eg9235ga881ga44ede8afa67" version="1">Astral Boat</content>
+  <content contentuid="hf2f1911fgf8cagcbf6g78aegbc53de1744ea" version="1">Ballistae</content>
+  <content contentuid="h1432c723gd101g441eg6589g84fbdbb38321" version="1">Astral Boat</content>
+  <content contentuid="ha4b423fcg5f5bg2b46g9fdcg12ca8efdf988" version="1">Cult Portal</content>
+  <content contentuid="h138c060bg0127ga31ag7439ga75078227a17" version="1">Cannon</content>
+  <content contentuid="h1d21c437g6510g2eceg20e8g171f45b04193" version="1">Ballistae</content>
+  <content contentuid="h0fed846fg2b52gee5cg938dgf4908facc389" version="1">Astral Circle</content>
+  <content contentuid="hffca2043g68eag4845gbc94gd4766468d050" version="1">Hatch to camp</content>
+  <content contentuid="h86451d31ge9c2g50afg02fag97875682d741" version="1">Ladder to ship</content>
+  <content contentuid="hbe1ffb4cgccdbgaa9dge8d5g277e804d44a0" version="1">Enhancement device</content>
+  <content contentuid="h65af2bf3gea0eg6d88g946ag42708addb9ce" version="1">Cannon</content>
 </contentList>
