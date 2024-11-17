@@ -29,68 +29,6 @@ DB_MagicMirrorInstance("SPJM_AstralPlane_S",(ITEM)UNI_MagicMirror_35605208-7a09-
 
 //END_REGION
 KBSECTION
-//REGION SPJM camp magic mirror
-
-//PROC
-//PROC_ApplySavegamePatches()
-//AND
-//QRY_BG3_SaveGameIsOlderThan("Release Patch 4")
-//THEN
-//DB_MagicMirrorInstance("SPJM_AstralPlane_S",(ITEM)UNI_MagicMirror_35605208-7a09-8588-4b0a-f4372356c71f);
-
-//PROC
-//PROC_ApplySavegamePatches()
-//AND
-//NOT DB_DropMutingStatussesDialog((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78)
-//THEN
-//DB_DropMutingStatussesDialog((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78);
-
-//IF
-//TemplateUseFinished(_Player,(ITEMROOT)UNI_MagicMirror_35605208-7a09-8588-4b0a-f4372356c71f,_Mirror,1)
-//AND
-//NOT QRY_GLO_MagicMirror_Eligible(_Player, _Mirror)
-//THEN
-//PROC_PlayCantUseItemAD(_Player);
-
-//QRY
-//QRY_GLO_MagicMirror_Eligible((CHARACTER)_Player, (ITEM)_Mirror)
-//AND
-//NOT QRY_GLO_MagicMirror_Ineligible((CHARACTER)_Player, (ITEM)_Mirror)
-//AND
-//DB_Players(_Player)
-//AND
-//NOT DB_Origins(_Player)
-//AND
-//IsTagged(_Player, FULL_CEREMORPH_3797bfc4-8004-4a19-9578-61ce0714cc0b, 0)
-//AND
-//QRY_StartDialog_Fixed((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78,_Mirror,_Player)
-//THEN
-//DB_NOOP(1);
-
-//QRY
-//QRY_GLO_MagicMirror_Ineligible((CHARACTER)_Player, (ITEM)_Mirror)
-//AND
-//1 == 0
-//THEN
-//DB_NOOP(1);
-
-//IF
-//DialogEnded((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78,_ID)
-//AND
-//DB_DialogPlayers(_ID,_Player,1)
-//THEN
-//StartChangeAppearance(_Player);
-
-//IF
-//DB_CurrentLevel(_Level)
-//AND
-//DB_MagicMirrorInstance(_Level,_MagicMirror)
-//THEN
-//SetCanExamine(_MagicMirror,0);
-//NOT DB_MagicMirrorInstance(_Level,_MagicMirror);
-
-//END_REGION
-
 //REGION SPJM Camp respiration mechanic
 
 IF
@@ -99,6 +37,7 @@ AND
 DB_Players(_Player)
 THEN
 ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+QuestUpdate("SPJ_Spelljammer", "CampSpelljammer");
 
 IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_ShipCamp_AirZone_EventTrigger_54e50efe-a56a-4fe5-b96d-e693c631bb85)
@@ -115,28 +54,6 @@ PROC
 PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Ship_HatchToCamp_24213814-f7bf-4b93-b425-3f266bd9468c, _)
 THEN
 TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_CAMP_SPJM_Entrance_59bed0c5-da4d-492d-96ab-27fc9421f137, "", 1, 1, 1, 1, 1);
-
-//END_REGION
-
-//REGION SPJM Ladder to leave camp
-
-//PROC
-//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Camp_HatchToShip_2689e989-9d2a-4c58-a381-9210c5b0c209, _)
-//AND
-//DB_PlayerInCamp(_Player)
-//AND
-//NOT DB_Camp_QueuedNight(_)
-//THEN
-//PROC_Camp_Leave((CHARACTER)_Player);
-
-//PROC
-//PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Camp_HatchToShip_2689e989-9d2a-4c58-a381-9210c5b0c209, _)
-//AND
-//DB_Camp_QueuedNight(_)
-//AND
-//NOT DB_CampNight_Completed(_)
-//THEN
-//DB_NOOP(1);
 
 //END_REGION
 EXITSECTION

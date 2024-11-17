@@ -12,7 +12,7 @@ DB_Players(_Player)
 AND
 QRY_OnlyOnce("AddExplorationExperience")
 THEN
-AddExplorationExperience((CHARACTER)_Player, 1000);
+AddExplorationExperience((CHARACTER)_Player, 250);
 PROC_Subregion_Entered((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226);
 
 //END_REGION
@@ -47,29 +47,27 @@ PROC_Subregion_Entered((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon1_EventTrigger
 
 //REGION SPJM region explo Dungeon 2
 
-//IF
-//EnteredTrigger((CHARACTER)_Player, (TRIGGER)EventTRIGGER)
-//AND
-//DB_Players(_Player)
-//AND
-//QRY_OnlyOnce("AddExplorationExperience")
-//THEN
-//AddExplorationExperience((CHARACTER)_Player, 250);
-//PROC_Subregion_Entered((CHARACTER)_Player, (TRIGGER)EventTRIGGER);
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672)
+AND
+DB_Players(_Player)
+AND
+QRY_OnlyOnce("AddExplorationExperience")
+THEN
+AddExplorationExperience((CHARACTER)_Player, 250);
+PROC_Subregion_Entered((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672);
 
 //END_REGION
 
-//REGION SPJM region explo Dungeon 3
+//REGION SPJM basegame explo
 
-//IF
-//EnteredTrigger((CHARACTER)_Player, (TRIGGER)EventTRIGGER)
-//AND
-//DB_Players(_Player)
-//AND
-//QRY_OnlyOnce("AddExplorationExperience")
-//THEN
-//AddExplorationExperience((CHARACTER)_Player, 250);
-//PROC_Subregion_Entered((CHARACTER)_Player, (TRIGGER)EventTRIGGER);
+IF
+LevelLoaded("END_Main")
+AND
+DB_GlobalFlag((FLAG)CURRENTREGION_END_Main_140b4d3e-6cc7-48cb-b66f-dbc4eba710e1)
+THEN
+QuestUpdate("SPJ_Spelljammer", "EndSpelljammer");
+QuestClose("SPJ_Spelljammer");
 
 //END_REGION
 EXITSECTION

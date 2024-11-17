@@ -95,7 +95,7 @@ data "DisplayName" "h8ef5f65egc6eag53b3g4e62ge7bc9050eb7a;1"
 data "Description" ""
 data "DescriptionParams" "DealDamage(2d10,Bludgeoning)"
 data "TooltipDamageList" "DealDamage(2d10,Bludgeoning)"
+data "Requirements" ""
 data "UseCosts" "ActionPoint:1"
 data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;bc6778cf-e501-4c69-a72f-bce826a4d2bd,,;e2cc2257-661e-4add-aef2-e64d447b63dd,,;8fcb1f19-a84b-486d-81fa-098aaf7cc9be,,;,,;c5bd6ce6-281c-4314-9f74-9f7bb2f4cf03,,;,,;,,"
-data "RechargeValues" "2-3"
 

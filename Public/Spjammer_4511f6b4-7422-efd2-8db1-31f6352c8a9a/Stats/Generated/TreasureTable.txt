@@ -60,13 +60,13 @@ CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,1
 new subtable "2,1"
-object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,1
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Spjm_SpelljammerContract",1,0,0,0,0,0,0,0
+object category "I_OBJ_Spjm_SpelljammerContract",1,0,0,0,0,0,0,1
 new treasuretable "SPJM_Ship_Crate_1"
 new subtable "4,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0

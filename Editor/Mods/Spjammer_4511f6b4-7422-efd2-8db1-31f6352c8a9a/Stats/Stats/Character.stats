@@ -275,10 +275,11 @@
         <field name="Armor" type="IntegerTableFieldDefinition" value="15" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="244" />
         <field name="Weight" type="FloatTableFieldDefinition" value="90" />
-        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:2;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
+        <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:2;BonusActionPoint:1;ReactionActionPoint:1" />
         <field name="Passives" type="StringTableFieldDefinition" value="ExtraAttack;MagicResistance;AttackOfOpportunity;DarknessRules" />
         <field name="Sight" type="IntegerTableFieldDefinition" value="700" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="500" />
+        <field name="Flags" type="EnumerationListTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="AttributeFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

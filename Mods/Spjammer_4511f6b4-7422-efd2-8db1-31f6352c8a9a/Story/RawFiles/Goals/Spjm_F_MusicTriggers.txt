@@ -12,8 +12,6 @@ PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Dungeon1_EventTrigger_Music_1_27e
 PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Dungeon1_EventTrigger_Music_2_b9de6dff-d299-4bec-81b0-42dcfa9ba447);
 PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_1_f4df6f7d-3910-4f62-b104-55a18d55afcb);
 PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_2_195ae54b-66e6-4588-ae24-4f670871568d);
-//PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Dungeon3_EventTrigger_Music_1_000-000-000-TODO);
-//PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Dungeon3_EventTrigger_Music_2_000-000-000-TODO);
 KBSECTION
 //REGION Music SPJM on the ship
 
@@ -92,7 +90,6 @@ DB_Players(_Player)
 THEN
 MusicPlayOnCharacter((CHARACTER)_Player, "UND_DarkLake_EndEA_Music");
 
-
 //END_REGION
 
 //REGION Music SPJM on dungeon 2
@@ -110,24 +107,6 @@ AND
 DB_Players(_Player)
 THEN
 MusicPlayOnCharacter((CHARACTER)_Player, "TUT_Helm_Transponder_Music");
-
-//END_REGION
-
-//REGION Music SPJM on dungeon 3
-
-//IF
-//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon3_EventTrigger_Music_1_000000000000000)
-//AND
-//DB_Players(_Player)
-//THEN
-//MusicPlayOnCharacter((CHARACTER)_Player, "Music_MainMenu_Screen");
-
-//IF
-//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon3_EventTrigger_Music_2_000000000000000)
-//AND
-//DB_Players(_Player)
-//THEN
-//MusicPlayOnCharacter((CHARACTER)_Player, "Music_MainMenu_Screen");
 
 //END_REGION
 

@@ -39,6 +39,13 @@ StartDialog_Internal(Dialog_SPJM_Cultist_Dg1_Barks_6748b1dc-f04b-944e-164c-72449
 THEN
 DB_NOOP(1);
 
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJ_QuestDungeon1Update_EventTrigger_722e3963-6d31-4d0d-8f2b-54ee91e835e2)
+AND
+DB_Players(_Player)
+THEN
+QuestUpdate(_Player, "SPJ_Spelljammer", "Dungeon1end");
+
 //END_REGION
 EXITSECTION
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DialogVariables">
+        <node id="root">
+            <children>
+                <node id="DialogVariable">
+                    <attribute id="DefaultValue" type="LSString" value="0"/>
+                    <attribute id="Description" type="LSString" value="SPJ_GithPirate_BarkCount"/>
+                    <attribute id="UUID" type="guid" value="13c21fa3-42cb-c079-2a89-6253f1bf0e92"/>
+                    <attribute id="name" type="FixedString" value="SPJ_GithPirate_BarkCount"/>
+                    <attribute id="type" type="LSString" value="Int"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -79,6 +79,13 @@ StartDialog_Internal(Dialog_SPJM_Cultist_Dg1_Barks_6748b1dc-f04b-944e-164c-72449
 THEN
 DB_NOOP(1);
 
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJ_QuestAstralCityUpdate_EventTrigger_cc0f0e87-f277-4f3f-a610-4033d28485b7)
+AND
+DB_Players(_Player)
+THEN
+QuestUpdate(_Player, "SPJ_Spelljammer", "AstralCity1end");
+
 //END_REGION
 EXITSECTION
 

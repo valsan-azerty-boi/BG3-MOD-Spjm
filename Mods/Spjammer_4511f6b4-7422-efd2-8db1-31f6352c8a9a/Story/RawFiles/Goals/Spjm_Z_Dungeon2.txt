@@ -1,0 +1,83 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Leave SPJM Dungeon 2 with boat
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Ship_ReturnBoat_Interaction_Dg2_b5ad3dca-cc35-486f-b660-8264ddabcbec, _)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+//END_REGION
+
+//REGION SPJM Dungeon2 respiration mechanic
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff");
+
+//END_REGION
+
+//REGION SPJM Dungeon2 cult portal
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_0_cddb5d48-a5a2-4c18-8c1b-31a7f97a34b0, _)
+AND
+DB_Players(_Player)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_1_TeleportTrigger_adee01ca-9a87-4d40-8e5b-294e724c76b8, "", 1, 1, 1, 1, 1);
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_1_5cd2037e-b677-48ae-875b-f43e0fbef02f, _)
+AND
+DB_Players(_Player)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_CultPortal_0_TeleportTrigger_9246bea8-09a5-4b96-a42b-2638233d29bb, "", 1, 1, 1, 1, 1);
+
+//END_REGION
+
+//REGION SPJM Dungeon2 cultist group
+
+IF
+EnteredCombat((GUIDSTRING)SPJM_Dg2_SpaceCultist_Sit_007_61966321-454d-4edf-ac6a-38dc1e1965ae, _)
+AND
+StartDialog_Internal(Dialog_SPJM_Cultist_Dg1_Barks_6748b1dc-f04b-944e-164c-724490edc791,1,(GUIDSTRING)SPJM_Dg2_SpaceCultist_Sit_007_61966321-454d-4edf-ac6a-38dc1e1965ae,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,_,_Instance,0)
+THEN
+DB_NOOP(1);
+
+//END_REGION
+
+//REGION SPJM Dungeon2 boss
+
+IF
+EnteredCombat((GUIDSTRING)SPJM_Mindflayer_SpaceCultist_Dg2_06453481-37b7-4285-8b6a-ada9153ffdee, _)
+AND
+StartDialog_Internal(Dialog_SPJM_Cultist_Dg2_Boss_Barks_88906477-3025-5768-29f7-0ed5ad121200,1,(GUIDSTRING)SPJM_Mindflayer_SpaceCultist_Dg2_06453481-37b7-4285-8b6a-ada9153ffdee,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,_,_Instance,0)
+THEN
+DB_NOOP(1);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJ_QuestEnd_EventTrigger_1b1abb8d-5720-4b65-bed3-d73210241aa5)
+AND
+DB_Players(_Player)
+THEN
+QuestUpdate(_Player, "SPJ_Spelljammer", "Dungeon2end");
+QuestUpdate(_Player, "SPJ_Spelljammer", "EndSpelljammer");
+QuestClose("SPJ_Spelljammer");
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION

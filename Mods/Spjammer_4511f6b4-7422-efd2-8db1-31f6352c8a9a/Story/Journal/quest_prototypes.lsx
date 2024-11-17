@@ -38,7 +38,7 @@
                         </node>
                         <node id="QuestStep">
                             <attribute id="Achievement" type="FixedString" value=""/>
-                            <attribute id="Description" type="TranslatedString" handle="ha172501agaa8ag97f8g17e5g67466bd8d4fe" version="2"/>
+                            <attribute id="Description" type="TranslatedString" handle="ha172501agaa8ag97f8g17e5g67466bd8d4fe" version="4"/>
                             <attribute id="DevComment" type="FixedString" value=""/>
                             <attribute id="DialogFlagGUID" type="guid" value="418712b2-24ee-49c7-aae5-daa715ef25ab"/>
                             <attribute id="ExperienceReward" type="guid" value="00000000-0000-0000-0000-000000000000"/>
@@ -280,7 +280,7 @@
                         </node>
                         <node id="QuestStep">
                             <attribute id="Achievement" type="FixedString" value=""/>
-                            <attribute id="Description" type="TranslatedString" handle="ha64a7fcdg551dge7bfgadc1gdef85d7938df" version="2"/>
+                            <attribute id="Description" type="TranslatedString" handle="ha64a7fcdg551dge7bfgadc1gdef85d7938df" version="4"/>
                             <attribute id="DevComment" type="FixedString" value=""/>
                             <attribute id="DialogFlagGUID" type="guid" value="0e1eb9d6-1df0-4858-bd3b-d13f639a0c63"/>
                             <attribute id="ExperienceReward" type="guid" value="00000000-0000-0000-0000-000000000000"/>

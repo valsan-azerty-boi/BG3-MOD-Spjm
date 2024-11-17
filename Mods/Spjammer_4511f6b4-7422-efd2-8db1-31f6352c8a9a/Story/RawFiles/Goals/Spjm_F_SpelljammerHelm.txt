@@ -64,20 +64,6 @@ SetVisible((GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b
 SetVisible((GUIDSTRING)_Player, 1);
 
 //END_REGION
-
-//REGION Move to SPJM Dungeon 3 with Spelljammer Helm
-
-IF
-DB_GlobalFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon3_8af022ba-c945-4422-8470-c5cda9b18ad6)
-AND
-DB_Players(_Player)
-THEN
-TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_Dg3_Discovery_TeleportTrigger_8ec27680-9b23-4cae-9f56-24c32f1e9eaf, "", 1, 1, 1, 1, 1);
-ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Dungeon3_8af022ba-c945-4422-8470-c5cda9b18ad6, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
-SetVisible((GUIDSTRING)FUR_MF_SpelljammerHelm_3b6635b6-6261-4364-893d-ae5ea9af4b09, 1);
-SetVisible((GUIDSTRING)_Player, 1);
-
-//END_REGION
 EXITSECTION
 
 ENDEXITSECTION
