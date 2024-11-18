@@ -192,6 +192,8 @@ object category "T_DEN_Weaponsmith_Trade",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_EquipmentTrader_Melee",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Spjm_GythkaHalberd_Wpn",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_Talarith_Gloves",1,0,0,0,0,0,0,0

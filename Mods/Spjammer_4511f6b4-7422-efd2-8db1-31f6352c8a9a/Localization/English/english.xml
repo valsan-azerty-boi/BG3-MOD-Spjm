@@ -544,6 +544,7 @@
   <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="2">He calls your name!</content>
   <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="4">Murder Comet</content>
   <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="27">Cult Leader</content>
+  <content contentuid="h35e88e40g9506g073ega883g421d244e0f6e" version="3">Alhoon</content>
   <content contentuid="h6d9ee59eg2589g2598g5c71g0fff78129d46" version="2">The corpses of gods hold more promise than any Elder Brain!</content>
   <content contentuid="h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d" version="2">We don't need the Grand Design. The old gods' power is ours to claim.</content>
   <content contentuid="hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121" version="2">Why follow an ancient mind when we can create something greater?</content>
@@ -577,11 +578,11 @@
   <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">Use your Ship's Magica to bombard once on 2 areas.</content>
   <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="3">Astral Strike: Cannon</content>
   <content contentuid="h68d6870egab8ag7e9dgadbbg21f6063be168" version="2">Astral Strike: Cannon</content>
-  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="3">Use your Ship's Cannon to bombard 5 times an area.</content>
+  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="4">Use your Ship's Cannon to bombard 5 times an area. (The projectiles of this weapon do not pass through obstacles, your targets must be in the open)</content>
   <content contentuid="hf64c0f3cg074cg31b1g078cg5e949923efd0" version="1">Use your Ship's Cannon to bombard 5 times an area.</content>
   <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Astral Strike: Ballistae</content>
   <content contentuid="he4fa7f6dg8062g6180g7052g3ce437c68ae7" version="2">Astral Strike: Ballistae</content>
-  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="4">Use your Ship's Ballistae to shoot once an area.</content>
+  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="5">Use your Ship's Ballistae to shoot once an area. (The projectiles of this weapon do not pass through obstacles, your targets must be in the open)</content>
   <content contentuid="hdf19e15cg387cg98dage2cfg8fc2d7e944fa" version="1">Use your Ship's Ballistae to shoot once an area.</content>
   <content contentuid="h8ef5f65egc6eag53b3g4e62ge7bc9050eb7a" version="1">Laboratory Strike: Cannon</content>
   <content contentuid="h49783a2agd32dge5b8ge66fg4e44a44caa21" version="2">Spelljamming</content>
@@ -668,10 +669,10 @@
   <content contentuid="h8a5981c4ga0b5g91dfgac8bg4a1da190e97e" version="4">A Reigar master craftsman created this piece of jewelry in the form of a ring to put on your finger. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
   <content contentuid="hda0d8d75g9405g7c19g248agd8d077eaf6a0" version="1">Talarith Bracelets</content>
   <content contentuid="h9ba0a317g0f3cg3ad4g5d5fg9ee8be6b24eb" version="1">A Reigar master craftsman created this piece of jewelry in the form of bracelets to put on your hands. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
-  <content contentuid="h33a504e9gc5c7gfab8g9273g8cee2ca74386" version="1">Talarith Diadem</content>
-  <content contentuid="h70330665g8036g0ac9g052dg49c6c4be4303" version="1">A Reigar master craftsman created this piece of jewelry in the form of a diadem to put on your head. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
-  <content contentuid="h8dc85010g52c1g5e4agb515gb811d448bb97" version="1">Talarith Necklace</content>
-  <content contentuid="h1428863agb14fg8803g0abcgfc8b071ac733" version="1">A Reigar master craftsman created this piece of jewelry in the form of an amulet to put on your neck. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
+  <content contentuid="h33a504e9gc5c7gfab8g9273g8cee2ca74386" version="2">Talarith Diadem</content>
+  <content contentuid="h70330665g8036g0ac9g052dg49c6c4be4303" version="2">A Reigar master craftsman created this piece of jewelry in the form of a diadem to put on your head. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
+  <content contentuid="h8dc85010g52c1g5e4agb515gb811d448bb97" version="2">Talarith Necklace</content>
+  <content contentuid="h1428863agb14fg8803g0abcgfc8b071ac733" version="2">A Reigar master craftsman created this piece of jewelry in the form of an amulet to put on your neck. The magic contained in this item has been perfected and the object therefore automatically attunes to its wearer.</content>
   <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="3">Talarith Attunement</content>
   <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="2">Talarith Attunement</content>
   <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="2">Talarith Attunement</content>
@@ -707,5 +708,4 @@
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
-  <content contentuid="h35e88e40g9506g073ega883g421d244e0f6e" version="3">Alhoon</content>
 </contentList>

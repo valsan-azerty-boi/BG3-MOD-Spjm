@@ -849,6 +849,16 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="93691280-b057-4485-9194-e249fcd2e420" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cb6f8972-a5f9-411c-8b5e-6d247a2dfc5f" />
+        <field name="Name" type="NameTableFieldDefinition" value="93691280-b057-4485-9194-e249fcd2e420_substat_23" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_GythkaHalberd_Wpn" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="93691280-b057-4485-9194-e249fcd2e420" />
         <field name="UUID" type="IdTableFieldDefinition" value="df599b91-30b9-409d-bc3c-13b0ef586217" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Trader_AstralSmith_Trade_substat" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
