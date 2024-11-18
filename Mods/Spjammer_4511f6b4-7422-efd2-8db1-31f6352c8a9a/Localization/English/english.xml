@@ -708,4 +708,8 @@
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h89f2e023gcdf5gb2begd223g8f18a655a160" version="1">Spelljammer Pouch</content>
+  <content contentuid="ha99a2114g6ee9gd172g47dcgbe37af845114" version="1">A simple pouch containing astral items.</content>
+  <content contentuid="h26278ea4g240cge574g6d7egcfe71fe723da" version="2">Spelljammer</content>
+  <content contentuid="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2">A Spelljammer themed dice.</content>
 </contentList>

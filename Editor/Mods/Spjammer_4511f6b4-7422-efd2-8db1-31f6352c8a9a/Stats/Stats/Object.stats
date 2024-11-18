@@ -3,6 +3,15 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d90e081b-31a0-4477-b23c-a9c4490bad23" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_Tut_Pouch" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a451f608-ff09-4fc7-a328-99ff05f70491" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9c311915-1835-45b5-9841-11b9758d1b54" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="f223b18c-3cc6-4539-a68c-ebc5e10e5f13" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_SpelljammerHelm_CharForInteraction_Template" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />

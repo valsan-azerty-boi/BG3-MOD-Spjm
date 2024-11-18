@@ -3,9 +3,8 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_TUT_Pouch_Treasures" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_AirBubble" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -13,10 +12,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="8ee31ddb-b85c-4224-8de6-e8442ca893b7" />
-        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions_substat" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d380e918-0cec-413e-9d8a-9669433bcf3c" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_TUT_Pouch_substat" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_CreateSpelljammerHelm" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -24,10 +22,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="e8a772d9-a47b-4061-9dfb-ca6607ed3153" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_2" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="55e2e74d-1306-49bd-b65c-d3afde7316bc" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_0" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Scroll_GiantSpaceHamster" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -35,10 +32,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="767615b0-380a-4912-a35b-ed3ee5d4e035" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_1" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="71bf3995-ef1a-499e-9e50-684ba57ac2af" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_WildspaceOrrery" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -46,10 +42,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="4d19db92-840c-48ba-a069-cba156646a48" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_0" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="97be20b2-3304-4c70-83c3-48312b33fd7c" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_2" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_FishSuit_Helmet" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -57,10 +52,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="07e5ad95-5d57-4d00-a087-487be6281497" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_3" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="091c690d-ed49-4857-a91d-fb117487dedb" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_3" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Talarith_Necklace" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -68,10 +62,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="18c2019f-1d60-4670-8dc9-c0b617653203" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_4" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="94156ef0-19af-4d87-88fb-3795997cf968" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_4" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Talarith_Ring" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -79,10 +72,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="d3091ad8-b166-4257-a140-430696346872" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_5" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6e09eab1-233f-4cbe-8c5c-682961127b18" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_5" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Talarith_Diadem" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -90,10 +82,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="e783f09c-558b-4d63-a6ab-e01df7035c67" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_6" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="22f333e2-2dd6-4f5c-a8e8-2d188433a70e" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_6" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Talarith_Gloves" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -101,10 +92,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="8fe6e374-365d-414f-aebb-c7efb123d105" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_10" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3d216331-7f1a-4e85-bd9e-b98a7734b51c" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_7" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Squeakers_Boots" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -112,10 +102,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="23c37915-7fce-4128-93ec-558962db24b7" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_9" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d3f3f8b9-89fe-4a8f-8da5-21c12e70d916" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_8" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_GythkaHalberd_Wpn" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -123,10 +112,9 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="08bc39dd-6123-4787-9098-1f95855a35c9" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_7" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0bf519b7-4fb4-4f66-8047-84b7b24a1e61" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_9" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_CharmOfAirBubbles" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
@@ -134,12 +122,21 @@
     </stat_object>
     <stat_object is_substat="true">
       <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
-        <field name="UUID" type="IdTableFieldDefinition" value="4f1827e0-2031-4fb3-bb5a-8978cf8de4b2" />
-        <field name="Name" type="NameTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240_substat_8" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="94beab5c-b1b2-44d5-bf31-b4cbedfab49e" />
+        <field name="Name" type="NameTableFieldDefinition" value="1c8a5be1-a90e-468c-91fe-22cd86838bc2_substat_10" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_CharmOfInstantTools" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0bd7262a-7693-43d1-a2d7-64c58a1b8240" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_Tut_Pouch" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
