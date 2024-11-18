@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h26278ea4g240cge574g6d7egcfe71fe723da" version="2">Spelljammer</content>
+  <content contentuid="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2">A Spelljammer themed dice.</content>
+  <content contentuid="h89f2e023gcdf5gb2begd223g8f18a655a160" version="1">Spelljammer Pouch</content>
+  <content contentuid="ha99a2114g6ee9gd172g47dcgbe37af845114" version="1">A simple pouch containing astral items.</content>
   <content contentuid="h1b6195b5gc566g234fg308cg912df50b25f2" version="1">Astral Drifter</content>
   <content contentuid="h0763002fg6176ga306g6080g546023b9d9ae" version="3">Astral Drifter</content>
   <content contentuid="ha3004fcdged23g9562ge385gc8e437cbe741" version="1">Astral Drifter</content>
@@ -78,7 +82,7 @@
   <content contentuid="h3e1c476dge57fg4663gab99gf386fb40f3f9" version="3">An Exotic Charter</content>
   <content contentuid="h381da951gca75g4beagabf5g60fc3861474a" version="4">Obtain access to the House of Hope portal.</content>
   <content contentuid="h8cfb4bcfg92b8g4104ga0cfg09c56256c857" version="3">The Returned Cap'n</content>
-  <content contentuid="h4bcb3b26g01a7g43d4g9502g15d3c4b917df" version="5">Behold the true Captain Grisly in all her piratical glory. </content>
+  <content contentuid="h4bcb3b26g01a7g43d4g9502g15d3c4b917df" version="5">Behold the true Captain Grisly in all her piratical glory.</content>
   <content contentuid="ha3bd7452g5adfg481fg9354g7246e20d98e5" version="3">Using the Proper Means</content>
   <content contentuid="h53f29371g6e2ag4c1bg803bg19bfbfbda6ed" version="4">Find and use the Torch of Revocation.</content>
   <content contentuid="h7631bcfdge554g4496gaa63gfd484db29ab5" version="3">The Karsus of Our Times</content>
@@ -119,7 +123,7 @@
   <content contentuid="h0b67f66agcdb8g4adegac29gd9e744fe6036" version="7">Witness a horrid operation in the cursed house of healing.</content>
   <content contentuid="h7e80c1eeg0aa0g4611g96beg3d39691bf932" version="3">Special Iced Arsenic... Brew?</content>
   <content contentuid="hb491b417g6c9fg46c8g9371gfda87e2373de" version="6">Craft some Brewed-Up Bellyglummer.</content>
-  <content contentuid="hd70c1e67g182dg4c1dg94b3g61596c87f422" version="5">Safety-Averse Quaffing </content>
+  <content contentuid="hd70c1e67g182dg4c1dg94b3g61596c87f422" version="5">Safety-Averse Quaffing</content>
   <content contentuid="h14813b8cg9aedg46d3g9f0cgf4e116c03d03" version="4">Drink at least 1 of the brewer's steins.</content>
   <content contentuid="hfad3bca2g2e17g4e85gafe6g76e87c0ebdc6" version="3">Confiscated Works</content>
   <content contentuid="h7d6fc4c9g2a27g4257g9232gfa398d287c3c" version="6">Acquire a magical item from the toll collector's confiscation chest.</content>
@@ -287,7 +291,7 @@
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="34">*Perform a ritual to synchronize with the Helm*</content>
   <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="33">*Use your faith towards the Helm*</content>
   <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Oz</content>
-  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Tavern keeper</content>
+  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Innkeeper</content>
   <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">*This illithid looks at you*</content>
   <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="13">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="13">&lt;i&gt;Leave.&lt;/i&gt;</content>
@@ -340,7 +344,7 @@
   <content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="3">The forge never sleeps, and neither do I, it seems.</content>
   <content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="3">I swear, one day, I'll forge a hammer that doesn't weigh half a mountain.</content>
   <content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="3">Master Thomas says it's the heat that toughens you... feels like it's cooking me alive.</content>
-  <content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="3">Master Thomas says it's 'precision work.' Looks a lot like hard labor to me.</content>
+  <content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="3">Master Thomas says it's 'precision work'. Looks a lot like hard labor to me.</content>
   <content contentuid="h3b919efbg8ad6g0860gdb50g5f01919f5e01" version="3">One day, I'll have my own forge, and maybe I'll get an apprentice to do all this.</content>
   <content contentuid="heba2bdb5g69f4gbda6g1a50g8e6509cb0f97" version="2">Adventurer</content>
   <content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">Adventurer</content>
@@ -393,9 +397,9 @@
   <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="4">We say we 'sail' the astral, but some days, I feel more like I'm floating in a memory that isn't mine.</content>
   <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="4">They say the Astral is timeless, but my joints sure feel it. Each cycle feels longer than the last.</content>
   <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="4">There's something soothing about the silence here, once you get used to it. But every now and then, it sounds like whispers.</content>
-  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="25">Githyanki captain</content>
-  <content contentuid="hfca0f650g2891g5533gf6a5g1dc37c989f3c" version="7">Githyanki captain</content>
-  <content contentuid="h9d4f25f1gde39g232bg651cgc554046b2a4f" version="1">Githyanki captain</content>
+  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="25">Githyanki Captain</content>
+  <content contentuid="hfca0f650g2891g5533gf6a5g1dc37c989f3c" version="7">Githyanki Captain</content>
+  <content contentuid="h9d4f25f1gde39g232bg651cgc554046b2a4f" version="1">Githyanki Captain</content>
   <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">Githyanki Buccaneer</content>
   <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="10">Githyanki Buccaneer</content>
   <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="8">Githyanki Buccaneer</content>
@@ -514,8 +518,8 @@
   <content contentuid="hc0037b2fg9f61gc549g4163g8b39bf8e8d78" version="1">Gaj</content>
   <content contentuid="h3d920ed0g518agb14dgd8dag5827b8598729" version="1">Mandibles</content>
   <content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">Mandibles</content>
-  <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target. </content>
-  <content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target. </content>
+  <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target.</content>
+  <content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target.</content>
   <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="8">Cult Portal</content>
   <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="10">Cult Portal</content>
   <content contentuid="h0fb40e56g7f6fg2bb8geea4g3fdac72f37ad" version="1">Cult Portal</content>
@@ -708,8 +712,4 @@
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
-  <content contentuid="h89f2e023gcdf5gb2begd223g8f18a655a160" version="1">Spelljammer Pouch</content>
-  <content contentuid="ha99a2114g6ee9gd172g47dcgbe37af845114" version="1">A simple pouch containing astral items.</content>
-  <content contentuid="h26278ea4g240cge574g6d7egcfe71fe723da" version="2">Spelljammer</content>
-  <content contentuid="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2">A Spelljammer themed dice.</content>
 </contentList>
