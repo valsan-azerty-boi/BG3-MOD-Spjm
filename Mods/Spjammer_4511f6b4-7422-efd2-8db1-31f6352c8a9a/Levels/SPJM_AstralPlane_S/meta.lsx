@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="LevelData">
+		<node id="LevelData">
+			<attribute id="LevelTemplateBoundTrigger" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+			<attribute id="LevelAtmosphere" type="FixedString" value="45176275-5299-a9aa-c994-c21e3bab4ebf" />
+			<attribute id="LevelLighting" type="FixedString" value="71401bf3-1724-c3b0-bbc0-33147141ef04" />
+			<attribute id="VisualStreamingEnabled" type="bool" value="True" />
+			<attribute id="IsPlatformLevel" type="bool" value="False" />
+			<attribute id="CombatCameraFadeDistance" type="float" value="50" />
+			<children>
+				<node id="LevelBounds">
+					<attribute id="Min" type="fvec3" value="-1999.8353 -1999.8353 -1999.8353" />
+					<attribute id="Max" type="fvec3" value="1999.8353 1999.8353 1999.8353" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="84136f58-dc6e-4f58-bf84-6e2d501ce1af">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="Spelljammer" />
+        <field name="UUID" type="IdTableFieldDefinition" value="49662fbc-0013-4a2e-9eb6-b4455d56acc3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h26278ea4g240cge574g6d7egcfe71fe723da" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2" />
+        <field name="IsDefault" type="BoolTableFieldDefinition" value="False" />
+        <field name="FontColour" type="StringTableFieldDefinition" value="black" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

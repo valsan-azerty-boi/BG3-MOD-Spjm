@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CustomDice">
+        <node id="root">
+            <children>
+                <node id="CustomDice">
+                    <attribute id="Description" type="TranslatedString" handle="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26278ea4g240cge574g6d7egcfe71fe723da" version="2"/>
+                    <attribute id="FontColour" type="LSString" value="black"/>
+                    <attribute id="IsDefault" type="bool" value="false"/>
+                    <attribute id="Name" type="LSString" value="Spelljammer"/>
+                    <attribute id="UUID" type="guid" value="49662fbc-0013-4a2e-9eb6-b4455d56acc3"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

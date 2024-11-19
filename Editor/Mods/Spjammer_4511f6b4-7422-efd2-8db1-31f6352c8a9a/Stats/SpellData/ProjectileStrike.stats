@@ -24,7 +24,7 @@
         <field name="Trajectories" type="StringTableFieldDefinition" value="5a4d3c9b-3999-410c-89ca-25335fa6e269" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Ballistae" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2349aa86g9d22g149dg4d96gef53b749541a" version="4" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2349aa86g9d22g149dg4d96gef53b749541a" version="5" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(3d10,Piercing)" />
         <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(3d10,Piercing)" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Dash" />
@@ -40,7 +40,6 @@
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="68441fef-df1c-4622-acba-e79f53edf7e7" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="23f0ede1-066a-4377-8395-20a1d8500c75" />
-        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="15c9b439-2952-4e53-8616-6f38b0803ce7" />
         <field name="DamageType" type="EnumerationTableFieldDefinition" value="Piercing" enumeration_type_name="Damage Type" version="1" />
         <field name="ProjectileType" type="EnumerationTableFieldDefinition" value="Arrow" enumeration_type_name="ProjectileType" version="1" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="SpjmSpelljammingSlot:1" />
@@ -73,8 +72,7 @@
         <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Damage" enumeration_type_name="VerbalIntent" version="1" />
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="68441fef-df1c-4622-acba-e79f53edf7e7" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="23f0ede1-066a-4377-8395-20a1d8500c75" />
-        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="41de42e1-56d0-4336-8b44-99fc38281525" />
-        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="Damage Type" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Bludgeoning" enumeration_type_name="Damage Type" version="1" />
         <field name="Trajectories" type="StringTableFieldDefinition" value="8725be58-b7c7-4885-8f8f-ce89e5b222f0" />
         <field name="Level" type="IntegerTableFieldDefinition" value="1" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
@@ -82,7 +80,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8db67ad3g1542geb85g1920g77db36dbb262" version="3" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
         <field name="Angle" type="IntegerTableFieldDefinition" value="0" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="4" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(5d10,Bludgeoning)" />
         <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(5d10,Bludgeoning)" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
@@ -105,7 +103,9 @@
         <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(2d10,Bludgeoning)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
         <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="03114753-8d91-4c52-8207-728a67cdd59b,,;,,;bc6778cf-e501-4c69-a72f-bce826a4d2bd,,;e2cc2257-661e-4add-aef2-e64d447b63dd,,;8fcb1f19-a84b-486d-81fa-098aaf7cc9be,,;,,;c5bd6ce6-281c-4314-9f74-9f7bb2f4cf03,,;,,;,," />
-        <field name="RechargeValues" type="StringTableFieldDefinition" value="2-3" />
+        <field name="Requirements" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="HitEffect" type="GuidObjectTableFieldDefinition" value="41de42e1-56d0-4336-8b44-99fc38281525" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Fire" enumeration_type_name="Damage Type" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

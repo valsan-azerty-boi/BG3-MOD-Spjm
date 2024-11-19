@@ -1,0 +1,47 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION SPJM Ship discovery
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226)
+AND
+DB_GlobalFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9281d09)
+AND
+DB_Players(_Player)
+AND
+QRY_StartDialog_Fixed((DIALOGRESOURCE)Dialog_SpelljammerShip_Discovery_1c4ca709-6fb4-149d-8eeb-8a4d2bdaa8a3, (GUIDSTRING)_Player)
+THEN
+AddPassive(_Player, "SPJM_Passive_UnlockedSpelljammingSlots");
+ClearFlag((FLAG)SPJM_Spelljammer_Discovery_Global_76142f7c-82eb-43a5-bda7-3f0ae9281d09, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo1_11f4676e-ca92-4b0f-9c76-54c0d2a5a1b2, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo2_e4d03708-1db4-48f4-83e6-f2edd3bae47c, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo2_IsNext_4b6b4e7b-6a60-4e49-ad62-c582d3e920f6, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo3_b159c9e2-bbe7-4c3f-8c35-8bc15cd60d88, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+ClearFlag((FLAG)SPJM_Spelljammer_Teleport_Explo3_IsNext_297aaf16-be2f-43c6-8322-fdda8b8d4cf0, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+SetFlag((FLAG)SPJM_Spelljammer_Teleport_Explo1_IsNext_edd65e98-3815-4df8-8c38-da0d80e6d86f, NULL_00000000-0000-0000-0000-000000000000, 1, 1);
+
+//END_REGION
+
+//REGION SPJM Ship respiration mechanic
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Ship_AirZone_EventTrigger_39f46aa0-290e-4f57-837a-7aa9cdbe780c)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Ship_AirZone_EventTrigger_39f46aa0-290e-4f57-837a-7aa9cdbe780c)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff");
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION

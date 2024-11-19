@@ -8,14 +8,12 @@
                     <attribute id="Description" type="TranslatedString" handle="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="3"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="3"/>
                     <attribute id="IsHidden" type="bool" value="false"/>
-                    <attribute id="IsSpellResource" type="bool" value="true"/>
                     <attribute id="MaxLevel" type="uint32" value="0"/>
-                    <attribute id="MaxValue" type="uint32" value="3"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
                     <attribute id="Name" type="FixedString" value="SpjmSpelljammingSlot"/>
                     <attribute id="ReplenishType" type="FixedString" value="Never"/>
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
                     <attribute id="UUID" type="guid" value="752fecdc-74ed-430e-967f-d081243d9b52"/>
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
                 </node>
             </children>
         </node>

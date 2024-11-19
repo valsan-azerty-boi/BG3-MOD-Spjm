@@ -1,3 +1,9 @@
+new entry "OBJ_Spjm_Tut_Pouch"
+type "Object"
+using "OBJ_GenericLootItem"
+data "RootTemplate" "9c311915-1835-45b5-9841-11b9758d1b54"
+data "Rarity" "Rare"
+
 new entry "OBJ_Spjm_SpelljammerHelm_CharForInteraction_Template"
 type "Object"
 data "Level" "1"

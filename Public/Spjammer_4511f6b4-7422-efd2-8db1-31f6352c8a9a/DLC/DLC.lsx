@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="DLC">
+        <node id="root">
+            <children>
+                <node id="DLC">
+                    <attribute id="CustomDice" type="guid" value="49662fbc-0013-4a2e-9eb6-b4455d56acc3"/>
+                    <attribute id="Name" type="LSString" value="Spelljammer"/>
+                    <attribute id="UUID" type="guid" value="04e155c6-30cb-4120-a9b0-50e648c69a31"/>
+                    <attribute id="UnlockType" type="uint8" value="2"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

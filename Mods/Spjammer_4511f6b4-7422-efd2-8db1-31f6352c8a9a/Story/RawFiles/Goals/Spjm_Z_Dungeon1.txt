@@ -1,0 +1,52 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Leave SPJM Dungeon 1 with boat
+
+PROC
+PROC_ProcessUseOfItem((CHARACTER)_Player, (GUIDSTRING)BLD_Ship_Xebec_Rowboat_A_Astral_Interaction_001_ebc541cb-3e44-4d7f-b08c-85b25b859ae0, _)
+THEN
+TeleportTo((CHARACTER)_Player, (GUIDSTRING)S_SPJM_WaypointPos_Spelljammer_52d67b40-7152-4a7b-aeca-7f3af7fbea0c, "", 1, 1, 1, 1, 1);
+
+//END_REGION
+
+//REGION SPJM Dungeon1 respiration mechanic
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon1_NeedRespiration_EventTrigger_a2050d6f-f51f-4618-8021-0aaf22223e3b)
+AND
+DB_Players(_Player)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon1_NeedRespiration_EventTrigger_a2050d6f-f51f-4618-8021-0aaf22223e3b)
+AND
+DB_Players(_Player)
+THEN
+RemoveStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff");
+
+//END_REGION
+
+//REGION SPJM Dungeon1 cultist
+
+IF
+EnteredCombat((GUIDSTRING)SPJM_Dg1_Cultist_000_4de16424-df16-469e-842e-91112fa4281e, _)
+AND
+StartDialog_Internal(Dialog_SPJM_Cultist_Dg1_Barks_6748b1dc-f04b-944e-164c-724490edc791,1,(GUIDSTRING)SPJM_Dg1_Cultist_000_4de16424-df16-469e-842e-91112fa4281e,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,NULL_00000000-0000-0000-0000-000000000000,_,_Instance,0)
+THEN
+DB_NOOP(1);
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJ_QuestDungeon1Update_EventTrigger_722e3963-6d31-4d0d-8f2b-54ee91e835e2)
+AND
+DB_Players(_Player)
+THEN
+QuestUpdate(_Player, "SPJ_Spelljammer", "Dungeon1end");
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION

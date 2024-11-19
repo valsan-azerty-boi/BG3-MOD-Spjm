@@ -55,6 +55,28 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="98127925-f73c-4ab2-8f5c-3e533ca7c706" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_UnlockedSpellBallistae" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he4fa7f6dg8062g6180g7052g3ce437c68ae7" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdf19e15cg387cg98dage2cfg8fc2d7e944fa" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Ballistae" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(ProjectileStrike_Spjm_ShipStrike_Ballistae)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3a218a1c-2d0f-4a4a-a55f-87de53af946e" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_UnlockedSpellCanon" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h68d6870egab8ag7e9dgadbbg21f6063be168" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf64c0f3cg074cg31b1g078cg5e949923efd0" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Canon" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(ProjectileStrike_Spjm_ShipStrike_Canon)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="77d43947-728a-4e9e-9d82-58633894a1c4" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_SummonedSpelljammerHelm" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb3421beg81c5g3071gf9e0gd20ba5277ab7" version="1" />

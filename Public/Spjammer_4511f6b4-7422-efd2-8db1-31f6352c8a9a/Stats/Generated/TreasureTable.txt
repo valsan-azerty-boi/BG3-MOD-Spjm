@@ -1,6 +1,5 @@
 treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
-new treasuretable "TUT_Chest_Potions"
-CanMerge 1
+new treasuretable "SPJM_TUT_Pouch_Treasures"
 new subtable "1,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -27,6 +26,10 @@ new subtable "1,1"
 object category "I_OBJ_Spjm_CharmOfAirBubbles",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_CharmOfInstantTools",1,0,0,0,0,0,0,0
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Spjm_Tut_Pouch",1,0,0,0,0,0,0,0
 new treasuretable "MOO_ZhentQuartermaster"
 CanMerge 1
 new subtable "1,1"
@@ -60,13 +63,13 @@ CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_Spjm_WildspaceOrrery",1,0,0,0,0,0,0,1
 new subtable "2,1"
-object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,1
+object category "I_OBJ_Spjm_Scroll_CreateSpelljammerHelm",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "I_OBJ_Spjm_Scroll_GiantSpaceHamster",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Spjm_SpelljammerContract",1,0,0,0,0,0,0,0
+object category "I_OBJ_Spjm_SpelljammerContract",1,0,0,0,0,0,0,1
 new treasuretable "SPJM_Ship_Crate_1"
 new subtable "4,1"
 object category "I_OBJ_Spjm_Scroll_AirBubble",1,0,0,0,0,0,0,0
@@ -191,6 +194,8 @@ new subtable "1,1"
 object category "T_DEN_Weaponsmith_Trade",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_EquipmentTrader_Melee",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Spjm_GythkaHalberd_Wpn",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Spjm_FishSuit_Helmet",1,0,0,0,0,0,0,0
 new subtable "1,1"
