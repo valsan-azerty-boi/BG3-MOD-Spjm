@@ -235,7 +235,7 @@
   <content contentuid="h33213a14g472bgc8f9g957bgc347e2de8f37" version="1">Timon</content>
   <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11" />
   <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*Tu sens une grande puissance qui émerge du Timon*</content>
-  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="123">Partir.</content>
+  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="123">&lt;i&gt;Partir.&lt;/i&gt;</content>
   <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Interagir*</content>
   <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Alimentation*</content>
   <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="109">*Tu sens une grande puissance qui émerge du Timon*</content>
@@ -245,19 +245,19 @@
   <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="8">Dispositif d'amélioration</content>
   <content contentuid="hbe1ffb4cgccdbgaa9dge8d5g277e804d44a0" version="1">Dispositif d'amélioration</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="19">*Un appareil étrange, il permettra d'améliorer votre vaisseau avec les technologies que vous trouverez pendant vos explorations*</content>
-  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="16">Canon</content>
+  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="17">Canon</content>
   <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="15">Canon</content>
   <content contentuid="h65af2bf3gea0eg6d88g946ag42708addb9ce" version="1">Canon</content>
   <content contentuid="h138c060bg0127ga31ag7439ga75078227a17" version="1">Canon</content>
-  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="22">*Débloquer le Canon*</content>
+  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="22">Débloquer le Canon.</content>
   <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Canon débloqué*</content>
-  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="17">Baliste</content>
+  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="18">Baliste</content>
   <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="16">Baliste</content>
   <content contentuid="h1d21c437g6510g2eceg20e8g171f45b04193" version="1">Baliste</content>
   <content contentuid="hf2f1911fgf8cagcbf6g78aegbc53de1744ea" version="1">Baliste</content>
-  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="22">*Débloquer la Baliste*</content>
+  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="22">Débloquer la Baliste.</content>
   <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Baliste débloquée*</content>
-  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="22">*Partir*</content>
+  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="22">&lt;i&gt;Partir.&lt;/i&gt;</content>
   <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="79">*Canaliser le flux arcanique du Timon*</content>
   <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="79">*Plier le Timon à votre volonté*</content>
   <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="76">*Essayer de comprendre la magie émanant du Timon*</content>
@@ -285,7 +285,7 @@
   <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="10">Trappe vers la soute</content>
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Trappe vers la soute</content>
   <content contentuid="hffca2043g68eag4845gbc94gd4766468d050" version="1">Trappe vers la soute</content>
-  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="16">Échelle vers le vaisseau</content>
+  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="17">Échelle vers le vaisseau</content>
   <content contentuid="h86451d31ge9c2g50afg02fag97875682d741" version="1">Échelle vers le vaisseau</content>
   <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="35">*Entrer en symbiose avec le Timon*</content>
   <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="34">*Effectuer un rituel pour s'harmoniser au Timon*</content>
@@ -549,8 +549,8 @@
   <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="2">Leurs fragments vivront à travers nous!</content>
   <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="2">Il appelle! Il appelle ton nom!</content>
   <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="4">Comète meurtrière</content>
-  <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="27">Chef du culte</content>
-  <content contentuid="h35e88e40g9506g073ega883g421d244e0f6e" version="3">Alhoon</content>
+  <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="28">Chef du culte</content>
+  <content contentuid="h35e88e40g9506g073ega883g421d244e0f6e" version="4">Alhoon</content>
   <content contentuid="h6d9ee59eg2589g2598g5c71g0fff78129d46" version="2">Les os flottants des anciens dieux sont plus prometteurs que n'importe quel cerveau vénérable!</content>
   <content contentuid="h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d" version="2">Le Grand Dessein est un objectif futile. Le pouvoir se trouve dans les ossements des anciens dieux.</content>
   <content contentuid="hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121" version="2">Pourquoi suivre un cerveau vénérable quand nous pouvons créer quelque chose de plus grand?</content>

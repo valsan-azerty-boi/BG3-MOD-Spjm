@@ -250,6 +250,8 @@
         <field name="PsychicResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="Sight" type="IntegerTableFieldDefinition" value="700" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="500" />
+        <field name="Flags" type="EnumerationListTableFieldDefinition" value="Floating" enumeration_type_name="AttributeFlags" version="1" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="BLEEDING;SLEEPING;SCL_SHADOW_CURSE;SG_Prone;SG_Unconscious;SG_Charmed" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
