@@ -206,8 +206,8 @@
   <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Brain Blast!</content>
   <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Successfully complete the mind puzzle in the mind flayer colony.</content>
   <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Portal</content>
-  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="16">Astral Boat</content>
-  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="15">Astral Boat</content>
+  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="17">Astral Boat</content>
+  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="16">Astral Boat</content>
   <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Astral Boat</content>
   <content contentuid="h676a34bbg3892gbe2eg238eg7fc9ca9d61e9" version="4">Astral Boat</content>
   <content contentuid="ha0804ef0gc15eg9235ga881ga44ede8afa67" version="1">Astral Boat</content>
@@ -217,7 +217,7 @@
   <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="29">Astral Circle</content>
   <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="31">Astral Circle</content>
   <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="24">Astral Circle</content>
-  <content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="19">Astral Circle</content>
+  <content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="20">Astral Circle</content>
   <content contentuid="hb6f4912ag6c90gee96g4541g59f2d0ac183e" version="5">Astral Circle</content>
   <content contentuid="h0fed846fg2b52gee5cg938dgf4908facc389" version="1">Astral Circle</content>
   <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Astral Sea</content>
@@ -229,7 +229,7 @@
   <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="6">Spacecrafter Inn</content>
   <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="3">Shattered Sanctum</content>
   <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="3">Cult Laboratory</content>
-  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="31">Spelljamming Helm</content>
+  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="32">Spelljamming Helm</content>
   <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Spelljamming Helm</content>
   <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Spelljamming Helm</content>
   <content contentuid="h33213a14g472bgc8f9g957bgc347e2de8f37" version="1">Spelljamming Helm</content>
@@ -241,7 +241,7 @@
   <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="109">*Great Power surge from the Helm*</content>
   <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="83">*Use your innate powers to tame the Helm*</content>
   <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="82">*Cut the connection*</content>
-  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="17">Enhancement device</content>
+  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="18">Enhancement device</content>
   <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="8">Enhancement device</content>
   <content contentuid="hbe1ffb4cgccdbgaa9dge8d5g277e804d44a0" version="1">Enhancement device</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="19">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
@@ -282,7 +282,7 @@
   <content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">Traveler's Chest</content>
   <content contentuid="h13e50984gf83agbf28gf6eagb9664a007fb5" version="1">Traveler's Chest</content>
   <content contentuid="h698d80bdg29e5g51a4g3a76g32d5ad9b985e" version="1">Traveler's Chest</content>
-  <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="10">Hatch to camp</content>
+  <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="12">Hatch to camp</content>
   <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Hatch to camp</content>
   <content contentuid="hffca2043g68eag4845gbc94gd4766468d050" version="1">Hatch to camp</content>
   <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="17">Ladder to ship</content>
@@ -522,8 +522,8 @@
   <content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">Mandibles</content>
   <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target.</content>
   <content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target.</content>
-  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="10">Cult Portal</content>
-  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="11">Cult Portal</content>
+  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="11">Cult Portal</content>
+  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="12">Cult Portal</content>
   <content contentuid="h0fb40e56g7f6fg2bb8geea4g3fdac72f37ad" version="1">Cult Portal</content>
   <content contentuid="ha4b423fcg5f5bg2b46g9fdcg12ca8efdf988" version="1">Cult Portal</content>
   <content contentuid="hfdb2adb3g198cgcaedg45cdgbc64371a8924" version="12">Cultist</content>
@@ -593,7 +593,7 @@
   <content contentuid="h8ef5f65egc6eag53b3g4e62ge7bc9050eb7a" version="1">Laboratory Strike: Cannon</content>
   <content contentuid="h49783a2agd32dge5b8ge66fg4e44a44caa21" version="2">Spelljamming</content>
   <content contentuid="head34f4dge27ag034fgcc1ag54e4fd99a431" version="2">You own a Spelljamming Ship in the Astral Sea.</content>
-  <content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="8">Spelljamming Helm</content>
+  <content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="9">Spelljamming Helm</content>
   <content contentuid="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1">Failed Attunement</content>
   <content contentuid="hde317402g58e5gebdfg959fg9e952c48e6ff" version="1">You cannot sync with a non-existing Helm or Space Ship.</content>
   <content contentuid="h522a0890ge170gb53bg656egdc58756b0b9f" version="2">Transfer Attunement</content>
