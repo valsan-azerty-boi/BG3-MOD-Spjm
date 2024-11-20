@@ -432,6 +432,8 @@
   <content contentuid="hf359c2d2g440bgba89g4219g870e052bca2f" version="5">Dégage, à moins que tu veuilles que j'en finisse rapidement avec toi.</content>
   <content contentuid="h479eb43fga78eg3fd4g741cg758070e888ef" version="5">Plus tu m'regardes, moins je t'apprécis.</content>
   <content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="5">Tu veux des ennuis?</content>
+  <content contentuid="ha3c03c9agee25g03degd252g0503ce7d04fd" version="3">Crétins! Vous avez scellé votre destin!</content>
+  <content contentuid="haa6a063bg795dg23f4g7276g7a7a9bc24c47" version="2">Enfin un peu de divertissement!</content>
   <content contentuid="hb49f56fcgc6c1g528bgee91g09456751eb43" version="7">L'Empereur</content>
   <content contentuid="h516fd51bg4561g1ed9gd7c4g28aa979991f9" version="12">Trout</content>
   <content contentuid="h17564982gf365gf9d2ge875g41c0e4466f38" version="7">Trout</content>
@@ -453,7 +455,7 @@
   <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="30">Onah</content>
   <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="30">Elfe astral</content>
   <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="20">Jethro</content>
-  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="19"Pêcheur astral</content>
+  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="19">Pêcheur astral</content>
   <content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="24">Orobia</content>
   <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="23">Experte en fleurs et plantes</content>
   <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="26">Cultiste perdu</content>
@@ -712,6 +714,4 @@
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Expertise Thri-kreen</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;.</content>
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;.</content>
-  <content contentuid="ha3c03c9agee25g03degd252g0503ce7d04fd" version="3">Crétins! Vous avez scellé votre destin!</content>
-  <content contentuid="haa6a063bg795dg23f4g7276g7a7a9bc24c47" version="2">Enfin un peu de divertissement!</content>
 </contentList>
