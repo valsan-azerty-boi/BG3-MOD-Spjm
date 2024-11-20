@@ -58,18 +58,6 @@ AddExplorationExperience((CHARACTER)_Player, 250);
 PROC_Subregion_Entered((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672);
 
 //END_REGION
-
-//REGION SPJM basegame explo
-
-IF
-LevelLoaded("END_Main")
-AND
-DB_GlobalFlag((FLAG)CURRENTREGION_END_Main_140b4d3e-6cc7-48cb-b66f-dbc4eba710e1)
-THEN
-QuestUpdate("SPJ_Spelljammer", "EndSpelljammer");
-QuestClose("SPJ_Spelljammer");
-
-//END_REGION
 EXITSECTION
 
 ENDEXITSECTION

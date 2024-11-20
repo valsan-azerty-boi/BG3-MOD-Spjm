@@ -1,0 +1,26 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION SPJM END_Main
+
+IF
+DB_CheckLevelStart("END_Main")
+AND
+DB_CurrentLevel("END_Main")
+THEN
+QuestUpdate("SPJ_Spelljammer", "EndSpelljammer");
+QuestClose("SPJ_Spelljammer");
+
+IF
+LevelLoaded("END_Main")
+THEN
+QuestUpdate("SPJ_Spelljammer", "EndSpelljammer");
+QuestClose("SPJ_Spelljammer");
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Act3_GEN"
