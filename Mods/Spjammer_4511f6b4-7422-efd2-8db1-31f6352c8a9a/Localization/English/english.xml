@@ -245,13 +245,13 @@
   <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="8">Enhancement device</content>
   <content contentuid="hbe1ffb4cgccdbgaa9dge8d5g277e804d44a0" version="1">Enhancement device</content>
   <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="19">*A strange device, it seems to allow you to improve your ship with technologies and weapons that you discover*</content>
-  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="15">Cannon</content>
+  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="16">Cannon</content>
   <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="15">Cannon</content>
   <content contentuid="h65af2bf3gea0eg6d88g946ag42708addb9ce" version="1">Cannon</content>
   <content contentuid="h138c060bg0127ga31ag7439ga75078227a17" version="1">Cannon</content>
   <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="22">*Unlock the Cannon*</content>
   <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Cannon unlocked*</content>
-  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="16">Ballistae</content>
+  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="17">Ballistae</content>
   <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="16">Ballistae</content>
   <content contentuid="h1d21c437g6510g2eceg20e8g171f45b04193" version="1">Ballistae</content>
   <content contentuid="hf2f1911fgf8cagcbf6g78aegbc53de1744ea" version="1">Ballistae</content>
@@ -520,8 +520,8 @@
   <content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">Mandibles</content>
   <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target.</content>
   <content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">Lash out with mandibles to &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyze&lt;/LSTag&gt; your target.</content>
-  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="8">Cult Portal</content>
-  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="10">Cult Portal</content>
+  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="10">Cult Portal</content>
+  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="11">Cult Portal</content>
   <content contentuid="h0fb40e56g7f6fg2bb8geea4g3fdac72f37ad" version="1">Cult Portal</content>
   <content contentuid="ha4b423fcg5f5bg2b46g9fdcg12ca8efdf988" version="1">Cult Portal</content>
   <content contentuid="hfdb2adb3g198cgcaedg45cdgbc64371a8924" version="12">Cultist</content>
@@ -712,4 +712,6 @@
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="ha3c03c9agee25g03degd252g0503ce7d04fd" version="3">Fools! You've sealed your fate!</content>
+  <content contentuid="haa6a063bg795dg23f4g7276g7a7a9bc24c47" version="2">Finally, some entertainment!</content>
 </contentList>
