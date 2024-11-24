@@ -1,0 +1,717 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h26278ea4g240cge574g6d7egcfe71fe723da" version="2">Spelljammer</content>
+  <content contentuid="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2">Тематический кубик Spelljammer.</content>
+  <content contentuid="h89f2e023gcdf5gb2begd223g8f18a655a160" version="1">Мешочек Spelljammer</content>
+  <content contentuid="ha99a2114g6ee9gd172g47dcgbe37af845114" version="1">Маленький мешочек содержащий все астральные предметы.</content>
+  <content contentuid="h1b6195b5gc566g234fg308cg912df50b25f2" version="1">Астральный бродяга</content>
+  <content contentuid="h0763002fg6176ga306g6080g546023b9d9ae" version="3">Астральный бродяга</content>
+  <content contentuid="ha3004fcdged23g9562ge385gc8e437cbe741" version="1">Астральный бродяга</content>
+  <content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="24">Астральный бродяга</content>
+  <content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="29">Астральный бродяга</content>
+  <content contentuid="h322862cdgbab5g882fgc355g259dd3fd6c81" version="1">Астральный бродяга</content>
+  <content contentuid="h8763db21g731dg5c25g731fgcf7c20562247" version="1">Астральный бродяга</content>
+  <content contentuid="h8b2f4026g46d4ge64eg683cged54a26030c7" version="1">Вы путешествовали по Астральному Морю дольше, чем вы можете себе представить. Там вы воочию испытали чудеса Серебряной Пустоты: перестали стареть и больше не чувствовали ни голода, ни жажды. Движимые страстью к путешествиям, вы переносились из одной части Астрального Моря в другую, как пылинка на ветру. Вы потеряли счет десятилетиям, прошедшим с тех пор, как вы прибыли сюда.</content>
+  <content contentuid="he8b29522g64d7ge617g6a3bgb48e3cc8ce06" version="2">Вы получаете &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;умение&amp;lt;/LSTag&amp;gt; в навыках &amp;lt;LSTag Tooltip="Insight"&amp;gt;проницательности&amp;lt;/LSTag&amp;gt; и &amp;lt;LSTag Tooltip="Religion"&amp;gt;религии&amp;lt;/LSTag&amp;gt;.</content>
+  <content contentuid="h95400c63gfbc2g33d4gb7edg1474d5c7dcde" version="1">Божественный контакт</content>
+  <content contentuid="hb0afa464g5234ge051g9f73g148aebbb3cde" version="1">В Астральном море вы пересеклись со странствующим божеством. Встреча была короткой и ненасильственной, но произвела на вас неизгладимое впечатление. Это божество сочло нужным поделиться с вами одной тайной или малоизвестной частью космических знаний.</content>
+  <content contentuid="h1fbfea32g6188gb001g16e1g5ce3d640b0a5" version="1">В Астральном море вы пересеклись со странствующим божеством. Встреча была короткой и ненасильственной, но произвела на вас неизгладимое впечатление. Это божество сочло нужным поделиться с вами одной тайной или малоизвестной частью космических знаний.</content>
+  <content contentuid="h433116e0gb7e0g56f7g838eg0d6bc19e0a8d" version="1">Вы получаете постоянное преимущество при испытаниях Мудрости.</content>
+  <content contentuid="headf19efg5745g1274gd55ag99a91c822c93" version="1">Вы получаете постоянное преимущество при испытаниях Мудрости.</content>
+  <content contentuid="he2e6c3efg71bag97dagd302gfc94496c378d" version="1">Преимущество при испытаниях Мудрости</content>
+  <content contentuid="h646f6661g2582gb6e1gcb86g5d5943e3dfd7" version="1">Дикий космонавт</content>
+  <content contentuid="h102a62cag5189g1440g33dbgd9e57be73253" version="1">Дикий космонавт</content>
+  <content contentuid="h63ce5bd0g339fg02c9g73eegf034b061e892" version="1">Дикий космонавт</content>
+  <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="23">Дикий космонавт</content>
+  <content contentuid="haa7873b4g83fcga854g93e5gce1be533036f" version="1">Дикий космонавт</content>
+  <content contentuid="he9a2d11bga7f7gf42bg98d5ga03f231fe2b3" version="1">Вы выросли в пустоте Дикого космоса, где обитают шахтёры на астероидах, лунные фермеры и другие выносливые люди. Возможно, вы выросли в отдалённом поселении, таком как Скала Брала или провели свои ранние годы в команде чарохода, выполняя полезные работы, такие как чистка палубы, погрузка и разгрузка груза и соскребание ракушек с корпуса.</content>
+  <content contentuid="h8c3ad9beg67f3gd301g2edbg4aa980a73bbc" version="2">Вы получаете &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;умение&amp;lt;/LSTag&amp;gt; в навыках &amp;lt;LSTag Tooltip="Athletics"&amp;gt;атлетике&amp;lt;/LSTag&amp;gt; и &amp;lt;LSTag Tooltip="Survival"&amp;gt;выживании&amp;lt;/LSTag&amp;gt;.</content>
+  <content contentuid="h8b023e16g66ddg06bdg619ega47c53b1b8d9" version="1">Адаптация дикого космоса</content>
+  <content contentuid="h31555400g4792gb507gbb03g25e3fc3e8897" version="2">За время пребывания в космосе вы набрались опыта и научились приспосабливаться к любой гравитации.</content>
+  <content contentuid="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1">За время пребывания в космосе вы набрались опыта и научились приспосабливаться к любой гравитации.</content>
+  <content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">Ваш максимум очков здоровья увеличивается на 1 за каждый полученный уровень.</content>
+  <content contentuid="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="4">Ваш максимум очков здоровья увеличивается на 1 за каждый полученный уровень.</content>
+  <content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">Секреты Раскола</content>
+  <content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">Открыть и прочитать Книгу мертвых богов.</content>
+  <content contentuid="hf8439975g2c8eg466fg82c6g43b05ea6356f" version="3">Корни рощи</content>
+  <content contentuid="hc2e79a7agf628g435dg80c3g50f58009bc12" version="3">Изучить историю места по фрескам друидов.</content>
+  <content contentuid="hd43315a3gf3e2g4776g8b94gbe232e5c223a" version="3">Секреты некроманта</content>
+  <content contentuid="h06e4a94egbfc8g4a21gb0dfg30a55742290b" version="3">Раскрыть необычную суть "Некромантии Тхая".</content>
+  <content contentuid="h7a83550egacd1g4b6bgac02g49b17454f5ab" version="3">Всякое знание ценно само по себе</content>
+  <content contentuid="h8f2c8c08g6c74g47a8ga09fgd692d0dfe73b" version="3">Дочитать "Некромантию Тхая".</content>
+  <content contentuid="hbf66724bg124fg4b45g80b0g34325a3c7261" version="3">Секреты друидов Теней</content>
+  <content contentuid="h9c5cddc0gec3fg4f86g992fg2f823c107ed1" version="3">Найти и прочитать "Песнь Фалдорн".</content>
+  <content contentuid="h2cedaa7agdce8g43a8ga186g43b3d8306c7c" version="3">Паук-одиночка</content>
+  <content contentuid="he9d4c4c7g157dg437dg94f7ga4cfa9d22eab" version="3">Прочитать сокрытые на дне колодца дневники арахноманта.</content>
+  <content contentuid="h6d2b2de7g55fdg4587ga612ga4535aa9538d" version="3">Секреты дерева суссур</content>
+  <content contentuid="hb02fbbb4ge947g47b5gb22eg0aafc2c0b90c" version="5">Обезвредить мистическую турель при помощи цветка суссура.</content>
+  <content contentuid="ha4ad29fegcee7g4f42g8fe1g7b92b2d6d601" version="3">Секреты Верховного вождя</content>
+  <content contentuid="h5e25ce80g994cg4a9eg8c77g5738c6fa4e22" version="3">Прочитать книгу Воло о гоблинах.</content>
+  <content contentuid="h94fe3ed9g3e9bg48dcga2e9gb01b107ea9bf" version="5">Запретная магия</content>
+  <content contentuid="h9d805b18g45c0g4573gb2d1g62b86b5b4f3f" version="5">Прочитать заметки Омелума о магии иллитидов.</content>
+  <content contentuid="h8c9ad3c6g8f74g4f2aga002g8797ccd02365" version="4">Секреты владычицы</content>
+  <content contentuid="h334e7c85g7a77g469dgab03g75eca4d3e331" version="4">Прочесть записки владычицы дроу.</content>
+  <content contentuid="h5b157610g153eg4f2fgaa56g47f541bca411" version="4">Фазовый переход</content>
+  <content contentuid="h70b24a78g864ag40efga97dg2ed04343915b" version="4">Разгадать лунную головоломку, преграждающую путь в Подземье.</content>
+  <content contentuid="h7a2534b6gb9fdg4c64g9a42g8f0253afe88e" version="4">Союз во имя Природы</content>
+  <content contentuid="h704d0902gc7adg40ddg9998g197e471c7934" version="4">Опознать доспехи друидов и арфистов.</content>
+  <content contentuid="h5354aec2g8321g46aag864fg4966ed9e8c11" version="4">Так не доставайся ты...</content>
+  <content contentuid="hc43327e6gcdc7g448fga893g8a2e2b4c26c4" version="4">Узнать секреты Адамантиновой кузни от всех троих волшебников-дроу.</content>
+  <content contentuid="hfdb26f61g4b14g47a9gb647g677f44b57420" version="3">Главный приз!</content>
+  <content contentuid="hc1be21f7g401eg4a04gb4d1g6950963eeb80" version="4">Разобраться в мошеннической схеме Акаби и выиграть «главный приз».</content>
+  <content contentuid="h2ee361dag8ca4g4b88gbe93g7fa423652a3a" version="3">Жуткое и поразительное зрелище</content>
+  <content contentuid="hc90bc9c8g1592g46edg9b98gc414f4e72da8" version="4">Использовать бомбу из рунного пороха Вульбрена.</content>
+  <content contentuid="hed09c0a2gdba2g41fbga892g85975ae49cb8" version="3">Новая нормальность</content>
+  <content contentuid="h625f1926g193bg423bg8075gdf8779962688" version="4">Позволить стальному стражу себя просканировать.</content>
+  <content contentuid="hfd704366g9e56g4ce4ga675ge501d674372b" version="3">Помощник посланника иного мира</content>
+  <content contentuid="h4432e8a8g8793g4cabg9220gf7e36d577a8a" version="4">Продолжить расследование дела о серийном убийце, которое вела Валерия.</content>
+  <content contentuid="h54e51855g0dfcg457dg8667gb99a8a506e54" version="3">Знание сердца</content>
+  <content contentuid="h4a43f927g63cdg4783g9194g6344fb379b9f" version="5">Взглянуть по-новому на свои отношения с кем-то из спутников.</content>
+  <content contentuid="hb56ce361g81f2g414bgbd90g8be498bcd372" version="3">Коронация Повелителя Ужаса</content>
+  <content contentuid="hae22c0c1ge474g4a09gb000ga0f6c7b093b8" version="4">Встретиться с Горташем на Змеиной скале и поприсутствовать на его коронации.</content>
+  <content contentuid="he344e573g0bceg47d5ga25agab6320707e71" version="3">Бремя короны</content>
+  <content contentuid="hba512b87g983dg44dag9e5egafec4700dadb" version="4">Найти шлем Балдурана.</content>
+  <content contentuid="he17743c0g5b4fg4c05g866ag7e49f076413c" version="3">Возрождающая изобретательность</content>
+  <content contentuid="h53ea46dag03e4g49c3g9b4agd2d9c458420e" version="4">Найти механизм, от которого работает печатный пресс.</content>
+  <content contentuid="hb697b04fg4301g4886g8e8cg3c4f8faf02b4" version="3">Кровь завета</content>
+  <content contentuid="h3ca423c0g1634g46fag9b45gf8c192562cd2" version="4">Выяснить, как у Арай продвигаются эксперименты с кровью.</content>
+  <content contentuid="h01d72ccdg237eg4c57gb8edg485ccfccb252" version="3">Только для членов клуба</content>
+  <content contentuid="hf4476f23g1e0eg4caagbe98g9e936a353049" version="4">Попроситься в Сообщество блистательных.</content>
+  <content contentuid="hb041d8c3g61fbg445cgbd03gac67b307e449" version="4">Говорящее название</content>
+  <content contentuid="h578da016gad63g4a13g9678gafa4e5f5a22c" version="6">Найти бессмертного стража под Драконьим перекрестком.</content>
+  <content contentuid="h3e1c476dge57fg4663gab99gf386fb40f3f9" version="3">Экзотический рейс</content>
+  <content contentuid="h381da951gca75g4beagabf5g60fc3861474a" version="4">Получить доступ к порталу Дома Надежды.</content>
+  <content contentuid="h8cfb4bcfg92b8g4104ga0cfg09c56256c857" version="3">Возвращение кэпа</content>
+  <content contentuid="h4bcb3b26g01a7g43d4g9502g15d3c4b917df" version="5">Узреть настоящую капитана Гризли во всей ее пиратской красе.</content>
+  <content contentuid="ha3bd7452g5adfg481fg9354g7246e20d98e5" version="3">Всеми доступными средствами</content>
+  <content contentuid="h53f29371g6e2ag4c1bg803bg19bfbfbda6ed" version="4">Найти факел истинной отмены и воспользоваться им.</content>
+  <content contentuid="h7631bcfdge554g4496gaa63gfd484db29ab5" version="3">Новый Карсус</content>
+  <content contentuid="h86ad0c26g0687g4d6aga6b0g02d19d03c2c7" version="4">Передать Песню Ночи Лорроакану.</content>
+  <content contentuid="hb0522659gf0a3g4ff0gbdedgd13418cd9ffb" version="3">История не должна повториться</content>
+  <content contentuid="hea472a44g2602g4955g881dgc183051932ee" version="4">Победить Лорроакана.</content>
+  <content contentuid="h032498c5g29acg4a00g858fg8f3fbf3ce26c" version="3">Из подмастерья – в мастера</content>
+  <content contentuid="ha9b5615dgd72dg47b0ga330g8210b815a7fb" version="3">Сварить противоядие Нетти.</content>
+  <content contentuid="he6d8f9d3gc270g486cgbd26g43d1d5825255" version="3">Регенерация</content>
+  <content contentuid="hff32b65bga95dg4c3bgbbccg3f2e1e8b8fb9" version="3">Восстановить питание подъемника в Волшебной башне.</content>
+  <content contentuid="h2c83256fgad6fg4eb4gb2dcgdbc94e263800" version="4">Только лучшие материалы</content>
+  <content contentuid="h74a4fe4dgab32g4bddg9ff1gb3b259c07506" version="4">Создать предмет мастерской работы из коры суссура.</content>
+  <content contentuid="h3eee7267gb9deg47f7g9924gd94d4efb30ac" version="3">Грибное рагу</content>
+  <content contentuid="h4f69abd4g861bg452dg8c4agc2a8213ab847" version="3">Собрать ингредиенты для зелья Омелума.</content>
+  <content contentuid="hf95f9333g271eg4d1cga061g494096c308f4" version="3">Живописец в беде</content>
+  <content contentuid="h553eb4dfg2d6fg4ac3g9e49gcfa5bd7f2016" version="3">Спасти живописца Оскара из плена Зентарим.</content>
+  <content contentuid="hea64bb2cg5693g4b97g96e2g6d2b5b2f2768" version="3">Новое видение</content>
+  <content contentuid="h4ddf06fbgc132g4530gb3c7g0fcc85949cb4" version="3">Перековать сломанное копье.</content>
+  <content contentuid="ha4655c08g7db3g4256gb82cg28d83c916bcf" version="3">Как новенький</content>
+  <content contentuid="hc5f03b70g3605g454dg87d5gff8e8e358ae3" version="3">Починить подъемник в убежище Зентарим.</content>
+  <content contentuid="h7af0560bg8059g4138g95d6g00f473023303" version="4">Вкус на любителя</content>
+  <content contentuid="h47412cc4g1884g4d31ga6b8gb51345962895" version="4">Выпить одно из авторских снадобий тетушки Этель.</content>
+  <content contentuid="hdadf31aegc85bg481fgbff3g3d82eba69588" version="4">Паучий дар</content>
+  <content contentuid="hf19c4948ga8c4g4cb5g94a4gd6d0f2b72b3b" version="4">Опознать доспех дроу у Приюта Вокин.</content>
+  <content contentuid="h953a343dgac88g4cafgb986g7c8804ab924d" version="3">Приглашенный эксперт</content>
+  <content contentuid="h7ad537c9g3bdbg4ba5g9e98g0a0b23cdca91" version="3">Осмотреть развалины в Гримфордже и поделиться своими наблюдениями с двергарским каменщиком.</content>
+  <content contentuid="h545b1456g5decg4b5cgac6eg9fd25c2d1ab8" version="4">Хлам и сокровища</content>
+  <content contentuid="h9388c073g568fg4bfbgb0a6g1017d5739fa2" version="4">Пронаблюдать за действием Самого обычного сундука.</content>
+  <content contentuid="h0f2f21cdg45f2g43e7gb1f3gbc830555064d" version="5">Искусство вечно</content>
+  <content contentuid="h7e6d1eb4g341dg4c7dgb2d4g6454d9fa5951" version="4">Выковать что-нибудь в Адамантиновой кузне.</content>
+  <content contentuid="h5297f53bgfeceg4f6egae75g9a40cc74a1f5" version="3">Доверие и пыльца пикси</content>
+  <content contentuid="hb2923733gbf5ag4aacg8269g3ef2febdecb6" version="5">Осмотреть лунный фонарь и выяснить, откуда он берет энергию.</content>
+  <content contentuid="h71eefe34gf120g417bg9e15g2ec60aa3bea5" version="3">Темные махинации</content>
+  <content contentuid="h9498ab9agcceeg4eb8g974eg23ffd93ff067" version="6">Заполнить все гнезда шаритскими самоцветами в испытании «Вызов Шар».</content>
+  <content contentuid="hd435f057g5447g4cf2ga8c3gec264b836802" version="3">Трагедия каменщиков</content>
+  <content contentuid="h4be3353ag7f3fg4953g842agca49c8828d73" version="4">Выяснить, что сталось с каменщиком.</content>
+  <content contentuid="h734ca831g3932g49aag813agcf93bbede281" version="3">Бесчеловечные испытания</content>
+  <content contentuid="h0b67f66agcdb8g4adegac29gd9e744fe6036" version="7">Понаблюдать за жуткой операцией в проклятом Доме исцеления.</content>
+  <content contentuid="h7e80c1eeg0aa0g4611g96beg3d39691bf932" version="3">Особое холодное мышьяковистое... пиво?</content>
+  <content contentuid="hb491b417g6c9fg46c8g9371gfda87e2373de" version="6">Приготовить яд-чревоточец.</content>
+  <content contentuid="hd70c1e67g182dg4c1dg94b3g61596c87f422" version="5">Опасное пойло</content>
+  <content contentuid="h14813b8cg9aedg46d3g9f0cgf4e116c03d03" version="4">Выпить хотя бы 1 кружку у пивовара.</content>
+  <content contentuid="hfad3bca2g2e17g4e85gafe6g76e87c0ebdc6" version="3">Конфискованные работы</content>
+  <content contentuid="h7d6fc4c9g2a27g4257g9232gfa398d287c3c" version="6">Забрать волшебный предмет из сундука сборщицы пошлин с конфискованным добром.</content>
+  <content contentuid="h665dcc91gd30eg4c16g9ba9ga5db1e0ef44f" version="3">Простые инструменты творят шедевры</content>
+  <content contentuid="h9a26f1f0geebcg4010g9ca9gfe07d44278c3" version="4">Вернуть Вульбрену его инструменты.</content>
+  <content contentuid="h1cca3cf0ga28ag41fcgbf58gaf0e9f867174" version="3">Безжалостное мастерство</content>
+  <content contentuid="h9c2ed06dg90f4g46bfg99c7g75a64ec44d40" version="4">Взять церемониальный кинжал Шар.</content>
+  <content contentuid="h43691a8agc132g4cebg9349g12b2d49c15de" version="3">Сделано из тени</content>
+  <content contentuid="h1a9fd819g52c8g4e6ag9a58geb6425f4636e" version="5">Открыть и забрать Копье Буйной Ночи.</content>
+  <content contentuid="h976dfba9gf55eg4a8bgb68bg9b748c3479e3" version="4">У меня на ладони</content>
+  <content contentuid="h7c132c23g0c1ag44d8gb1c9gcb1909a23b96" version="4">Взять у Барка «Блестящий аргумент».</content>
+  <content contentuid="hc576c904g6354g4368g8e2eg77b33f2f0ca6" version="3">Дьявольское оружие</content>
+  <content contentuid="hacd39bb6g57b6g4771ga7bfg65aed6bbbb5a" version="4">Приобрести у Даммон предмет дьявольского снаряжения.</content>
+  <content contentuid="h41f70f78g20d0g416dga874g26d6d18acf57" version="3">Брачный сезон</content>
+  <content contentuid="hd7c5bc84g8990g4a5bg843agac0c90c84216" version="4">Определить причину одержимости ускользающего зверя.</content>
+  <content contentuid="h6e404ac4gac43g4fc5gb9f1gfc00a288dd14" version="4">Пот, кровь – и что-то еще</content>
+  <content contentuid="h8f92f232gc652g4c6agadecg4c852e389019" version="4">Отдать свою кровь Арай Облодре.</content>
+  <content contentuid="h04ceef3dg4ebdg4912g92aagcd59b3f2a8a5" version="3">Мрачная загадка</content>
+  <content contentuid="h55bc09a1g128ag4f70g8606g6265ab591e97" version="4">Собрать по частям труп Капли.</content>
+  <content contentuid="he2a1558bg2ac5g415egb035g71935142cd57" version="3">Поддержка местного искусства</content>
+  <content contentuid="h04f44b8dg3df9g4787g9455g2f7d5c2d3d35" version="4">Заказать свою статую.</content>
+  <content contentuid="hd8b38dc5g1b34g4428ga8acga1b967093dd9" version="3">Аморальная изобретательность</content>
+  <content contentuid="h71fefddbgb0d7g48b6gac0cg16f4b521a716" version="4">Найти игрушки со взрывчаткой.</content>
+  <content contentuid="h74683fdcg196dg4038gb5a2g208c58bb1530" version="3">Мечтай о большем</content>
+  <content contentuid="h66b1471dgb7b2g4187g9aa1g7d32ecaa62b4" version="4">Описать Дантелону твое совершенное оружие.</content>
+  <content contentuid="h95c51454gdf0cg4402gb959g0525f0d7b392" version="3">Иное призвание</content>
+  <content contentuid="ha881482ag163ag4f1cga03cg86c0e18c1044" version="4">Принять участие в плотских утехах в «Ласке Шаресс».</content>
+  <content contentuid="h97da8875g679eg4ae4g8c93gb1ae5ff6fce6" version="3">Бесплатная реклама</content>
+  <content contentuid="hbb4edcddg0e00g4550gbd63g3bd017f51bfe" version="4">Дать интервью репортерше Ленз.</content>
+  <content contentuid="hd5fe7969g9ffdg48deg873fg6bf0c9d3c6aa" version="3">Следуя инструкциям</content>
+  <content contentuid="h0841a2a1g8b21g4dc9g842eg80d681911946" version="4">Вернуть разумный амулет Ширре.</content>
+  <content contentuid="hf6162126g0b31g4df0g8b91g283e73e8ee24" version="3">Искусство разрушения</content>
+  <content contentuid="h9a666424g3b69g47a6gb29bg01aa2c6aaf13" version="4">Взорвать литейную Стальной Стражи бомбой из рунного пороха.</content>
+  <content contentuid="h1324606eg56b2g46b5gbd9bgde21faaa2738" version="3">Водя пером по бумаге</content>
+  <content contentuid="h8eba6885g2511g4367gad18g17324b00f0eb" version="5">Разобраться, как устроен печатный пресс «Балдурского вестника».</content>
+  <content contentuid="hdcb0efb0g2c8fg4c64g826bg32bd2aacd129" version="3">Кровавое продвижение</content>
+  <content contentuid="h5dd53711g19deg431bg9ab3g42cfae1e4dfc" version="4">Выяснить судьбу Арай и ее экспериментов с кровью.</content>
+  <content contentuid="h8fa57ab8gf4f9g4cdega720g040038ab7030" version="3">Этому место в музее!</content>
+  <content contentuid="h3abece90g324fg4166g93cdgae1e2d4ce0fa" version="5">Открыть любое из особых хранилищ в Счетной палате.</content>
+  <content contentuid="hf7c46061g873fg4d4cgad5dgdf6eefa42b27" version="3">Кислый привкус</content>
+  <content contentuid="h4913c0b3g5198g4622g922fg54078d8300ca" version="5">Найти бутылку отравленного вина.</content>
+  <content contentuid="h773612acgcbb1g4d53g8ad0gdb54c62b8a30" version="3">Требуется экстравагантность</content>
+  <content contentuid="h09a956d1ge40fg4db0g8b42g611991addaaf" version="4">Приобрести изысканный наряд у Фигаро.</content>
+  <content contentuid="he21fbc88g2b4dg4462gab7fg63a414e9f316" version="3">Осмотр достопримечательностей</content>
+  <content contentuid="hc5be5300g851ag48cfg8a72ge1658bcd9560" version="4">Точно опознать все реликвии в «Дьявольской доле».</content>
+  <content contentuid="hb88c684fgb953g4a47ga648g5ad55dacb749" version="3">Пламя страсти</content>
+  <content contentuid="hfd86f50fg84b3g4411g8942g3cfd938741b2" version="4">Сжечь картину Оскара факелом отмены.</content>
+  <content contentuid="h95f7c0fagcdf2g4180g9933g11933377f9c0" version="3">Чудо лантанцев</content>
+  <content contentuid="h43ff9bbaga561g4caega591g7e83897f7a66" version="4">Захватить контроль над подводным кораблем.</content>
+  <content contentuid="h0601a436g7839g4fd5gb309g9cc077c2468b" version="3">Искажено до неузнаваемости</content>
+  <content contentuid="hc7a62e7fgab05g4d2eg8f65gf960e9c1d01c" version="4">Отыскать дневник мертвого друида и прочесть о том, откуда взялось темное проклятье.</content>
+  <content contentuid="h6c8a05b0g6286g4e3ag91d0ga6112929bcbe" version="3">Затушенная искра</content>
+  <content contentuid="h65ebf80eg59dbg404cgb663gb1453d823210" version="4">Найти дневник мертвого аасимара.</content>
+  <content contentuid="h87a8a45ag9067g435bg8037g31d4f49f7ca2" version="3">Семейные тайны Тормов</content>
+  <content contentuid="h68dc97d6g077dg48b1gb74cg5bfe22601d81" version="4">Разузнать, что сталось с членами семьи Кетерика.</content>
+  <content contentuid="h0999ecc6gf7b0g4cfag832ag7cd9d8ff06f5" version="3">Любить и потерять</content>
+  <content contentuid="h70938151g0d8bg4108g89adg00ece86f0067" version="4">Установить первопричину позора Кетерика.</content>
+  <content contentuid="he6515fe4ge0d1g4c0agb54egb1d91314693f" version="3">Символ Лунной Девы</content>
+  <content contentuid="h720869b7g1f72g4e32g8e7cgf3e753ba8a0b" version="4">Узнать правду о Песни Ночи.</content>
+  <content contentuid="ha078292dgd8a6g4abcga6e2g817bf0f7b045" version="3">Доктрины Утрат</content>
+  <content contentuid="h7a4e8b03gbcebg436agb1efge12b7cc42b0e" version="4">Открыть проход в шаритское святилище.</content>
+  <content contentuid="h7a7116a8ga3e5g4bb3g9329g88aa9b36b3de" version="3">Участие в местных обрядах</content>
+  <content contentuid="hfaaf3bb7g84e0g471agaa7eg2bce5bd0f995" version="4">Провести ритуал в шаритском святилище.</content>
+  <content contentuid="hffef2067gf322g4db8g8499gd6b838dbf004" version="3">Крысиный король</content>
+  <content contentuid="h1e6c2e8eg8ed7g44cfg9683gd2029ed705f0" version="6">Выяснить, откуда столько крыс в «Вызове Шар».</content>
+  <content contentuid="h12471329gf7e7g4613g841age196cea869fc" version="3">История не забывает</content>
+  <content contentuid="h9524b179gf97bg44c9gb8fag433597ddcdf6" version="5">Открыть себе путь на «Вызов Шар».</content>
+  <content contentuid="h2b7d2a43g025dg4392g94bbg5c3497df7fa9" version="3">Цесканская тактика</content>
+  <content contentuid="habf0e00fg8b9eg485aga0c5g6f437fb0bee3" version="5">Помочь Мол выиграть партию в «Копейщики».</content>
+  <content contentuid="h64ae4cc3g2a39g4253g96c7ge18565245030" version="3">Пробуждение Спящего</content>
+  <content contentuid="h42d7945ag5a0eg409ag8622g17150997af35" version="4">Вывести Арта из кататонии.</content>
+  <content contentuid="h2f879e7egdb5bg49abg9f26g87fbc2f57f19" version="3">Секреты некроманта</content>
+  <content contentuid="h563b7b0ag330fg4eefg8470g32d811774cfd" version="4">Решить головоломку в потайной комнате Бальтазара.</content>
+  <content contentuid="he180759bg12c3g4a0fgae7cgd1117c89de45" version="4">Слишком близкое знакомство с мерзостью...</content>
+  <content contentuid="h6be2ee5agde6fg4bbdg87c9g23d9f2d4bfc9" version="4">Решить головоломку в потайной комнате Бальтазара, не допустив ни единой ошибки.</content>
+  <content contentuid="h10a37d2dg8842g47dfga3bfg405ceb2b012b" version="3">Клятва отменяется</content>
+  <content contentuid="h470fac57g2422g4c3cga282g2df8c4688494" version="5">Найти исследовательские записи хирурга.</content>
+  <content contentuid="hab84c206gd0deg4b26gadf9gc8ba3f15a3b8" version="3">Они в стенах!</content>
+  <content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">Выяснить, что это за «звук мяса».</content>
+  <content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">Взрыв мозга!</content>
+  <content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">Разгадать головоломку в колонии свежевателей разума.</content>
+  <content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">Портал</content>
+  <content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="17">Астральная лодка</content>
+  <content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="16">Астральная лодка</content>
+  <content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">Астральная лодка</content>
+  <content contentuid="h676a34bbg3892gbe2eg238eg7fc9ca9d61e9" version="4">Астральная лодка</content>
+  <content contentuid="ha0804ef0gc15eg9235ga881ga44ede8afa67" version="1">Астральная лодка</content>
+  <content contentuid="h1432c723gd101g441eg6589g84fbdbb38321" version="1">Астральная лодка</content>
+  <content contentuid="h11297817gf07fg8034g20c6gf604e6642b15" version="1">Астральная лодка</content>
+  <content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="25">Астральный круг</content>
+  <content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="29">Астральный круг</content>
+  <content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="31">Астральный круг</content>
+  <content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="24">Астральный круг</content>
+  <content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="20">Астральный круг</content>
+  <content contentuid="hb6f4912ag6c90gee96g4541g59f2d0ac183e" version="5">Астральный круг</content>
+  <content contentuid="h0fed846fg2b52gee5cg938dgf4908facc389" version="1">Астральный круг</content>
+  <content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">Астральное море</content>
+  <content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="2">Астральное море</content>
+  <content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">Космический галеон</content>
+  <content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="6">Космический галеон</content>
+  <content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="4">Нижние Скалы</content>
+  <content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">Таверна Космических кораблей</content>
+  <content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="6">Таверна Космических кораблей</content>
+  <content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="3">Разрушенное Святилище</content>
+  <content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="3">Лаборатория Культа</content>
+  <content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="32">Магический руль</content>
+  <content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">Магический руль</content>
+  <content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">Магический руль</content>
+  <content contentuid="h33213a14g472bgc8f9g957bgc347e2de8f37" version="1">Магический руль</content>
+  <content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">*Какое странное место*</content>
+  <content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">*Вы ощущаете великую силу*</content>
+  <content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="123">&lt;i&gt;Покинуть.&lt;/i&gt;</content>
+  <content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">*Взаимодействовать*</content>
+  <content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">*Заряжается*</content>
+  <content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="109">*Мощный выброс энергии от руля*</content>
+  <content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="83">*Использовать свои врожденные способности, чтобы укротить руль*</content>
+  <content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="82">*Оборвать соединение*</content>
+  <content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="18">Устройство для улучшения</content>
+  <content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="8">Устройство для улучшения</content>
+  <content contentuid="hbe1ffb4cgccdbgaa9dge8d5g277e804d44a0" version="1">Устройство для улучшения</content>
+  <content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="19">*Странное устройство, которое, похоже, позволяет вам улучшать свой корабль с помощью технологий и оружия, которые вы обнаружите*</content>
+  <content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="17">Пушка</content>
+  <content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="15">Пушка</content>
+  <content contentuid="h65af2bf3gea0eg6d88g946ag42708addb9ce" version="1">Пушка</content>
+  <content contentuid="h138c060bg0127ga31ag7439ga75078227a17" version="1">Пушка</content>
+  <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="22">Разблокировать пушку.</content>
+  <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Пушка разблокирована*</content>
+  <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="18">Балисты</content>
+  <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="16">Балисты</content>
+  <content contentuid="h1d21c437g6510g2eceg20e8g171f45b04193" version="1">Балисты</content>
+  <content contentuid="hf2f1911fgf8cagcbf6g78aegbc53de1744ea" version="1">Балисты</content>
+  <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="22">Разблокировать балисты.</content>
+  <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Балисты разблокированы*</content>
+  <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="22">&lt;i&gt;Покинуть.&lt;/i&gt;</content>
+  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="79">*Направляет магический поток руля*</content>
+  <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="79">*Подчинить руль вашей воле*</content>
+  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="76">*Попытаться понять магию, исходящую от руля*</content>
+  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="74">*Ваш разум, похоже, не постигает тайн руля*</content>
+  <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="71">*Ваш разум успешно синхронизировался с рулем*</content>
+  <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Воззвать к шепоту своего прошлого, чтобы направить вашу волю.*</content>
+  <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="65">*Энергия, исходящая от руля, кажется знакомой такому, как вы*</content>
+  <content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="65">*Энергия, исходящая от руля, кажется знакомой такому, как вы*</content>
+  <content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="62">*Отправиться к ближайшему городу 'Нижние Скалы'*</content>
+  <content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="61">*Отправиться к 'Таверне Космических кораблей'*</content>
+  <content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="57">*Отправиться к 'Разрушенному Святилищу'*</content>
+  <content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="53">*Отправиться в 'Лабораторию культистов'*</content>
+  <content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="59">*Руль позволяет вам добраться до ближайшей деревни в Астральном море. Счастливого плавания!*</content>
+  <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="57">*Руль позволяет вам перемещаться по Астральному морю к вашему следующему месту назначения.*</content>
+  <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="57">*Руль позволяет вам перемещаться по Астральному морю к вашему следующему месту назначения.*</content>
+  <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="53">*Руль позволяет вам перемещаться по Астральному морю к вашему следующему месту назначения.*</content>
+  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="23">[Астральная встреча] *Исследовать Астральное море*</content>
+  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="20">[Астральная встреча] *Исследовать Астральное море*</content>
+  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="20">[Астральная встреча] *Исследовать Астральное море*</content>
+  <content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="21">*Руль позволяет вам перемещаться по Астральному морю для исследования.*</content>
+  <content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">Сундук путешественника</content>
+  <content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">Сундук путешественника</content>
+  <content contentuid="h13e50984gf83agbf28gf6eagb9664a007fb5" version="1">Сундук путешественника</content>
+  <content contentuid="h698d80bdg29e5g51a4g3a76g32d5ad9b985e" version="1">Сундук путешественника</content>
+  <content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="12">Люк в лагерь</content>
+  <content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">Люк в лагерь</content>
+  <content contentuid="hffca2043g68eag4845gbc94gd4766468d050" version="1">Люк в лагерь</content>
+  <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="17">Лестница на корабль</content>
+  <content contentuid="h86451d31ge9c2g50afg02fag97875682d741" version="1">Лестница на корабль</content>
+  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="35">*Симбиоз со рулем*</content>
+  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="34">*Выполнить ритуал для синхронизации с рулем*</content>
+  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="33">*Использовать свою веру для руля*</content>
+  <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="11">Оз</content>
+  <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="11">Трактирщик</content>
+  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">*Этот иллитид смотрит на вас*</content>
+  <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="13">&lt;i&gt;Торговать.&lt;/i&gt;</content>
+  <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="13">&lt;i&gt;Покинуть.&lt;/i&gt;</content>
+  <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="11">*Простой торговец, предлагающий товары для покупки*</content>
+  <content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">Траут</content>
+  <content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="8">&lt;i&gt;Торговать.&lt;/i&gt;</content>
+  <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="11">&lt;i&gt;Покинуть.&lt;/i&gt;</content>
+  <content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="21">Путешественник</content>
+  <content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="21">Путешественник</content>
+  <content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="19">Путешественник</content>
+  <content contentuid="hb9552a4dg983dg8161g430eg2444b5e67fa1" version="1">Путешественник</content>
+  <content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="22">Путешественник</content>
+  <content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="20">Путешественник</content>
+  <content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="20">Путешественник</content>
+  <content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="20">Путешественник</content>
+  <content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="21">Путешественник</content>
+  <content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="18">Путешественник</content>
+  <content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="24">Путешественник</content>
+  <content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="16">Путешественник</content>
+  <content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="16">Путешественник</content>
+  <content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="18">Путешественник</content>
+  <content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="22">Путешественник</content>
+  <content contentuid="hf80444dcg04bdg1b4dg345eg56080096998e" version="1">Путешественник</content>
+  <content contentuid="h04d6d0bfg9980g5179g9000g1be82eb40b40" version="1">Путешественник</content>
+  <content contentuid="hdd1441e4gb1bcg2320ga278gd9785acb23f0" version="1">Путешественник</content>
+  <content contentuid="he212cad6g3bbfg1ecdge059g6db0c7c97aaf" version="1">Путешественник</content>
+  <content contentuid="h24ea23b6g7dd8gf5e8gfbf3g51439967e6ea" version="1">Путешественник</content>
+  <content contentuid="h9455954eg4016gd6e8g751bg9fed1d0d2186" version="1">Путешественник</content>
+  <content contentuid="h6bb6c77dge6d1g36b0g3126gf6504019eb5f" version="1">Путешественник</content>
+  <content contentuid="hfabbb3efgddb9gf7a1gcc39gac542206590c" version="1">Путешественник</content>
+  <content contentuid="hafefab97ge903g6737gdf78g49dbdee26168" version="1">Путешественник</content>
+  <content contentuid="h64fe0182gdabcgc850g5835g289b263235a8" version="1">Путешественник</content>
+  <content contentuid="h0c80184cgaae1g3317gd9a3g4c7ad9ec6dca" version="1">Путешественник</content>
+  <content contentuid="h6c77014dg8c8cge84agc8a1g2a89cd4139d5" version="1">Путешественник</content>
+  <content contentuid="h61a9cab8g8cbfg1e1fge98cgc64710eb5198" version="1">Путешественник</content>
+  <content contentuid="hff8ec2f7g5603g584cgd5f3g04971b511022" version="1">Путешественник</content>
+  <content contentuid="h882854e6g2815g3a64g1543g4712359645aa" version="4">Как думаешь, продавец звездной пыли скоро появится?</content>
+  <content contentuid="ha67711e7g8ab8ge040gc710gaded92d07a35" version="4">Видел сегодня какую-нибудь астральную рыбу?</content>
+  <content contentuid="h0d6ea77eg9977g619dg6972g60822f2bb5ad" version="4">В Астральном море в один момент ты плывешь по течению, а в следующий оказываешься лицом к лицу с богом.</content>
+  <content contentuid="h76b6b14bg6443g7877g304bg21e8339b55fa" version="4">Я не постарел ни на день с тех пор, как покинул свой мир. Странное чувство.</content>
+  <content contentuid="h8077f50fga02bg1017g42f8g90cf9269160b" version="4">Ничто так не успокаивает разум, как гул серебряной пустоты.</content>
+  <content contentuid="hd8b11de5gf81cgb24dg6530gc7ea752b104a" version="4">Держи себя в руках, незнакомец, иначе звезды могут поглотить тебя целиком.</content>
+  <content contentuid="h78eab429gca56g2a96gcf57g5e9dcebd16bc" version="4">Будьте осторожны с этими пиратами-гитьянками, если только вам не нравится вкус стали.</content>
+  <content contentuid="haefeeff8g5b66gcd2ag32e0g7a5d972af239" version="4">Снова сегодня парящие острова... они ближе, чем были вчера.</content>
+  <content contentuid="h5c76a666ga171g50d5gbbb5gbe2d4d931d35" version="4">И если вы долго смотрите на звезду, то звезда тоже начнет смотреть на вас.</content>
+  <content contentuid="h8d4be789gb480g24a6gcb85gdef04b225b26" version="7">Томас - Астральный кузнец</content>
+  <content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="12">*У этого кузнеца, похоже, есть товар на продажу*</content>
+  <content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="7">Кузнец</content>
+  <content contentuid="h48ca4288g5ef5gc0e6g2877g7a8373fa100c" version="3">Подмастерье Герарт</content>
+  <content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="3">Кузница никогда не спит, и я, похоже, тоже.</content>
+  <content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="3">Клянусь, однажды я смогу выковать молот, который не будет весить полгоры.</content>
+  <content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="3">Мастер Томас говорит, что это жара закаляет тебя... такое ощущение, что она поджаривает меня заживо.</content>
+  <content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="3">Мастер Томас говорит, что это "тонкая работа". По мне так, это каторга.</content>
+  <content contentuid="h3b919efbg8ad6g0860gdb50g5f01919f5e01" version="3">Когда-нибудь у меня будет своя кузница, и, может быть, я найму своего подмастерье, который будет делать все это.</content>
+  <content contentuid="heba2bdb5g69f4gbda6g1a50g8e6509cb0f97" version="2">Путешественник</content>
+  <content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">Путешественник</content>
+  <content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">Путешественник</content>
+  <content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">Путешественник</content>
+  <content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="25">Путешественник</content>
+  <content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="29">Путешественник</content>
+  <content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="17">Путешественник</content>
+  <content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="18">Путешественник</content>
+  <content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="22">Путешественник</content>
+  <content contentuid="hc6de7239gfd71g0850gd00dg26850ec17b98" version="1">Путешественник</content>
+  <content contentuid="h1f334529g882cg1f49g3d5dg6035a7348620" version="1">Путешественник</content>
+  <content contentuid="h4d06fbf2g648dga501g78c8gc5f746e628a2" version="1">Путешественник</content>
+  <content contentuid="h35180490g993fg1cbag6091g30bcfbe9a450" version="1">Путешественник</content>
+  <content contentuid="h5daae8degddbagd6dfg710dg6bd4b7045456" version="1">Путешественник</content>
+  <content contentuid="h23edfc03g758fg3180ge0a0g298e712c880e" version="4">В последний раз, когда я плавал в космосе, голос зазывал меня из-за звезд.</content>
+  <content contentuid="hb37628e5gfa24g28a4g33b3ga0d25817b8e2" version="4">Время здесь - забавная штука. Лучше не думать о нем слишком много.</content>
+  <content contentuid="h328585a0g5b06gba29g39c9g28e8fb5aa344" version="4">Клянусь, я видел, как мимо проплыл бог, закованный в цепях, и смотрел в мою душу.</content>
+  <content contentuid="haf37fe6dgce9eg6e5dg2aa9gdbf1186f128f" version="4">За еще один день, когда Астральное море не забрало нас! До дна!</content>
+  <content contentuid="h5e7240aegf2efg5bbcg48degc281f532538e" version="4">Первый раз здесь, да? Лучше эля тебе не найти, как и более странного народца.</content>
+  <content contentuid="h7ae59af3g7127gcc2ag3e41ge2b24ed6f90d" version="4">Тост! Пусть звезды никогда не обратят свой взор в нашу сторону.</content>
+  <content contentuid="h00788fadg1b3bgbd87g8220gc26a47ad2571" version="4">И вот я стоял там, сражаясь одной рукой с меганожкой, а в другой держа свой бокал!</content>
+  <content contentuid="hb81d8926ge58egdba1g5960g9f263f409e82" version="4">Звезды следят за нами, поэтому мы следим друг за другом. Следи за своими товарищами, приятель.</content>
+  <content contentuid="hcb7c21f7g8e5bgfc99gabf0g944050e186f4" version="4">Выпей, дружище! В Астральном море никогда не знаешь, когда снова проплывешь этим путем.</content>
+  <content contentuid="hf244f071g131dg4804g4a50ge2476e1cd62f" version="4">Вы когда-нибудь видели вблизи корабль свежевателей разума?</content>
+  <content contentuid="hab852e5cgc89ag2bbcg5929g688012db5a4c" version="4">Звезды рассказывают истории, если вы умеете слушать.</content>
+  <content contentuid="h51fe44e2g3c14g2349g601bg13298f9260fb" version="4">Следи за своими мыслями, путник. Здесь они звучат громче.</content>
+  <content contentuid="hcf0a1b2dg24d4gd218g11a9gaef27a1bafb2" version="4">Держись крепче за свою душу, незнакомец. Пустота заберет то, что она хочет.</content>
+  <content contentuid="h529c210egb111g7250g0d54g8d53103ef0ce" version="4">Один из гитских разбойников как-то сказал мне: "Здесь время - это просто еще один горизонт".</content>
+  <content contentuid="h5a745238g7836g5930g7818g2a2dc699be72" version="4">Следите за падающими звездами. Некоторые из них хранят секреты из других миров.</content>
+  <content contentuid="h3c6e5d24gee25gb853g73c1gaba3ea129d39" version="4">Парящие острова появляются и исчезают. Как и мечты, они исчезают, если их вовремя не поймать.</content>
+  <content contentuid="hff18299fgf5b6g951dg6167gb4bc75314565" version="4">Клянусь, после нескольких кружек пива звезды кажутся еще ближе!</content>
+  <content contentuid="h2a41fb57gc2d7g7987g20d9geb30d16b01ad" version="4">Выпьем за наш последний порт. Пусть следующий будет таким же полным жизни, как и этот!</content>
+  <content contentuid="h3c7569f7ge0f2g5d55g305eg45685a6265c0" version="4">Никогда не доверяйте моряку, который не слышал байки о кораблях-призраках.</content>
+  <content contentuid="hd580690dg30e9g02d7g69a0gdd2cea6426b6" version="4">Я слышал историю о звезде, из которой можно выпить... я уже не знаю, чему верить.</content>
+  <content contentuid="hbee341e6g4816ga260g0f71gefeea6470d66" version="4">Я видел корабли, возвращавшиеся с пустыми палубами, словно команда... расстворилась среди звезд.</content>
+  <content contentuid="h151bb0c8g955dge57dg9fc4g2c12920d6d98" version="4">Порой в Астральном море можно найти утраченные воспоминания... но не все из них принадлежат вам.</content>
+  <content contentuid="hf4c7b82fg0d47gb627ga645ge4ab56e5b63e" version="4">Прикоснуться к звезде дело простое. А вот пережить последствия, - вот это уже задачка.</content>
+  <content contentuid="h4f2882dfgbbc0g2ad6g3281g7ac9a992369c" version="4">Однажды я нашел свиток, просто парящий в небе, но он исчез прежде, чем я успел его схватить.</content>
+  <content contentuid="hd5c73691g6669g2f32gd726g53a038065406" version="4">Вы когда-нибудь замечали, что в этих напитках чувствуется вкус неба? Это как частичка бесконечности.</content>
+  <content contentuid="h90e0002dgef4eg0242g79cegb00ebb805a9f" version="4">Купил как-то карту у торговца гита. Лучшая покупка. Она привела меня в миры, о существовании которых я и не знал.</content>
+  <content contentuid="h9c191f9cgb495g87fcg5fd4gd2d86fde3189" version="4">Каждый напиток здесь на вкус как мечты и воспоминания. А может, это просто звездная пыль.</content>
+  <content contentuid="h446976ceg339eg1155g0811gd9acfdf31c28" version="4">Выпьем ещё, чтоб крепко нам стоять на ногах в этой странной вселенной.</content>
+  <content contentuid="ha250f369gc7eag971bg517bg577eec10b2ab" version="4">Забавно, что здесь одна ночь может показаться целой жизнью.</content>
+  <content contentuid="h1a1db8c9gba14g8f18g5221g1368eac474c5" version="4">Говорят, что магический руль знает вашу душу лучше, чем вы сами. Так выпьем же за наших проводников!</content>
+  <content contentuid="h1b770f7bg9f6bga6f2g19e8g9380bc619a5a" version="4">Поднимите бокалы! Здесь мы больше, чем семья.</content>
+  <content contentuid="h1193e8a7g7f18g628fgef69g85eec47e5753" version="4">Вчера мимо проходил корабль, раскрашенный в странные цвета. Они сказали, что видели звезды на "краю". Что бы это ни значило...</content>
+  <content contentuid="h12ddb5aeg21b9g7ffagb011gcad3c42ec2de" version="4">Звезды не спят, так почему мы должны?</content>
+  <content contentuid="h4e9728b8g65f5g8a9dg9487g8bb7348b450e" version="4">Раньше я смотрел на звезды и думал, что никогда не увижу их так близко. А сейчас? Они больше походят на соседей.</content>
+  <content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="4">Мы говорим, что "плаваем" в астрале, но иногда мне кажется, что я парю в чужих воспоминаниях.</content>
+  <content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="4">Говорят, что Астрал неподвластен времени, но мои суставы не согласны. Каждый цикл ощущается длиннее предыдущего.</content>
+  <content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="4">В здешней тишине есть что-то успокаивающее, когда к ней привыкаешь. Но время от времени она напоминает шепот.</content>
+  <content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="25">Капитан-гитьянки</content>
+  <content contentuid="hfca0f650g2891g5533gf6a5g1dc37c989f3c" version="7">Капитан-гитьянки</content>
+  <content contentuid="h9d4f25f1gde39g232bg651cgc554046b2a4f" version="1">Капитан-гитьянки</content>
+  <content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">Гитьянки-пират</content>
+  <content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="10">Гитьянки-пират</content>
+  <content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="8">Гитьянки-пират</content>
+  <content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="11">Гитьянки-пират</content>
+  <content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="15">Гитьянки-пират</content>
+  <content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="19">Гитьянки-пират</content>
+  <content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="21">Гитьянки-пират</content>
+  <content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="14">Гитьянки-пират</content>
+  <content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="14">Гитьянки-пират</content>
+  <content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="14">Гитьянки-пират</content>
+  <content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="14">Гитьянки-пират</content>
+  <content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="14">Гитьянки-пират</content>
+  <content contentuid="h41b5ace2ge0cege70bg6776gbe1777e4f8af" version="1">Гитьянки-пират</content>
+  <content contentuid="h15c45af0g79abg75f5g6cc2g2dc9f2e15b1d" version="1">Гитьянки-пират</content>
+  <content contentuid="h714ab0ebg7bd7g19f8g838cg499af971421f" version="1">Гитьянки-пират</content>
+  <content contentuid="h1cc59bd7g3b49ga8eegb7ecg3e68e56af1a2" version="1">Гитьянки-пират</content>
+  <content contentuid="h20e73cc4g2ff1ge689g2591g74e46d320562" version="1">Гитьянки-пират</content>
+  <content contentuid="head9107egd6ceg68f9g7c5eg7a5bd434b6dc" version="1">Гитьянки-пират</content>
+  <content contentuid="h20844b4fg3925gc385g34a1gc6432766e769" version="6">Гитьянки-пират</content>
+  <content contentuid="hf5027610g3c25g7634gcb7agde6eced32e21" version="5">Гитьянки-пират</content>
+  <content contentuid="hd7599f8dgb382ga71fgce24g5475b51851e0" version="4">Гитьянки-пират</content>
+  <content contentuid="hc7b7b0e4g73f8gd4f6g4147gf95200210549" version="1">Гитьянки-пират</content>
+  <content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="5">Держи свое оружие при себе, раз у тебя кишка тонка им воспользоваться.</content>
+  <content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="5">Да в фантомах Астрального моря больше храбрости, чем у вашей команды.</content>
+  <content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="5">Ответь, ты будешь сражаться, или так и продолжишь кричать? Меня устроит и то, и другое.</content>
+  <content contentuid="hc3d0ebc8g7885g2bb5gf7c0ge10f0a751756" version="5">Астральные рейдеры не боятся пустоты, можешь ли ты сказать то же самое, салага?</content>
+  <content contentuid="hec7130f3gd0ddg1780g3a24g49f5acbf1490" version="5">Тронь меня снова, и ты лишишься этой руки.</content>
+  <content contentuid="h631aceebg4af9gc92eg6f59g6911f2aad6a2" version="5">Если ты будешь медлить, то, хотя бы, постарайся не утомлять меня.</content>
+  <content contentuid="h7e8efb48gbeeegadd0g229bgb463b2ba9884" version="5">Неужто ты решил приблизиться ко мне? Я так не думаю.</content>
+  <content contentuid="hf359c2d2g440bgba89g4219g870e052bca2f" version="5">Отойди, если только не хочешь, чтобы тебя ждала быстрая кончина.</content>
+  <content contentuid="h479eb43fga78eg3fd4g741cg758070e888ef" version="5">Чем больше ты на меня смотришь, тем меньше ты мне нравишься.</content>
+  <content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="5">Ты здесь по делу или просто нарываешься на неприятности?</content>
+  <content contentuid="ha3c03c9agee25g03degd252g0503ce7d04fd" version="3">Глупцы! Ваша судьба предрешена!</content>
+  <content contentuid="haa6a063bg795dg23f4g7276g7a7a9bc24c47" version="2">Наконец-то, хоть какое-то веселье!</content>
+  <content contentuid="hb49f56fcgc6c1g528bgee91g09456751eb43" version="7">Император</content>
+  <content contentuid="h516fd51bg4561g1ed9gd7c4g28aa979991f9" version="12">Траут</content>
+  <content contentuid="h17564982gf365gf9d2ge875g41c0e4466f38" version="7">Траут</content>
+  <content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="7">Магический торговец</content>
+  <content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="24">Плазмоид-путешественник</content>
+  <content contentuid="hddb743fbg6311gdf02g9005g269486282047" version="1">Плазмоид-путешественник</content>
+  <content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="29">Плазмоид-боец</content>
+  <content contentuid="h553b23acg4b67g0fb3g502dgb41155ebef57" version="1">Плазмоид-боец</content>
+  <content contentuid="h8102834dg4476ge437g1120gfaf05d4dcbff" version="6">Бесформенный плазмоид</content>
+  <content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="3">Гибкая форма, твердая решимость.</content>
+  <content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="3">Не каждый путешественник может быть таким... гибким, как я.</content>
+  <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="3">Я "плавен" в своих движениях.</content>
+  <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="3">*Блюп*</content>
+  <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="16">Сундук</content>
+  <content contentuid="h559fdb78g1108g88c5g0858g9a400c2b77d5" version="1">Сундук</content>
+  <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="12">&lt;i&gt;Торговать.&lt;/i&gt;</content>
+  <content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="12">&lt;i&gt;Покинуть.&lt;/i&gt;</content>
+  <content contentuid="h14d8c383g300cgb863g6954gb8ab1876cbfd" version="7">Автогном ремесленник</content>
+  <content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="30">Онах</content>
+  <content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="30">Астральный эльф</content>
+  <content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="20">Джетро</content>
+  <content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="19">Астральный рыбак</content>
+  <content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="24">Оробия</content>
+  <content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="23">Продавец растений</content>
+  <content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="26">Потерянный культист</content>
+  <content contentuid="h8db392e8gd14cg3ad1gae80gd85ff0b6fa9c" version="1">Мефит</content>
+  <content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="22">Стража</content>
+  <content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="26">Стража</content>
+  <content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="18">Стража</content>
+  <content contentuid="hebddb588gcec8g55c8g276fg5d3dc20c020a" version="1">Стража</content>
+  <content contentuid="h43318bdcg0b4cgbb24g5284g74a216bb705e" version="1">Стража</content>
+  <content contentuid="h30375329gab44g9e80gfd42ga21eed48bc73" version="1">Стража</content>
+  <content contentuid="h1b99d3bfgb9cegf60ag3986g45c54fa2f943" version="3">Прочь с дороги!</content>
+  <content contentuid="h97664e96gda2bgffe3g73aag3c8846c4ffe9" version="3">Это моя работа - патрулировать.</content>
+  <content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="18">Пират</content>
+  <content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="18">Пират</content>
+  <content contentuid="hdc25d406g7b04ge2d5g8ea6g226fd78b3b0e" version="1">Пират</content>
+  <content contentuid="hea750f6cg0476gac3bgd695g2857b2492c16" version="1">Пират</content>
+  <content contentuid="h6d6bd3bbgc8fbg0309gaf20g0e7154951667" version="5">Оставь меня.</content>
+  <content contentuid="h38c6cbf4g2a15g33aegd759g180b88ba3917" version="5">Я не разговариваю со скучными людьми.</content>
+  <content contentuid="h61c08743gb315g56cfgfd8dgc264515efac7" version="3">Что бы вы ни говорили об Астральном море, но нигде нет лучших ночных рынков.</content>
+  <content contentuid="h0f9fa049g1191g2110g2bd5g21d93b29ce87" version="3">Однажды я уйду в отставку в милую тихую туманность.</content>
+  <content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="3">Путешествовать по Астральному морю нелегко, но сокровища того стоят.</content>
+  <content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="3">Если вы увидите торговца кометами, предлагающего "удачу", вам лучше сначала проверить, а не проклят ли его товар.</content>
+  <content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="3">Знаешь где можно хорошо вздремнуть?</content>
+  <content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="15">Домосед</content>
+  <content contentuid="hdc78734fgbb34gceb3ga640g626f75df56e8" version="1">Домосед</content>
+  <content contentuid="he244bc8dg50dcg31d3g06b4g70340e742d5e" version="4">Столько жизней, скользящих от одной звезды к другой, и никакого им покоя.</content>
+  <content contentuid="hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d" version="4">В одном тихом мгновении больше мудрости, чем в тысяче слов.</content>
+  <content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="4">В глубинах космоса я обрел покой.</content>
+  <content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="4">Я видел, как появлялись и исчезали миры.</content>
+  <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="4">Ты пахнешь жертвой.</content>
+  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="21">Вампират</content>
+  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="19">Вампират</content>
+  <content contentuid="h9d85fea1gde3agec05gb459gbe2975ded4a6" version="7">Вампират</content>
+  <content contentuid="h86d6d4a9g90a7gf0feg3d0fg47c8ae710f05" version="6">Вампират</content>
+  <content contentuid="h0184ffceg6c2cgc9eag0b90g024a27d16d40" version="7">Вампират</content>
+  <content contentuid="h6c609f86g192bg9687g21e3g9e68e31a6785" version="7">Вампират</content>
+  <content contentuid="hb8f337a1gaeefge4cfg0bffg159342620b99" version="1">Вампират</content>
+  <content contentuid="hc06d5853g8370g9ff9g0aedg18ee2101d2be" version="1">Вампират</content>
+  <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="15">Торговец глазами</content>
+  <content contentuid="h251b956eg868fg2b0bgfcadgd0b59c6b5306" version="3">Торговец глазами</content>
+  <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="5">Искаженное видение звездного света</content>
+  <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="9">Космический клоун</content>
+  <content contentuid="hc0b30e99gf229g38c6g70ecgc67805c075b8" version="4">Космический клоун</content>
+  <content contentuid="h3d13c9b4g191egdc0dg7925gb26269d0edc1" version="4">Космический клоун</content>
+  <content contentuid="h389eeb7ag0368gba70gb53cg54785894496e" version="4">Космический клоун</content>
+  <content contentuid="hd0a462feg7297g65e5g0849g7ccc4d8d6864" version="4">Космический клоун</content>
+  <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="9" />
+  <content contentuid="h442fa36fg1587g0230gf65cg7560cca26330" version="2" />
+  <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="29">Гигантский космический хомяк</content>
+  <content contentuid="h0a24bf53g2a55gd927gcabdg5a2496d394dd" version="1">Гигантский космический хомяк</content>
+  <content contentuid="hf63df877g07d1g18ddgbd0ag97c8466906b2" version="9">Гигантский космический хомяк</content>
+  <content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="4">*Крр-крр*</content>
+  <content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="4">*Кш-кш*</content>
+  <content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="4">*Сккк*</content>
+  <content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="22">Гаж</content>
+  <content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="16">Гаж</content>
+  <content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="17">Гаж</content>
+  <content contentuid="had4c80c1g589bgb151g96d5g6b3cfd7f4b5c" version="17">Гаж</content>
+  <content contentuid="h36b0e312g6965gd4f4g3a15g50d1546860d7" version="1">Гаж</content>
+  <content contentuid="h12c29633g9331gfc36gfd2ag722fd07e5dcf" version="1">Гаж</content>
+  <content contentuid="h16510d53g0e3agc796g6ba7g6f83703b4855" version="1">Гаж</content>
+  <content contentuid="hc0037b2fg9f61gc549g4163g8b39bf8e8d78" version="1">Гаж</content>
+  <content contentuid="h3d920ed0g518agb14dgd8dag5827b8598729" version="1">Мандибулы</content>
+  <content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">Мандибулы</content>
+  <content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">Атаковать противника мандибулами и &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;парализовать&lt;/LSTag&gt; его.</content>
+  <content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">Атаковать противника мандибулами и &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;парализовать&lt;/LSTag&gt; его.</content>
+  <content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="11">Портал культа</content>
+  <content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="12">Портал культа</content>
+  <content contentuid="h0fb40e56g7f6fg2bb8geea4g3fdac72f37ad" version="1">Портал культа</content>
+  <content contentuid="ha4b423fcg5f5bg2b46g9fdcg12ca8efdf988" version="1">Портал культа</content>
+  <content contentuid="hfdb2adb3g198cgcaedg45cdgbc64371a8924" version="12">Культист</content>
+  <content contentuid="h7b42fd8aga988g4f8fg8739g31d4691e66be" version="13">Культист</content>
+  <content contentuid="hbbba2b2fg0fbagc83egd2ceg02fd58ada2a2" version="9">Культист</content>
+  <content contentuid="h3e9ceb49gbfa2g3334gd17bg0a1a72eb7728" version="9">Культист</content>
+  <content contentuid="h0aec0d79g4a48g1504ge525ga5c67810d689" version="10">Культист</content>
+  <content contentuid="h995ab35fgf446g6ff7g5912ga27450c67210" version="9">Культист</content>
+  <content contentuid="hce75ca0eg45c5g0365g2152g8f52817b6a92" version="9">Культист</content>
+  <content contentuid="h4de5d956gd24fg76e6gff92g0e5a2ac870d0" version="8">Культист</content>
+  <content contentuid="h3a4ad24fg70c2g9b8fgf8a2g15e520d012d3" version="10">Культист</content>
+  <content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="13">Культист</content>
+  <content contentuid="h12ab5e60g46f4g387agb961gdd1cbd18cde0" version="1">Культист</content>
+  <content contentuid="h560a602dg5986g14e0g1584g2a9a5ae38620" version="1">Культист</content>
+  <content contentuid="ha2ae2a9fg477agad7dgdb53gca3f514f2937" version="1">Культист</content>
+  <content contentuid="h3bdb0984g8948g53d2gaa99g33ec6a74c646" version="1">Культист</content>
+  <content contentuid="hd84228fbg11dfg3f33g36a2g1a3c5fc304fc" version="1">Культист</content>
+  <content contentuid="h2f2c7a4agaf58g268fgbcd4gae5630cfc46b" version="1">Культист</content>
+  <content contentuid="hfd59cb54g92c6g2854g7d03ga6e60d877f48" version="1">Культист</content>
+  <content contentuid="h13b70a16ga923gcf4fg955ag1d38fe381e7d" version="1">Культист</content>
+  <content contentuid="h257a3d16gf490g4f59g4ce8g343b3e8e3fef" version="1">Культист</content>
+  <content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="2">Мы восстановим бога из ваших костей!</content>
+  <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="2">Их останки будут жить внутри нас!</content>
+  <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="2">Он взывает к нам!</content>
+  <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="4">Комета Смерти</content>
+  <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="28">Лидер Культа</content>
+  <content contentuid="h35e88e40g9506g073ega883g421d244e0f6e" version="4">Алхун</content>
+  <content contentuid="h6d9ee59eg2589g2598g5c71g0fff78129d46" version="2">Трупы богов таят дают большую надежду, чем любой старший мозг!</content>
+  <content contentuid="h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d" version="2">Нам не нужен Великий План. Сила древних богов принадлежит нам.</content>
+  <content contentuid="hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121" version="2">Зачем следовать древнему разуму, когда мы можем создать нечто большее?</content>
+  <content contentuid="hacbbadeeg7a60gf5cdgb51cg79cc97addb8e" version="3">Spelljammer</content>
+  <content contentuid="ha159b668g7e97gdffbg7339g93bd4888ee75" version="2">Приключения в космосе</content>
+  <content contentuid="h18b55390gdddcg08abg1799ge1fa22a8bebe" version="3">Космический галеон</content>
+  <content contentuid="hfb6d5ad0g6ca4gcf5cg5e0bgcd8ad6db0ed9" version="2">Похоже, что теперь вы являетесь владельцем магического корабля на Астральном плане. Теперь вы можете исследовать Астральный план на своем космическом галеоне.</content>
+  <content contentuid="h00c657eeg0320g8d98g2b74ge37cbd342315" version="1">Трюм вашего корабля позволит вам спокойно отдохнуть.</content>
+  <content contentuid="h5c40a550g7437gf5eaga8bcgd0bd20d51de2" version="1">Улучшенный корабль</content>
+  <content contentuid="h6af0a223gd128gd306gaae2g79a22a249a79" version="1">Похоже, вы можете обновить свой корабль с помощью оборудования.</content>
+  <content contentuid="h9840d568g5126g0b93g3089gbb1ea3689b74" version="1">Теперь ваш корабль оснащен баллистами, которые вы можете использовать против своих врагов.</content>
+  <content contentuid="h96c053c6gb0fbgfa9eg416bgb18298fd7515" version="1">Теперь ваш корабль оснащен пушкой, которую вы можете использовать против своих врагов.</content>
+  <content contentuid="h9f44ea54g3399g3413g1072g1863d29ef979" version="1">Астральные встречи</content>
+  <content contentuid="ha3f4bb54g07e7g9908gc732g7ed6be06719c" version="1">Исследовать Астральное море на своем корабле может быть опасно!</content>
+  <content contentuid="hf913c98bg973ega2b2g406fg0b3c37df3dd1" version="1">Трупы и боги</content>
+  <content contentuid="he2f99204ga3c8gbb78g2989ga1ad63aee669" version="1">Похоже, Нижние Скалы является небольшим торговым городком, пунктом снабжения космических путешественников.</content>
+  <content contentuid="ha64a7fcdg551dge7bfgadc1gdef85d7938df" version="4">Культист? Это явно не в духе атмосферы Нижних Скал.</content>
+  <content contentuid="hc1ce5af5g8505g7fedg5d84gd52c24b22fd5" version="1">Пора исследовать Таверну Космических кораблей.</content>
+  <content contentuid="hf8649720ga6eeg74b3g677fgc7f076a93b7d" version="1">Какие-то призраки и странный культист. Что это все значит?</content>
+  <content contentuid="hd038fa47g9450ga183g188bg7cda3def4f0f" version="1">Исследуйте затерянное в космосе разрушенное святилище.</content>
+  <content contentuid="h5f6e258dg4279gc708gcb5fgec5873ad7def" version="1">Они пытались создать себе своего бога?</content>
+  <content contentuid="hd422ac74g73e4g6a20g2df8g92912ed9202f" version="1">Исследовать лабораторию культистов.</content>
+  <content contentuid="h9b06523cgd1f1gbe4cg8cbegc365ffed0aa0" version="1">Эксперименты с трупами, умершими людьми, иллитидами. Пока ничего не понятно.</content>
+  <content contentuid="h80ef3df7g0ed4gb2cbg530cgf2d8a2a5b0b2" version="2">Вернуться к основам</content>
+  <content contentuid="ha172501agaa8ag97f8g17e5g67466bd8d4fe" version="4">Продолжить ваше приключение в Вратах Балдура.</content>
+  <content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">Астральный удар: Магия</content>
+  <content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">Астральный удар: Магия</content>
+  <content contentuid="h6e42c517g0554g445egf075g33a706cf71f4" version="2">Астральный удар: Магия</content>
+  <content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">Используйте магию своего корабля, чтобы обстрелять сразу 2 области.</content>
+  <content contentuid="h63d197feg98e6g7e98g24f9gae3d6e8904d1" version="2">Используйте магию своего корабля, чтобы обстрелять сразу 2 области.</content>
+  <content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">Используйте магию своего корабля, чтобы обстрелять сразу 2 области.</content>
+  <content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="3">Астральный удар: Пушка</content>
+  <content contentuid="h68d6870egab8ag7e9dgadbbg21f6063be168" version="2">Астральный удар: Пушка</content>
+  <content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="4">Используйте корабельную пушку, чтобы 5 раз обстрелять местность. (Снаряды этого оружия не проходят сквозь препятствия, ваши цели должны находиться на открытой местности)</content>
+  <content contentuid="hf64c0f3cg074cg31b1g078cg5e949923efd0" version="1">Используйте корабельную пушку, чтобы 5 раз обстрелять местность.</content>
+  <content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">Астральный удар: Баллисты</content>
+  <content contentuid="he4fa7f6dg8062g6180g7052g3ce437c68ae7" version="2">Астральный удар: Баллисты</content>
+  <content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="5">Используйте корабельные баллисты, чтобы произвести один выстрел по площади. (Снаряды этого оружия не проходят сквозь препятствия, ваши цели должны находиться на открытой местности)</content>
+  <content contentuid="hdf19e15cg387cg98dage2cfg8fc2d7e944fa" version="1">Используйте корабельные баллисты, чтобы произвести один выстрел по площади.</content>
+  <content contentuid="h8ef5f65egc6eag53b3g4e62ge7bc9050eb7a" version="1">Лабораторный удар: Пушка</content>
+  <content contentuid="h49783a2agd32dge5b8ge66fg4e44a44caa21" version="2">Магическое плаванье</content>
+  <content contentuid="head34f4dge27ag034fgcc1ag54e4fd99a431" version="2">У вас есть магический корабль в Астральном море.</content>
+  <content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="9">Магический руль</content>
+  <content contentuid="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1">Неудачная синхронизация</content>
+  <content contentuid="hde317402g58e5gebdfg959fg9e952c48e6ff" version="1">Вы не можете синхронизироваться с несуществующим рулем или космическим кораблем.</content>
+  <content contentuid="h522a0890ge170gb53bg656egdc58756b0b9f" version="2">Передача синхронизации</content>
+  <content contentuid="h68bf2282gcc61gf8a0g319dg7ec719a622f2" version="1">Передать магическую синхронизацию союзнику.</content>
+  <content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="3">Слот магического корабля</content>
+  <content contentuid="hbb3421beg81c5g3071gf9e0gd20ba5277ab7" version="1">Слот магического корабля</content>
+  <content contentuid="h41c7b9c9g1ccage314g466ag7dcd6181e80f" version="1">Позволяет вам использовать оборудование вашего корабля с земли.</content>
+  <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="3">Позволяет вам удаленно пользоваться оборудованием вашего судна.</content>
+  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">Однако вам необходимо иметь магический корабль и соответствующее оборудование. В противном случае заклинание будет бесполезным.</content>
+  <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">Вы должны повторно синхронизироваться со своим магическим рулем, чтобы повторно использовать его оружие.</content>
+  <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">Документ о праве собственности с Астрального плана</content>
+  <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="11">Документ о праве собственности из космоса</content>
+  <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">Старый, забытый документ о праве собственности на старый космический корабль.</content>
+  <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="11">Старый, забытый документ о праве собственности с Астрального плана на старое космическое судно.</content>
+  <content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="11">Этот контракт непрочитан.</content>
+  <content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">Активировать</content>
+  <content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="11">Активировать</content>
+  <content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="6">Позволяет вам заполучить магический корабль.</content>
+  <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Космический галеон</content>
+  <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="4">Этот корабль - оплот среди множества судов, курсирующих по Дикому космосу и Астральному морю. Космический галеон может легко сойти за обычный морской галеон.</content>
+  <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*Вы получаете свой собственный магический корабль*</content>
+  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="7">Заказ на поставку: Баллисты</content>
+  <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="7">Активировать</content>
+  <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="7">Этот заказ на поставку непрочитан.</content>
+  <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="7">Во-первых, вам необходимо вручную активировать заказ на поставку. Во-вторых, вы сможете установить свои баллисты с помощью устройства для улучшения корабля.</content>
+  <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="7">Заказ на поставку магического оружия.</content>
+  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="7">Заказ на поставку: Пушка</content>
+  <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="7">Активировать</content>
+  <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="7">Этот заказ на поставку непрочитан.</content>
+  <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="7">Во-первых, вам необходимо вручную активировать заказ на поставку. Во-вторых, вы сможете установить свою пушку с помощью устройства для улучшения корабля.</content>
+  <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="7">Заказ на поставку магического оружия.</content>
+  <content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">Заказ на поставку: Баллисты</content>
+  <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">Вы можете установить баллисты при помощи устройства для улучшения корабля.</content>
+  <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Заказ на поставку: Пушка</content>
+  <content contentuid="h78f19273g83e4g92d5ge16dg03d02785e03f" version="1">Вы можете установить пушку при помощи устройства для улучшения корабля.</content>
+  <content contentuid="h252fd1a6gab11gfb05g4134g37e780055467" version="3">Безвоздушная зона</content>
+  <content contentuid="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2">В этом месте отсутствует воздух. Воздушный пузырь может помочь вам с этим.</content>
+  <content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">Зона с воздухом</content>
+  <content contentuid="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2">Это место волшебным образом наполнено воздухом, которым можно дышать.</content>
+  <content contentuid="heb592b8bgafb8g5b6ag0a64g4b44171f1778" version="1">Необычная природа</content>
+  <content contentuid="h1c14fc74g9a0fgbb23gc276g1546ab6e0dc4" version="1">Необычная природа</content>
+  <content contentuid="h878f9d88gb97eg1d38g35a1g552c279c6487" version="1">Этому существу не нужен воздух.</content>
+  <content contentuid="hc6ec109eg30d9g3f43g0bd4g70b33451f8c4" version="1">Этому существу не нужен воздух.</content>
+  <content contentuid="h421de244g793ag68cfgcf22gdd1a8b2ddb76" version="1">Задержать дыхание</content>
+  <content contentuid="h47918afeg3328g074fg6a1cg5206108998c8" version="1">Задержать дыхание</content>
+  <content contentuid="h314ff465g5aa0g8771g3cb1gba64d434118f" version="1">Существо задержало дыхание.</content>
+  <content contentuid="h4624eb99g6af0g9dd2gc03fg973ffb8808ab" version="1">Существо задержало дыхание.</content>
+  <content contentuid="h399bd7dbg2b9fg4e03g838cg7e299b0aa7bb" version="3">Свиток "Призыв гигантского магического хомяка"</content>
+  <content contentuid="h7ef170e9gd5aag3b0cgde8dg9efaaf932b58" version="1">Призвать храброго гигантского космического хомяка. Он временно присоединяется к вашей команде..</content>
+  <content contentuid="h89975669ga317g279cga6a9g028012652811" version="1">Воздушный пузырь</content>
+  <content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">Воздушный пузырь</content>
+  <content contentuid="hddc514fcg15f7g9bafg7d63gb2d68c95557a" version="2">Амулет воздушного пузыря</content>
+  <content contentuid="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1">Воздушный пузырь</content>
+  <content contentuid="hed624bb4gccecg8b13gdd80g91b3fab2cb0a" version="2">Свиток «Воздушный пузырь»</content>
+  <content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2">Голова покрыта воздушным пузырем, наполненным свежим воздухом.</content>
+  <content contentuid="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2">Голова покрыта воздушным пузырем, наполненным свежим воздухом.</content>
+  <content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">Вы создаете призрачный шар вокруг головы существа, которое вы видите в пределах досягаемости. Шар наполняется свежим воздухом, который сохраняется до окончания действия заклинания.</content>
+  <content contentuid="hedc1df35g19d0gb40bg99fag6116444934be" version="3">Этот аксессуар позволяет вам создать призрачный шар вокруг головы 3-х существ, которых вы можете видеть в пределах досягаемости. Шар наполняется свежим воздухом, который сохраняется до окончания действия заклинания.</content>
+  <content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="13">Серебряная тарелка</content>
+  <content contentuid="hfdbf8023gd2ceg5ac2g8684g11487fe6bce9" version="1">Серебряная тарелка</content>
+  <content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">Шлем костюма рыбы</content>
+  <content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">Громоздкий шлем, полностью закрывающий голову.</content>
+  <content contentuid="h96790e9eg1bf5ge89cgb79ag9ebcb806aa9d" version="4">Создает эффект "воздушного пузыря" и устойчивость к "кислотным" облакам.</content>
+  <content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">Синхронизация с магическим рулем</content>
+  <content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="3">Синхронизация с магическим рулем</content>
+  <content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">Магический руль</content>
+  <content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="5">Слот магического корабля</content>
+  <content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">Свиток «Синхронизация с магическим рулем»</content>
+  <content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">Вы синхронизируетесь с рулем вашего корабля, что позволяет вам использовать оборудование вашего корабля с земли.</content>
+  <content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="4">Вы синхронизируетесь с рулем вашего корабля, что позволяет вам использовать оборудование вашего корабля с земли.</content>
+  <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="6">Позволяет вам использовать оборудование вашего корабля с земли.</content>
+  <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Теллурий Дикого космоса</content>
+  <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Теллурий Дикого космоса</content>
+  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="3">Теллурий Дикого космоса</content>
+  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="3">Находясь в системе Дикого космоса, это переносное магическое устройство автоматически отслеживает положение и движение всех солнц, планет, лун и комет в пределах этой системы и проецирует образы этих тел в их текущих позициях. Среди этих изображений мерцает маленький белый шарик света, указывающий текущее местоположение теллурия</content>
+  <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">Вы получаете бонус к умению навыков природы и внимания.</content>
+  <content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">Вы получаете бонус к умению навыков природы и внимания.</content>
+  <content contentuid="h806975eagdb0fgabf3g50d5g1e000d4c6d8e" version="4">Кольцо из таларита</content>
+  <content contentuid="h8a5981c4ga0b5g91dfgac8bg4a1da190e97e" version="4">Рейгарский мастер создал это ювелирное изделие в форме кольца, которое можно надеть на палец. Магия, заключенная в этом изделии, доведена до совершенства, и поэтому оно автоматически подстраивается под своего владельца.</content>
+  <content contentuid="hda0d8d75g9405g7c19g248agd8d077eaf6a0" version="1">Браслеты из таларита</content>
+  <content contentuid="h9ba0a317g0f3cg3ad4g5d5fg9ee8be6b24eb" version="1">Рейгарский мастер создал это ювелирное изделие в виде браслетов, которые можно носить на руках. Магия, заключенная в этом изделии, доведена до совершенства, и поэтому оно автоматически подстраивается под своего владельца.</content>
+  <content contentuid="h33a504e9gc5c7gfab8g9273g8cee2ca74386" version="2">Диадема из таларита</content>
+  <content contentuid="h70330665g8036g0ac9g052dg49c6c4be4303" version="2">Рейгарский мастер создал это украшение в виде диадемы, которую можно надеть на голову. Магия, заключенная в этом изделии, доведена до совершенства, и поэтому оно автоматически подстраивается под своего владельца.</content>
+  <content contentuid="h8dc85010g52c1g5e4agb515gb811d448bb97" version="2">Ожерелье из таларита</content>
+  <content contentuid="h1428863agb14fg8803g0abcgfc8b071ac733" version="2">Рейгарский мастер создал это ювелирное изделие в форме амулета, который можно носить на шее. Магия, заключенная в этом изделии, доведена до совершенства, и поэтому оно автоматически настраивается на своего владельца.</content>
+  <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="3">Чувствительность к талариту</content>
+  <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="2">Чувствительность к талариту</content>
+  <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="2">Чувствительность к талариту</content>
+  <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">Атаки оружием носителя наносят дополнительно [1] урона силой.</content>
+  <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">Атаки оружием носителя наносят дополнительно [1] урона силой.</content>
+  <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">Атаки оружием носителя наносят дополнительно [1] урона силой.</content>
+  <content contentuid="hec096946g23b1gdf65g6fe4g9f3f93892b76" version="1">Рейгарская иллюзия</content>
+  <content contentuid="h2aff07f2g0148g50f6g06ecga32a5f4536f6" version="1">Рейгарская иллюзия</content>
+  <content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">Вызывать иллюзии, которые выглядят точно так же, как заклинатель.</content>
+  <content contentuid="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="1">Вызывать иллюзии, которые выглядят точно так же, как заклинатель.</content>
+  <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Теллурий Дикого космоса</content>
+  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="2">Наличие этого предмета в инвентаре дает вам его магический эффект..</content>
+  <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">Вы получаете бонус к умению навыков природы и внимания.</content>
+  <content contentuid="h931831bagdb4ag58bfgd29dg08e838965c67" version="7">Амулет воздушного пузыря</content>
+  <content contentuid="hc9f60dc9gd341g2907gd91bgb9115368e2cc" version="4">Амулет инструментов</content>
+  <content contentuid="h2f8ca464g6834g2a20g7e91g219358e926c6" version="4">Потребить</content>
+  <content contentuid="h493d3cc5g0f23g566bgacdfg61cc41a5d6eb" version="4">Потребить</content>
+  <content contentuid="h7e4b0b47gea96g50d8gf74ag19332d1748e5" version="2">Аксессуар, сделанный Чвингой. После использования он исчезает.</content>
+  <content contentuid="h3840b9c2gc5adge66ag917agc73392ca62df" version="3">Аксессуар, сделанный Чвингой. После использования он исчезает.</content>
+  <content contentuid="ha431dcc2g57adg12e2ga72ag5f34bb5a8be6" version="1">Амулет инструментов</content>
+  <content contentuid="hc561caa2gda7fg1616g366cge37dc7ef99bb" version="3">Этот аксессуар позволяет вам волшебным образом создать 3 воровских инструмента для вашего приключения.</content>
+  <content contentuid="h65dff092gf42dg7514ga5e7ga6c239a29086" version="4">Пищалки</content>
+  <content contentuid="hb24675a8gfc06gb2a1g021fg42f5e73badbc" version="4">Клоунские туфли, которые громко пищат при ходьбе.</content>
+  <content contentuid="he2fe53fcg097dg15aag30d8gb9496cad95d9" version="2">Вы получаете штраф к скрытности и выживании, пока носите этот предмет.</content>
+  <content contentuid="h28241fe4g6861g59aagaac0gc197d94a3c8f" version="4">Гитка</content>
+  <content contentuid="he36da38cg5767ga644g1d1cgccb1d902a06f" version="2">Гитка</content>
+  <content contentuid="h66a0b518g3b14g3f2dgdc67g3b8172b21a53" version="9">Гитка</content>
+  <content contentuid="h455cce1ag5617gea5cgf35age6fd5e675446" version="1">Гитка</content>
+  <content contentuid="hb63d8961gb40agbc6eg46eeg6a468373a3d4" version="4">Экзотическое оружие, изобретенное три-кринами.</content>
+  <content contentuid="hd267c678gb241g1567g914fg042554d28544" version="2">Экзотическое оружие, изобретенное три-кринами.</content>
+  <content contentuid="h5a32d8e0g8667gc8bfgcaacgb78db650feb9" version="9">Экзотическое оружие, изобретенное три-кринами.</content>
+  <content contentuid="h5a26099ag0fceg0fffgee95g037eb793a819" version="2">Мастерство три-кринов</content>
+  <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Мастерство три-кринов</content>
+  <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">Бонус [1] к &lt;LSTag Tooltip="AttackRoll"&gt;броскам атаки&lt;/LSTag&gt;.</content>
+  <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">Бонус [1] к &lt;LSTag Tooltip="AttackRoll"&gt;броскам атаки&lt;/LSTag&gt;.</content>
+</contentList>

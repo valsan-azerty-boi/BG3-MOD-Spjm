@@ -667,8 +667,8 @@
   <content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="6">Vous permet d'utiliser les équipements de votre vaisseau depuis le sol.</content>
   <content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">Orrery de l'espace sauvage</content>
   <content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">Orrery de l'espace sauvage</content>
-  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="2">Orrery de l'espace sauvage</content>
-  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="2">Dans un système stellaire, cet appareil arcanique portable pouvait suivre automatiquement les positions et les mouvements de tous les soleils, planètes, lunes et comètes, projetant alors un affichage de ces corps au-dessus de l'appareil.</content>
+  <content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="3">Orrery de l'espace sauvage</content>
+  <content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="3">Dans un système stellaire, cet appareil arcanique portable pouvait suivre automatiquement les positions et les mouvements de tous les soleils, planètes, lunes et comètes, projetant alors un affichage de ces corps au-dessus de l'appareil.</content>
   <content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">Donne un bonus de compétence en Nature et en Perception.</content>
   <content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">Donne un bonus de compétence en Nature et en Perception.</content>
   <content contentuid="h806975eagdb0fgabf3g50d5g1e000d4c6d8e" version="4">Anneau Talarith</content>
@@ -690,14 +690,14 @@
   <content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">Invoque des clones magiques identique au lanceur de sorts.</content>
   <content contentuid="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="1">Invoque des clones magiques identique au lanceur de sorts.</content>
   <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Orrery de l'espace sauvage</content>
-  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="1">Avoir cet objet dans votre inventaire vous confère son effet magique.</content>
+  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="2">Avoir cet objet dans votre inventaire vous confère son effet magique.</content>
   <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">Vous obtenez un bonus de compétence en Nature et Perception.</content>
-  <content contentuid="h931831bagdb4ag58bfgd29dg08e838965c67" version="6">Babiole à bulles d'air</content>
-  <content contentuid="hc9f60dc9gd341g2907gd91bgb9115368e2cc" version="3">Babiole à outils instantanés</content>
-  <content contentuid="h2f8ca464g6834g2a20g7e91g219358e926c6" version="3">Consommer</content>
-  <content contentuid="h493d3cc5g0f23g566bgacdfg61cc41a5d6eb" version="3">Consommer</content>
-  <content contentuid="h7e4b0b47gea96g50d8gf74ag19332d1748e5" version="1">Un bibelot fabriqué par un Chwinga. Une fois utilisé, ce charme disparaît.</content>
-  <content contentuid="h3840b9c2gc5adge66ag917agc73392ca62df" version="2">Un bibelot fabriqué par un Chwinga. Une fois utilisé, ce charme disparaît.</content>
+  <content contentuid="h931831bagdb4ag58bfgd29dg08e838965c67" version="7">Babiole à bulles d'air</content>
+  <content contentuid="hc9f60dc9gd341g2907gd91bgb9115368e2cc" version="4">Babiole à outils instantanés</content>
+  <content contentuid="h2f8ca464g6834g2a20g7e91g219358e926c6" version="4">Consommer</content>
+  <content contentuid="h493d3cc5g0f23g566bgacdfg61cc41a5d6eb" version="4">Consommer</content>
+  <content contentuid="h7e4b0b47gea96g50d8gf74ag19332d1748e5" version="2">Un bibelot fabriqué par un Chwinga. Une fois utilisé, ce charme disparaît.</content>
+  <content contentuid="h3840b9c2gc5adge66ag917agc73392ca62df" version="3">Un bibelot fabriqué par un Chwinga. Une fois utilisé, ce charme disparaît.</content>
   <content contentuid="ha431dcc2g57adg12e2ga72ag5f34bb5a8be6" version="1">Babiole à outils instantanés</content>
   <content contentuid="hc561caa2gda7fg1616g366cge37dc7ef99bb" version="3">Cette babiole vous permet de créer magiquement 3 outils de voleur pour votre aventure.</content>
   <content contentuid="h65dff092gf42dg7514ga5e7ga6c239a29086" version="4">Couineuses</content>
