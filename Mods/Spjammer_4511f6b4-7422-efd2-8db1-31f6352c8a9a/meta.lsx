@@ -9,7 +9,7 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="35cdc7914694f9e5921ef35fd59cdbf0"/>
+                            <attribute id="MD5" type="LSString" value="33c1655f7ae3559b579ff3b9d2c45413"/>
                             <attribute id="Name" type="LSString" value="GustavDev"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
@@ -21,7 +21,7 @@
                     <attribute id="Author" type="LSString" value="valsan-azerty-boi / bib-qwerty-san / bibsan"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="This mod implements features from the DnD 5E Spelljammer sourcebooks into Baldur&apos;s Gate 3. These features have been adapted to better match the way the game works. Contains backgrounds, goals, feats, spells, items, bestiary, etc."/>
-                    <attribute id="FileSize" type="uint64" value="41603132"/>
+                    <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="Spjammer_4511f6b4-7422-efd2-8db1-31f6352c8a9a"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="1633c06b236bd3fa4b4352f40b50def8"/>
