@@ -6,11 +6,12 @@
         <field name="UUID" type="IdTableFieldDefinition" value="9b7cd70d-60fc-4399-92c1-74b4749613a1" />
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_CheatWeaponForTest_Template" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="59afe51a-dfbf-4e13-bf7e-0009b102e935" />
-        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="ActionPoint:0" />
         <field name="Damage" type="DiceTableFieldDefinition" value="1d4+390" />
-        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value=";" />
-        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value=";" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="EXTRA_ATTACK" />
         <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_Gythka_Advantage_Buff" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="d24c441f-7ebe-4229-8522-cf34c257ff20" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -19,7 +20,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="OBJ_Spjm_CheatWeaponForTest" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="9b7cd70d-60fc-4399-92c1-74b4749613a1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1f9c9255-026b-4a61-bb0c-cdce7b935a6b" />
-        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="EMPTY" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

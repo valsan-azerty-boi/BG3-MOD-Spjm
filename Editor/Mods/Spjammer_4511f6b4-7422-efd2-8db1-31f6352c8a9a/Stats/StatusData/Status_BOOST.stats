@@ -249,5 +249,27 @@
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisablePortraitIndicator;DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c4d356b6-17fa-40d5-9005-5292fb7c479d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_VampirateExplodeOnDeath" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5acc685e-5bdc-428c-a136-0131ec444fe2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Transmutation_Disintegrate" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DISINTEGRATE_DEATH" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(RemoveCause(StatusRemoveCause.Death)):ApplyStatus(CORPSE_SWITCH,100,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c6ab4a3-8c83-4c54-94c3-7caa74189b3b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_ClownExplodeOnDeath" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3882731c-c180-41a8-b2c2-9eab7984d1b1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Transmutation_Disintegrate" />
+        <field name="StackId" type="StringTableFieldDefinition" value="DISINTEGRATE_DEATH" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnRemoveFunctors" type="FunctorsTableFieldDefinition" value="IF(RemoveCause(StatusRemoveCause.Death)):ApplyStatus(CORPSE_SWITCH_EXPLODE,100,0)" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

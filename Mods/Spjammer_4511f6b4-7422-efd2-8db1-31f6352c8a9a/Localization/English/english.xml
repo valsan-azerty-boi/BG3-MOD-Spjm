@@ -486,8 +486,8 @@
   <content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="4">In the depths of space, I found peace.</content>
   <content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="4">I've seen worlds come and go.</content>
   <content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="4">You smell like prey.</content>
-  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="21">Vampirate</content>
-  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="19">Vampirate</content>
+  <content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="23">Vampirate</content>
+  <content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="21">Vampirate</content>
   <content contentuid="h9d85fea1gde3agec05gb459gbe2975ded4a6" version="7">Vampirate</content>
   <content contentuid="h86d6d4a9g90a7gf0feg3d0fg47c8ae710f05" version="6">Vampirate</content>
   <content contentuid="h0184ffceg6c2cgc9eag0b90g024a27d16d40" version="7">Vampirate</content>
@@ -497,12 +497,12 @@
   <content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="15">Eye Monger</content>
   <content contentuid="h251b956eg868fg2b0bgfcadgd0b59c6b5306" version="3">Eye Monger</content>
   <content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="5">Corrupted Starlight Apparition</content>
-  <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="9">Space Clown</content>
-  <content contentuid="hc0b30e99gf229g38c6g70ecgc67805c075b8" version="4">Space Clown</content>
-  <content contentuid="h3d13c9b4g191egdc0dg7925gb26269d0edc1" version="4">Space Clown</content>
-  <content contentuid="h389eeb7ag0368gba70gb53cg54785894496e" version="4">Space Clown</content>
-  <content contentuid="hd0a462feg7297g65e5g0849g7ccc4d8d6864" version="4">Space Clown</content>
-  <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="9" />
+  <content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="10">Space Clown</content>
+  <content contentuid="hc0b30e99gf229g38c6g70ecgc67805c075b8" version="5">Space Clown</content>
+  <content contentuid="h3d13c9b4g191egdc0dg7925gb26269d0edc1" version="5">Space Clown</content>
+  <content contentuid="h389eeb7ag0368gba70gb53cg54785894496e" version="5">Space Clown</content>
+  <content contentuid="hd0a462feg7297g65e5g0849g7ccc4d8d6864" version="5">Space Clown</content>
+  <content contentuid="h1a4e2188gb429gab08gbb66g9a2e4d5a7ec5" version="10" />
   <content contentuid="h442fa36fg1587g0230gf65cg7560cca26330" version="2" />
   <content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="29">Giant Space Hamster</content>
   <content contentuid="h0a24bf53g2a55gd927gcabdg5a2496d394dd" version="1">Giant Space Hamster</content>
@@ -629,10 +629,10 @@
   <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">You can install a Ballistae via the upgrade device.</content>
   <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase order: Cannon</content>
   <content contentuid="h78f19273g83e4g92d5ge16dg03d02785e03f" version="1">You can install a Cannon via the upgrade device.</content>
-  <content contentuid="h252fd1a6gab11gfb05g4134g37e780055467" version="3">Airless Area</content>
-  <content contentuid="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2">This place lacks air. An air bubble can counter this harmful effect.</content>
-  <content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">Area with Air</content>
-  <content contentuid="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2">This place is magically filled with air to breathe.</content>
+  <content contentuid="h252fd1a6gab11gfb05g4134g37e780055467" version="3">Deadly air</content>
+  <content contentuid="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2">This place lacks fresh air. An air bubble can counter this harmful effect.</content>
+  <content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">Fresh air</content>
+  <content contentuid="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2">This place is filled with fresh air to breathe.</content>
   <content contentuid="heb592b8bgafb8g5b6ag0a64g4b44171f1778" version="1">Unusual Nature</content>
   <content contentuid="h1c14fc74g9a0fgbb23gc276g1546ab6e0dc4" version="1">Unusual Nature</content>
   <content contentuid="h878f9d88gb97eg1d38g35a1g552c279c6487" version="1">The creature doesn't require air.</content>
