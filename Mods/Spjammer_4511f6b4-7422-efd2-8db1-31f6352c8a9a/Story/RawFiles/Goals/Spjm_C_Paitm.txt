@@ -1,0 +1,20 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Spjm Paitm Warp Sense Integration
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "Paitm_WarpSense_Buff", 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Paitm_WarpSense_PortalDetectedMultiple_Buff", 60.0);
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION
