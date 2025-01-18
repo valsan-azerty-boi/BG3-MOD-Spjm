@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <content contentuid="h26278ea4g240cge574g6d7egcfe71fe723da" version="2">Spelljammer</content>
-  <content contentuid="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2">A Spelljammer themed dice.</content>
+  <content contentuid="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2">A Spelljammer-themed dice.</content>
   <content contentuid="h89f2e023gcdf5gb2begd223g8f18a655a160" version="1">Spelljammer Pouch</content>
   <content contentuid="ha99a2114g6ee9gd172g47dcgbe37af845114" version="1">A simple pouch containing astral items.</content>
   <content contentuid="h1b6195b5gc566g234fg308cg912df50b25f2" version="1">Astral Drifter</content>
@@ -12,7 +12,7 @@
   <content contentuid="h322862cdgbab5g882fgc355g259dd3fd6c81" version="1">Astral Drifter</content>
   <content contentuid="h8763db21g731dg5c25g731fgcf7c20562247" version="1">Astral Drifter</content>
   <content contentuid="h8b2f4026g46d4ge64eg683cged54a26030c7" version="1">For longer than you can remember, you have traversed the Astral Sea. There, you experienced firsthand the wonders of the Silver Void: you stopped aging. In your travels, you have camped on the petrified hulks of dead gods and you crossed paths with a wandering deity.</content>
-  <content contentuid="he8b29522g64d7ge617g6a3bgb48e3cc8ce06" version="2">You have &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;Proficiency&amp;lt;/LSTag&amp;gt; in &amp;lt;LSTag Tooltip="Insight"&amp;gt;Insight&amp;lt;/LSTag&amp;gt; and &amp;lt;LSTag Tooltip="Religion"&amp;gt;Religion&amp;lt;/LSTag&amp;gt;.</content>
+  <content contentuid="he8b29522g64d7ge617g6a3bgb48e3cc8ce06" version="2">You gain &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;Proficiency&amp;lt;/LSTag&amp;gt; in &amp;lt;LSTag Tooltip="Insight"&amp;gt;Insight&amp;lt;/LSTag&amp;gt; and &amp;lt;LSTag Tooltip="Religion"&amp;gt;Religion&amp;lt;/LSTag&amp;gt;.</content>
   <content contentuid="h95400c63gfbc2g33d4gb7edg1474d5c7dcde" version="1">Divine Contact</content>
   <content contentuid="hb0afa464g5234ge051g9f73g148aebbb3cde" version="1">In the Astral Sea, you crossed paths with a wandering deity. The encounter was brief and nonviolent, yet it made a lasting impression on you. This deity saw fit to share one secret or obscure bit of cosmic lore with you.</content>
   <content contentuid="h1fbfea32g6188gb001g16e1g5ce3d640b0a5" version="1">In the Astral Sea, you crossed paths with a wandering deity. The encounter was brief and nonviolent, yet it made a lasting impression on you. This deity saw fit to share one secret or obscure bit of cosmic lore with you.</content>
@@ -25,20 +25,20 @@
   <content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="23">Wildspacer</content>
   <content contentuid="haa7873b4g83fcga854g93e5gce1be533036f" version="1">Wildspacer</content>
   <content contentuid="he9a2d11bga7f7gf42bg98d5ga03f231fe2b3" version="1">You were raised in the void of Wildspace, home to asteroid miners, moon farmers, and other hardy folk. You spent your early years on the crew of a spelljamming ship, performing helpful chores such as swabbing the deck, loading and offloading cargo, and scraping barnacles off the hull.</content>
-  <content contentuid="h8c3ad9beg67f3gd301g2edbg4aa980a73bbc" version="2">You have &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;Proficiency&amp;lt;/LSTag&amp;gt; in &amp;lt;LSTag Tooltip="Athletics"&amp;gt;Athletics&amp;lt;/LSTag&amp;gt; and &amp;lt;LSTag Tooltip="Survival"&amp;gt;Survival&amp;lt;/LSTag&amp;gt;.</content>
+  <content contentuid="h8c3ad9beg67f3gd301g2edbg4aa980a73bbc" version="2">You gain &amp;lt;LSTag Tooltip="Proficiency"&amp;gt;Proficiency&amp;lt;/LSTag&amp;gt; in &amp;lt;LSTag Tooltip="Athletics"&amp;gt;Athletics&amp;lt;/LSTag&amp;gt; and &amp;lt;LSTag Tooltip="Survival"&amp;gt;Survival&amp;lt;/LSTag&amp;gt;.</content>
   <content contentuid="h8b023e16g66ddg06bdg619ega47c53b1b8d9" version="1">Wildspace Adaptation</content>
   <content contentuid="h31555400g4792gb507gbb03g25e3fc3e8897" version="2">You have gained experience from your time in space and have learned to adapt to any gravity.</content>
   <content contentuid="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1">You have gained experience from your time in space and have learned to adapt to any gravity.</content>
-  <content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">Your hit point maximum increases by 1 for every level you have gained.</content>
-  <content contentuid="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="4">Your hit point maximum increases by 1 for every level you have gained.</content>
+  <content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1 for every level you have gained.</content>
+  <content contentuid="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="4">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1 for every level you have gained.</content>
   <content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">Secrets of the Sundering</content>
   <content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">Unlock and read the Book of Dead Gods.</content>
   <content contentuid="hf8439975g2c8eg466fg82c6g43b05ea6356f" version="3">Roots of the Grove</content>
   <content contentuid="hc2e79a7agf628g435dg80c3g50f58009bc12" version="3">Learn local history from the druidic frescos.</content>
   <content contentuid="hd43315a3gf3e2g4776g8b94gbe232e5c223a" version="3">Secrets of the Necromancer</content>
-  <content contentuid="h06e4a94egbfc8g4a21gb0dfg30a55742290b" version="3">Discover the strange nature of the Thayan tome.</content>
+  <content contentuid="h06e4a94egbfc8g4a21gb0dfg30a55742290b" version="3">Discover the strange nature of the Thayan Tome.</content>
   <content contentuid="h7a83550egacd1g4b6bgac02g49b17454f5ab" version="3">All Knowledge Is Worth Having</content>
-  <content contentuid="h8f2c8c08g6c74g47a8ga09fgd692d0dfe73b" version="3">Finish reading the Thayan tome of necromancy.</content>
+  <content contentuid="h8f2c8c08g6c74g47a8ga09fgd692d0dfe73b" version="3">Finish reading the Thayan Tome of Necromancy.</content>
   <content contentuid="hbf66724bg124fg4b45g80b0g34325a3c7261" version="3">Secrets of the Shadow Druids</content>
   <content contentuid="h9c5cddc0gec3fg4f86g992fg2f823c107ed1" version="3">Discover and read Faldorn's Canticle.</content>
   <content contentuid="h2cedaa7agdce8g43a8ga186g43b3d8306c7c" version="3">A Solitary Spider</content>
@@ -120,7 +120,7 @@
   <content contentuid="hd435f057g5447g4cf2ga8c3gec264b836802" version="3">Tragedy in Masonry</content>
   <content contentuid="h4be3353ag7f3fg4953g842agca49c8828d73" version="4">Discover the fate of the mason.</content>
   <content contentuid="h734ca831g3932g49aag813agcf93bbede281" version="3">Inhumane Trials</content>
-  <content contentuid="h0b67f66agcdb8g4adegac29gd9e744fe6036" version="7">Witness a horrid operation in the cursed house of healing.</content>
+  <content contentuid="h0b67f66agcdb8g4adegac29gd9e744fe6036" version="7">Witness a horrid operation in the cursed House of Healing.</content>
   <content contentuid="h7e80c1eeg0aa0g4611g96beg3d39691bf932" version="3">Special Iced Arsenic... Brew?</content>
   <content contentuid="hb491b417g6c9fg46c8g9371gfda87e2373de" version="6">Craft some Brewed-Up Bellyglummer.</content>
   <content contentuid="hd70c1e67g182dg4c1dg94b3g61596c87f422" version="5">Safety-Averse Quaffing</content>
@@ -250,18 +250,18 @@
   <content contentuid="h65af2bf3gea0eg6d88g946ag42708addb9ce" version="1">Cannon</content>
   <content contentuid="h138c060bg0127ga31ag7439ga75078227a17" version="1">Cannon</content>
   <content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="22">Unlock the Cannon.</content>
-  <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Cannon unlocked*</content>
+  <content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*Cannon unlocked.*</content>
   <content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="18">Ballistae</content>
   <content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="16">Ballistae</content>
   <content contentuid="h1d21c437g6510g2eceg20e8g171f45b04193" version="1">Ballistae</content>
   <content contentuid="hf2f1911fgf8cagcbf6g78aegbc53de1744ea" version="1">Ballistae</content>
   <content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="22">Unlock the Ballistae.</content>
-  <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked*</content>
+  <content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*Ballistae unlocked.*</content>
   <content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="22">&lt;i&gt;Leave.&lt;/i&gt;</content>
-  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="79">*Channels the arcane flow of the Helm*</content>
+  <content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="79">*Channels the arcane flow of the Helm.*</content>
   <content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="79">*Bend the Helm to your will*</content>
-  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="76">*Try to understand the magic emanating from the Helm*</content>
-  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="74">*Your mind does not seem to reach the arcana of the Helm*</content>
+  <content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="76">*Try to understand the magic emanating from the Helm.*</content>
+  <content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="74">*Your mind does not seem to reach the arcana of the Helm.*</content>
   <content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="71">*You are successfully syncing with the Helm*</content>
   <content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">*Call upon the whispers of your past to guide your will*</content>
   <content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="65">*The energy emanating from the Helm seems familiar to someone like you*</content>
@@ -274,9 +274,9 @@
   <content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="57">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="57">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
   <content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="53">*The Helm allows you to naturally navigate through the Astral Sea to your next destination.*</content>
-  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="23">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="20">[Astral Encounter] *Explore the Astral Sea*</content>
-  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="20">[Astral Encounter] *Explore the Astral Sea*</content>
+  <content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="23">[Astral Encounter] *Explore the Astral Sea.*</content>
+  <content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="20">[Astral Encounter] *Explore the Astral Sea.*</content>
+  <content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="20">[Astral Encounter] *Explore the Astral Sea.*</content>
   <content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="21">*The Helm allows you to naturally navigate through the Astral Sea to your next exploration.*</content>
   <content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">Traveler's Chest</content>
   <content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">Traveler's Chest</content>
@@ -287,15 +287,15 @@
   <content contentuid="hffca2043g68eag4845gbc94gd4766468d050" version="1">Hatch to camp</content>
   <content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="17">Ladder to ship</content>
   <content contentuid="h86451d31ge9c2g50afg02fag97875682d741" version="1">Ladder to ship</content>
-  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="35">*Symbiosing with the Helm*</content>
-  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="34">*Perform a ritual to synchronize with the Helm*</content>
-  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="33">*Use your faith towards the Helm*</content>
+  <content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="35">*Symbiosing with the Helm.*</content>
+  <content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="34">*Perform a ritual to synchronize with the Helm.*</content>
+  <content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="33">*Use your faith towards the Helm.*</content>
   <content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="12">Oz</content>
   <content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="12">Innkeeper</content>
-  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">*This illithid looks at you*</content>
+  <content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">*This illithid looks at you.*</content>
   <content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="13">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="13">&lt;i&gt;Leave.&lt;/i&gt;</content>
-  <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="11">*A simple merchant who offers goods for purchase*</content>
+  <content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="11">*A simple merchant who offers goods for purchase.*</content>
   <content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">Trout</content>
   <content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="8">&lt;i&gt;Trade.&lt;/i&gt;</content>
   <content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="11">&lt;i&gt;Leave.&lt;/i&gt;</content>
@@ -388,7 +388,7 @@
   <content contentuid="h90e0002dgef4eg0242g79cegb00ebb805a9f" version="4">Bought a map from a gith traderbest gold I ever spent. Took me to worlds I never knew existed.</content>
   <content contentuid="h9c191f9cgb495g87fcg5fd4gd2d86fde3189" version="4">Every drink here tastes like dreams and memories. Or maybe that's just the stardust.</content>
   <content contentuid="h446976ceg339eg1155g0811gd9acfdf31c28" version="4">Just another round to keep us steady in this strange, spinning universe.</content>
-  <content contentuid="ha250f369gc7eag971bg517bg577eec10b2ab" version="4">It's funnyout here, a single night can feel like a whole lifetime.</content>
+  <content contentuid="ha250f369gc7eag971bg517bg577eec10b2ab" version="4">It's funny out here, a single night can feel like a whole lifetime.</content>
   <content contentuid="h1a1db8c9gba14g8f18g5221g1368eac474c5" version="4">They say Spelljamming Helm knows your soul better than you do. A toast to our guides, then!</content>
   <content contentuid="h1b770f7bg9f6bga6f2g19e8g9380bc619a5a" version="4">Raise a glass! Even out here, we're closer than family.</content>
   <content contentuid="h1193e8a7g7f18g628fgef69g85eec47e5753" version="4">A ship passed by yesterday, all painted in strange colors. Said they'd seen the stars at the 'edge.' I wonder what that means…</content>
@@ -602,9 +602,9 @@
   <content contentuid="hbb3421beg81c5g3071gf9e0gd20ba5277ab7" version="1">Spelljamming Slot</content>
   <content contentuid="h41c7b9c9g1ccage314g466ag7dcd6181e80f" version="1">Allows you to use your Ship's Equipments from the ground.</content>
   <content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="3">Allows you to use your Ship's Equipment remotely.</content>
-  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljamming Ship and have it equipped with an Equipment. Otherwise the spell will be of no use.</content>
+  <content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">However, you need to own a Spelljamming Ship and have it equipped with a piece of Equipment. Otherwise the spell will be of no use.</content>
   <content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">You must resynchronize with your Spelljamming Helm to reuse its weapons.</content>
-  <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane</content>
+  <content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">A title deed from the Astral Plane.</content>
   <content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="11">A title deed from space</content>
   <content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">An old, forgotten title deed for an old space vessel.</content>
   <content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="11">An old, forgotten title deed from the Astral Plane for an old space vessel.</content>
@@ -615,23 +615,23 @@
   <content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">Space Galleon</content>
   <content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="4">This ship is a mainstay among the host of vessels that ply Wildspace and the Astral Sea. A Space Galleon can easily pass for an ordinary seafaring galleon.</content>
   <content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">*You gain your own Spelljamming Ship*</content>
-  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="7">Purchase order: Ballistae</content>
+  <content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="7">Purchase Order: Ballistae</content>
   <content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="7">Activate</content>
   <content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="7">This purchase order is unread.</content>
   <content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="7">First, you need to manually activate the purchase order. Second, you will be able to install your Ballistae via the Ship's upgrade device.</content>
   <content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="7">A purchase order for a Spelljamming weapon.</content>
-  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="7">Purchase order: Cannon</content>
+  <content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="7">Purchase Order: Cannon</content>
   <content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="7">Activate</content>
   <content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="7">This purchase order is unread.</content>
   <content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="7">First, you need to manually activate the purchase order. Second, you will be able to install your Cannon via the Ship's upgrade device.</content>
   <content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="7">A purchase order for a Spelljamming weapon.</content>
-  <content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">Purchase order: Ballistae</content>
+  <content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">Purchase Order: Ballistae</content>
   <content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">You can install a Ballistae via the upgrade device.</content>
-  <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase order: Cannon</content>
+  <content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">Purchase Order: Cannon</content>
   <content contentuid="h78f19273g83e4g92d5ge16dg03d02785e03f" version="1">You can install a Cannon via the upgrade device.</content>
-  <content contentuid="h252fd1a6gab11gfb05g4134g37e780055467" version="3">Deadly air</content>
+  <content contentuid="h252fd1a6gab11gfb05g4134g37e780055467" version="3">Deadly Air</content>
   <content contentuid="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2">This place lacks fresh air. An air bubble can counter this harmful effect.</content>
-  <content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">Fresh air</content>
+  <content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">Fresh Air</content>
   <content contentuid="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2">This place is filled with fresh air to breathe.</content>
   <content contentuid="heb592b8bgafb8g5b6ag0a64g4b44171f1778" version="1">Unusual Nature</content>
   <content contentuid="h1c14fc74g9a0fgbb23gc276g1546ab6e0dc4" version="1">Unusual Nature</content>
@@ -682,16 +682,16 @@
   <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="3">Talarith Attunement</content>
   <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="2">Talarith Attunement</content>
   <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="2">Talarith Attunement</content>
-  <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">The wearer's weapon attacks deal an additional [1] force damage.</content>
-  <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
-  <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">The wearer's weapon attacks deal an additional [1] force damage.</content>
+  <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">The wearer's weapon attacks deal an additional [1] Force damage.</content>
+  <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">The wearer's weapon attacks deal an additional [1] Force damage.</content>
+  <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">The wearer's weapon attacks deal an additional [1] Force damage.</content>
   <content contentuid="hec096946g23b1gdf65g6fe4g9f3f93892b76" version="1">Reigar Illusion</content>
   <content contentuid="h2aff07f2g0148g50f6g06ecga32a5f4536f6" version="1">Reigar Illusion</content>
   <content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">Summon duplicates that looks just like the caster.</content>
   <content contentuid="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="1">Summon duplicates that looks just like the caster.</content>
   <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Wildspace Orrery</content>
-  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="2">Having this item in inventory grants you its magical effect.</content>
-  <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">You have a Proficienty bonus in Nature and Perception.</content>
+  <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="2">Having this item in your inventory grants you its magical effect.</content>
+  <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Nature and Perception.</content>
   <content contentuid="h931831bagdb4ag58bfgd29dg08e838965c67" version="7">Charm of Air Bubbles</content>
   <content contentuid="hc9f60dc9gd341g2907gd91bgb9115368e2cc" version="4">Charm of Instant Tools</content>
   <content contentuid="h2f8ca464g6834g2a20g7e91g219358e926c6" version="4">Consume</content>
@@ -702,7 +702,7 @@
   <content contentuid="hc561caa2gda7fg1616g366cge37dc7ef99bb" version="3">This trinket allows you to magically create 3 Thieves' Tools for your adventure.</content>
   <content contentuid="h65dff092gf42dg7514ga5e7ga6c239a29086" version="4">Squeakers</content>
   <content contentuid="hb24675a8gfc06gb2a1g021fg42f5e73badbc" version="4">Clown shoes that squeak when you walk.</content>
-  <content contentuid="he2fe53fcg097dg15aag30d8gb9496cad95d9" version="2">You get a Stealth and Survival penalty when you equip this item.</content>
+  <content contentuid="he2fe53fcg097dg15aag30d8gb9496cad95d9" version="2">You receive a penalty to Stealth and Survival &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; when you equip this item.</content>
   <content contentuid="h28241fe4g6861g59aagaac0gc197d94a3c8f" version="4">Gythka</content>
   <content contentuid="he36da38cg5767ga644g1d1cgccb1d902a06f" version="2">Gythka</content>
   <content contentuid="h66a0b518g3b14g3f2dgdc67g3b8172b21a53" version="9">Gythka</content>
@@ -710,8 +710,8 @@
   <content contentuid="hb63d8961gb40agbc6eg46eeg6a468373a3d4" version="4">An exotic weapon invented by the Thri-kreen.</content>
   <content contentuid="hd267c678gb241g1567g914fg042554d28544" version="2">An exotic weapon invented by the Thri-kreen.</content>
   <content contentuid="h5a32d8e0g8667gc8bfgcaacgb78db650feb9" version="9">An exotic weapon invented by the Thri-kreen.</content>
-  <content contentuid="h5a26099ag0fceg0fffgee95g037eb793a819" version="2">Thri-kreen Expertise</content>
-  <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-kreen Expertise</content>
-  <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
-  <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h5a26099ag0fceg0fffgee95g037eb793a819" version="2">Thri-Kreen Expertise</content>
+  <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Thri-Kreen Expertise</content>
+  <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">+[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">+[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
 </contentList>

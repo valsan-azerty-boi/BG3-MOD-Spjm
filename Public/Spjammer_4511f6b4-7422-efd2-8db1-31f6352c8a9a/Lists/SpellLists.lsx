@@ -203,8 +203,7 @@
                     <attribute id="UUID" type="guid" value="4443eb31-282c-44cd-816b-b7b187af6213"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="MergedInto" type="guid" value="12150e11-267a-4ecc-a3cc-292c9e2a198d"/>
-                    <attribute id="Name" type="FixedString" value="Draconic Bloodline Sorcerer 11"/>
+                    <attribute id="Name" type="FixedString" value="Draconic Bloodline Sorcerer 11 (outdated spjm)"/>
                     <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
                     <attribute id="UUID" type="guid" value="a188f76f-e4e2-4e6d-a889-b538c466cf0e"/>
                 </node>
@@ -288,19 +287,19 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="MergedInto" type="guid" value="2f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
-                    <attribute id="Comment" type="LSString" value="Artificer spells level 2"/>
+                    <attribute id="Name" type="FixedString" value="Artificer spells level 2"/>
                     <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
                     <attribute id="UUID" type="guid" value="709eca54-3cf7-4465-9d40-c4751b596268"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="MergedInto" type="guid" value="5f3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
-                    <attribute id="Comment" type="LSString" value="Artificer spells level 5"/>
+                    <attribute id="Name" type="FixedString" value="Artificer spells level 5"/>
                     <attribute id="Spells" type="LSString" value="Shout_Spjm_CreateSpelljammerHelm"/>
                     <attribute id="UUID" type="guid" value="40551ab9-3d8f-42d5-aefa-13f11adbc52d"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="MergedInto" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
-                    <attribute id="Comment" type="LSString" value="Artificer spell scroll list"/>
+                    <attribute id="Name" type="FixedString" value="Artificer spell scroll list"/>
                     <attribute id="Spells" type="LSString" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble;Shout_Spjm_Scroll_GiantSpaceHamster"/>
                     <attribute id="UUID" type="guid" value="df26170b-0ae1-4548-82f0-7d9dbea756af"/>
                 </node>

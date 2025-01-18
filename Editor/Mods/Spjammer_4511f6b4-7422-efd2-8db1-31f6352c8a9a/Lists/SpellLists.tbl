@@ -268,9 +268,8 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a188f76f-e4e2-4e6d-a889-b538c466cf0e" />
-        <field name="Name" type="NameTableFieldDefinition" value="Draconic Bloodline Sorcerer 11" />
+        <field name="Name" type="NameTableFieldDefinition" value="Draconic Bloodline Sorcerer 11 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="12150e11-267a-4ecc-a3cc-292c9e2a198d" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
