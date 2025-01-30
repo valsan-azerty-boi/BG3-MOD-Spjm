@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Version="1.0.0.0">
+  <Minimaps>
+    <Minimap GUID="e8d65c75-19e9-43a2-8750-66d367d414b6" name="SPJM_MapRender_BoxTrigger_005" triggerId="1a294acd-8d7f-4165-919a-12a4135227be" minBoundsAdjust="0; 0; 0" maxBoundsAdjust="0; 0; 0" minPxPerUnit="10" />
+    <Minimap GUID="bdac5aaa-1300-4bd2-93c4-2d69c52acb42" name="SPJM_MapRender_BoxTrigger_006" triggerId="527767a7-9eb2-449d-81c2-65cab6dab3b0" minBoundsAdjust="0; 0; 0" maxBoundsAdjust="0; 0; 0" minPxPerUnit="10" />
+    <Minimap GUID="cd61328e-b10a-4866-8f64-7df59234de6a" name="SPJM_MapRender_BoxTrigger_002" triggerId="332e0123-765f-4b50-b1db-f0a9165a0419" minBoundsAdjust="0; 0; 0" maxBoundsAdjust="0; 0; 0" minPxPerUnit="10" />
+    <Minimap GUID="e6737f72-5958-4a5a-a2b7-e8e3ce823e86" name="SPJM_MapRender_BoxTrigger_001" triggerId="6a7e94ac-0ed2-4aa4-ad04-dd8d164095a4" minBoundsAdjust="0; 0; 0" maxBoundsAdjust="0; 0; 0" minPxPerUnit="10" />
+    <Minimap GUID="9cbb069a-ebbc-4fc7-a5f2-9efa2542bfd1" name="SPJM_MapRender_BoxTrigger_004" triggerId="a783d8c0-d48e-490c-9614-120c7d3ab428" minBoundsAdjust="0; 0; 0" maxBoundsAdjust="0; 0; 0" minPxPerUnit="10" />
+    <Minimap GUID="9f5d736e-e084-45c5-aa33-40f7a2b9c2b4" name="SPJM_MapRender_BoxTrigger_003" triggerId="66e4a5e6-167e-42d8-96fc-1d4a4a29c030" minBoundsAdjust="0; 0; 0" maxBoundsAdjust="0; 0; 0" minPxPerUnit="10" />
+  </Minimaps>
+</Root>

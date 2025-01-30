@@ -15,98 +15,98 @@ PROC_TriggerRegisterForPlayers((TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_2_195
 KBSECTION
 //REGION Music SPJM on the ship
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "HAV_EnteringHaven_TadpoleCheckpoint_Music_Enter");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Discovery_EventTrigger_7bd6027a-9549-4621-a54c-24b380773226)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "HAV_EnteringHaven_TadpoleCheckpoint_Music_Enter");
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Music_EventTrigger_17dbd604-295c-4fe3-8ab8-06eb870f905a)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "HAV_EnteringHaven_TadpoleCheckpoint_Music_Enter");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Spelljammer_Music_EventTrigger_17dbd604-295c-4fe3-8ab8-06eb870f905a)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "HAV_EnteringHaven_TadpoleCheckpoint_Music_Enter");
 
 //END_REGION
 
 //REGION Music SPJM camp
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_AstralCamp_EventTrigger_Music_e4744a41-f41f-45b1-9030-57def044fffe)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "HAV_EnteringHaven_TadpoleCheckpoint_Music_Enter");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_AstralCamp_EventTrigger_Music_e4744a41-f41f-45b1-9030-57def044fffe)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "HAV_EnteringHaven_TadpoleCheckpoint_Music_Enter");
 
 //END_REGION
 
 //REGION Music SPJM on city
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_1_b7944643-9858-4d97-9f5a-8b35b1f0a69b)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_1_b7944643-9858-4d97-9f5a-8b35b1f0a69b)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_2_00b71606-1155-482a-afb6-624c0f3ba534)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_2_00b71606-1155-482a-afb6-624c0f3ba534)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_3_d685994c-f01d-49ba-945a-3752d068a5d4)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_3_d685994c-f01d-49ba-945a-3752d068a5d4)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_4_f5c99856-32e2-482d-995c-a6ffc06ffd95)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_4_f5c99856-32e2-482d-995c-a6ffc06ffd95)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
 
 //END_REGION
 
 //REGION Music SPJM on dungeon 1
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon1_EventTrigger_Music_1_27ebb4fc-b595-48b1-9990-12740fbd4ccf)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "UND_DarkLake_EndEA_Music");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon1_EventTrigger_Music_1_27ebb4fc-b595-48b1-9990-12740fbd4ccf)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "UND_DarkLake_EndEA_Music");
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon1_EventTrigger_Music_2_b9de6dff-d299-4bec-81b0-42dcfa9ba447)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "UND_DarkLake_EndEA_Music");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon1_EventTrigger_Music_2_b9de6dff-d299-4bec-81b0-42dcfa9ba447)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "UND_DarkLake_EndEA_Music");
 
 //END_REGION
 
 //REGION Music SPJM on dungeon 2
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_1_f4df6f7d-3910-4f62-b104-55a18d55afcb)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "TUT_Helm_Transponder_Music");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_1_f4df6f7d-3910-4f62-b104-55a18d55afcb)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "TUT_Helm_Transponder_Music");
 
-IF
-EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_2_195ae54b-66e6-4588-ae24-4f670871568d)
-AND
-DB_Players(_Player)
-THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "TUT_Helm_Transponder_Music");
+//IF
+//EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_Dungeon2_EventTrigger_Music_2_195ae54b-66e6-4588-ae24-4f670871568d)
+//AND
+//DB_Players(_Player)
+//THEN
+//MusicPlayOnCharacter((CHARACTER)_Player, "TUT_Helm_Transponder_Music");
 
 //END_REGION
 
