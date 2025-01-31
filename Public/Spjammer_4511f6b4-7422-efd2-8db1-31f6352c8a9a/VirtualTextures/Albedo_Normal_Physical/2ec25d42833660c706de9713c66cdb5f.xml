@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\Spjammer_4511f6b4-7422-efd2-8db1-31f6352c8a9a\Assets\Minimaps\SPJM_AstralPlane_S\VirtualTextures\1e8058b8-925d-4e08-ae7d-91308224eec2_final_%x_%y" />
+    <Layer type="Normal" source="($DATA)\Public\Spjammer_4511f6b4-7422-efd2-8db1-31f6352c8a9a\Assets\Minimaps\SPJM_AstralPlane_S\VirtualTextures\NM" />
+    <Layer type="Physical" source="($DATA)\Public\Spjammer_4511f6b4-7422-efd2-8db1-31f6352c8a9a\Assets\Minimaps\SPJM_AstralPlane_S\VirtualTextures\PM" />
+  </Layers>
+</StackedTexture>
