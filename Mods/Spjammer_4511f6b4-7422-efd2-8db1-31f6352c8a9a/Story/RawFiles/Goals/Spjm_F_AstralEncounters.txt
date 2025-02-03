@@ -92,6 +92,15 @@ DB_SpjmTempComet(_SpjmTempComet1Creature3)
 THEN
 RequestDeleteTemporary((CHARACTER)_SpjmTempComet1Creature3);
 
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
+AND
+DB_Players(_Player)
+AND
+IsInventoryEmpty((GUIDSTRING)SPJM_TreasurePile_Full_Explo1_ae988cfd-efa2-4215-ba67-116ce4a8da07, 1)
+THEN
+SetOnStage((GUIDSTRING)SPJM_TreasurePile_Full_Explo1_ae988cfd-efa2-4215-ba67-116ce4a8da07, 0);
+
 //END_REGION
 
 //REGION SPJM Explo comet 2
@@ -197,6 +206,15 @@ AND
 DB_SpjmTempComet(_SpjmTempComet2Creature4)
 THEN
 RequestDeleteTemporary((CHARACTER)_SpjmTempComet2Creature4);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
+AND
+DB_Players(_Player)
+AND
+IsInventoryEmpty((GUIDSTRING)SPJM_TreasurePile_Full_Explo2_b315f66d-fab4-4c9f-9b6c-fbae1dbe431d, 1)
+THEN
+SetOnStage((GUIDSTRING)SPJM_TreasurePile_Full_Explo2_b315f66d-fab4-4c9f-9b6c-fbae1dbe431d, 0);
 
 //END_REGION
 
@@ -316,6 +334,15 @@ AND
 DB_SpjmTempComet(_SpjmTempComet3Creature4)
 THEN
 RequestDeleteTemporary((CHARACTER)_SpjmTempComet3Creature4);
+
+IF
+LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)
+AND
+DB_Players(_Player)
+AND
+IsInventoryEmpty((GUIDSTRING)SPJM_TreasurePile_Full_Explo3_6a492c66-9ab4-46e8-b63b-12241684dc89, 1)
+THEN
+SetOnStage((GUIDSTRING)SPJM_TreasurePile_Full_Explo3_6a492c66-9ab4-46e8-b63b-12241684dc89, 0);
 
 //END_REGION
 EXITSECTION
