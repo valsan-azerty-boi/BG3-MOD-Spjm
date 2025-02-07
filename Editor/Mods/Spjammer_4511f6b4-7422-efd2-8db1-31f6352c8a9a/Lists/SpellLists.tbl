@@ -36,33 +36,29 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="34acccb8-cc8a-42a7-847c-d40832722a02" />
-        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 3 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="3156daf5-9266-41d0-b52c-5bc559a98654" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="79de2353-7eba-4c43-a90d-cf7598dede91" />
-        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 4 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="09c326c9-672c-4198-a4c0-6f07323bde27" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="5c177232-5588-4340-b4d5-938118f3f393" />
-        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 5 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="ff711c12-b59f-4fde-b9ea-6e5c38ec8f23" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="5952c334-6397-4e91-b63a-510b97728e67" />
-        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Druid SLevel 6 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="6a4e2167-55f3-4ba8-900f-14666b293e93" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -84,41 +80,36 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="409afdfd-c0a7-41c4-abf6-aed522bee99f" />
-        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 3 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="4895c409-1850-42b1-a1d5-e9faf59296a9" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8828f6e3-f561-4b0b-8b71-ac3ff2951880" />
-        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 5 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="4a63f35c-69ec-45b9-a960-6c4f3b16e8ea" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="25b40fee-d767-4a42-94f4-a6bdd0b3564f" />
-        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid 6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid 6 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="469bd836-191a-4b92-8220-4796e2f4dc77" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e2a0be07-7adf-4ba5-bfb2-b68eccf81ef0" />
-        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 7 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="040c1144-88fc-4578-9958-ccd3ad82698d" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="186d9323-0110-4444-a01c-79e44eda95b9" />
-        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 9" />
+        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 9 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="bf52bca5-711e-4b21-bcf3-5e725aba58c0" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -156,41 +147,36 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="14fdcc7f-d21c-48da-9a25-50f9198babc0" />
-        <field name="Name" type="NameTableFieldDefinition" value="Gloom Stalker Ranger 3" />
+        <field name="Name" type="NameTableFieldDefinition" value="Gloom Stalker Ranger 3 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="5ea6abd7-3e02-4e8d-9220-8a400e0019a4" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="ea029901-617a-4353-beeb-b2d1daa321d0" />
-        <field name="Name" type="NameTableFieldDefinition" value="Gloom Stalker Ranger 5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Gloom Stalker Ranger 5 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="5bb07252-9a62-465a-936f-0ee475b586d1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b2b53459-3b8b-4abf-b98c-6059c2eab740" />
-        <field name="Name" type="NameTableFieldDefinition" value="Gloom Stalker Ranger 9" />
+        <field name="Name" type="NameTableFieldDefinition" value="Gloom Stalker Ranger 9 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="4a23c3c3-e6f7-48a4-a883-8ac2f6a2c97a" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="66a270aa-0044-4cd4-9cec-89b08d9eb5d7" />
-        <field name="Name" type="NameTableFieldDefinition" value="Ranger 10" />
+        <field name="Name" type="NameTableFieldDefinition" value="Ranger 10 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="89384c46-b6e2-4d3c-b61e-e48b932beafb" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="f16b3837-b4ae-4198-b536-2fb72d03cb85" />
-        <field name="Name" type="NameTableFieldDefinition" value="Hunter Ranger 11" />
+        <field name="Name" type="NameTableFieldDefinition" value="Hunter Ranger 11 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="49cfa35d-94c9-4092-a5c6-337b7f16fd3a" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -252,17 +238,15 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="75ca2b26-45ed-4df5-90cb-b4e614354b59" />
-        <field name="Name" type="NameTableFieldDefinition" value="StormSorcery Sorcerer 6" />
+        <field name="Name" type="NameTableFieldDefinition" value="StormSorcery Sorcerer 6 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="1efc151d-f076-4ab9-9886-d8c5625691c9" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="4443eb31-282c-44cd-816b-b7b187af6213" />
-        <field name="Name" type="NameTableFieldDefinition" value="Wild Magic Sorcerer 6" />
+        <field name="Name" type="NameTableFieldDefinition" value="Wild Magic Sorcerer 6 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="9c12019a-3535-4f54-a51d-e1277a5bffd6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -347,25 +331,22 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="b8bcaa37-a8b6-489d-a44a-5727411f20b0" />
-        <field name="Name" type="NameTableFieldDefinition" value="Conjuration Wizard level 6 ability" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="804e3405-7758-4496-8d30-7e61794baae8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Conjuration Wizard level 6 ability (outdated spjm)" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8657641b-ac5b-4fd3-9da2-9f2873fdaccb" />
-        <field name="Name" type="NameTableFieldDefinition" value="Illusion Wizard 6" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="2a428023-b6cd-4d77-a801-d1e1f772c83e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Illusion Wizard 6 (outdated spjm)" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="958d40cd-de22-4f2c-b702-e8bcc173cb86" />
-        <field name="Name" type="NameTableFieldDefinition" value="Divination Wizard 10" />
+        <field name="Name" type="NameTableFieldDefinition" value="Divination Wizard 10 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Shout_Spjm_CreateSpelljammerHelm;Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="dceec54d-fb54-4492-b466-b7a0b8b551f3" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
