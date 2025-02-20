@@ -20,3 +20,6 @@ This mod implements features from the D&D 5E Spelljammer sourcebooks into Baldur
 
 ## Special thanks
 - BG3 modding community
+
+## External CC credits
+- Asteroid 3D model from [admone](https://sketchfab.com/3d-models/asteroid-80a70567fb2a42df836e6d70204e0b68)
