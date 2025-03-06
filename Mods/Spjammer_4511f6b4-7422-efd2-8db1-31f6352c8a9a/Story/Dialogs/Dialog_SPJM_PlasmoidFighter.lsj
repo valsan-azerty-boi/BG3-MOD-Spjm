@@ -59,7 +59,7 @@
                                                 "TagText" : {
                                                    "handle" : "h82c05726gc372gab4fgf2cdga129d82dd5cc",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 4
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -68,7 +68,7 @@
                                                 "TagText" : {
                                                    "handle" : "h6c83c775g7f0agcf8ag2db0gc0879187aeda",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 4
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -77,7 +77,7 @@
                                                 "TagText" : {
                                                    "handle" : "hd0540c48gbd25g80f0g2b43g3214bbcf31f0",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 4
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -224,7 +224,7 @@
             ]
          },
          "editorData" : {
-            "HowToTrigger" : {"type" : "LSString", "value" : ""},
+            "HowToTrigger" : {"type" : "LSString", "value" : "When we click on him, he responds with a few simple barks."},
             "defaultAttitudes" : [
                {
                   "data" : [
@@ -297,7 +297,7 @@
                   ]
                }
             ],
-            "synopsis" : {"type" : "LSString", "value" : ""}
+            "synopsis" : {"type" : "LSString", "value" : "We are faced with a simple plasmoid having taken a more or less humanoid form, it is an adventurer and a fighter. He chills quietly sitting at a tavern in space."}
          }
       }
    }

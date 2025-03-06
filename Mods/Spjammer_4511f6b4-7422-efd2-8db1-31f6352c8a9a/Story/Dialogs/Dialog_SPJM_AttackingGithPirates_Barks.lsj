@@ -59,7 +59,7 @@
                                                 "TagText" : {
                                                    "handle" : "ha3c03c9agee25g03degd252g0503ce7d04fd",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 4
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -206,7 +206,7 @@
             ]
          },
          "editorData" : {
-            "HowToTrigger" : {"type" : "LSString", "value" : ""},
+            "HowToTrigger" : {"type" : "LSString", "value" : "The player interacted with a personal belonging of the pirates. The captain therefore launches the fight and speaks to the players, angrily."},
             "defaultAttitudes" : [
                {
                   "data" : [
@@ -279,7 +279,7 @@
                   ]
                }
             ],
-            "synopsis" : {"type" : "LSString", "value" : ""}
+            "synopsis" : {"type" : "LSString", "value" : "The player character suffers the wrath of a Gith space captain."}
          }
       }
    }
