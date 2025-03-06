@@ -59,7 +59,7 @@
                                                 "TagText" : {
                                                    "handle" : "ha3c03c9agee25g03degd252g0503ce7d04fd",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 5
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -194,7 +194,7 @@
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "0b4fa81c-e2c6-410d-9347-2e86ffd9b77a"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "0814cc79-6e0d-02ac-7e8f-76a4bbc3ff55"}
+                        "list" : {"type" : "LSString", "value" : "14b38859-d286-49dc-8343-f21d38b75df7;0814cc79-6e0d-02ac-7e8f-76a4bbc3ff55"}
                      },
                      {
                         "SpeakerMappingId" : {"type" : "guid", "value" : "0577b4ec-defa-40a5-b9cb-feb7221f802b"},
