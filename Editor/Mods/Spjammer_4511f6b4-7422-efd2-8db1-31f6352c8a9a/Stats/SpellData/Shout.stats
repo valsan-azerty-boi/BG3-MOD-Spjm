@@ -215,9 +215,9 @@
         <field name="UUID" type="IdTableFieldDefinition" value="7805628c-50d7-4d65-8d1f-78b54f923ac6" />
         <field name="Name" type="NameTableFieldDefinition" value="Spjm_Talarith_ReigarIllusion" />
         <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerShortRest" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(MIRROR_IMAGE_2,100,30);ApplyStatus(MIRROR_IMAGE_1,100,30)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(MIRROR_IMAGE_1,100,30)" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hec096946g23b1gdf65g6fe4g9f3f93892b76" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(MIRROR_IMAGE_1,100,30)" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
         <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Intent" enumeration_type_name="SpellStyleGroup" version="1" />

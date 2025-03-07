@@ -91,7 +91,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="015cefa5-1a55-402c-91c1-e021a8638a86" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2f371454g3022g3f20gf845g0e97f53c0529" version="3" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="3" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Talarith" />
         <field name="Boosts" type="StringTableFieldDefinition" value="CharacterWeaponDamage(1d6,Force)" />
@@ -103,7 +103,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="e7caa18d-644f-4294-b15f-dd289b6eec33" />
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Passive_Talarith_Attunement_ForTooltipDesc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h29e411fdge733ga810gf837g326373c098e4" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="2" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d6" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Spell_Talarith" />
       </fields>

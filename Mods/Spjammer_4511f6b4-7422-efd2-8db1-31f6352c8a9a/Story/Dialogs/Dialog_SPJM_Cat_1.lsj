@@ -19,14 +19,14 @@
                   ]
                }
             ],
-            "UUID" : {"type" : "FixedString", "value" : "afadb90d-673a-421a-831d-3191bcd839c1"},
+            "UUID" : {"type" : "FixedString", "value" : "ebd255af-4f2f-a41d-c3d8-4881cc0ad7ea"},
             "automated" : {"type" : "bool", "value" : true},
             "category" : {"type" : "LSString", "value" : "Voice bark"},
             "nodes" : [
                {
                   "RootNodes" : [
                      {
-                        "RootNodes" : {"type" : "FixedString", "value" : "762c9ad2-d057-7efc-622d-d007b3471cdf"}
+                        "RootNodes" : {"type" : "FixedString", "value" : "e3120534-1c9c-8edb-791f-e807d27fb00f"}
                      }
                   ],
                   "node" : [
@@ -55,11 +55,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "LineId" : {"type" : "guid", "value" : "03364163-a199-4225-9044-2dea4183c713"},
+                                                "LineId" : {"type" : "guid", "value" : "3ab00e3d-3e39-4ee1-812b-1aab42a2b714"},
                                                 "TagText" : {
-                                                   "handle" : "h6832ddf0g5256gbbb4gf448g0b8ab3b3562c",
+                                                   "handle" : "h43e6ec24g7519g3711g0677g90efcd6e9b57",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 1
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -71,7 +71,7 @@
                            }
                         ],
                         "Tags" : [ {} ],
-                        "UUID" : {"type" : "FixedString", "value" : "762c9ad2-d057-7efc-622d-d007b3471cdf"},
+                        "UUID" : {"type" : "FixedString", "value" : "e3120534-1c9c-8edb-791f-e807d27fb00f"},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagGreeting"},
@@ -172,7 +172,7 @@
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "position"},
-                                    "val" : {"type" : "LSString", "value" : "-305;-204"}
+                                    "val" : {"type" : "LSString", "value" : "-625;-204"}
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "sourcetemplate"},
@@ -192,12 +192,12 @@
                {
                   "speaker" : [
                      {
-                        "SpeakerMappingId" : {"type" : "guid", "value" : "80d0ac95-cb34-47fd-ae51-7f46d89cb62c"},
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "4789968f-8abf-4fe1-871e-c31c5ad778b0"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "1bf7f5be-9446-49ac-8641-6d1c86e1d84e"}
+                        "list" : {"type" : "LSString", "value" : "f5fb6987-ef58-40af-babe-3d6e1b41d149"}
                      },
                      {
-                        "SpeakerMappingId" : {"type" : "guid", "value" : "5aa62543-6001-4a07-9270-09a86f008918"},
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "393d9ce3-17b9-4b3e-9880-7f3e03a0c0c6"},
                         "index" : {"type" : "FixedString", "value" : "1"},
                         "list" : {"type" : "LSString", "value" : "e0d1ff71-04a8-4340-ae64-9684d846eb83"}
                      }

@@ -446,7 +446,7 @@
   <content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="3">Flexible dans ma forme, ferme dans ma détermination.</content>
   <content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="3">Tous les aventuriers ne peuvent pas être aussi... polyvalents que moi.</content>
   <content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="3">Je suis 'fluide dans mes mouvements'.</content>
-  <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="3">*Bloop*</content>
+  <content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="4">*Bloop*</content>
   <content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="16">Coffre</content>
   <content contentuid="h559fdb78g1108g88c5g0858g9a400c2b77d5" version="1">Coffre</content>
   <content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="12">&lt;i&gt;Commercer.&lt;/i&gt;</content>
@@ -682,13 +682,13 @@
   <content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="3">Harmonisation Talarith</content>
   <content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="2">Harmonisation Talarith</content>
   <content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="2">Harmonisation Talarith</content>
-  <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">Les attaques avec une arme infligent [1] dégâts de force supplémentaires.</content>
-  <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">Les attaques avec une arme infligent [1] dégâts de force supplémentaires.</content>
-  <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">Les attaques avec une arme infligent [1] dégâts de force supplémentaires.</content>
+  <content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="2">Les attaques avec une arme infligent [1] dégâts de force supplémentaires. Vous pouvez profiter de l'effet d'un seul objet Talarith en même temps.</content>
+  <content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="1">Les attaques avec une arme infligent [1] dégâts de force supplémentaires. Vous pouvez profiter de l'effet d'un seul objet Talarith en même temps.</content>
+  <content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="1">Les attaques avec une arme infligent [1] dégâts de force supplémentaires. Vous pouvez profiter de l'effet d'un seul objet Talarith en même temps.</content>
   <content contentuid="hec096946g23b1gdf65g6fe4g9f3f93892b76" version="1">Illusion Reigar</content>
   <content contentuid="h2aff07f2g0148g50f6g06ecga32a5f4536f6" version="1">Illusion Reigar</content>
-  <content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">Invoque des clones magiques identique au lanceur de sorts.</content>
-  <content contentuid="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="1">Invoque des clones magiques identique au lanceur de sorts.</content>
+  <content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">Invoque un clone magique identique au lanceur de sorts.</content>
+  <content contentuid="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="1">Invoque un clone magique identique au lanceur de sorts.</content>
   <content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">Orrery de l'espace sauvage</content>
   <content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="2">Avoir cet objet dans votre inventaire vous confère son effet magique.</content>
   <content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">Vous obtenez un bonus de compétence en Nature et Perception.</content>
@@ -714,4 +714,6 @@
   <content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">Expertise Thri-kreen</content>
   <content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">[1] bonus sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;.</content>
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">[1] bonus sur les &lt;LSTag Tooltip="AttackRoll"&gt;jets d'attaque&lt;/LSTag&gt;.</content>
+  <content contentuid="h43e6ec24g7519g3711g0677g90efcd6e9b57" version="1">...</content>
+  <content contentuid="hf9eafc35ge8b2g5a60g9585g3fda846e857f" version="1">Miel</content>
 </contentList>
