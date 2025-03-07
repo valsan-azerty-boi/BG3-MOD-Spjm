@@ -377,6 +377,16 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3d960f75-68ef-4b51-9281-4c441aebffc4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fa3cea7b-dccd-4622-9910-e72cd0a5f583" />
+        <field name="Name" type="NameTableFieldDefinition" value="3d960f75-68ef-4b51-9281-4c441aebffc4_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Spjm_GythkaHalberd_Wpn" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="68c638b1-1397-4bb0-9cf4-27a6e27dd51e" />
