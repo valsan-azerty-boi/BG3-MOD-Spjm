@@ -1,0 +1,717 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<content contentuid="h43e6ec24g7519g3711g0677g90efcd6e9b57" version="1">...</content>
+<content contentuid="h0a322895gc7c4g16f1g4962g35a668fd259b" version="20">[영계의 조우] *영계의 바다를 탐험합니다.*</content>
+<content contentuid="h2f4d8771g5b21gb532gb2fcgb3c45384a174" version="23">[영계의 조우] *영계의 바다를 탐험합니다.*</content>
+<content contentuid="h7b45c762g15f0ged9dg4969g385b4f4a4316" version="20">[영계의 조우] *영계의 바다를 탐험합니다.*</content>
+<content contentuid="h032b5a69g8a49gb995gd547g104339e1cdec" version="11">구매할 수 있는 상품을 제공하는 단순한 상인입니다.</content>
+<content contentuid="h78dab559gf119gba69gc41bg5b2a9c029643" version="19">이상한 장치로, 발견한 기술과 무기를 사용해 함선을 강화할 수 있는 것 같습니다.</content>
+<content contentuid="he96e8a69g1fafg8846g9d96g9e93a074befe" version="4">*발리스타 잠금해제됨.*</content>
+<content contentuid="h67245286g2d4dg59a9gb243g6f17e279bcaf" version="79">조종간을을 당신의 의지에 굴복시킵니다.</content>
+<content contentuid="h6832ddf0g5256gbbb4gf448g0b8ab3b3562c" version="4">뿌웅</content>
+<content contentuid="h519db1f2gcf5eg654agff84g8315633dc6e2" version="29">과거의 속삭임을 불러내어 당신의 의지를 이끕니다.</content>
+<content contentuid="he3d74635g7437gc0bbg5f51g9ddad315a579" version="1">*대포 잠금해제됨.*</content>
+<content contentuid="h0bb7b79bgeed9g60f6ge332g6d8761a2a4a6" version="79">조종간의 비전 흐름을 조종합니다.</content>
+<content contentuid="hb05e2a1bgd242g6022g3262gf088165e60e8" version="4">끼릭-끼릭</content>
+<content contentuid="ha86a4047g0fd3g4ba8ge799gc9aa4636a9f6" version="4">쿠시-쿠시</content>
+<content contentuid="h6c2e53c1g5a25g4213g23a3ga3c673e387f7" version="82">연결을 끊습니다.</content>
+<content contentuid="h2324b195g9261g82cbg2042ge6c501c05ec8" version="109">조종간에서 강력한 힘이 뿜어져 나옵니다.</content>
+<content contentuid="h75d0d177g3630g2cc4g4510g024082d12042" version="16">상호작용</content>
+<content contentuid="h17a28bc6ga6f2g3e16g50cegce238ab0f009" version="34">조종간과 동기화하기 위한 의식을 수행합니다.</content>
+<content contentuid="ha594b43cg08fdg5685g9e4dg1f7435b3e325" version="16">전력 공급 중</content>
+<content contentuid="he67d18f1g55fcgc910ga532g33641721edb3" version="4">스르륵</content>
+<content contentuid="he5e4f3f3g2c8bg467egd116g4742b39bb9db" version="35">조종간과 공생 관계를 형성합니다.</content>
+<content contentuid="h28a4adedg82fbg942dg15e0gf64e13f1bbb8" version="65">조종간에서 나오는 에너지는 당신 같은 사람에게 익숙하게 느껴집니다.</content>
+<content contentuid="h72b66549gb8d3g228bge7fag5424c1d99256" version="65">조종간에서 나오는 에너지는 당신 같은 사람에게 익숙하게 느껴집니다.</content>
+<content contentuid="h144db08eg7c60g400bg8a54g1080e1f0064c" version="53">조종간은 당신이 자연스럽게 영계의 바다를 통해 다음 목적지로 항해할 수 있게 해줍니다.</content>
+<content contentuid="h744580e6g29b9ga8c0gc005gee1cf7f17461" version="57">조종간은 당신이 자연스럽게 영계의 바다를 통해 다음 목적지로 항해할 수 있게 해줍니다.</content>
+<content contentuid="h8eeb2d76ga8d6g1590g2ad3ge51c4eb84f61" version="57">조종간은 당신이 자연스럽게 영계의 바다를 통해 다음 목적지로 항해할 수 있게 해줍니다.</content>
+<content contentuid="h3e341841gb0a0gb405g99c3ga788257ba4a6" version="21">조종간은 당신이 자연스럽게 영계의 바다를 통해 다음 탐험지로 항해할 수 있게 해줍니다.</content>
+<content contentuid="h1b8261d2g3f76g52b4g3ac9gf256b9d40f8e" version="59">조종간은 당신이 자연스럽게 영계의 바다에서 가장 가까운 마을로 항해할 수 있게 해줍니다. 여행을 즐기세요.</content>
+<content contentuid="hbfc216d4gb57fg41e3gab05gedccc9bff1df" version="12">이 대장장은 판매할 상품을 가지고 있는 것 같습니다.</content>
+<content contentuid="he9927395g5fbcg752bgd87bg2605a81d23a9" version="13">이 일리시드가 당신을 바라보고 있습니다.</content>
+<content contentuid="ha2b032cdgee9ag53c9gca85gcf7f1e06d072" version="57">'산산조각난 성소'로 이동합니다.</content>
+<content contentuid="hc9b9579dg17b2gfe3fgeaf7g06d127739fd4" version="61">'우주제작자의 여관'으로 이동합니다.</content>
+<content contentuid="h81e4463fg3e3ag09eag1eebgd482ec4e6d4c" version="53">'광신도 실험실'로 이동합니다.</content>
+<content contentuid="he2c61fd2g301agc03bgc9ffgb0236f34204b" version="62">가장 가까운 도시 '아랫 바위'로 이동합니다.</content>
+<content contentuid="ha36d4c14g305ag51e5gd769ge7bd6c94f8f5" version="76">투구에서 나오는 마법을 이해하려고 시도합니다.</content>
+<content contentuid="hdb4aad30gc601gd13bg6ca8gb4e74cb53456" version="33">투구에 대한 당신의 믿음을 사용합니다.</content>
+<content contentuid="h13189f5fg3e2ag766ag7a63gab6bf8884575" version="83">내재된 힘을 사용하여 투구를 길들입니다.</content>
+<content contentuid="hea11142fg8b59gd200geffbgd06d78c6cffb" version="11">참으로 이상한 곳이군요.</content>
+<content contentuid="hdfd72d4eg3139gd89ag77f0g6cb0e31d18c6" version="71">투구와의 동기화에 성공했습니다.</content>
+<content contentuid="hff93bb12ge6adge57bg6cbfg2d12c0f548bb" version="9">자신만의 스펠재밍 함선을 얻습니다.</content>
+<content contentuid="he79bc3abge072ga671ga903g6b18695e2698" version="13">강력한 힘을 감지합니다.</content>
+<content contentuid="hb2f93f8bg03f9g4034ge65dg01e464bec409" version="74">당신의 정신이 투구의 비전을 이해하지 못하는 것 같습니다.</content>
+<content contentuid="h10800e69g8369g6255g55bcgcc5a1c800135" version="12">&lt;i&gt;떠나기.&lt;/i&gt;</content>
+<content contentuid="h22f112d5g0166g9e8bg79b0g75bd9e0778e3" version="22">&lt;i&gt;떠나기.&lt;/i&gt;</content>
+<content contentuid="h85f37d59gafddgd5e1gd3bdg3dd94405020d" version="123">&lt;i&gt;떠나기.&lt;/i&gt;</content>
+<content contentuid="h86737cdeg6395ge827g2177gc831190868fc" version="13">&lt;i&gt;떠나기.&lt;/i&gt;</content>
+<content contentuid="ha2376ecfg6c66g9d8bgeafbg23388e5ec4cf" version="11">&lt;i&gt;떠나기.&lt;/i&gt;</content>
+<content contentuid="h30f294b9ga84fg3159g6143g57b560bf07da" version="8">&lt;i&gt;거래하기.&lt;/i&gt;</content>
+<content contentuid="h6fe881c2g96d0g5de6gcb1cge5a0de31a488" version="12">&lt;i&gt;거래하기.&lt;/i&gt;</content>
+<content contentuid="hd2be7132gc61ag81c2gdca2g39a9c125216e" version="13">&lt;i&gt;거래하기.&lt;/i&gt;</content>
+<content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">+[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+<content contentuid="ha601cf5cge800g530bg155dgbcaf2ef96ca4" version="3">+[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+<content contentuid="h376a4fcfg18c0g5e53g8aa5gb162994db24a" version="10">머리를 완전히 감싸는 투박한 헬멧입니다.</content>
+<content contentuid="ha64a7fcdg551dge7bfgadc1gdef85d7938df" version="4">이교도인가요? 아랫 바위의 전체적인 분위기와 어울리지 않습니다.</content>
+<content contentuid="h2ee361dag8ca4g4b88gbe93g7fa423652a3a" version="3">역겹고도 장엄한 광경</content>
+<content contentuid="h529c210egb111g7250g0d54g8d53103ef0ce" version="4">한 기스 약탈자가 이렇게 말했어요. "여기선 시간이 또 다른 지평선일 뿐이야."</content>
+<content contentuid="hfdb26f61g4b14g47a9gb647g677f44b57420" version="3">대상!</content>
+<content contentuid="he180759bg12c3g4a0fgae7cgd1117c89de45" version="4">끔찍한 것에 지나치게 익숙한...</content>
+<content contentuid="h7a2534b6gb9fdg4c64g9a42g8f0253afe88e" version="4">자연스러운 동맹</content>
+<content contentuid="hea64bb2cg5693g4b97g96e2g6d2b5b2f2768" version="3">새로운 비전</content>
+<content contentuid="hce15c5adg1fa1gd057gd6abga95ef8d835f0" version="7">스펠재밍 무기에 대한 구매 주문서입니다.</content>
+<content contentuid="hd75e1a1fgd22cg14bbg9761g6d587a5966b5" version="7">스펠재밍 무기에 대한 구매 주문서입니다.</content>
+<content contentuid="h70330665g8036g0ac9g052dg49c6c4be4303" version="2">리가르 장인이 만든 이 보석은 머리에 착용하는 다이아뎀 형태입니다. 이 아이템에 담긴 마법은 완성되어, 착용자에게 자동으로 동조됩니다.</content>
+<content contentuid="h8a5981c4ga0b5g91dfgac8bg4a1da190e97e" version="4">리가르 장인이 만든 이 보석은 손가락에 끼우는 반지 형태입니다. 이 아이템에 담긴 마법은 완성되어, 착용자에게 자동으로 동조됩니다.</content>
+<content contentuid="h1428863agb14fg8803g0abcgfc8b071ac733" version="2">리가르 장인이 만든 이 보석은 목에 거는 아뮬렛 형태입니다. 이 아이템에 담긴 마법은 완성되어, 착용자에게 자동으로 동조됩니다.</content>
+<content contentuid="h9ba0a317g0f3cg3ad4g5d5fg9ee8be6b24eb" version="1">리가르 장인이 만든 이 보석은 손목에 착용하는 팔찌 형태입니다. 이 아이템에 담긴 마법은 완성되어, 착용자에게 자동으로 동조됩니다.</content>
+<content contentuid="h1193e8a7g7f18g628fgef69g85eec47e5753" version="4">어제 이상한 색으로 칠해진 배가 지나갔어요. 그들은 '가장자리'에서 별을 보았다고 했어요. 그게 무슨 뜻일까요…</content>
+<content contentuid="ha99a2114g6ee9gd172g47dcgbe37af845114" version="1">천체 아이템이 들어 있는 단순한 주머니입니다.</content>
+<content contentuid="h2cedaa7agdce8g43a8ga186g43b3d8306c7c" version="3">외로운 거미</content>
+<content contentuid="hf2d8cf77g0a05g536bg8047g0a185e66e0c3" version="2">스펠재머 테마의 주사위입니다.</content>
+<content contentuid="h094bce77g38cdg00f9ge343g226eb397c371" version="11">우주에서 온 토지 증서</content>
+<content contentuid="hb10c06e7g6c78gb747gcd05g9850301142e9" version="1">영계에서 온 토지 증서입니다.</content>
+<content contentuid="h7ae59af3g7127gcc2ag3e41ge2b24ed6f90d" version="4">건배! 별들이 우리를 향해 시선을 돌리지 않기를.</content>
+<content contentuid="h3840b9c2gc5adge66ag917agc73392ca62df" version="3">추잉가가 만든 장신구입니다. 사용하면 이 매력은 사라집니다.</content>
+<content contentuid="h7e4b0b47gea96g50d8gf74ag19332d1748e5" version="2">추잉가가 만든 장신구입니다. 사용하면 이 매력은 사라집니다.</content>
+<content contentuid="h7d6fc4c9g2a27g4257g9232gfa398d287c3c" version="6">통행료 수금원의 압수 상자에서 마법 아이템을 획득합니다.</content>
+<content contentuid="h09a956d1ge40fg4db0g8b42g611991addaaf" version="4">피가로에서 정교한 새 의상을 획득합니다.</content>
+<content contentuid="h7c132c23g0c1ag44d8gb1c9gcb1909a23b96" version="4">바커스에게서 '찬란한 반박'을 획득합니다.</content>
+<content contentuid="h01ca49d6gc28eg2244g162dg1ef84fc6021a" version="1">활성화</content>
+<content contentuid="h7fc681ddg0b98g94e6g5260g28e8818e6819" version="7">활성화</content>
+<content contentuid="h9c8b447dg8fd0g282cgf815gfeb0160db456" version="11">활성화</content>
+<content contentuid="hb3e536f7g4192gcd37ge84cg6951523ea8d9" version="7">활성화</content>
+<content contentuid="he2e6c3efg71bag97dagd302gfc94496c378d" version="1">지혜 내성 굴림에 유리 보정</content>
+<content contentuid="h1f334529g882cg1f49g3d5dg6035a7348620" version="1">모험가</content>
+<content contentuid="h35180490g993fg1cbag6091g30bcfbe9a450" version="1">모험가</content>
+<content contentuid="h3a2dde04g8d89g9ed9g4973g4b2e1caa6192" version="25">모험가</content>
+<content contentuid="h4d06fbf2g648dga501g78c8gc5f746e628a2" version="1">모험가</content>
+<content contentuid="h544f092fg165ag945bgd82dgd268b9cde90e" version="22">모험가</content>
+<content contentuid="h5daae8degddbagd6dfg710dg6bd4b7045456" version="1">모험가</content>
+<content contentuid="h764865a5gc759g46b3gdef2g39df98611f16" version="18">모험가</content>
+<content contentuid="habc6f0a6g9e46g2b69gad95ge1a867d92979" version="29">모험가</content>
+<content contentuid="hc6de7239gfd71g0850gd00dg26850ec17b98" version="1">모험가</content>
+<content contentuid="hc83e66c2g0081g8839g49f2gf0ee3309d982" version="3">모험가</content>
+<content contentuid="hd89bdaf3g6942g5ba5gb7d3g2052de738fde" version="17">모험가</content>
+<content contentuid="hdfd3677dgae0dg25a8geebbg7e1531e808b8" version="4">모험가</content>
+<content contentuid="heba2bdb5g69f4gbda6g1a50g8e6509cb0f97" version="2">모험가</content>
+<content contentuid="hee0ec9dcg14acgbb17gdd08g36291fcbc2e4" version="1">모험가</content>
+<content contentuid="ha159b668g7e97gdffbg7339g93bd4888ee75" version="2">우주에서의 모험</content>
+<content contentuid="h2bb297afg4b64g27ecg11ccgc877d7d773f1" version="1">공기 방울</content>
+<content contentuid="h5bc2618agd209g5659g5bd8g44dd5efedb72" version="1">공기 방울</content>
+<content contentuid="h89975669ga317g279cga6a9g028012652811" version="1">공기 방울</content>
+<content contentuid="h35e88e40g9506g073ega883g421d244e0f6e" version="4">알훈</content>
+<content contentuid="h7a83550egacd1g4b6bgac02g49b17454f5ab" version="3">모든 지식은 배울울 가치가 있습니다.</content>
+<content contentuid="he244bc8dg50dcg31d3g06b4g70340e742d5e" version="4">별을 떠돌며 수많은 삶을 살아도, 결코 평화를 찾지 못하네.</content>
+<content contentuid="hee2e2c8cg20b0g49c1ga25egf58198177c48" version="6">스펠재밍 함선을 소유할 수 있게 해줍니다.</content>
+<content contentuid="hc4373deeg65b6gd9c1g2661g64412f4bc251" version="3">함선의 장비를 원격으로 사용할 수 있게 해줍니다.</content>
+<content contentuid="h12b51a18ga5d5gc171g9bbfg75b7d1bd69c8" version="6">지상에서도 함선의 장비를 사용할 수 있게 해줍니다.</content>
+<content contentuid="h41c7b9c9g1ccage314g466ag7dcd6181e80f" version="1">지상에서도 함선의 장비를 사용할 수 있게 해줍니다.</content>
+<content contentuid="h95c51454gdf0cg4402gb959g0525f0d7b392" version="3">대체 직업</content>
+<content contentuid="h7af0560bg8059g4138g95d6g00f473023303" version="4">독특한 취향</content>
+<content contentuid="hf95f9333g271eg4d1cga061g494096c308f4" version="3">도움이 필요한 예술가</content>
+<content contentuid="h3e1c476dge57fg4663gab99gf386fb40f3f9" version="3">이국적인 계약서</content>
+<content contentuid="h5a32d8e0g8667gc8bfgcaacgb78db650feb9" version="9">트리크린이 발명한 이국적인 무기입니다.</content>
+<content contentuid="hb63d8961gb40agbc6eg46eeg6a468373a3d4" version="4">트리크린이 발명한 이국적인 무기입니다.</content>
+<content contentuid="hd267c678gb241g1567g914fg042554d28544" version="2">트리크린이 발명한 이국적인 무기입니다.</content>
+<content contentuid="hf2c55bfbg34c7g8fe8g333agc305b1370068" version="1">오래된 우주선에 대한 잊혀진 오래된 토지 증서입니다.</content>
+<content contentuid="hd5b0368dg2806g8cd3g4e52g2ce6724064c8" version="11">영계에서 온 오래된 우주선에 대한 잊혀진 오래된 토지 증서입니다.</content>
+<content contentuid="h5c76a666ga171g50d5gbbb5gbe2d4d931d35" version="4">오랫동안 별을 바라보면, 별도 당신을 바라봅니다.</content>
+<content contentuid="h0f2f21cdg45f2g43e7gb1f3gbc830555064d" version="5">예술은 영원하다</content>
+<content contentuid="hf4476f23g1e0eg4caagbe98g9e936a353049" version="4">'탁월함의 사회'에 가입을 요청합니다.</content>
+<content contentuid="hfd704366g9e56g4ce4ga675ge501d674372b" version="3">외계 차원의 요원 보조</content>
+<content contentuid="h11297817gf07fg8034g20c6gf604e6642b15" version="1">영계의 나룻배</content>
+<content contentuid="h1432c723gd101g441eg6589g84fbdbb38321" version="1">영계의 나룻배</content>
+<content contentuid="h216d1102g82bdg8f63g4e85ga88370a41d2b" version="4">영계의 나룻배</content>
+<content contentuid="h676a34bbg3892gbe2eg238eg7fc9ca9d61e9" version="4">영계의 나룻배</content>
+<content contentuid="h74019a8bg9607g13c9ge611g0dd48759dbc2" version="16">영계의 나룻배</content>
+<content contentuid="ha0804ef0gc15eg9235ga881ga44ede8afa67" version="1">영계의 나룻배</content>
+<content contentuid="hb889f3ccg1dbfgab9egf8d0g23da54809c83" version="17">영계의 나룻배</content>
+<content contentuid="h0fed846fg2b52gee5cg938dgf4908facc389" version="1">영계의 회합</content>
+<content contentuid="h275c5cdbg5176gada2g7584gdfbb7874f131" version="26">영계의 회합</content>
+<content contentuid="h2f2e84efgd9c6g545cga852ge439ed9bd39c" version="31">영계의 회합</content>
+<content contentuid="h4b3a1dd7g038bgbbcdgf7e6g4451ad258919" version="22">영계의 회합</content>
+<content contentuid="hb6f4912ag6c90gee96g4541g59f2d0ac183e" version="5">영계의 회합</content>
+<content contentuid="he3fbe238g67dfg0b9eg3a3agb8f12cc62c04" version="29">영계의 회합</content>
+<content contentuid="hf6e195bfgfea0g6484g7da5g4cac0a647e0a" version="24">영계의 회합</content>
+<content contentuid="h0763002fg6176ga306g6080g546023b9d9ae" version="3">영계의 유랑자</content>
+<content contentuid="h1569d228g97dcg1bb6gb511g8053243f1ef4" version="29">영계의 유랑자</content>
+<content contentuid="h1b6195b5gc566g234fg308cg912df50b25f2" version="1">영계의 유랑자</content>
+<content contentuid="h322862cdgbab5g882fgc355g259dd3fd6c81" version="1">영계의 유랑자</content>
+<content contentuid="h8763db21g731dg5c25g731fgcf7c20562247" version="1">영계의 유랑자</content>
+<content contentuid="ha3004fcdged23g9562ge385gc8e437cbe741" version="1">영계의 유랑자</content>
+<content contentuid="he6ec3093g0b5eg8386gd7d7g6486f7fea6f7" version="24">영계의 유랑자</content>
+<content contentuid="h76a8951cg2c70g2960g9265gb824f1875235" version="31">영계의 엘프</content>
+<content contentuid="h9f44ea54g3399g3413g1072g1863d29ef979" version="1">영계의 조우</content>
+<content contentuid="h294d0ea8g648egd117g6a20gb1261e329440" version="20">영계의 어부</content>
+<content contentuid="hc3d0ebc8g7885g2bb5gf7c0ge10f0a751756" version="5">영계계 약탈자는 어떤 공허도 두려워하지 않는데, 너도 그렇게 말할 수 있겠느냐, 비참한 자여?</content>
+<content contentuid="h90f92696gdf7cg55a4g836fg2cde83544769" version="2">영계의 바다</content>
+<content contentuid="hfb2444ceg04b1gf5a4gd461g57d741623447" version="2">영계의 바다</content>
+<content contentuid="h6747fbf9gbb85g17cagd179gca122d5bc93b" version="1">영계의 타격: 발리스타</content>
+<content contentuid="he4fa7f6dg8062g6180g7052g3ce437c68ae7" version="2">영계의 타격: 발리스타</content>
+<content contentuid="h68d6870egab8ag7e9dgadbbg21f6063be168" version="2">영계의 타격: 대포</content>
+<content contentuid="h8db67ad3g1542geb85g1920g77db36dbb262" version="3">영계의 타격: 대포</content>
+<content contentuid="h2c95139dg2fefgc825geacfgff47a8897b8e" version="1">영계의 타격: 마법</content>
+<content contentuid="h6e42c517g0554g445egf075g33a706cf71f4" version="2">영계의 타격: 마법</content>
+<content contentuid="h7ba09a91g0481g4254gb8fbg2f4f46854e4a" version="2">영계의 타격: 마법</content>
+<content contentuid="h14d8c383g300cgb863g6954gb8ab1876cbfd" version="7">오토노움 장인</content>
+<content contentuid="h80ef3df7g0ed4gb2cbg530cgf2d8a2a5b0b2" version="2">귀환</content>
+<content contentuid="h198e14a9gf099g1bd4g67eagb7eb9590509a" version="16">발리스타</content>
+<content contentuid="h1d21c437g6510g2eceg20e8g171f45b04193" version="1">발리스타</content>
+<content contentuid="hb104d43eg92c2g7287ge54bg7745a62e0f83" version="18">발리스타</content>
+<content contentuid="hf2f1911fgf8cagcbf6g78aegbc53de1744ea" version="1">발리스타</content>
+<content contentuid="h4bcb3b26g01a7g43d4g9502g15d3c4b917df" version="5">진정한 해적 선장 그리즐리의 모든 해적의 영광을 목도하라.</content>
+<content contentuid="he31b2ce9g778egbef7ge1fbg715daa2cca27" version="8">대장장이</content>
+<content contentuid="hb697b04fg4301g4886g8e8cg3c4f8faf02b4" version="3">언약의 피</content>
+<content contentuid="h6e404ac4gac43g4fc5gb9f1gfc00a288dd14" version="4">피, 땀, 그리고 그 외의 것</content>
+<content contentuid="h90e0002dgef4eg0242g79cegb00ebb805a9f" version="4">기스 상인에게서 지도를 샀는데, 내 인생 최고의 골드였다. 내가 몰랐던 세상으로 날 데려갔다.</content>
+<content contentuid="h3b5bca7fg7b6eg41beg8264gd3d6db52fbdc" version="3">브레인 블래스트!</content>
+<content contentuid="hfd86f50fg84b3g4411g8942g3cfd938741b2" version="4">오스카의 그림을 '폐기의 횃불'로 태웁니다.</content>
+<content contentuid="h138c060bg0127ga31ag7439ga75078227a17" version="1">대포</content>
+<content contentuid="h65af2bf3gea0eg6d88g946ag42708addb9ce" version="1">대포</content>
+<content contentuid="hcdd4f305ge4ecg5ddfg5710gc76d9acf5b34" version="15">대포</content>
+<content contentuid="he58721a3gb819g1059gdd62gc76fe5454714" version="17">대포</content>
+<content contentuid="h931831bagdb4ag58bfgd29dg08e838965c67" version="7">공기 방울 도구</content>
+<content contentuid="hddc514fcg15f7g9bafg7d63gb2d68c95557a" version="2">공기 방울 도구</content>
+<content contentuid="ha431dcc2g57adg12e2ga72ag5f34bb5a8be6" version="1">즉석 도구</content>
+<content contentuid="hc9f60dc9gd341g2907gd91bgb9115368e2cc" version="4">즉석 도구</content>
+<content contentuid="h2a41fb57gc2d7g7987g20d9geb30d16b01ad" version="4">건배! 우리의 마지막 항구를 위해, 다음 항구도 이곳만큼 활기차기를!</content>
+<content contentuid="h2ed45dfcg9acdg49b3g87a7g34a3a49117cc" version="16">보관함</content>
+<content contentuid="h559fdb78g1108g88c5g0858g9a400c2b77d5" version="1">보관함</content>
+<content contentuid="hb24675a8gfc06gb2a1g021fg42f5e73badbc" version="4">걸을 때 삑삑 소리가 나는 광대 신발입니다.</content>
+<content contentuid="h04f44b8dg3df9g4787g9455g2f7d5c2d3d35" version="4">자신의 동상을 의뢰합니다.</content>
+<content contentuid="hbb4edcddg0e00g4550gbd63g3bd017f51bfe" version="4">렌즈와의 인터뷰를 완료합니다.</content>
+<content contentuid="hfad3bca2g2e17g4e85gafe6g76e87c0ebdc6" version="3">압수된 작품들</content>
+<content contentuid="h2f8ca464g6834g2a20g7e91g219358e926c6" version="4">소모</content>
+<content contentuid="h493d3cc5g0f23g566bgacdfg61cc41a5d6eb" version="4">소모</content>
+<content contentuid="ha172501agaa8ag97f8g17e5g67466bd8d4fe" version="4">발더스 게이트에서 모험을 계속하세요.</content>
+<content contentuid="hb56ce361g81f2g414bgbd90g8be498bcd372" version="3">드레드마스터의 대관식</content>
+<content contentuid="hf913c98bg973ega2b2g406fg0b3c37df3dd1" version="1">시체와 신들</content>
+<content contentuid="hc5be5300g851ag48cfg8a72ge1658bcd9560" version="4">'데블스 피'의 모든 유물을 올바르게 식별합니다.</content>
+<content contentuid="h0601a436g7839g4fd5gb309g9cc077c2468b" version="3">인식할 수 없을 정도로 부패한</content>
+<content contentuid="hb6bcc7a6g483bg1b79g4786gb4f32fcf9a10" version="5">타락한 별빛 환영</content>
+<content contentuid="ha9b5615dgd72dg47b0ga330g8210b815a7fb" version="3">가마솥에서 네티의 해독제를 제작합니다.</content>
+<content contentuid="hb491b417g6c9fg46c8g9371gfda87e2373de" version="6">'브루드업 벨리글러머'를 제작합니다.</content>
+<content contentuid="h7e6d1eb4g341dg4c7dgb2d4g6454d9fa5951" version="4">아다만틴 제련소에서 무언가를 제작합니다.</content>
+<content contentuid="h74a4fe4dgab32g4bddg9ff1gb3b259c07506" version="4">수수르 나무껍질로 걸작을 만듭니다.</content>
+<content contentuid="hb041d8c3g61fbg445cgbd03gac67b307e449" version="4">'건널목'의 이름 유래</content>
+<content contentuid="h0b41186fg3f91g2813g1342gcc6f51cbfd3f" version="3">광신도 실험실</content>
+<content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="28">광신도 지도자</content>
+<content contentuid="h0fb40e56g7f6fg2bb8geea4g3fdac72f37ad" version="1">교단 차원문</content>
+<content contentuid="ha4b423fcg5f5bg2b46g9fdcg12ca8efdf988" version="1">교단 차원문</content>
+<content contentuid="ha63d9abcg0604g2ebcg5b63g42ec70978e48" version="13">교단 차원문</content>
+<content contentuid="hf818da97gaca2g1439g5f42g6e523931fd18" version="11">교단 차원문</content>
+<content contentuid="h0aec0d79g4a48g1504ge525ga5c67810d689" version="10">이교도</content>
+<content contentuid="h12ab5e60g46f4g387agb961gdd1cbd18cde0" version="1">이교도</content>
+<content contentuid="h13b70a16ga923gcf4fg955ag1d38fe381e7d" version="1">이교도</content>
+<content contentuid="h257a3d16gf490g4f59g4ce8g343b3e8e3fef" version="1">이교도</content>
+<content contentuid="h2f2c7a4agaf58g268fgbcd4gae5630cfc46b" version="1">이교도</content>
+<content contentuid="h3a4ad24fg70c2g9b8fgf8a2g15e520d012d3" version="10">이교도</content>
+<content contentuid="h3bdb0984g8948g53d2gaa99g33ec6a74c646" version="1">이교도</content>
+<content contentuid="h3e9ceb49gbfa2g3334gd17bg0a1a72eb7728" version="9">이교도</content>
+<content contentuid="h4de5d956gd24fg76e6gff92g0e5a2ac870d0" version="8">이교도</content>
+<content contentuid="h560a602dg5986g14e0g1584g2a9a5ae38620" version="1">이교도</content>
+<content contentuid="h7b42fd8aga988g4f8fg8739g31d4691e66be" version="13">이교도</content>
+<content contentuid="h95286351gde6bg5072ga4feg57971109f6e0" version="13">이교도</content>
+<content contentuid="h995ab35fgf446g6ff7g5912ga27450c67210" version="9">이교도</content>
+<content contentuid="ha2ae2a9fg477agad7dgdb53gca3f514f2937" version="1">이교도</content>
+<content contentuid="hbbba2b2fg0fbagc83egd2ceg02fd58ada2a2" version="9">이교도</content>
+<content contentuid="hce75ca0eg45c5g0365g2152g8f52817b6a92" version="9">이교도</content>
+<content contentuid="hd84228fbg11dfg3f33g36a2g1a3c5fc304fc" version="1">이교도</content>
+<content contentuid="hfd59cb54g92c6g2854g7d03ga6e60d877f48" version="1">이교도</content>
+<content contentuid="hfdb2adb3g198cgcaedg45cdgbc64371a8924" version="12">이교도</content>
+<content contentuid="h71eefe34gf120g417bg9e15g2ec60aa3bea5" version="3">어둠의 음모</content>
+<content contentuid="h252fd1a6gab11gfb05g4134g37e780055467" version="3">치명적인 공기</content>
+<content contentuid="hea472a44g2602g4955g881dgc183051932ee" version="4">로로아칸을 처치합니다.</content>
+<content contentuid="h66b1471dgb7b2g4187g9aa1g7d32ecaa62b4" version="4">자신의 완벽한 무기에 대해 길드로 앵글아이언에게 설명합니다.</content>
+<content contentuid="h7e8efb48gbeeegadd0g229bgb463b2ba9884" version="5">내가 이렇게 가까이 오라고 했던가? 아닌 것 같은데.</content>
+<content contentuid="hb02fbbb4ge947g47b5gb22eg0aafc2c0b90c" version="5">수서 꽃을 사용하여 비전 포탑을 비활성화합니다.</content>
+<content contentuid="h9c5cddc0gec3fg4f86g992fg2f823c107ed1" version="3">팔도른의 찬송가를 발견하고 읽습니다.</content>
+<content contentuid="h71fefddbgb0d7g48b6gac0cg16f4b521a716" version="4">함정이 설치된 장난감을 발견합니다.</content>
+<content contentuid="h68dc97d6g077dg48b1gb74cg5bfe22601d81" version="4">케더릭의 가족 구성원의 운명을 알아냅니다.</content>
+<content contentuid="h4be3353ag7f3fg4953g842agca49c8828d73" version="4">석공의 운명을 알아냅니다.</content>
+<content contentuid="h8eba6885g2511g4367gad18g17324b00f0eb" version="5">발더스의 목소리 인쇄기의 내부 작동 방식을 발견합니다.</content>
+<content contentuid="hc43327e6gcdc7g448fga893g8a2e2b4c26c4" version="4">세 명의 드라우 마법사로부터 아다만틴 용광로의 비밀을 알아냅니다.</content>
+<content contentuid="h70938151g0d8bg4108g89adg00ece86f0067" version="4">케더릭의 수치심의 근원을 알아냅니다.</content>
+<content contentuid="hd7c5bc84g8990g4a5bg843agac0c90c84216" version="4">디스플레이서 비스트의 집착의 근원을 알아냅니다.</content>
+<content contentuid="h06e4a94egbfc8g4a21gb0dfg30a55742290b" version="3">테이의 고서의 이상한 본질을 발견합니다.</content>
+<content contentuid="h720869b7g1f72g4e32g8e7cgf3e753ba8a0b" version="4">밤의 노래에 대한 진실을 발견합니다.</content>
+<content contentuid="h1e6c2e8eg8ed7g44cfg9683gd2029ed705f0" version="6">샤의 시련에 있는 수많은 쥐들의 진실을 밝혀냅니다.</content>
+<content contentuid="h578da016gad63g4a13g9678gafa4e5f5a22c" version="6">웜 건널목 아래에 있는 불사의 파수꾼을 발견합니다.</content>
+<content contentuid="h9affc201g19fbg4c81gad5ag5a7644849cf1" version="5">'고기 소리'의 정체를 알아냅니다.</content>
+<content contentuid="h95400c63gfbc2g33d4gb7edg1474d5c7dcde" version="1">신성한 접촉</content>
+<content contentuid="h74683fdcg196dg4038gb5a2g208c58bb1530" version="3">큰 꿈을 꿔라</content>
+<content contentuid="h14813b8cg9aedg46d3g9f0cgf4e116c03d03" version="4">양조사의 혼합물을 1개 이상 마십니다.</content>
+<content contentuid="h47412cc4g1884g4d31ga6b8gb51345962895" version="4">에텔 할머니의 독특한 물약 중 하나를 마십니다.</content>
+<content contentuid="hcb7c21f7g8e5bgfc99gabf0g944050e186f4" version="4">마셔라, 친구! 영계의 바다에선 언제 다시 이곳을 지나게 될지 모른다.</content>
+<content contentuid="he6515fe4ge0d1g4c0agb54egb1d91314693f" version="3">달의 여신의 상징</content>
+<content contentuid="he2a1558bg2ac5g415egb035g71935142cd57" version="3">지역 예술가 장려</content>
+<content contentuid="h9f295ef6gb80eg934cg4ab8gd0444af57ffb" version="8">강화 장치</content>
+<content contentuid="hab1743d6g893cg0d63g832dgcb008a0604c7" version="20">강화 장치</content>
+<content contentuid="hbe1ffb4cgccdbgaa9dge8d5g277e804d44a0" version="1">강화 장치</content>
+<content contentuid="h7ad537c9g3bdbg4ba5g9e98g0a0b23cdca91" version="3">절망의 용광로의 폐허를 관찰하고, 드웨가 석공에게 결과를 공유합니다.</content>
+<content contentuid="hf244f071g131dg4804g4a50ge2476e1cd62f" version="4">마인드 플레이어의 함선을 가까이서 본 적 있나?</content>
+<content contentuid="h9c191f9cgb495g87fcg5fd4gd2d86fde3189" version="4">여기 있는 모든 음료는 꿈과 기억의 맛이 납니다. 아니면 그저 별가루 때문일지도 모르죠.</content>
+<content contentuid="h9b06523cgd1f1gbe4cg8cbegc365ffed0aa0" version="1">시체, 죽은 사람, 일리시드를 대상으로 한 실험. 명확하지는 않습니다.</content>
+<content contentuid="h953a343dgac88g4cafgb986g7c8804ab924d" version="3">전문가의 의견</content>
+<content contentuid="hd422ac74g73e4g6a20g2df8g92912ed9202f" version="1">광신도 실험실을 탐험합니다.</content>
+<content contentuid="hd038fa47g9450ga183g188bg7cda3def4f0f" version="1">우주 속에 잃어버린 오래된 성소를 탐험합니다.</content>
+<content contentuid="ha3f4bb54g07e7g9908gc732g7ed6be06719c" version="1">함선을 이용해 영계의 바다를 탐험하는 것은 위험이 따릅니다!</content>
+<content contentuid="h773612acgcbb1g4d53g8ad0gdb54c62b8a30" version="3">호화로움이 필요합니다</content>
+<content contentuid="h251b956eg868fg2b0bgfcadgd0b59c6b5306" version="5">아이 몽거</content>
+<content contentuid="h6d96004dg96dfg9c45gd2b6g4ec27bd431d2" version="15">아이 몽거</content>
+<content contentuid="h72e04810ge917g5c8cgc955g2fd15a8ab53b" version="1">동조 실패</content>
+<content contentuid="hc1be21f7g401eg4a04gb4d1g6950963eeb80" version="4">아카비의 계획을 파악하고 '1등상'을 획득합니다.</content>
+<content contentuid="h9498ab9agcceeg4eb8g974eg23ffd93ff067" version="6">샤의 시련에 그림자 보석으로 모든 소켓을 채웁니다.</content>
+<content contentuid="haa6a063bg795dg23f4g7276g7a7a9bc24c47" version="2">드디어, 재미있는 일이 생겼군요!</content>
+<content contentuid="hc7a62e7fgab05g4d2eg8f65gf960e9c1d01c" version="4">죽은 드루이드의 일지를 찾아 읽고, 그림자 저주가 어떻게 생겨났는지 알아냅니다.</content>
+<content contentuid="h53f29371g6e2ag4c1bg803bg19bfbfbda6ed" version="4">'폐기의 횃불'을 찾아 사용합니다.</content>
+<content contentuid="h5dd53711g19deg431bg9ab3g42cfae1e4dfc" version="4">아라즈와 그녀의 혈액 실험에 무슨 일이 있었는지 알아냅니다.</content>
+<content contentuid="h65ebf80eg59dbg404cgb663gb1453d823210" version="4">죽은 아시마르의 일지를 찾습니다.</content>
+<content contentuid="hba512b87g983dg44dag9e5egafec4700dadb" version="4">발더란의 투구를 찾습니다.</content>
+<content contentuid="h4913c0b3g5198g4622g922fg54078d8300ca" version="5">독이 든 와인병을 찾습니다.</content>
+<content contentuid="h470fac57g2422g4c3cga282g2df8c4688494" version="5">외과의사의 연구 노트를 찾습니다.</content>
+<content contentuid="h8f2c8c08g6c74g47a8ga09fgd692d0dfe73b" version="3">테이의 사령술을 끝까지 읽습니다.</content>
+<content contentuid="h5e7240aegf2efg5bbcg48degc281f532538e" version="4">여기가 처음인가요? 여기보다 좋은 에일도, 더 이상한 사람들도 찾기 어려울 겁니다.</content>
+<content contentuid="hf2fdedccg2e91g1741g92fcg78a1ce451e07" version="7">먼저, 구매 주문을 수동으로 활성화해야 합니다. 다음으로, 함선의 업그레이드 장치를 통해 발리스타를 설치할 수 있습니다.</content>
+<content contentuid="ha621f06agba84gda14gb940g4693c4e99b26" version="7">먼저, 구매 주문을 수동으로 활성화해야 합니다. 다음으로, 함선의 업그레이드 장치를 통해 대포를 설치할 수 있습니다.</content>
+<content contentuid="hb9579ba5gdf09g781ag3452ga8fbd3a7a3ab" version="10">물고기 수트 헬멧</content>
+<content contentuid="hb88c684fgb953g4a47ga648g5ad55dacb749" version="3">열정의 불꽃</content>
+<content contentuid="h82c05726gc372gab4fgf2cdga129d82dd5cc" version="4">형태는 유연하나, 결의는 단단하다.</content>
+<content contentuid="haefeeff8g5b66gcd2ag32e0g7a5d972af239" version="4">오늘도 떠다니는 섬들이 보이네요... 어제보다 더 가까워졌어요.</content>
+<content contentuid="h3c6e5d24gee25gb853g73c1gaba3ea129d39" version="4">떠다니는 섬들은 나타났다 사라집니다. 꿈처럼, 잡지 않으면 사라지죠.</content>
+<content contentuid="hd5fe7969g9ffdg48deg873fg6bf0c9d3c6aa" version="3">지침을 따르며</content>
+<content contentuid="ha3c03c9agee25g03degd252g0503ce7d04fd" version="5">바보들! 너희들은 스스로의 운명을 봉인했어!</content>
+<content contentuid="h8b2f4026g46d4ge64eg683cged54a26030c7" version="1">기억이 닿지 않을 만큼 오래 전부터, 당신은 영계의 바다를 건너왔습니다. 그곳에서 은빛 공허의 경이로움을 직접 경험했습니다: 당신은 늙지 않게 되었습니다. 여행 중에는 죽은 신들의 화석화된 잔해 위에서 야영을 했고, 떠도는 신성과 마주치기도 했습니다.</content>
+<content contentuid="h3ca423c0g1634g46fag9b45gf8c192562cd2" version="4">아라즈의 혈액 실험이 어떻게 진행되고 있는지 알아냈습니다.</content>
+<content contentuid="h97da8875g679eg4ae4g8c93gb1ae5ff6fce6" version="3">무료 광고판</content>
+<content contentuid="hcf8d730dga096gf90fg72e9gd47ad946ebbf" version="1">신선한 공기</content>
+<content contentuid="h12c29633g9331gfc36gfd2ag722fd07e5dcf" version="1">가즈</content>
+<content contentuid="h16510d53g0e3agc796g6ba7g6f83703b4855" version="1">가즈</content>
+<content contentuid="h36b0e312g6965gd4f4g3a15g50d1546860d7" version="1">가즈</content>
+<content contentuid="h7d68eb52g0704gafacg9fd6gd7f264de2d6a" version="18">가즈</content>
+<content contentuid="h82b8b0fcg500bge926gef21g9c346c6f5b27" version="17">가즈</content>
+<content contentuid="had4c80c1g589bgb151g96d5g6b3cfd7f4b5c" version="18">가즈</content>
+<content contentuid="hc0037b2fg9f61gc549g4163g8b39bf8e8d78" version="1">가즈</content>
+<content contentuid="hc7e66df4ge1a6g46a7g2990g30dce6c0e649" version="23">가즈</content>
+<content contentuid="h4f69abd4g861bg452dg8c4agc2a8213ab847" version="3">오멜룸의 물약 재료를 얻습니다.</content>
+<content contentuid="h48ca4288g5ef5gc0e6g2877g7a8373fa100c" version="3">수습생 게라트</content>
+<content contentuid="h4a43f927g63cdg4783g9194g6344fb379b9f" version="5">동료와의 관계에 대해 새로운 관점을 얻습니다.</content>
+<content contentuid="h0a24bf53g2a55gd927gcabdg5a2496d394dd" version="1">거대 우주 햄스터</content>
+<content contentuid="h9752f0b9gb467g3cd3g3675g79af6bbeeb6a" version="29">거대 우주 햄스터</content>
+<content contentuid="hf63df877g07d1g18ddgbd0ag97c8466906b2" version="9">거대 우주 햄스터</content>
+<content contentuid="h0e1d56bagd93dge07dg8151g66ca05833e64" version="15">기스양키 약탈자</content>
+<content contentuid="h0f0b06fagb973g6527g63efg4af053f9757f" version="21">기스양키 약탈자</content>
+<content contentuid="h15c45af0g79abg75f5g6cc2g2dc9f2e15b1d" version="1">기스양키 약탈자</content>
+<content contentuid="h1cc59bd7g3b49ga8eegb7ecg3e68e56af1a2" version="1">기스양키 약탈자</content>
+<content contentuid="h20844b4fg3925gc385g34a1gc6432766e769" version="6">기스양키 약탈자</content>
+<content contentuid="h20e73cc4g2ff1ge689g2591g74e46d320562" version="1">기스양키 약탈자</content>
+<content contentuid="h41b5ace2ge0cege70bg6776gbe1777e4f8af" version="1">기스양키 약탈자</content>
+<content contentuid="h4cf9de4eg9a23gadf3g8ff6g16dc0fa4287f" version="10">기스양키 약탈자</content>
+<content contentuid="h567557c2g71fcg22b6gff4dg50df0c87602c" version="14">기스양키 약탈자</content>
+<content contentuid="h714ab0ebg7bd7g19f8g838cg499af971421f" version="1">기스양키 약탈자</content>
+<content contentuid="h99cd50efg1271g79bcg97c0g6eb919e4e5cc" version="14">기스양키 약탈자</content>
+<content contentuid="hb7caf5e2gbb14g8a28g834dgbac82214e918" version="11">기스양키 약탈자</content>
+<content contentuid="hc0ba3576ga341g01f0ga75dg7e45891a7bd5" version="14">기스양키 약탈자</content>
+<content contentuid="hc7b7b0e4g73f8gd4f6g4147gf95200210549" version="1">기스양키 약탈자</content>
+<content contentuid="hcc04bea7g4b02g858eg7115g86d48f010d68" version="14">기스양키 약탈자</content>
+<content contentuid="hcc7976a1gade8g4a02g1cefg9ddb895f81d2" version="19">기스양키 약탈자</content>
+<content contentuid="hd71310feg4245g3d30g6464gc58f15ecc8d1" version="8">기스양키 약탈자</content>
+<content contentuid="hd7599f8dgb382ga71fgce24g5475b51851e0" version="4">기스양키 약탈자</content>
+<content contentuid="head9107egd6ceg68f9g7c5eg7a5bd434b6dc" version="1">기스양키 약탈자</content>
+<content contentuid="hf5027610g3c25g7634gcb7agde6eced32e21" version="5">기스양키 약탈자</content>
+<content contentuid="hf7957566g7a82gc6d2g905fg6c8fbd1e50b8" version="14">기스양키 약탈자</content>
+<content contentuid="hf97aa801gbc5bg0441gbb18gb9dbcfc5dc04" version="8">기스양키 약탈자</content>
+<content contentuid="h9d4f25f1gde39g232bg651cgc554046b2a4f" version="1">기스양키 선장</content>
+<content contentuid="ha76b5237gc2bcg2269ge233g9ad4f2bc3e43" version="25">기스양키 선장</content>
+<content contentuid="hfca0f650g2891g5533gf6a5g1dc37c989f3c" version="7">기스양키 선장</content>
+<content contentuid="h86ad0c26g0687g4d6aga6b0g02d19d03c2c7" version="4">밤의 노래를 로로아칸에게 넘깁니다.</content>
+<content contentuid="h8f92f232gc652g4c6agadecg4c852e389019" version="4">아라즈 오블로드라에게 자신의 피를 줍니다.</content>
+<content contentuid="h96790e9eg1bf5ge89cgb79ag9ebcb806aa9d" version="4">"공기 방울" 효과를 부여하고 "산성" 구름에 대한 저항을 제공합니다.</content>
+<content contentuid="h30375329gab44g9e80gfd42ga21eed48bc73" version="1">경비병</content>
+<content contentuid="h43318bdcg0b4cgbb24g5284g74a216bb705e" version="1">경비병</content>
+<content contentuid="h4695fc21g0db8g65afgcb93ga31439c31136" version="18">경비병</content>
+<content contentuid="h79edee61g0aeag1249g17f7ga19c149fa617" version="22">경비병</content>
+<content contentuid="h990ceb0dg054egc6degaecbg28a5972da7a4" version="26">경비병</content>
+<content contentuid="hebddb588gcec8g55c8g276fg5d3dc20c020a" version="1">경비병</content>
+<content contentuid="h28241fe4g6861g59aagaac0gc197d94a3c8f" version="4">기쓰카</content>
+<content contentuid="h455cce1ag5617gea5cgf35age6fd5e675446" version="1">기쓰카</content>
+<content contentuid="h66a0b518g3b14g3f2dgdc67g3b8172b21a53" version="9">기쓰카</content>
+<content contentuid="he36da38cg5767ga644g1d1cgccb1d902a06f" version="2">기쓰카</content>
+<content contentuid="h6a722641ge848gb7d4g4b0fg06c74ecfac51" version="1">야영지로 향하는 바닥문</content>
+<content contentuid="hf3cac532g5fb6g0efdgdc4dg54925c078f8b" version="13">야영지로 향하는 바닥문</content>
+<content contentuid="hffca2043g68eag4845gbc94gd4766468d050" version="1">야영지로 향하는 바닥문</content>
+<content contentuid="h76b6b14bg6443g7877g304bg21e8339b55fa" version="4">내 세계를 떠난 이후로 하루도 늙지 않았어. 이상한 기분이야.</content>
+<content contentuid="h311f2d86g2f93g0d17g5429g27db07e00fd7" version="2">이 아이템을 인벤토리에 소지하면 그 마법 효과를 얻습니다.</content>
+<content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="2">그가 당신의 이름을 부릅니다!</content>
+<content contentuid="hc48edd9ag2bfbgabe5g8e71g7259de60d639" version="2">머리가 신선한 공기가 담긴 공기 방울로 덮여 있습니다.</content>
+<content contentuid="hcefd5403gd3c7gbc13ge9b0g0b8bd4b69d12" version="2">머리가 신선한 공기가 담긴 공기 방울로 덮여 있습니다.</content>
+<content contentuid="he344e573g0bceg47d5ga25agab6320707e71" version="3">머리가 무겁다</content>
+<content contentuid="hc576c904g6354g4368g8e2eg77b33f2f0ca6" version="3">지옥의 무장</content>
+<content contentuid="habf0e00fg8b9eg485aga0c5g6f437fb0bee3" version="5">몰이 랜스보드 게임에서 승리하도록 도와줍니다.</content>
+<content contentuid="haf37fe6dgce9eg6e5dg2aa9gdbf1186f128f" version="4">오늘도 영계의 바다에 잡아먹히지 않았군! 건배!</content>
+<content contentuid="h10a37d2dg8842g47dfga3bfg405ceb2b012b" version="3">더 이상 히포크라테스가 아니다</content>
+<content contentuid="h12471329gf7e7g4613g841age196cea869fc" version="3">역사는 절대 잊지 않는다</content>
+<content contentuid="h421de244g793ag68cfgcf22gdd1a8b2ddb76" version="1">숨 참기</content>
+<content contentuid="h47918afeg3328g074fg6a1cg5206108998c8" version="1">숨 참기</content>
+<content contentuid="hcf0a1b2dg24d4gd218g11a9gaef27a1bafb2" version="4">낯선 이여, 영혼을 꽉 붙잡아라. 공허는 원하는 것을 가져가는 방법이 있다.</content>
+<content contentuid="h2c5a3e24g3ef7gabd7gb6e9g5d261b077205" version="15">집돌이</content>
+<content contentuid="hdc78734fgbb34gceb3ga640g626f75df56e8" version="1">집돌이</content>
+<content contentuid="h368c48f1g712fgb334g8e8fg47422b4abeb0" version="1">하지만, 스펠재밍 함선을 소유하고 장비를 갖추고 있어야 합니다. 그렇지 않으면 주문은 아무 쓸모가 없습니다.</content>
+<content contentuid="h38c6cbf4g2a15g33aegd759g180b88ba3917" version="5">재미 없는 녀석과 얘기할 시간 없어.</content>
+<content contentuid="hd580690dg30e9g02d7g69a0gdd2cea6426b6" version="4">마실 수 있는 별에 대한 이야기를 들었는데... 이제 뭐가 진짜인지 모르겠어요.</content>
+<content contentuid="h4f2882dfgbbc0g2ad6g3281g7ac9a992369c" version="4">한 번은 우주에 떠다니는 두루마리를 발견했는데, 잡기도 전에 사라졌어요.</content>
+<content contentuid="h328585a0g5b06gba29g39c9g28e8fb5aa344" version="4">사슬에 감겨서 나를 똑바로 바라보는 신이 떠다니는 걸 봤다니까.</content>
+<content contentuid="hff18299fgf5b6g951dg6167gb4bc75314565" version="4">술 몇 잔 마시고 나면 별들이 더 가까워 보인다니까!</content>
+<content contentuid="hf222141cgb1b6g07e3ga5deg12f4b6e2e860" version="3">언젠가는 산만큼 무겁지 않은 망치를 만들겠어, 맹세해.</content>
+<content contentuid="h4e9728b8g65f5g8a9dg9487g8bb7348b450e" version="4">예전엔 별을 올려다보며 가까이서 볼 날이 없을 거라 생각했어. 지금은? 이웃 같아.</content>
+<content contentuid="hd0540c48gbd25g80f0g2b43g3214bbcf31f0" version="4">나는 정말 '유연한 움직임'을 가지고 있다네.</content>
+<content contentuid="h1124dfabg0dffga5e6gc1fag1a9cbe30996d" version="5">내가 영계의 바다에서 만난 환영들이 네 선원들보다 더 용감했어.</content>
+<content contentuid="hbee341e6g4816ga260g0f71gefeea6470d66" version="4">선원들이 그냥... 별 속으로 녹아버린 것처럼 빈손으로 돌아온 배들을 본 적이 있어.</content>
+<content contentuid="h4ce2361fgc199g3e67gd610g09f67f63af9b" version="4">나는 세계가 오고 가는 걸 봤다네...</content>
+<content contentuid="hf19c4948ga8c4g4cb5g94a4gd6d0f2b72b3b" version="4">와우킨의 휴식 근처에서 드로우 갑옷을 식별합니다.</content>
+<content contentuid="h5354aec2g8321g46aag864fg4966ed9e8c11" version="4">내가 가질 수 없다면...</content>
+<content contentuid="h541ae7b7g8d6dge79ag1d04g7a7d5f5a74dd" version="3">만약 '행운을 가져다준다'는 혜성을 거래하겠다는 제안을 받는다면, 먼저 저주를 확인하는 게 좋을 겁니다.</content>
+<content contentuid="h631aceebg4af9gc92eg6f59g6911f2aad6a2" version="5">여기 있을 거면, 적어도 나를 지루하게 만들지 마.</content>
+<content contentuid="hd8b38dc5g1b34g4428ga8acga1b967093dd9" version="3">부도덕한 독창성</content>
+<content contentuid="h5c40a550g7437gf5eaga8bcgd0bd20d51de2" version="1">개선된 함선</content>
+<content contentuid="h0d6ea77eg9977g619dg6972g60822f2bb5ad" version="4">영계의 바다에서는 한순간 표류하고 있다가도, 다음 순간 신과 마주하게 됩니다.</content>
+<content contentuid="h1fbfea32g6188gb001g16e1g5ce3d640b0a5" version="1">영계의 바다에서 당신은 떠도는 신성과 마주쳤습니다. 그 만남은 짧고 평화로웠지만, 당신에게 깊은 인상을 남겼습니다. 그 신성은 당신에게 한 가지 비밀이나 우주의 숨겨진 지식을 나누어 주었습니다.</content>
+<content contentuid="hb0afa464g5234ge051g9f73g148aebbb3cde" version="1">영계의 바다에서 당신은 떠도는 신성과 마주쳤습니다. 그 만남은 짧고 평화로웠지만, 당신에게 깊은 인상을 남겼습니다. 그 신성은 당신에게 한 가지 비밀이나 우주의 숨겨진 지식을 나누어 주었습니다.</content>
+<content contentuid="h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2" version="4">우주의 깊은 곳에서 나는 평화를 찾았습니다.</content>
+<content contentuid="h976dfba9gf55eg4a8bgb68bg9b748c3479e3" version="4">내 손바닥 안에</content>
+<content contentuid="ha4655c08g7db3g4256gb82cg28d83c916bcf" version="3">정상 작동 중</content>
+<content contentuid="h734ca831g3932g49aag813agcf93bbede281" version="3">비인간적인 시험</content>
+<content contentuid="h919195bcg4ba3gae8cgbe1dg9ff917534b0e" version="12">여관 주인</content>
+<content contentuid="hb2923733gbf5ag4aacg8269g3ef2febdecb6" version="5">달등불을 조사하고 그 힘의 원천을 찾습니다.</content>
+<content contentuid="h89c8a72cga9fbg5e50g3c30g216b6d918308" version="5">당신의 존재에 목적이 있나요, 아니면 단지 문제를 일으키려는 건가요?</content>
+<content contentuid="hfb6d5ad0g6ca4gcf5cg5e0bgcd8ad6db0ed9" version="2">당신은 이제 영계의 바다에서 스펠재밍 함선을 소유하게 되었습니다. 이제 당신의 우주 갤리온을 이용해 영계의 바다를 탐험할 수 있습니다.</content>
+<content contentuid="h6af0a223gd128gd306gaae2g79a22a249a79" version="1">함선을 장비로 업그레이드할 수 있을 것 같습니다.</content>
+<content contentuid="ha250f369gc7eag971bg517bg577eec10b2ab" version="4">여기선 이상하게도, 하룻밤이 평생처럼 느껴지네요.</content>
+<content contentuid="h97664e96gda2bgffe3g73aag3c8846c4ffe9" version="3">내 임무는 순찰입니다.</content>
+<content contentuid="hc1ce5af5g8505g7fedg5d84gd52c24b22fd5" version="1">이제 '우주 제작자의 여관'을 탐험할 때입니다.</content>
+<content contentuid="h87fb52f6gff38g1c1ege6fbg3b60914fa850" version="21">제스로</content>
+<content contentuid="h446976ceg339eg1155g0811gd9acfdf31c28" version="4">이 기묘하고 회전하는 우주에서 우리를 흔들리지 않게 하는 또 한 잔을!</content>
+<content contentuid="h5a745238g7836g5930g7818g2a2dc699be72" version="4">떨어진 별을 잘 살펴보세요. 다른 세계의 비밀을 담고 있을 수도 있습니다.</content>
+<content contentuid="hbe4dc788g394fg0127g6805g38ef435812e9" version="5">용기를 낼 수 있다면 무기를 가까이 두세요.</content>
+<content contentuid="hd8b11de5gf81cgb24dg6530gc7ea752b104a" version="4">여기서 정신을 바짝 차려요, 낯선 이여. 별들이 당신을 통째로 삼킬지도 몰라요.</content>
+<content contentuid="he5a30505g4a15g8890gbe1agebf9b530e7a5" version="3">편히 잘 수 있는 좋은 장소를 아시나요?</content>
+<content contentuid="h54e51855g0dfcg457dg8667gb99a8a506e54" version="3">마음의 지식</content>
+<content contentuid="h8ef5f65egc6eag53b3g4e62ge7bc9050eb7a" version="1">실험실 공격: 대포</content>
+<content contentuid="h20569838g6e46ge973gac5bgcf48aa890b63" version="19">함선으로 가는 사다리</content>
+<content contentuid="h86451d31ge9c2g50afg02fag97875682d741" version="1">함선으로 가는 사다리</content>
+<content contentuid="h95f7c0fagcdf2g4180g9933g11933377f9c0" version="3">란탄나의 경이로움</content>
+<content contentuid="h3d70d1d9g5cddga880g7074gb1fce99ea340" version="1">집게로 물어 &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;마비&lt;/LSTag&gt;시킵니다.</content>
+<content contentuid="hfc5aba5agdeb9g123eg474fgd940780e0a7f" version="1">집게로 물어 &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;마비&lt;/LSTag&gt;시킵니다.</content>
+<content contentuid="h23edfc03g758fg3180ge0a0g298e712c880e" version="4">마지막으로 우주를 표류했을 때, 별 너머에서 내 이름을 부르는 목소리가 들렸어요.</content>
+<content contentuid="hc2e79a7agf628g435dg80c3g50f58009bc12" version="3">드루이드 벽화에서 지역 역사를 배웁니다.</content>
+<content contentuid="h6d6bd3bbgc8fbg0309gaf20g0e7154951667" version="5">날 내버려 둬.</content>
+<content contentuid="h625f1926g193bg423bg8075gdf8779962688" version="4">강철 감시자에게 검문을 받습니다.</content>
+<content contentuid="hea435120ged2agcb52g5555g9254a17af004" version="26">길을 잃은 이교도</content>
+<content contentuid="h04ceef3dg4ebdg4912g92aagcd59b3f2a8a5" version="3">으스스한 수수께끼</content>
+<content contentuid="h43691a8agc132g4cebg9349g12b2d49c15de" version="3">그림자로 만들어진</content>
+<content contentuid="h31e8bf87g9fe8gd34dg04b7g2631253644c7" version="1">집게 공격</content>
+<content contentuid="h3d920ed0g518agb14dgd8dag5827b8598729" version="1">집게 공격</content>
+<content contentuid="h94ffe475g224bg5d1cgbb7dg0da8415a6f77" version="3">토마스 선생님은 이게 '정밀 작업'이라고 하지만, 내 눈엔 그저 힘든 노동 같아요.</content>
+<content contentuid="h3c76f411g49e1gc253g0b76gca4872aad267" version="3">토마스 선생님은 이 더위가 저를 강하게 만든다고 말하지만... 저는 그냥 살아있는 채로 오븐에 들어온 것 같아요.</content>
+<content contentuid="h41f70f78g20d0g416dga874g26d6d18acf57" version="3">번식기</content>
+<content contentuid="hae22c0c1ge474g4a09gb000ga0f6c7b093b8" version="4">고타쉬 웜 바위에서 만나 그의 대관식을 목격합니다.</content>
+<content contentuid="h01d72ccdg237eg4c57gb8edg485ccfccb252" version="3">회원 가입</content>
+<content contentuid="h8db392e8gd14cg3ad1gae80gd85ff0b6fa9c" version="1">메피트</content>
+<content contentuid="hf9eafc35ge8b2g5a60g9585g3fda846e857f" version="1">미엘</content>
+<content contentuid="h3eee7267gb9deg47f7g9924gd94d4efb30ac" version="3">버섯을 이겨내는 마음</content>
+<content contentuid="h51fe44e2g3c14g2349g601bg13298f9260fb" version="4">생각을 조심해요, 여행자. 여기선 생각이 더 크게 퍼져나갑니다.</content>
+<content contentuid="h1b99d3bfgb9cegf60ag3986g45c54fa2f943" version="3">비켜!</content>
+<content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="4">살인 혜성</content>
+<content contentuid="he68fff5cg872dga5a6ge542gb349ea75f851" version="3">영계의 바다를 항해하는 것은 쉽지 않지만, 보물들은 그 여정을 가치 있게 만듭니다.</content>
+<content contentuid="h3c7569f7ge0f2g5d55g305eg45685a6265c0" version="4">유령선 이야기를 모르는 선원은 절대 믿지 마세요.</content>
+<content contentuid="hed09c0a2gdba2g41fbga892g85975ae49cb8" version="3">새로운 일상</content>
+<content contentuid="h6c83c775g7f0agcf8ag2db0gc0879187aeda" version="4">모든 모험가가 나처럼... 다재다능할 수는 없죠.</content>
+<content contentuid="h8077f50fga02bg1017g42f8g90cf9269160b" version="4">은빛 공허의 윙윙거리는 소리만큼 마음을 진정시키는 것은 없죠.</content>
+<content contentuid="h9388c073g568fg4bfbgb0a6g1017d5739fa2" version="4">'평범한 상자'의 효과를 관찰합니다.</content>
+<content contentuid="hacd39bb6g57b6g4771ga7bfg65aed6bbbb5a" version="4">다몬에게서 지옥 장비를 얻습니다.</content>
+<content contentuid="h381da951gca75g4beagabf5g60fc3861474a" version="4">'희망의 집' 포털에 접근할 수 있는 권한을 얻습니다.</content>
+<content contentuid="h8a6d7754g89a4gf201gd51cgcd2f60e9598d" version="31">오나</content>
+<content contentuid="h0f9fa049g1191g2110g2bd5g21d93b29ce87" version="3">언젠가는 조용한 성운에서 은퇴할 거예요.</content>
+<content contentuid="h3b919efbg8ad6g0860gdb50g5f01919f5e01" version="3">언젠가는 내 대장간을 갖고, 수습생을 고용해 이 모든 일을 맡길 겁니다.</content>
+<content contentuid="h3abece90g324fg4166g93cdgae1e2d4ce0fa" version="5">'회계 사무소'의 특별한 금고 중 하나를 엽니다.</content>
+<content contentuid="h9524b179gf97bg44c9gb8fag433597ddcdf6" version="5">샤의 시련으로 가는 길을 엽니다.</content>
+<content contentuid="h7a4e8b03gbcebg436agb1efge12b7cc42b0e" version="4">샤의 성소로 가는 길을 엽니다.</content>
+<content contentuid="h8b177eadg6203gee43g4925g128c4e7b5e0f" version="25">오로비아</content>
+<content contentuid="h50bf4cacg265eg3887gce79g9fd039b5e5ed" version="12">오즈</content>
+<content contentuid="ha881482ag163ag4f1cga03cg86c0e18c1044" version="4">샤레스의 포옹에서 음탕한 서비스를 즐깁니다.</content>
+<content contentuid="h7a7116a8ga3e5g4bb3g9329g88aa9b36b3de" version="3">지역 관습 참여</content>
+<content contentuid="hfaaf3bb7g84e0g471agaa7eg2bce5bd0f995" version="4">샤의 성소에서 의식을 수행합니다.</content>
+<content contentuid="h55bc09a1g128ag4f70g8606g6265ab591e97" version="4">드리블스의 시신을 다시 맞춥니다.</content>
+<content contentuid="hb384e48eg2231g7f83g3bdcg7025458e54f4" version="18">해적</content>
+<content contentuid="hdc25d406g7b04ge2d5g8ea6g226fd78b3b0e" version="1">해적</content>
+<content contentuid="hdc846598gbc52g12b2g5582g3a2403f27a8c" version="18">해적</content>
+<content contentuid="hea750f6cg0476gac3bgd695g2857b2492c16" version="1">해적</content>
+<content contentuid="h1d87bccdga150g9b48gf515g758b03c573f8" version="24">행성 판매인</content>
+<content contentuid="h5f872033gd9d7gb565gb5e7g99ab3cb1d037" version="24">점액 모험가</content>
+<content contentuid="hddb743fbg6311gdf02g9005g269486282047" version="1">점액 모험가</content>
+<content contentuid="h4ba3950dg7021ge42cge8d7g9e47da98825c" version="29">점액 파이터</content>
+<content contentuid="h553b23acg4b67g0fb3g502dgb41155ebef57" version="1">점액 파이터</content>
+<content contentuid="h48a093edg3069g89cag3c03g8d9ffcbe05d3" version="2">차원문</content>
+<content contentuid="h407acb2ag5870gcedcg112eg3367720c3b1b" version="7">구매 주문: 발리스타</content>
+<content contentuid="hd51f240ag18e6gc769g0b5cg4ef7eee04d0d" version="1">구매 주문: 발리스타</content>
+<content contentuid="h7a608f83gbc09gf498gd9beg86f794e0a497" version="7">구매 주문: 대포</content>
+<content contentuid="hf8c5ffa3g1d04g10fdgeca7gdbc07b8780d0" version="1">구매 주문: 대포</content>
+<content contentuid="h1324606eg56b2g46b5gbd9bgde21faaa2738" version="3">펜을 종이에 올리기</content>
+<content contentuid="h1b770f7bg9f6bga6f2g19e8g9380bc619a5a" version="4">건배! 여기에서도 우리는 가족보다 가깝습니다.</content>
+<content contentuid="hffef2067gf322g4db8g8499gd6b838dbf004" version="3">쥐 왕</content>
+<content contentuid="h9d805b18g45c0g4573gb2d1g62b86b5b4f3f" version="5">오멜룸의 일리시드 마법에 대한 노트를 읽습니다.</content>
+<content contentuid="he9d4c4c7g157dg437dg94f7ga4cfa9d22eab" version="3">우물 바닥에 있는 거미술사의 일지를 읽습니다.</content>
+<content contentuid="h334e7c85g7a77g469dgab03g75eca4d3e331" version="4">드로우 여주인의 난해한 텍스트를 읽습니다.</content>
+<content contentuid="h5e25ce80g994cg4a9eg8c77g5738c6fa4e22" version="3">볼로의 고블린 안내서를 읽습니다.</content>
+<content contentuid="h704d0902gc7adg40ddg9998g197e471c7934" version="4">드루이드와 하퍼의 갑옷을 알아봅니다.</content>
+<content contentuid="h4ddf06fbgc132g4530gb3c7g0fcc85949cb4" version="3">부서진 창을 다시 제련합니다.</content>
+<content contentuid="he6d8f9d3gc270g486cgbd26g43d1d5825255" version="3">재생</content>
+<content contentuid="h2aff07f2g0148g50f6g06ecga32a5f4536f6" version="1">리가르 환영</content>
+<content contentuid="hec096946g23b1gdf65g6fe4g9f3f93892b76" version="1">리가르 환영</content>
+<content contentuid="he17743c0g5b4fg4c05g866ag7e49f076413c" version="3">르네상스 독창성</content>
+<content contentuid="hc5f03b70g3605g454dg87d5gff8e8e358ae3" version="3">젠타림 은신처에서 엘리베이터를 수리합니다.</content>
+<content contentuid="h553eb4dfg2d6fg4ac3g9e49gcfa5bd7f2016" version="3">젠타림으로부터 화가 오스카를 구출합니다.</content>
+<content contentuid="hff32b65bga95dg4c3bgbbccg3f2e1e8b8fb9" version="3">비전의 탑에서 승강기의 전력을 복구합니다.</content>
+<content contentuid="h0841a2a1g8b21g4dc9g842eg80d681911946" version="4">지각 있는 아뮬렛을 시라에게 돌려줍니다.</content>
+<content contentuid="h9a26f1f0geebcg4010g9ca9gfe07d44278c3" version="4">울브렌의 도구를 그에게 돌려줍니다.</content>
+<content contentuid="hf8439975g2c8eg466fg82c6g43b05ea6356f" version="3">숲의 뿌리</content>
+<content contentuid="h1cca3cf0ga28ag41fcgbf58gaf0e9f867174" version="3">무자비한 장인 정신</content>
+<content contentuid="hd70c1e67g182dg4c1dg94b3g61596c87f422" version="5">안전 불감증 음주</content>
+<content contentuid="hdcb0efb0g2c8fg4c64g826bg32bd2aacd129" version="3">핏빛 진전</content>
+<content contentuid="h61c08743gb315g56cfgfd8dgc264515efac7" version="3">영계의 바다에 대해 뭐라 해도 좋지만, 이곳보다 좋은 야시장도 없어요.</content>
+<content contentuid="hed624bb4gccecg8b13gdd80g91b3fab2cb0a" version="2">공기 방울 두루마리</content>
+<content contentuid="hac24dc7dg7a4dg7ab9g0b8bge7c2ff3e5d52" version="4">스펠재밍 조종간 동조 두루마리</content>
+<content contentuid="h399bd7dbg2b9fg4e03g838cg7e299b0aa7bb" version="3">거대 우주 햄스터 소환 두루마리</content>
+<content contentuid="ha4ad29fegcee7g4f42g8fe1g7b92b2d6d601" version="3">대족장의 비밀</content>
+<content contentuid="h8c9ad3c6g8f74g4f2aga002g8797ccd02365" version="4">여주인의 비밀</content>
+<content contentuid="h2f879e7egdb5bg49abg9f26g87fbc2f57f19" version="3">사령술사의 비밀</content>
+<content contentuid="hd43315a3gf3e2g4776g8b94gbe232e5c223a" version="3">사령술사의 비밀</content>
+<content contentuid="hbf66724bg124fg4b45g80b0g34325a3c7261" version="3">그림자 드루이드의 비밀</content>
+<content contentuid="h2632caf0g6e60g412cgaf9dg13b61f92fdc5" version="3">파괴의 비밀</content>
+<content contentuid="h6d2b2de7g55fdg4587ga612ga4535aa9538d" version="3">수수르 나무의 비밀</content>
+<content contentuid="ha67711e7g8ab8ge040gc710gaded92d07a35" version="4">오늘 천체 물고기 본 적 있나요?</content>
+<content contentuid="h8102834dg4476ge437g1120gfaf05d4dcbff" version="6">형태 없는 플라스모이드</content>
+<content contentuid="hc19dfbdag9cd9g2069g8e7bgaa1159bca77e" version="3">산산조각난 성소</content>
+<content contentuid="h7e705234gb71ag26e3g4e25gc9e412b9c698" version="13">은색 접시</content>
+<content contentuid="hfdbf8023gd2ceg5ac2g8684g11487fe6bce9" version="1">은색 접시</content>
+<content contentuid="h665dcc91gd30eg4c16g9ba9ga5db1e0ef44f" version="3">간단한 도구, 위대한 작품</content>
+<content contentuid="h6c8a05b0g6286g4e3ag91d0ga6112929bcbe" version="3">꺼진 불꽃</content>
+<content contentuid="h00788fadg1b3bgbd87g8220gc26a47ad2571" version="4">그때 나는 한 손으로 메가피드를 붙잡고, 다른 손으로 술을 들고 있었어요!</content>
+<content contentuid="h6be2ee5agde6fg4bbdg87c9g23d9f2d4bfc9" version="4">발타자르의 비밀 연구 퍼즐을 실수 없이 풉니다.</content>
+<content contentuid="h563b7b0ag330fg4eefg8470g32d811774cfd" version="4">발타자르의 비밀 연구 퍼즐을 풉니다.</content>
+<content contentuid="h70b24a78g864ag40efga97dg2ed04343915b" version="4">지하 도시의 문을 봉인한 달 퍼즐을 풉니다.</content>
+<content contentuid="hf8649720ga6eeg74b3g677fgc7f076a93b7d" version="1">몇몇 유령과 이상한 이교도. 이게 무슨 뜻이죠?</content>
+<content contentuid="hf7c46061g873fg4d4cgad5dgdf6eefa42b27" version="3">시큼한 맛</content>
+<content contentuid="h389eeb7ag0368gba70gb53cg54785894496e" version="5">우주 광대</content>
+<content contentuid="h3d13c9b4g191egdc0dg7925gb26269d0edc1" version="5">우주 광대</content>
+<content contentuid="hc0b30e99gf229g38c6g70ecgc67805c075b8" version="5">우주 광대</content>
+<content contentuid="hc6a0589ag2528g99f1geb31gbff8b2263fca" version="10">우주 광대</content>
+<content contentuid="hd0a462feg7297g65e5g0849g7ccc4d8d6864" version="5">우주 광대</content>
+<content contentuid="h18b55390gdddcg08abg1799ge1fa22a8bebe" version="3">우주 갤리온</content>
+<content contentuid="h44528684g768dg7bd9g0a54g220770cb8f76" version="6">우주 갤리온</content>
+<content contentuid="hba375533g69e7gd07eg8ba2g3a10917a1c2e" version="3">우주 갤리온</content>
+<content contentuid="he2dd42f1g7309gf3e2gfa0agc3063e078e37" version="3">우주 갤리온</content>
+<content contentuid="h4520854dg7a99ga169g5581g58b1fec9b94a" version="6">우주 땜장이의 여관</content>
+<content contentuid="h8edcb1b1g23f8gaa5bgd918gb86dcaa7f822" version="1">우주 땜장이의 여관</content>
+<content contentuid="h7e80c1eeg0aa0g4611g96beg3d39691bf932" version="3">특제 얼음 비소... 양조?</content>
+<content contentuid="h89f2e023gcdf5gb2begd223g8f18a655a160" version="1">스펠재머 슬롯</content>
+<content contentuid="h26278ea4g240cge574g6d7egcfe71fe723da" version="2">스펠재머</content>
+<content contentuid="hacbbadeeg7a60gf5cdgb51cg79cc97addb8e" version="3">스펠재머</content>
+<content contentuid="h2c7e5d4bga16eg8a3eg9864g10c7677c62fb" version="3">스펠재밍 조종간 동조</content>
+<content contentuid="h47af2428gb586g4898gd582g1256b8486bed" version="1">스펠재밍 조종간 동조</content>
+<content contentuid="h19c63dfcgcf24gd2bag6b8bgf23160fa1161" version="18">스펠재밍 조종간</content>
+<content contentuid="h33213a14g472bgc8f9g957bgc347e2de8f37" version="1">스펠재밍 조종간</content>
+<content contentuid="h653594b2g9d71geda1gd27cgcc6be37b80a4" version="9">스펠재밍 조종간</content>
+<content contentuid="hbd765f0fg38fegeec2g7e2eg2d753cfaa229" version="34">스펠재밍 조종간</content>
+<content contentuid="hced6a2a4g73e6g0391g91a9g68d487469bcf" version="4">스펠재밍 조종간</content>
+<content contentuid="hdd607b54gbdccg8ff4g28d3g53cd6549483a" version="6">스펠재밍 조종간</content>
+<content contentuid="hb01a4759g87a8gbd91g4c00g3a2497fd7646" version="3">스펠재밍 주문 슬롯</content>
+<content contentuid="hbb3421beg81c5g3071gf9e0gd20ba5277ab7" version="1">스펠재밍 주문 슬롯</content>
+<content contentuid="hfef23863ga3dfg6d27g410bgaea29efc4ce1" version="5">스펠재밍 주문 슬롯</content>
+<content contentuid="h3d915c03gc63eg8c92gfb0eg4750634f0f38" version="8">스펠재밍 거래자</content>
+<content contentuid="h49783a2agd32dge5b8ge66fg4e44a44caa21" version="2">스펠재밍</content>
+<content contentuid="h65dff092gf42dg7514ga5e7ga6c239a29086" version="4">찍찍이들</content>
+<content contentuid="hf359c2d2g440bgba89g4219g870e052bca2f" version="5">뒤로 물러서, 그렇지 않으면 이 일을 빨리 끝내줄게.</content>
+<content contentuid="hb0522659gf0a3g4ff0gbdedgd13418cd9ffb" version="3">역사의 반복을 막기</content>
+<content contentuid="h4e4bb8d6g46deg45edga0a1gea4d41ef2179" version="5">마인드 플레이어 식민지에서 정신 퍼즐을 성공적으로 완료합니다.</content>
+<content contentuid="h7ef170e9gd5aag3b0cgde8dg9efaaf932b58" version="1">용감한 '거대 우주 햄스터'를 소환합니다. 그는 일시적으로 당신의 팀에 합류합니다.</content>
+<content contentuid="hace9497dg8b23gb039g49cdg112e1f4d7de8" version="2">시전자와 똑같이 생긴 복제물을 소환합니다.</content>
+<content contentuid="heab1e6d3gd906g6ba7g4b66gcb7798e265e3" version="2">시전자와 똑같이 생긴 복제물을 소환합니다.</content>
+<content contentuid="h43ff9bbaga561g4caega591g7e83897f7a66" version="4">잠수정의 제어권을 획득합니다.</content>
+<content contentuid="h9c2ed06dg90f4g46bfg99c7g75a64ec44d40" version="4">샤르의 의식용 단검을 가져갑니다.</content>
+<content contentuid="h4432e8a8g8793g4cabg9220gf7e36d577a8a" version="4">발레리아의 연쇄 살인 사건 수사를 맡습니다.</content>
+<content contentuid="h29e411fdge733ga810gf837g326373c098e4" version="2">탈라리스 동조</content>
+<content contentuid="h2f371454g3022g3f20gf845g0e97f53c0529" version="3">탈라리스 동조</content>
+<content contentuid="h9ca67b12gf35agf20ag7f49g4a4b1f950ac2" version="2">탈라리스 동조</content>
+<content contentuid="hda0d8d75g9405g7c19g248agd8d077eaf6a0" version="1">탈라리스 팔찌</content>
+<content contentuid="h33a504e9gc5c7gfab8g9273g8cee2ca74386" version="2">탈라리스 다이아뎀</content>
+<content contentuid="h8dc85010g52c1g5e4agb515gb811d448bb97" version="2">탈라리스 목걸이</content>
+<content contentuid="h806975eagdb0fgabf3g50d5g1e000d4c6d8e" version="4">탈라리스 반지</content>
+<content contentuid="hec75d726gc66agebccgf508g3634c0711615" version="5">말해봐, 싸울 건가, 아니면 그냥 비명을 지를 건가? 난 둘 다 괜찮아.</content>
+<content contentuid="ha078292dgd8a6g4abcga6e2g817bf0f7b045" version="3">상실의 교리</content>
+<content contentuid="h032498c5g29acg4a00g858fg8f3fbf3ce26c" version="3">수습생이 거장이 되다</content>
+<content contentuid="hf6162126g0b31g4df0g8b91g283e73e8ee24" version="3">파괴의 예술</content>
+<content contentuid="h6d9ee59eg2589g2598g5c71g0fff78129d46" version="2">신들의 시체야 말로 어떤 엘더브레인보다도 더 많은 가능성을 품고 있!</content>
+<content contentuid="h878f9d88gb97eg1d38g35a1g552c279c6487" version="1">이 생물은 공기가 필요하지 않습니다.</content>
+<content contentuid="hc6ec109eg30d9g3f43g0bd4g70b33451f8c4" version="1">이 생물은 공기가 필요하지 않습니다.</content>
+<content contentuid="h314ff465g5aa0g8771g3cb1gba64d434118f" version="1">생물이 숨을 참습니다.</content>
+<content contentuid="h4624eb99g6af0g9dd2gc03fg973ffb8808ab" version="1">생물이 숨을 참습니다.</content>
+<content contentuid="hb49f56fcgc6c1g528bgee91g09456751eb43" version="7">황제</content>
+<content contentuid="h2c83256fgad6fg4eb4gb2dcgdbc94e263800" version="4">최고의 재료</content>
+<content contentuid="h94fe3ed9g3e9bg48dcga2e9gb01b107ea9bf" version="5">금지된 비전</content>
+<content contentuid="h116855dcge003g0851gd8b8g8e0fe6922ddb" version="3">대장간은 절대 잠들지 않고, 나도 잠에 들지 못하고...</content>
+<content contentuid="h00c657eeg0320g8d98g2b74ge37cbd342315" version="1">당신의 함선은 평화로운 휴식을 제공합니다.</content>
+<content contentuid="h7631bcfdge554g4496gaa63gfd484db29ab5" version="3">우리 시대의 카서스</content>
+<content contentuid="he2f99204ga3c8gbb78g2989ga1ad63aee669" version="1">아랫 바위는 작은 무역 도시처럼 보이며, 우주 여행자들을 위한 보급 지점입니다.</content>
+<content contentuid="h59cf11b0gf5c7g412bg22f1g8995e719a9ba" version="4">아랫 바위</content>
+<content contentuid="h479eb43fga78eg3fd4g741cg758070e888ef" version="5">당신을 바라볼수록 더 마음에 안 들어요.</content>
+<content contentuid="h5b157610g153eg4f2fgaa56g47f541bca411" version="4">걸음의 전개</content>
+<content contentuid="h8cfb4bcfg92b8g4104ga0cfg09c56256c857" version="3">돌아온 선장</content>
+<content contentuid="hdadf31aegc85bg481fgbff3g3d82eba69588" version="4">거미의 선물</content>
+<content contentuid="h12ddb5aeg21b9g7ffagb011gcad3c42ec2de" version="4">별들은 쉬지 않는데, 우리가 왜 쉬어야 하죠?</content>
+<content contentuid="hab852e5cgc89ag2bbcg5929g688012db5a4c" version="4">별들은 이야기를 합니다. 듣는 방법만 알면 말이죠.</content>
+<content contentuid="hb81d8926ge58egdba1g5960g9f263f409e82" version="4">별들이 우리를 지켜보니, 우리도 서로를 지켜봐야 합니다. 동료를 가까이 두세요, 친구.</content>
+<content contentuid="h256965aeg332dgc9a0g0adcg8d108eb86b34" version="2">착용자의 무기 공격은 추가로 [1] 역장 피해를 줍니다. 이 효과는 다른 탈라리스 장비의 유사한 효과와 중첩되지 않습니다.</content>
+<content contentuid="h989cb931gf567ga7dfg03ffgd5460a7a3565" version="2">착용자의 무기 공격은 추가로 [1] 역장 피해를 줍니다. 이 효과는 다른 탈라리스 장비의 유사한 효과와 중첩되지 않습니다.</content>
+<content contentuid="h9913e0dbga9d2g569cg3ddbg6a0eac89ab32" version="3">착용자의 무기 공격은 추가로 [1] 역장 피해를 줍니다. 이 효과는 다른 탈라리스 장비의 유사한 효과와 중첩되지 않습니다.</content>
+<content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="2">그들의 조각은 우리를 통해 계속 살아갈 것입니다!</content>
+<content contentuid="hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d" version="4">조용한 순간 하나가 천 마디 말보다 더 많은 지혜를 줍니다.</content>
+<content contentuid="h8499ad7eg73a9g1f08g6cf3g57f010dd3626" version="4">여기엔 익숙해지면 뭔가 진정되는 느낌이 있어요. 하지만 가끔씩은 속삭임처럼 들려요.</content>
+<content contentuid="h8fa57ab8gf4f9g4cdega720g040038ab7030" version="3">이것들은 박물관에 있어야 합니다!</content>
+<content contentuid="h2b7d2a43g025dg4392g94bbg5c3497df7fa9" version="3">테스칸 전략가</content>
+<content contentuid="h1a1db8c9gba14g8f18g5221g1368eac474c5" version="4">사람들은 스펠재밍 조종간이 당신의 영혼을 당신보다 더 잘 안다고 말해요. 그러니 우리의 안내자들에게 건배!</content>
+<content contentuid="he5161886g8aebgfc6aga7a4gfd53bc70afd9" version="4">사람들은 영계의 바다가 시간 없는 곳이라고 하지만, 내 관절은 그렇지 않다고 느껴요. 매 주기가 이전보다 더 길게 느껴져요.</content>
+<content contentuid="hab84c206gd0deg4b26gadf9gc8ba3f15a3b8" version="3">그들이 벽 속에 있어요!</content>
+<content contentuid="h882854e6g2815g3a64g1543g4712359645aa" version="4">별가루 상인이 곧 올까요?</content>
+<content contentuid="hed4af585gac37gd4fbgec8dg2544a8251ae0" version="11">이 계약서는 읽히지 않았습니다.</content>
+<content contentuid="heaef84c8g17a4g4faeg1b52gce1346ea6fc8" version="2">이곳은 숨 쉴 신선한 공기로 가득 차 있습니다.</content>
+<content contentuid="he35519a5g41dag53e4g7124gf4728acf6f6f" version="2">이곳에는 신선한 공기가 부족합니다. 공기 방울이 이 해로운 효과를 상쇄할 수 있습니다.</content>
+<content contentuid="h6d3336e0gece9g05d2g0d78g7467e76d7328" version="7">이 구매 주문은 읽히지 않았습니다.</content>
+<content contentuid="hcabca4b7g6b6egf3ebg2ca3g9c935b64cab5" version="7">이 구매 주문은 읽히지 않았습니다.</content>
+<content contentuid="h3c804ad8g4e99g22ebg42edg39153f99fcc8" version="4">이 함선은 야생우주와 영계의 바다를 오가는 선박들 사이에서 주축을 이루고 있습니다. 우주 갤리온은 쉽게 일반적인 항해 갤리온으로 가장할 수 있습니다.</content>
+<content contentuid="hedc1df35g19d0gb40bg99fag6116444934be" version="3">이 장신구를 사용하면 범위 내에서 보이는 3명의 자발적인 생명체의 머리 주위에 스펙트럴 구체를 만들 수 있습니다. 이 구체는 주문이 끝날 때까지 지속되는 신선한 공기로 채워져 있습니다.</content>
+<content contentuid="hc561caa2gda7fg1616g366cge37dc7ef99bb" version="3">이 장신구를 사용하면 마법으로 모험을 위한 3개의 도둑 도구를 생성할 수 있습니다.</content>
+<content contentuid="h8d4be789gb480g24a6gcb85gdef04b225b26" version="8">천체 대장장이 토마스</content>
+<content contentuid="h87a8a45ag9067g435bg8037g31d4f49f7ca2" version="3">토름 가족의 비밀</content>
+<content contentuid="h5a26099ag0fceg0fffgee95g037eb793a819" version="2">트리크린 전문성</content>
+<content contentuid="h91625929gbac5gb215g6f08gfa3c9bfa7d46" version="2">트리크린 전문성</content>
+<content contentuid="hb37628e5gfa24g28a4g33b3ga0d25817b8e2" version="4">여기서 시간은 이상하게 흐릅니다. 깊이 생각하지 않는 것이 좋아요.</content>
+<content contentuid="h0999ecc6gf7b0g4cfag832ag7cd9d8ff06f5" version="3">사랑했고, 상실했다</content>
+<content contentuid="hec7130f3gd0ddg1780g3a24g49f5acbf1490" version="5">손가락 잘못 놀리면 손목이 날아갈 것이야.</content>
+<content contentuid="hf4c7b82fg0d47gb627ga645ge4ab56e5b63e" version="4">별에 손을 대는 건 어렵지 않아요. 그 이후에 오는 것에서 살아남는 게 진짜 도전이죠.</content>
+<content contentuid="he21fbc88g2b4dg4462gab7fg63a414e9f316" version="3">관광지 투어</content>
+<content contentuid="hd435f057g5447g4cf2ga8c3gec264b836802" version="3">석공의 비극</content>
+<content contentuid="h522a0890ge170gb53bg656egdc58756b0b9f" version="2">동조 전이</content>
+<content contentuid="h68bf2282gcc61gf8a0g319dg7ec719a622f2" version="1">스펠재밍 동조를 동료에게 전이합니다.</content>
+<content contentuid="h545b1456g5decg4b5cgac6eg9fd25c2d1ab8" version="4">쓰레기와 보물</content>
+<content contentuid="h13e50984gf83agbf28gf6eagb9664a007fb5" version="1">여행자의 보관함</content>
+<content contentuid="h3e313b95g6ac2g2b73g596cg3ca772341d07" version="1">여행자의 보관함</content>
+<content contentuid="h698d80bdg29e5g51a4g3a76g32d5ad9b985e" version="1">여행자의 보관함</content>
+<content contentuid="he22a9c94g7204g9c39g227dgcc1740857f35" version="1">여행자의 보관함</content>
+<content contentuid="h04d6d0bfg9980g5179g9000g1be82eb40b40" version="1">여행자</content>
+<content contentuid="h0ae99b9dgaa57g64c2gf3b3gfe71643b73c7" version="16">여행자</content>
+<content contentuid="h0c80184cgaae1g3317gd9a3g4c7ad9ec6dca" version="1">여행자</content>
+<content contentuid="h0e2f6ab3g823dg8b11gc6d6g551d23648c58" version="18">여행자</content>
+<content contentuid="h19208ca8gd273g83b4g01e0gf255232f2a3b" version="21">여행자</content>
+<content contentuid="h227da151g13f0g967cg5725gead7a9a89f87" version="21">여행자</content>
+<content contentuid="h24ea23b6g7dd8gf5e8gfbf3g51439967e6ea" version="1">여행자</content>
+<content contentuid="h4c6ca421g4f9bg3d67g7fd1geb2cee0aea66" version="21">여행자</content>
+<content contentuid="h59ba55e1ge78eg1d2fg3e01g43192f01d78f" version="20">여행자</content>
+<content contentuid="h5d909089g0cd7gc88egf137g75946a493771" version="16">여행자</content>
+<content contentuid="h5f76f21bgba00g063ege496g45be69a87c9f" version="24">여행자</content>
+<content contentuid="h61a9cab8g8cbfg1e1fge98cgc64710eb5198" version="1">여행자</content>
+<content contentuid="h64fe0182gdabcgc850g5835g289b263235a8" version="1">여행자</content>
+<content contentuid="h66af1066ge104gaac9gd2eeg5d7c9fa0bc77" version="22">여행자</content>
+<content contentuid="h6bb6c77dge6d1g36b0g3126gf6504019eb5f" version="1">여행자</content>
+<content contentuid="h6c77014dg8c8cge84agc8a1g2a89cd4139d5" version="1">여행자</content>
+<content contentuid="h9455954eg4016gd6e8g751bg9fed1d0d2186" version="1">여행자</content>
+<content contentuid="ha2e3d95bg5197g675cgbdbdgb575d1d9c85d" version="19">여행자</content>
+<content contentuid="ha7481da9g79b4gcf6ag039eg2bb9f3db2754" version="18">여행자</content>
+<content contentuid="hafefab97ge903g6737gdf78g49dbdee26168" version="1">여행자</content>
+<content contentuid="hb9552a4dg983dg8161g430eg2444b5e67fa1" version="1">여행자</content>
+<content contentuid="hc2d08a3dge4afg1776gcc35g356985c7c5b8" version="20">여행자</content>
+<content contentuid="hd56059b8gfb20g428fgec47g5735cfdfab4f" version="20">여행자</content>
+<content contentuid="hdd1441e4gb1bcg2320ga278gd9785acb23f0" version="1">여행자</content>
+<content contentuid="he212cad6g3bbfg1ecdge059g6db0c7c97aaf" version="1">여행자</content>
+<content contentuid="hf74d10fbg2732g9d80g1589g357d9c4baefa" version="22">여행자</content>
+<content contentuid="hf80444dcg04bdg1b4dg345eg56080096998e" version="1">여행자</content>
+<content contentuid="hfabbb3efgddb9gf7a1gcc39gac542206590c" version="1">여행자</content>
+<content contentuid="hff8ec2f7g5603g584cgd5f3g04971b511022" version="1">여행자</content>
+<content contentuid="h17564982gf365gf9d2ge875g41c0e4466f38" version="8">기술자</content>
+<content contentuid="h516fd51bg4561g1ed9gd7c4g28aa979991f9" version="12">기술자</content>
+<content contentuid="hcf06fc45ged85gcad6gae84g9b3b959a2074" version="6">기술자</content>
+<content contentuid="h5297f53bgfeceg4f6egae75g9a40cc74a1f5" version="3">신뢰와 작은 픽시 가루</content>
+<content contentuid="h53ea46dag03e4g49c3g9b4agd2d9c458420e" version="4">인쇄기를 작동시키는 기계를 밝혀냅니다.</content>
+<content contentuid="h5982f1d7g5e13g41b0gaba3g991884fe62dd" version="3">죽은 신들의 책을 잠금 해제하고 읽습니다.</content>
+<content contentuid="h1a9fd819g52c8g4e6ag9a58geb6425f4636e" version="5">광란의 밤의 창을 잠금 해제하고 가져갑니다.</content>
+<content contentuid="h6b017b2eg8e82gfb63gf2a3g56f3835adec9" version="22">발리스타를 잠금해제 합니다.</content>
+<content contentuid="h85c98cb3g2d88g7cb8gae67gd2a55fe88b60" version="22">대포를 잠금해제 합니다.</content>
+<content contentuid="h1c14fc74g9a0fgbb23gc276g1546ab6e0dc4" version="1">특이한 본성</content>
+<content contentuid="heb592b8bgafb8g5b6ag0a64g4b44171f1778" version="1">특이한 본성</content>
+<content contentuid="h9a666424g3b69g47a6gb29bg01aa2c6aaf13" version="4">룬 가루 폭탄을 사용하여 강철 감시자 주조소를 파괴합니다.</content>
+<content contentuid="hc90bc9c8g1592g46edg9b98gc414f4e72da8" version="4">울브렌의 룬 가루 폭탄을 사용합니다.</content>
+<content contentuid="h2349aa86g9d22g149dg4d96gef53b749541a" version="5">함선의 발리스타를 사용하여 한 지역을 한 번 발사합니다. (이 무기의 투사체는 장애물을 통과하지 않으며, 목표가 탁 트인 곳에 있어야 합니다)</content>
+<content contentuid="hdf19e15cg387cg98dage2cfg8fc2d7e944fa" version="1">함선의 발리스타를 사용하여 한 지역을 한 번 발사합니다.</content>
+<content contentuid="ha6926e07g70abg41bdg5ef3ge2a73c126f67" version="4">함선의 대포를 사용하여 한 지역을 5번 폭격합니다. (이 무기의 투사체는 장애물을 통과하지 않으며, 목표가 탁 트인 곳에 있어야 합니다)</content>
+<content contentuid="hf64c0f3cg074cg31b1g078cg5e949923efd0" version="1">함선의 대포를 사용하여 한 지역을 5번 폭격합니다.</content>
+<content contentuid="h63d197feg98e6g7e98g24f9gae3d6e8904d1" version="2">함선의 마법을 사용하여 두 지역을 한 번 폭격합니다.</content>
+<content contentuid="h6c652287g0260g0af1gdf34g5ae0c9f8320f" version="2">함선의 마법을 사용하여 두 지역을 한 번 폭격합니다.</content>
+<content contentuid="hd0eb751bgd7ecgc321gaed2gaf9e15d046c8" version="2">함선의 마법을 사용하여 두 지역을 한 번 폭격합니다.</content>
+<content contentuid="ha3bd7452g5adfg481fg9354g7246e20d98e5" version="3">적절한 방법</content>
+<content contentuid="h0184ffceg6c2cgc9eag0b90g024a27d16d40" version="7">뱀파이어 해적</content>
+<content contentuid="h5341ec3fg497agace2ge9f6gd2c74f64535a" version="23">뱀파이어 해적</content>
+<content contentuid="h6c609f86g192bg9687g21e3g9e68e31a6785" version="7">뱀파이어 해적</content>
+<content contentuid="h86d6d4a9g90a7gf0feg3d0fg47c8ae710f05" version="6">뱀파이어 해적</content>
+<content contentuid="h9d85fea1gde3agec05gb459gbe2975ded4a6" version="7">뱀파이어 해적</content>
+<content contentuid="ha18daf04g4ebeg516agdb18g61658a37d817" version="21">뱀파이어 해적</content>
+<content contentuid="hb8f337a1gaeefge4cfg0bffg159342620b99" version="1">뱀파이어 해적</content>
+<content contentuid="hc06d5853g8370g9ff9g0aedg18ee2101d2be" version="1">뱀파이어 해적</content>
+<content contentuid="h42d7945ag5a0eg409ag8622g17150997af35" version="4">아트를 혼수 상태에서 깨웁니다.</content>
+<content contentuid="h64ae4cc3g2a39g4253g96c7ge18565245030" version="3">잠자는 자를 깨우기</content>
+<content contentuid="h78eab429gca56g2a96gcf57g5e9dcebd16bc" version="4">기스양키 해적들 근처에서는 조심하세요. 배에 구멍이 뚫리고 싶지 않다면요.</content>
+<content contentuid="h02c7f694g5c2fg0dd8g3e93g9cb90d74ad4d" version="2">우리는 거대한 설계도가 필요 없습니다. 옛 신들의 힘은 우리가 차지할 것입니다.</content>
+<content contentuid="h405457b3g7315gc228gce3eg39c5d112f3b5" version="4">우리는 영계를 '항해'한다고 말하지만, 어떤 날은 내 것이 아닌 기억 속에 떠다니는 것처럼 느껴져요.</content>
+<content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="2">네 놈의 뼈로 다시 신을 창조하겠다!</content>
+<content contentuid="h5f6e258dg4279gc708gcb5fgec5873ad7def" version="1">그들은 자기만의 신을 만들려고 했나요?</content>
+<content contentuid="hdf56e4b7gc2cfg4ef1g6ffcg793c825cc121" version="2">왜 고대의 정신을 따르나요? 우리는 더 위대한 것을 창조할 수 있는데.</content>
+<content contentuid="h8b023e16g66ddg06bdg619ega47c53b1b8d9" version="1">야생우주 적응</content>
+<content contentuid="h15664102g660cga135gc7d3g7ed687640947" version="1">야생우주 오러리</content>
+<content contentuid="h32f18181g4bafg9410g8e14g520e8bfa2d07" version="1">야생우주 오러리</content>
+<content contentuid="h44ea2818g8c70g3dafg8da8g2e7900327847" version="1">야생우주 오러리</content>
+<content contentuid="h60c4ae6cg76e6g7989gd039g6dbe9ae1942a" version="3">야생우주 오러리</content>
+<content contentuid="h102a62cag5189g1440g33dbgd9e57be73253" version="1">야생우주인</content>
+<content contentuid="h63ce5bd0g339fg02c9g73eegf034b061e892" version="1">야생우주인</content>
+<content contentuid="h646f6661g2582gb6e1gcb86g5d5943e3dfd7" version="1">야생우주인</content>
+<content contentuid="haa7873b4g83fcga854g93e5gce1be533036f" version="1">야생우주인</content>
+<content contentuid="hb7502cd0ge4daga038g03cbg6e35867cf4d8" version="23">야생우주인</content>
+<content contentuid="h526b7710g84c9g6347gfb32g805f8b2cabc0" version="3">이 휴대용 비전 장치는 한때 야생우주계의 모든 태양, 행성, 달, 혜성의 위치와 움직임을 자동으로 추적하여 현재 위치 위의 공간에 이 천체들울 투사했습니다. 화면에는 하얗고 맥동하는 작은 빛점이 오러리의 위치를 표시했습니다.</content>
+<content contentuid="h0b67f66agcdb8g4adegac29gd9e744fe6036" version="7">저주받은 치유의 집에서 끔찍한 수술을 목격합니다.</content>
+<content contentuid="h151bb0c8g955dge57dg9fc4g2c12920d6d98" version="4">영계의 바다에서 떠도는 잃어버린 기억을 찾을 수 있습니다... 하지만 모든 기억이 당신 것이 아닐 수도 있습니다.</content>
+<content contentuid="ha9e8eb9bga8e6g734fga3f6g4603a3d036bb" version="1">업그레이드 장치를 통해 발리스타를 설치할 수 있습니다.</content>
+<content contentuid="h78f19273g83e4g92d5ge16dg03d02785e03f" version="1">업그레이드 장치를 통해 대포를 설치할 수 있습니다.</content>
+<content contentuid="hde317402g58e5gebdfg959fg9e952c48e6ff" version="1">존재하지 않는 조종간이나 우주선과는 동기화할 수 없습니다.</content>
+<content contentuid="h949eefe2gf690g758fg1103ge9679683fa44" version="1">범위 내에서 보이는 자발적인 생명체의 머리 주위에 스펙트럴 구체를 만듭니다. 이 구체는 주문이 끝날 때까지 지속되는 신선한 공기로 가득 차 있습니다.</content>
+<content contentuid="hd5c73691g6669g2f32gd726g53a038065406" version="4">이 음료에서는 하늘의 맛을 느낄 수 있다는 거 알아요? 마치 무한의 조각 같아요.</content>
+<content contentuid="h8c3ad9beg67f3gd301g2edbg4aa980a73bbc" version="2">당신은 &lt;LSTag Tooltip="Athletics"&gt;운동&lt;/LSTag&gt;과 &lt;LSTag Tooltip="Survival"&gt;생존&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Proficiency"&gt;숙련&lt;/LSTag&gt;을 얻습니다.</content>
+<content contentuid="he8b29522g64d7ge617g6a3bgb48e3cc8ce06" version="2">당신은 &lt;LSTag Tooltip="Insight"&gt;통찰&lt;/LSTag&gt;과 &lt;LSTag Tooltip="Religion"&gt;종교&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Proficiency"&gt;숙련&lt;/LSTag&gt;을 얻습니다.</content>
+<content contentuid="h36d1c074g44dfgfae0g4f1eg2dd3a7d9d60d" version="1">당신은 자연과 지각에 &lt;LSTag Tooltip="Proficiency"&gt;숙련&lt;/LSTag&gt;을 얻습니다.</content>
+<content contentuid="h433116e0gb7e0g56f7g838eg0d6bc19e0a8d" version="1">당신은 지혜 내성 굴림에 영구적인 유리 보정을 받습니다.</content>
+<content contentuid="headf19efg5745g1274gd55ag99a91c822c93" version="1">당신은 지혜 내성 굴림에 영구적인 유리 보정을 받습니다.</content>
+<content contentuid="h4858b70bg6da0g03ecga489g327f69a151f3" version="1">당신은 자연과 지각에서 숙련 보너스를 받습니다.</content>
+<content contentuid="h9cc60860g9813g2dbag70f0g1a1780c19bda" version="1">당신은 자연과 지각에서 숙련 보너스를 받습니다.</content>
+<content contentuid="h31555400g4792gb507gbb03g25e3fc3e8897" version="2">당신은 우주에서의 경험을 통해 모든 중력에 적응하는 법을 배웠습니다.</content>
+<content contentuid="h45f05b33geaaeg08d5g801cg20c0d65790d1" version="1">당신은 우주에서의 경험을 통해 모든 중력에 적응하는 법을 배웠습니다.</content>
+<content contentuid="h6e7f03aag3af7gb5b0g622ag19ea7e6e0bfd" version="2">스펠재밍 조종간의 무기를 다시 사용하려면 재동기화해야 합니다.</content>
+<content contentuid="head34f4dge27ag034fgcc1ag54e4fd99a431" version="2">당신은 영계의 바다에서 스펠재밍 함선을 소유하고 있습니다.</content>
+<content contentuid="he2fe53fcg097dg15aag30d8gb9496cad95d9" version="2">이 아이템을 장착하면 은신과 생존 &lt;LSTag Tooltip="AbilityCheck"&gt;능력 검사&lt;/LSTag&gt;에 페널티를 받습니다.</content>
+<content contentuid="h097e1c07gec11g5b18gc3bfg6042fe2d3d00" version="4">당신은 먹잇감 같은 냄새가 납니다.</content>
+<content contentuid="h54abeb88g3654g0349g07fdg6cf5aebe2b80" version="4">당신은 함선의 조종간과 동기화되어, 지상에서 함선의 장비를 사용할 수 있습니다.</content>
+<content contentuid="h8ebb099eg2f81g76f7g5e2ag8d9ecd8711bb" version="1">당신은 함선의 조종간과 동기화되어, 지상에서 함선의 장비를 사용할 수 있습니다.</content>
+<content contentuid="he9a2d11bga7f7gf42bg98d5ga03f231fe2b3" version="1">당신은 야생우주의 공허 속에서 자랐으며, 소행성 광부, 달 농부 및 다른 강인한 사람들의 고향이었습니다. 당신은 스펠재밍 함선의 승무원으로 어린 시절을 보냈으며, 갑판 청소, 화물 적재 및 하역, 선체에서 따개비 긁기와 같은 유용한 일을 수행했습니다.</content>
+<content contentuid="h52c01d76g446cg2f3egeda5g6ffc9ebe1935" version="4">당신의 &lt;LSTag Tooltip="HitPoints"&gt;HP(체력)&lt;/LSTag&gt; 최대치는 얻은 레벨마다 1씩 증가합니다.</content>
+<content contentuid="he8a90815g82ffg90feg4c99g572e1cf75eae" version="1">당신의 &lt;LSTag Tooltip="HitPoints"&gt;HP(체력)&lt;/LSTag&gt; 최대치는 얻은 레벨마다 1씩 증가합니다.</content>
+<content contentuid="h9840d568g5126g0b93g3089gbb1ea3689b74" version="1">당신의 함선은 이제 적을 상대할 수 있는 발리스타를 갖추고 있습니다.</content>
+<content contentuid="h96c053c6gb0fbgfa9eg416bgb18298fd7515" version="1">당신의 함선은 이제 적을 상대할 수 있는 대포를 갖추고 있습니다.</content>
+</contentList>
