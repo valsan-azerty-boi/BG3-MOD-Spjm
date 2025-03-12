@@ -17,13 +17,6 @@ This mod implements features from the D&D 5E Spelljammer sourcebooks into Baldur
 - xoktoberkindx
 - kilroyrequiem4evr
 
-## Requirements
-- BG3 *Patch 7*
-- ImprovedUI / ImpUI
-
-## Installation
-- Install using the [official ig mod manager](https://mod.io/g/baldursgate3/m/features-from-dnd-5e-spelljammer) or any third-party mod manager
-
 ## Special thanks
 - BG3 modding community
 
