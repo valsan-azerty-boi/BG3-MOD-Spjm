@@ -14,6 +14,7 @@ This mod implements features from the D&D 5E Spelljammer sourcebooks into Baldur
 
 ## Voice actors
 - Miel the cat
+- Antw Morty
 - xoktoberkindx
 - kilroyrequiem4evr
 
