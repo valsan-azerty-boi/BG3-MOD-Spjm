@@ -10,7 +10,7 @@ This mod implements features from the D&D 5E Spelljammer sourcebooks into Baldur
 - English 
 - French
 - Russian (by [Hecctus](https://next.nexusmods.com/profile/Hecctus))
-- Korean (by yoonmoonsick)
+- Korean (by [yoonmoonsick](https://next.nexusmods.com/profile/yoonmoonsick))
 
 ## Voice actors
 - Miel the cat
