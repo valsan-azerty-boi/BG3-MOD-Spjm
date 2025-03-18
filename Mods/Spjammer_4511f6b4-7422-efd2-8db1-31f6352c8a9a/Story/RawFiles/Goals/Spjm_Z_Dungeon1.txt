@@ -30,6 +30,23 @@ RemoveStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff");
 
 //END_REGION
 
+//REGION SPJM Dungeon1 discover items
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJ_Dg1SwordDiscover_EventTrigger_7428e882-ee6f-47d1-969e-56816d71f2db)
+AND
+DB_Players(_Player)
+THEN
+RequestPassiveRoll(_Player,(GUIDSTRING)MAG_Generic_01_Shortsword_001_b78e43ca-29f6-41ce-859a-0ad33f580176,"Passive","Perception",(DIFFICULTYCLASS)Act3_Easy_5028066b-6ea0-4a6a-9e3e-53bee62559a7,0,"SPJ_Dg1_HiddenSwordDiscover");
+
+PROC
+PROC_RollResult("SPJ_Dg1_HiddenSwordDiscover",(CHARACTER)_Player,(GUIDSTRING)MAG_Generic_01_Shortsword_001_b78e43ca-29f6-41ce-859a-0ad33f580176,0)
+THEN
+SetCanInteract((GUIDSTRING)MAG_Generic_01_Shortsword_001_b78e43ca-29f6-41ce-859a-0ad33f580176,1);
+PROC_PlayPerceptionRevealEffect((GUIDSTRING)MAG_Generic_01_Shortsword_001_b78e43ca-29f6-41ce-859a-0ad33f580176,"SPJ_Dg1_HiddenSwordDiscover");
+
+//END_REGION
+
 //REGION SPJM Dungeon1 cultist
 
 IF
