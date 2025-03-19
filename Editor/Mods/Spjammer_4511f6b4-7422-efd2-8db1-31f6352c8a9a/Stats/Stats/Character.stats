@@ -274,16 +274,22 @@
         <field name="Name" type="NameTableFieldDefinition" value="SPJM_Dg2_CultistBossIllithid" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="939e3e37-0479-48e6-9a53-caf27c04bbe8" />
         <field name="Strength" type="IntegerTableFieldDefinition" value="14" />
-        <field name="Wisdom" type="IntegerTableFieldDefinition" value="16" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="17" />
         <field name="Charisma" type="IntegerTableFieldDefinition" value="20" />
         <field name="Armor" type="IntegerTableFieldDefinition" value="15" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="292" />
         <field name="Weight" type="FloatTableFieldDefinition" value="90" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:2;BonusActionPoint:1;ReactionActionPoint:1" />
         <field name="Passives" type="StringTableFieldDefinition" value="ExtraAttack;MagicResistance;AttackOfOpportunity;DarknessRules" />
-        <field name="Sight" type="IntegerTableFieldDefinition" value="700" />
+        <field name="Sight" type="IntegerTableFieldDefinition" value="800" />
         <field name="Hearing" type="IntegerTableFieldDefinition" value="500" />
-        <field name="Flags" type="EnumerationListTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="AttributeFlags" version="1" />
+        <field name="Flags" type="EnumerationListTableFieldDefinition" value="FloatingWhileMoving;ThrownImmunity;BackstabImmunity" enumeration_type_name="AttributeFlags" version="1" />
+        <field name="PersonalStatusImmunities" type="StatusIdsTableFieldDefinition" value="PRONE_FALLEN;SG_Prone;SG_Charmed;SG_Poisoned;SG_Frightened" />
+        <field name="ProficiencyBonus" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ColdResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="LightningResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="NecroticResistance" type="EnumerationListTableFieldDefinition" value="Resistant" enumeration_type_name="ResistanceFlags" version="1" />
+        <field name="PoisonResistance" type="EnumerationListTableFieldDefinition" value="Immune" enumeration_type_name="ResistanceFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
