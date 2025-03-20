@@ -38,7 +38,6 @@
                               "OriginSound" : [ {} ]
                            }
                         ],
-                        "Greeting" : {"type" : "bool", "value" : true},
                         "Root" : {"type" : "bool", "value" : true},
                         "TaggedTexts" : [
                            {
@@ -59,7 +58,7 @@
                                                 "TagText" : {
                                                    "handle" : "he244bc8dg50dcg31d3g06b4g70340e742d5e",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -68,7 +67,7 @@
                                                 "TagText" : {
                                                    "handle" : "hea7ea0b9gaa9bg49ebg1a5fg9f4819e6016d",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -77,7 +76,7 @@
                                                 "TagText" : {
                                                    "handle" : "h2af8d9a9g39e9g2bcbg1682gbb201bf73ad2",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              },
@@ -86,7 +85,7 @@
                                                 "TagText" : {
                                                    "handle" : "h4ce2361fgc199g3e67gd610g09f67f63af9b",
                                                    "type" : "TranslatedString",
-                                                   "version" : 4
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -222,6 +221,11 @@
                         "SpeakerMappingId" : {"type" : "guid", "value" : "ba3731f5-f3ec-4236-9f00-7a1b49427cf5"},
                         "index" : {"type" : "FixedString", "value" : "0"},
                         "list" : {"type" : "LSString", "value" : "482c6fc3-3662-467f-ad9b-08f9786a81be"}
+                     },
+                     {
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "d3359dcc-ae46-48b5-985d-c0353dcf6fa3"},
+                        "index" : {"type" : "FixedString", "value" : "1"},
+                        "list" : {"type" : "LSString", "value" : "e0d1ff71-04a8-4340-ae64-9684d846eb83"}
                      }
                   ]
                }

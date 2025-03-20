@@ -49,28 +49,28 @@ EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_1_b79
 AND
 DB_Players(_Player)
 THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+MusicPlayOnCharacter((CHARACTER)_Player, "Bard_Perform_MainTheme_Start_3");
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_2_00b71606-1155-482a-afb6-624c0f3ba534)
 AND
 DB_Players(_Player)
 THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+MusicPlayOnCharacter((CHARACTER)_Player, "Bard_Perform_MainTheme_Start_3");
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_3_d685994c-f01d-49ba-945a-3752d068a5d4)
 AND
 DB_Players(_Player)
 THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+MusicPlayOnCharacter((CHARACTER)_Player, "Bard_Perform_MainTheme_Start_3");
 
 IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_City_EventTrigger_Music_4_f5c99856-32e2-482d-995c-a6ffc06ffd95)
 AND
 DB_Players(_Player)
 THEN
-MusicPlayOnCharacter((CHARACTER)_Player, "CharacterCreation_Theme_Start");
+MusicPlayOnCharacter((CHARACTER)_Player, "Bard_Perform_MainTheme_Start_3");
 
 //END_REGION
 
