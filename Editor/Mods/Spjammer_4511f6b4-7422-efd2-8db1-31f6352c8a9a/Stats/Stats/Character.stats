@@ -148,7 +148,7 @@
         <field name="Armor" type="IntegerTableFieldDefinition" value="14" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="90" />
         <field name="ActionResources" type="StringTableFieldDefinition" value="ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionActionPoint:1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="Regeneration_Vampire_Spawn;SunlightHypersensitivity;AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;DamageDealtRecently;SPJM_Passive_UnusualNature_ForTooltipDesc" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Regeneration_Vampire_Spawn;AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;DamageDealtRecently;SPJM_Passive_UnusualNature_ForTooltipDesc" />
         <field name="BludgeoningResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="SlashingResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
         <field name="PiercingResistance" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ResistanceFlags" version="1" />
