@@ -26,15 +26,15 @@ This mod implements features from the D&D 5E Spelljammer sourcebooks into Baldur
 - Korean (by [yoonmoonsick](https://next.nexusmods.com/profile/yoonmoonsick))
 
 ## Voice actors
-- Miel the cat
+- [Miel the cat](https://next.nexusmods.com/profile/cadelach)
 - Antw Morty
 - xoktoberkindx
 - kilroyrequiem4evr
-- 117Airbourne
+- [Anthony Picman](mailto:picmandmwork@gmail.com)
 - DavidKouw
 - kamiko
-- Kailiana
-- bibsan
+- [Kailiana](https://next.nexusmods.com/profile/kailiana)
+- [bibsan](https://next.nexusmods.com/profile/bibsan)
 
 ## Special thanks
 - The entire BG3 modding community

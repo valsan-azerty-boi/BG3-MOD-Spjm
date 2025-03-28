@@ -15,14 +15,14 @@
                   ]
                }
             ],
-            "UUID" : {"type" : "FixedString", "value" : "6a9f6b97-1261-9835-43f7-5c1856c24ec9"},
+            "UUID" : {"type" : "FixedString", "value" : "2f2e9085-f930-98e4-054c-63be4bd696a7"},
             "automated" : {"type" : "bool", "value" : true},
             "category" : {"type" : "LSString", "value" : "Voice bark"},
             "nodes" : [
                {
                   "RootNodes" : [
                      {
-                        "RootNodes" : {"type" : "FixedString", "value" : "613b89c6-9286-26d0-c4d7-a8136dd33edd"}
+                        "RootNodes" : {"type" : "FixedString", "value" : "b3ff1129-4ac5-53c3-d156-1be555d359c1"}
                      }
                   ],
                   "node" : [
@@ -51,29 +51,11 @@
                                        {
                                           "TagText" : [
                                              {
-                                                "LineId" : {"type" : "guid", "value" : "d6a9cc11-def5-4547-b7d4-3d50361cc97c"},
+                                                "LineId" : {"type" : "guid", "value" : "e7b20928-d3de-4ac1-8085-5e502d32f9a3"},
                                                 "TagText" : {
-                                                   "handle" : "heed2f880g21cag10c6ge107gb47e43bea6fc",
+                                                   "handle" : "h0dbefe0dg6ab4geddcg3f7cga0735006d3d9",
                                                    "type" : "TranslatedString",
-                                                   "version" : 3
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "565e9eb3-97a7-46c3-b28f-512a30d89b9b"},
-                                                "TagText" : {
-                                                   "handle" : "h890e51beg6986g4c15g5a4cg4acb9b0cd9b2",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 3
-                                                },
-                                                "stub" : {"type" : "bool", "value" : true}
-                                             },
-                                             {
-                                                "LineId" : {"type" : "guid", "value" : "c5202953-80ca-44c1-93dc-06ae3455a844"},
-                                                "TagText" : {
-                                                   "handle" : "h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98",
-                                                   "type" : "TranslatedString",
-                                                   "version" : 3
+                                                   "version" : 2
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -85,7 +67,7 @@
                            }
                         ],
                         "Tags" : [ {} ],
-                        "UUID" : {"type" : "FixedString", "value" : "613b89c6-9286-26d0-c4d7-a8136dd33edd"},
+                        "UUID" : {"type" : "FixedString", "value" : "b3ff1129-4ac5-53c3-d156-1be555d359c1"},
                         "checkflags" : [ {} ],
                         "children" : [ {} ],
                         "constructor" : {"type" : "FixedString", "value" : "TagGreeting"},
@@ -186,7 +168,7 @@
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "position"},
-                                    "val" : {"type" : "LSString", "value" : "-305;-204"}
+                                    "val" : {"type" : "LSString", "value" : "15;-204"}
                                  },
                                  {
                                     "key" : {"type" : "FixedString", "value" : "sourcetemplate"},
@@ -206,9 +188,9 @@
                {
                   "speaker" : [
                      {
-                        "SpeakerMappingId" : {"type" : "guid", "value" : "164bdfea-58c0-4d71-aab5-af3cd0b6bc81"},
+                        "SpeakerMappingId" : {"type" : "guid", "value" : "e2cb314f-f48d-45c5-bbae-810e0d323b73"},
                         "index" : {"type" : "FixedString", "value" : "0"},
-                        "list" : {"type" : "LSString", "value" : "4de16424-df16-469e-842e-91112fa4281e;61966321-454d-4edf-ac6a-38dc1e1965ae"}
+                        "list" : {"type" : "LSString", "value" : "6fa52c43-d63c-4c67-bd38-15793e29c6ab;e54ee2de-56a8-45cc-8684-0463eb1c2198;c6a24b76-627e-42c1-a183-671953e2b5a4;803bda49-56bf-4038-9ff2-02c3c643e8e0;b209ddfa-b2bd-467d-8f9f-cfd07f9fbefb;f09f7341-dbe9-4065-aa65-b81e292d25d8;2616af5a-d91f-45e2-9ce0-ff446974fb2b"}
                      }
                   ]
                }

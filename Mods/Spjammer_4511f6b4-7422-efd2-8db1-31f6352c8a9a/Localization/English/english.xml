@@ -545,9 +545,9 @@
   <content contentuid="hfd59cb54g92c6g2854g7d03ga6e60d877f48" version="1">Cultist</content>
   <content contentuid="h13b70a16ga923gcf4fg955ag1d38fe381e7d" version="1">Cultist</content>
   <content contentuid="h257a3d16gf490g4f59g4ce8g343b3e8e3fef" version="1">Cultist</content>
-  <content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="2">We'll rebuild a god with your bones!</content>
-  <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="2">Their fragments will live through us!</content>
-  <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="2">He calls your name!</content>
+  <content contentuid="heed2f880g21cag10c6ge107gb47e43bea6fc" version="3">We'll rebuild a god with your bones!</content>
+  <content contentuid="h890e51beg6986g4c15g5a4cg4acb9b0cd9b2" version="3">Their fragments will live through us!</content>
+  <content contentuid="h99dd2dc0g377bgdccdgfee8g7fd1c9c43b98" version="3">He calls your name!</content>
   <content contentuid="hdc578877gf582g4e5fgd5c6g14830c5ec7b2" version="4">Murder Comet</content>
   <content contentuid="h81dc77ddg672egc873g3d84g83f65f55bbb0" version="28">Cult Leader</content>
   <content contentuid="h35e88e40g9506g073ega883g421d244e0f6e" version="4">Alhoon</content>
@@ -716,4 +716,5 @@
   <content contentuid="h3db9a464gea66g72fdg22d0gd7f941b728e0" version="3">+[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
   <content contentuid="h43e6ec24g7519g3711g0677g90efcd6e9b57" version="1">...</content>
   <content contentuid="hf9eafc35ge8b2g5a60g9585g3fda846e857f" version="2">Miel</content>
+  <content contentuid="h0dbefe0dg6ab4geddcg3f7cga0735006d3d9" version="2">Please free us.</content>
 </contentList>
