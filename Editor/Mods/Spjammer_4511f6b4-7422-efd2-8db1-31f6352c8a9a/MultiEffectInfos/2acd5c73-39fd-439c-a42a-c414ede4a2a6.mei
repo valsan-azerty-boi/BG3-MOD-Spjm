@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="2acd5c73-39fd-439c-a42a-c414ede4a2a6" OwnerUUID="88d3d4e1-4319-44b4-9ac4-5ccf63c0717e" Name="VFX_Spjm_AirBubble_StatusEffect">
+  <EffectInfo UUID="d1e5e010-8987-43e1-b020-461210c05b95" EffectResourceGuid="5abb8511-270d-0221-bae5-6bdf565edbc9" DetachSource="false" DetachTarget="false" KeepRotation="true" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_HeadFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

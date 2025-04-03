@@ -88,6 +88,7 @@ data "Icon" "Spjm_Spell_AirBubble"
 data "FormatColor" "Green"
 data "StackId" "SPJM_AIRBUBBLE_BUFF"
 data "Boosts" "RemoveStatus(Spjm_DifficultBreathingZone_Debuff);ProficiencyBonus(Skill,Survival)"
+data "ApplyEffect" "2acd5c73-39fd-439c-a42a-c414ede4a2a6"
 
 new entry "Spjm_DifficultBreathingZone_Debuff"
 type "StatusData"
