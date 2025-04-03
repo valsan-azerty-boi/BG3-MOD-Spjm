@@ -22,6 +22,24 @@ THEN
 ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
 
 IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)SPJM_AstralCity_AirZone_EventTrigger_4272c425-89d7-42ab-99ce-cc3729474f52, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff_Helmet", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)SPJM_AstralCity_AirZone_EventTrigger_4272c425-89d7-42ab-99ce-cc3729474f52, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_AstralCity_AirZone_EventTrigger_4272c425-89d7-42ab-99ce-cc3729474f52)
 AND
 DB_Players(_Player)
@@ -36,6 +54,8 @@ IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJ_CityShoesDiscover_EventTrigger_5dd50908-1fe4-4597-9121-7882091e0a94)
 AND
 DB_Players(_Player)
+AND
+QRY_OnlyOnce("Spjm_Discover_AstralCityCampSandals")
 THEN
 RequestPassiveRoll(_Player,(GUIDSTRING)ARM_Camp_Shoes_Sandals_B_000_86393665-fb8d-482c-9a95-2a16a5c502d2,"Passive","Perception",(DIFFICULTYCLASS)Act3_Easy_5028066b-6ea0-4a6a-9e3e-53bee62559a7,0,"SPJ_AstralCity_HiddenShoesDiscover");
 

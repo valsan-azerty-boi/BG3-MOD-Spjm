@@ -59,6 +59,24 @@ DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature2);
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet1Creature3);
 
 IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff_Helmet", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo_EventTrigger_1_fd9c3394-543e-458c-98d5-ef634c202b22)
 AND
 DB_Players(_Player)
@@ -163,6 +181,24 @@ CreateAtObject(5e375b6e-62f7-452c-bb73-765598dcc908,S_SPJM_CometExplo2_TeleportT
 THEN
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature1);
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet2Creature2);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff_Helmet", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
 
 IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo2_EventTrigger_9651a161-f94f-4acd-a42b-d2be37dae06d)
@@ -291,6 +327,24 @@ DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature1);
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature2);
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature3);
 DB_SpjmTempComet((CHARACTER)_SpjmTempComet3Creature4);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff_Helmet", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
 
 IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)S_SPJM_CometExplo3_EventTrigger_d8190176-0752-4c3c-9e4f-5c605a7a0452)

@@ -14,7 +14,7 @@
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0.5" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Acid,Resistant)" />
-        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_AirBubbleBuff" />
+        <field name="StatusOnEquip" type="StringTableFieldDefinition" value="Spjm_AirBubbleBuff_Helmet" />
         <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
         <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />

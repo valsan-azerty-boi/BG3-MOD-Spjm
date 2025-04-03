@@ -22,6 +22,24 @@ THEN
 ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
 
 IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff_Helmet", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_DifficultBreathingZone_Debuff", -1.0);
+
+IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Dungeon2_NeedRespiration_EventTrigger_e655ecff-d9fb-4d2d-be85-d22cb989b672)
 AND
 DB_Players(_Player)
@@ -36,6 +54,8 @@ IF
 EnteredTrigger((CHARACTER)_Player, (TRIGGER)S_SPJ_Dg2ChestDiscover_EventTrigger_927d5e78-ad52-4639-8c47-c38243eee312)
 AND
 DB_Players(_Player)
+AND
+QRY_OnlyOnce("Spjm_Discover_Dg2HidChest")
 THEN
 RequestPassiveRoll(_Player,(GUIDSTRING)CONT_GEN_Chest_Wood_A_001_2b027543-5900-4319-a079-e3c185a59d5e,"Passive","Perception",(DIFFICULTYCLASS)Act3_Easy_5028066b-6ea0-4a6a-9e3e-53bee62559a7,0,"SPJ_Dg2_HiddenChestDiscover");
 

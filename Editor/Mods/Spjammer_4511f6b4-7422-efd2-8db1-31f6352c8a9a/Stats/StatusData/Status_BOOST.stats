@@ -92,9 +92,9 @@
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Blue" enumeration_type_name="FormatStringColor" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_AIRZONE_BUFF" />
         <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_DifficultBreathingZone_Debuff)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="OnApplyConditions" type="StringTableFieldDefinition" value="not HasStatus('Spjm_AirBubbleBuff')" />
-        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff')" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnApplyConditions" type="StringTableFieldDefinition" value="not HasStatus('Spjm_AirBubbleBuff') and not HasStatus('Spjm_AirBubbleBuff_Helmet')" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff') or HasStatus('Spjm_AirBubbleBuff_Helmet')" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnApply;OnApplyAndTurn;OnMove;OnStatusApplied" enumeration_type_name="StatusEvent" version="1" />
       </fields>
     </stat_object>
@@ -109,6 +109,27 @@
         <field name="Boosts" type="StringTableFieldDefinition" value="RemoveStatus(Spjm_DifficultBreathingZone_Debuff);ProficiencyBonus(Skill,Survival)" />
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Green" enumeration_type_name="FormatStringColor" version="1" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="2acd5c73-39fd-439c-a42a-c414ede4a2a6" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="ExcludeFromPortraitRendering" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="2acd5c73-39fd-439c-a42a-c414ede4a2a6" />
+        <field name="StatusEffectOnTurn" type="GuidObjectTableFieldDefinition" value="2acd5c73-39fd-439c-a42a-c414ede4a2a6" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="2acd5c73-39fd-439c-a42a-c414ede4a2a6" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="bc4f779b-7424-4770-90bb-bdea0f4e9ead" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="68f2d937-3ee7-437e-baed-a8b44168072d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Spjm_AirBubbleBuff_Helmet" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b4f869a5-a095-41b6-a4de-012f3b1adf4b" />
+        <field name="StackId" type="StringTableFieldDefinition" value="SPJM_AIRBUBBLE_BUFF_HLM" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="StatusEffectOnTurn" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spjm_Item_FishSuitHelmet" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -123,10 +144,10 @@
         <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Weakened" enumeration_type_name="StillAnimPriority" version="1" />
         <field name="SoundVocalStart" type="EnumerationTableFieldDefinition" value="WEAK" enumeration_type_name="SoundVocalType" version="1" />
         <field name="SoundVocalEnd" type="EnumerationTableFieldDefinition" value="RECOVER" enumeration_type_name="SoundVocalType" version="1" />
-        <field name="OnApplyConditions" type="StringTableFieldDefinition" value="not HasStatus('Spjm_AirBubbleBuff') and not HasStatus('Spjm_AirZoneBuff')" />
+        <field name="OnApplyConditions" type="StringTableFieldDefinition" value="not HasStatus('Spjm_AirBubbleBuff') and not HasStatus('Spjm_AirBubbleBuff_Helmet') and not HasStatus('Spjm_AirZoneBuff')" />
         <field name="StackId" type="StringTableFieldDefinition" value="SPJM_DIFFBREATH_DEBUFF" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Disadvantage(AllAbilities);Disadvantage(AttackRoll);Disadvantage(SavingThrow, Constitution);IncreaseMaxHP(-15)" />
-        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff') or HasStatus('Spjm_AirZoneBuff')" />
+        <field name="RemoveConditions" type="RollConditionsTableFieldDefinition" value="HasStatus('Spjm_AirBubbleBuff') or HasStatus('Spjm_AirBubbleBuff_Helmet') or HasStatus('Spjm_AirZoneBuff')" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnTurn;OnApply;OnApplyAndTurn;OnMove;OnStatusApplied" enumeration_type_name="StatusEvent" version="1" />
         <field name="TickFunctors" type="FunctorsTableFieldDefinition" value="DealDamage(1d4,Piercing)" />
       </fields>

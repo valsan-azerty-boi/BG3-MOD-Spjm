@@ -40,6 +40,24 @@ ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
 QuestUpdate("SPJ_Spelljammer", "CampSpelljammer");
 
 IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)SPJM_ShipCamp_AirZone_EventTrigger_54e50efe-a56a-4fe5-b96d-e693c631bb85, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
+StatusRemoved((CHARACTER)_Player, "Spjm_AirBubbleBuff_Helmet", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInTrigger((GUIDSTRING)_Player, (TRIGGER)SPJM_ShipCamp_AirZone_EventTrigger_54e50efe-a56a-4fe5-b96d-e693c631bb85, 1)
+THEN
+ApplyStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff", -1.0);
+
+IF
 LeftTrigger((CHARACTER)_Player, (TRIGGER)SPJM_ShipCamp_AirZone_EventTrigger_54e50efe-a56a-4fe5-b96d-e693c631bb85)
 AND
 DB_Players(_Player)
