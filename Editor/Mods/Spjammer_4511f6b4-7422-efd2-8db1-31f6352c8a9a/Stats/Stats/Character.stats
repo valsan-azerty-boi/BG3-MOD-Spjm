@@ -465,5 +465,21 @@
         <field name="Vitality" type="IntegerTableFieldDefinition" value="202" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2eb7eb98-690d-4bb6-bb04-46cf4fbdc005" />
+        <field name="Name" type="NameTableFieldDefinition" value="SPJM_Tut_Ghost" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8fbf88f3-197a-43a1-a7a8-dbfebf795e0f" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Wisdom" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="15" />
+        <field name="XPReward" type="GuidObjectTableFieldDefinition" value="c83d6caa-c5c3-4356-b55c-8d634535976c" />
+        <field name="ProficiencyBonus" type="IntegerTableFieldDefinition" value="2" />
+        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Wisdom" enumeration_type_name="Ability" version="1" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Ethereal;IncorporealMovement;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
