@@ -64,17 +64,15 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="2a9d18ed-10c5-4d5e-bf95-ea591a2f3c28" />
-        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid 2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid 2 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="e568eca4-b5e1-4b67-83d6-d831adf05e23" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8f16a9a6-b2a5-471a-91b4-2fab6442b2bf" />
-        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Circle of the Spores Druid Spells 2 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="729670a8-da85-4fd2-9764-4dec636a275b" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -283,17 +281,15 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="28db0579-5eac-4e5a-8ae4-dc6713113d5e" />
-        <field name="Name" type="NameTableFieldDefinition" value="Conjuration Wizard 2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Conjuration Wizard 2 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="13622b91-fb6d-4921-afb0-dc42da978511" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e0493809-5079-4f5b-bdec-5d920bab0421" />
-        <field name="Name" type="NameTableFieldDefinition" value="Enchantment Wizard 2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Enchantment Wizard 2 (outdated spjm)" />
         <field name="Spells" type="StringTableFieldDefinition" value="Target_Spjm_AirBubble" />
-        <field name="MergedInto" type="GuidObjectTableFieldDefinition" value="43fb9c43-ddfa-46ff-a64f-73406dddf4eb" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

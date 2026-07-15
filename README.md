@@ -19,6 +19,11 @@ The project itself is completely open to contributions.
 ## Features
 This mod implements features from the D&D 5E Spelljammer sourcebooks into Baldur's Gate 3. These mechanics have been adapted to better match the way the game works. Contains backgrounds, goals, spells, items, bestiary, etc.
 
+### Optional/Not mandatory: ImpUI -> To properly display Spelljammer background icons
+To test if it works, when creating a new character, check if background icons are visible
+
+### Optional/Not mandatory: ScriptExtender with DART -> To properly display Spelljammer background dialog options
+
 ## Languages
 - English 
 - French
