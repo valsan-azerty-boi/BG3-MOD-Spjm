@@ -1,0 +1,62 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+//REGION Spjm Backgrounds have Outlander dialogs AND no Baldurian dialogs
+
+IF
+LevelGameplayStarted(_Level,_IsEditor)
+AND
+DB_Players(_Player)
+AND
+IsTagged(_Player, (TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, 1)
+AND
+IsTagged(_Player, (TAG)BALDURIAN_f15e9b0d-676c-4f52-9abf-365cff89ef0f, 1)
+THEN
+ClearTag(_Player, (TAG)BALDURIAN_f15e9b0d-676c-4f52-9abf-365cff89ef0f);
+
+IF
+LevelGameplayStarted(_Level,_IsEditor)
+AND
+DB_Players(_Player)
+AND
+IsTagged(_Player, (TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, 1)
+AND
+IsTagged(_Player, (TAG)BALDURIAN_f15e9b0d-676c-4f52-9abf-365cff89ef0f, 1)
+THEN
+ClearTag(_Player, (TAG)BALDURIAN_f15e9b0d-676c-4f52-9abf-365cff89ef0f);
+
+IF
+DialogStartRequested(_Target, _Player)
+AND
+IsTagged(_Player, (TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, 1)
+THEN
+SetTag(_Player, (TAG)OUTLANDER_d81df6f9-9f6e-4146-841a-9f285e6ee879);
+
+IF
+DialogStartRequested(_Target, _Player)
+AND
+IsTagged(_Player, (TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, 1)
+THEN
+SetTag(_Player, (TAG)OUTLANDER_d81df6f9-9f6e-4146-841a-9f285e6ee879);
+
+IF
+DialogActorLeft(_Dialog,_InstanceID,_Actor,_InstanceEnded)
+AND
+IsTagged(_Actor, (TAG)ASTRALDRIFTER_70516ff9-b9e2-46f0-b91e-86511fe2af32, 1)
+THEN
+ClearTag(_Actor, (TAG)OUTLANDER_d81df6f9-9f6e-4146-841a-9f285e6ee879);
+
+IF
+DialogActorLeft(_Dialog,_InstanceID,_Actor,_InstanceEnded)
+AND
+IsTagged(_Actor, (TAG)WILDSPACER_dc32f05d-d427-48bb-888a-d5c92ab19c58, 1)
+THEN
+ClearTag(_Actor, (TAG)OUTLANDER_d81df6f9-9f6e-4146-841a-9f285e6ee879);
+
+//END_REGION
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Shared_Campaign"

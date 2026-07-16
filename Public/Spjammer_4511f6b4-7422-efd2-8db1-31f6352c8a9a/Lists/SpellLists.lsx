@@ -49,14 +49,12 @@
                     <attribute id="UUID" type="guid" value="5952c334-6397-4e91-b63a-510b97728e67"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="MergedInto" type="guid" value="e568eca4-b5e1-4b67-83d6-d831adf05e23"/>
-                    <attribute id="Name" type="FixedString" value="Circle of the Spores Druid 2"/>
+                    <attribute id="Name" type="FixedString" value="Circle of the Spores Druid 2 (outdated spjm)"/>
                     <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
                     <attribute id="UUID" type="guid" value="2a9d18ed-10c5-4d5e-bf95-ea591a2f3c28"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="MergedInto" type="guid" value="729670a8-da85-4fd2-9764-4dec636a275b"/>
-                    <attribute id="Name" type="FixedString" value="Circle of the Spores Druid Spells 2"/>
+                    <attribute id="Name" type="FixedString" value="Circle of the Spores Druid Spells 2 (outdated spjm)"/>
                     <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
                     <attribute id="UUID" type="guid" value="8f16a9a6-b2a5-471a-91b4-2fab6442b2bf"/>
                 </node>
@@ -210,14 +208,12 @@
                     <attribute id="UUID" type="guid" value="143935d5-7a8a-41c5-9d4d-10f569b563a6"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="MergedInto" type="guid" value="13622b91-fb6d-4921-afb0-dc42da978511"/>
-                    <attribute id="Name" type="FixedString" value="Conjuration Wizard 2"/>
+                    <attribute id="Name" type="FixedString" value="Conjuration Wizard 2 (outdated spjm)"/>
                     <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
                     <attribute id="UUID" type="guid" value="28db0579-5eac-4e5a-8ae4-dc6713113d5e"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="MergedInto" type="guid" value="43fb9c43-ddfa-46ff-a64f-73406dddf4eb"/>
-                    <attribute id="Name" type="FixedString" value="Enchantment Wizard 2"/>
+                    <attribute id="Name" type="FixedString" value="Enchantment Wizard 2 (outdated spjm)"/>
                     <attribute id="Spells" type="LSString" value="Target_Spjm_AirBubble"/>
                     <attribute id="UUID" type="guid" value="e0493809-5079-4f5b-bdec-5d920bab0421"/>
                 </node>

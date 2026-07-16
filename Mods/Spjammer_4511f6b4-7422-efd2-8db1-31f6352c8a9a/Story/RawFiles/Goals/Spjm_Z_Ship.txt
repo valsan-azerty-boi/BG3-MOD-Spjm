@@ -42,6 +42,17 @@ THEN
 RemoveStatus((GUIDSTRING)_Player, "Spjm_AirZoneBuff");
 
 //END_REGION
+
+//REGION SPJM Ship Tutorial Npc (WIP - disabled for now)
+
+IF
+EnteredTrigger((CHARACTER)_Player, (TRIGGER)SPJM_Ship_AirZone_EventTrigger_39f46aa0-290e-4f57-837a-7aa9cdbe780c)
+AND
+DB_Players(_Player)
+THEN
+SetOnStage((GUIDSTRING)69ac739f-46cb-4208-ba2c-335079c53937, 0);
+
+//END_REGION
 EXITSECTION
 
 ENDEXITSECTION
