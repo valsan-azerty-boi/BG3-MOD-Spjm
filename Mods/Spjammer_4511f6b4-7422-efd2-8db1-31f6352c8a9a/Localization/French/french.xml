@@ -717,4 +717,13 @@
   <content contentuid="h43e6ec24g7519g3711g0677g90efcd6e9b57" version="1">Miaou !</content>
   <content contentuid="hf9eafc35ge8b2g5a60g9585g3fda846e857f" version="1">Miel</content>
   <content contentuid="h0dbefe0dg6ab4geddcg3f7cga0735006d3d9" version="2">S'il vous plaît, libérez-nous.</content>
+  <content contentuid="hbd6a06fegeab8g3209gd447g635b955cdd07" version="10">(Test Npc) SPJM Tut guy</content>
+  <content contentuid="h5e1d42f2gdc78g22b6g951egac40ed2dd87b" version="3">(Test Npc) Hello I'm the tutorial guy.</content>
+  <content contentuid="h855757b5g13a0g6a86g4659g0192d9f5fa03" version="3">(Test Npc) Hello tutorial guy.</content>
+  <content contentuid="hb24164f4g9181g558dg180bg7a727ace1942" version="3">(Test Npc) Buy, have fun player !</content>
+  <content contentuid="h16654894g29c6g91d8gc938g6d256d37d925" version="2">(Test Dialog Nodes Spjm5e) Hello player, welcome in this test dialog</content>
+  <content contentuid="h1cccc6a5ge5eeg067eg8f41g7993ac2ceb01" version="2">(Test Dialog Nodes Spjm5e) Outlander tagged dialog</content>
+  <content contentuid="h4e65c4dbgd4d9gd1adgfd73ge0344bcdf3d8" version="2">(Test Dialog Nodes Spjm5e) Baldurian tagged dialog</content>
+  <content contentuid="h3ec2e24ag1f68ga780g0addg35f0f1e594fa" version="2">(Test Dialog Nodes Spjm5e) Player chose goodbye option !</content>
+  <content contentuid="h7b33b065gae7cg5fa3g2fb6g5144b188d131" version="2">(Test Dialog Nodes Spjm5e) Goodbye player !</content>
 </contentList>
